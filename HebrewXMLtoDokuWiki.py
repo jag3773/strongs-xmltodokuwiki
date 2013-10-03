@@ -80,8 +80,8 @@ if __name__ == '__main__':
         elif i.nodeName == u'w':
           source.append(i.getAttribute('src'))
         elif i.nodeName == u'def':
-          # make bold & fix missing
-          meaning.append(i.firstChild.data)
+          # make bold
+          source.append(i.firstChild.data)
         else:
           source.append(i.data)
     # Get meaning
@@ -95,8 +95,8 @@ if __name__ == '__main__':
           meaning.append(i.firstChild.data)
         else:
           meaning.append(i.data)
-    f.write(entryHead.format(entryid, token, xlit, pos, u' '.join(source),
-                                                          u' '.join(meaning)))
+    f.write(entryHead.format(entryid, token, xlit, pos, u''.join(source),
+                                                          u''.join(meaning)))
 
     # Get definitions
     for x in entryxml.getElementsByTagName('def'):
