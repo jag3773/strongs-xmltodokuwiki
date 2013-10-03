@@ -31,13 +31,17 @@ HebrewStrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
 entryHead = u'''====== {0}: {1} ({2}) ======
 
-===== Source =====
+===== Part of Speech =====
 
 {3}
 
-===== Meaning =====
+===== Source =====
 
 {4}
+
+===== Meaning =====
+
+{5}
 
 ===== Definitions =====
 
@@ -49,6 +53,7 @@ entryFooter = u'''
 {0}
 '''
 
+# Links en:strongs:h98
 
 if __name__ == '__main__':
   dictxml = minidom.parse(HebrewStrongFile)
@@ -66,6 +71,7 @@ if __name__ == '__main__':
       if x.hasAttribute('xml:lang'):
         token = x.firstChild.data
         xlit = x.getAttribute('xlit')
+        pos = x.getAttribute('pos')
     # Get source
     for x in entryxml.getElementsByTagName('source'):
       for i in x.childNodes:
@@ -74,6 +80,7 @@ if __name__ == '__main__':
         elif i.nodeName == u'w':
           source.append(i.getAttribute('src'))
         elif i.nodeName == u'def':
+          # make bold & fix missing
           meaning.append(i.firstChild.data)
         else:
           source.append(i.data)
@@ -88,7 +95,7 @@ if __name__ == '__main__':
           meaning.append(i.firstChild.data)
         else:
           meaning.append(i.data)
-    f.write(entryHead.format(entryid, token, xlit, u' '.join(source),
+    f.write(entryHead.format(entryid, token, xlit, pos, u' '.join(source),
                                                           u' '.join(meaning)))
 
     # Get definitions
