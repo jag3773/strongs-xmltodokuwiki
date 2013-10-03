@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H205;
+from [[en:strongs:h205|H205]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1350; avenger;
+from [[en:strongs:h1350|H1350]]; avenger;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1101; confusion;
+from [[en:strongs:h1101|H1101]]; confusion;
 
 ===== Meaning =====
 

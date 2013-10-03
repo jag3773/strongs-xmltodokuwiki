@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H1738;
+from [[en:strongs:h1738|H1738]];
 
 ===== Meaning =====
 

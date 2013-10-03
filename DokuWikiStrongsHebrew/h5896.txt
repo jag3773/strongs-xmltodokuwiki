@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5782; **wakefulness**;
+from [[en:strongs:h5782|H5782]]; **wakefulness**;
 
 ===== Meaning =====
 

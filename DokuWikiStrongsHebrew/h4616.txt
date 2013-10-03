@@ -6,7 +6,7 @@ prt
 
 ===== Source =====
 
-from H6030;
+from [[en:strongs:h6030|H6030]];
 
 ===== Meaning =====
 

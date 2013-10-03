@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6663; **just**;
+from [[en:strongs:h6663|H6663]]; **just**;
 
 ===== Meaning =====
 

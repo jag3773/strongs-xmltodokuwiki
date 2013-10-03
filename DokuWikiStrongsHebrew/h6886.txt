@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6884; **refinement**;
+from [[en:strongs:h6884|H6884]]; **refinement**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-for H3641;
+for [[en:strongs:h3641|H3641]];
 
 ===== Meaning =====
 

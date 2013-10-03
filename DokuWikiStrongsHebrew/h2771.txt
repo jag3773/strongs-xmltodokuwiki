@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H2787; parched;
+from [[en:strongs:h2787|H2787]]; parched;
 
 ===== Meaning =====
 

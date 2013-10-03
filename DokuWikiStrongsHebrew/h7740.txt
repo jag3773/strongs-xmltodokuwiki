@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7737; **plain**;
+from [[en:strongs:h7737|H7737]]; **plain**;
 
 ===== Meaning =====
 

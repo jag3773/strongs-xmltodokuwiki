@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H6256;
+from [[en:strongs:h6256|H6256]];
 
 ===== Meaning =====
 

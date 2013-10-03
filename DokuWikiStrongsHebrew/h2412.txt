@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2414; robber;
+from [[en:strongs:h2414|H2414]]; robber;
 
 ===== Meaning =====
 

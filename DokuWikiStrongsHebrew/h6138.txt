@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6131; **eradication**;
+from [[en:strongs:h6131|H6131]]; **eradication**;
 
 ===== Meaning =====
 

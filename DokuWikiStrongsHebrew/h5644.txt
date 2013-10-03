@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5643; **protective**;
+from [[en:strongs:h5643|H5643]]; **protective**;
 
 ===== Meaning =====
 

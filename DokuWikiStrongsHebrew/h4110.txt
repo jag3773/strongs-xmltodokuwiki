@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H1984;
+from [[en:strongs:h1984|H1984]];
 
 ===== Meaning =====
 

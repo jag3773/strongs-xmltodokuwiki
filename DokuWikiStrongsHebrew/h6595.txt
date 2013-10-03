@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H6626;
+from [[en:strongs:h6626|H6626]];
 
 ===== Meaning =====
 

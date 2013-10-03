@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1082; desistance;
+from [[en:strongs:h1082|H1082]]; desistance;
 
 ===== Meaning =====
 

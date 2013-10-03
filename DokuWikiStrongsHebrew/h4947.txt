@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H8259 in its original sense of overhanging;
+from [[en:strongs:h8259|H8259]] in its original sense of overhanging;
 
 ===== Meaning =====
 

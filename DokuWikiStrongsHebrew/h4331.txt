@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H4185; **departure**;
+from [[en:strongs:h4185|H4185]]; **departure**;
 
 ===== Meaning =====
 

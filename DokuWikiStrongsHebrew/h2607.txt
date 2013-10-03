@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2603; gracious;
+from [[en:strongs:h2603|H2603]]; gracious;
 
 ===== Meaning =====
 

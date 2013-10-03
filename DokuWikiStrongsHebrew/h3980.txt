@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H398;
+from [[en:strongs:h398|H398]];
 
 ===== Meaning =====
 

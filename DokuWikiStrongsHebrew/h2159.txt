@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2168;
+from [[en:strongs:h2168|H2168]];
 
 ===== Meaning =====
 

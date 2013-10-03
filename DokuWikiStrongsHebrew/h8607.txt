@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6452; **ford**;
+from [[en:strongs:h6452|H6452]]; **ford**;
 
 ===== Meaning =====
 

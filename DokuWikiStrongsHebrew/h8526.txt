@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8525; **ridged**;
+from [[en:strongs:h8525|H8525]]; **ridged**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5710; **ornamental**;
+from [[en:strongs:h5710|H5710]]; **ornamental**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-for H8390;
+for [[en:strongs:h8390|H8390]];
 
 ===== Meaning =====
 

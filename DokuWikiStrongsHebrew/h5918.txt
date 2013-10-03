@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5916; **muddler**;
+from [[en:strongs:h5916|H5916]]; **muddler**;
 
 ===== Meaning =====
 

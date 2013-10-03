@@ -6,7 +6,7 @@ inj
 
 ===== Source =====
 
-from H1887 and H253;
+from [[en:strongs:h1887|H1887]] and [[en:strongs:h253|H253]];
 
 ===== Meaning =====
 

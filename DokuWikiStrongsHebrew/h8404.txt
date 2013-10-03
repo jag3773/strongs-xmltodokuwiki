@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1197; **burning**;
+from [[en:strongs:h1197|H1197]]; **burning**;
 
 ===== Meaning =====
 

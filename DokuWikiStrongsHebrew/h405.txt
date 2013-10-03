@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H404;
+from [[en:strongs:h404|H404]];
 
 ===== Meaning =====
 

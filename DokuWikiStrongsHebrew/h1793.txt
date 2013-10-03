@@ -6,7 +6,7 @@ a n-m
 
 ===== Source =====
 
-from H1792;
+from [[en:strongs:h1792|H1792]];
 
 ===== Meaning =====
 

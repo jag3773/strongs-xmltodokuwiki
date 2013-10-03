@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5779; **counsellor**;
+from [[en:strongs:h5779|H5779]]; **counsellor**;
 
 ===== Meaning =====
 

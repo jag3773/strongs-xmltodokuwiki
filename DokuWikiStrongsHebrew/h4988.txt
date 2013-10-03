@@ -6,7 +6,7 @@ v
 
 ===== Source =====
 
-from H4985;
+from [[en:strongs:h4985|H4985]];
 
 ===== Meaning =====
 

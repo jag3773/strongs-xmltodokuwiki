@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H2878; slaughter;
+from [[en:strongs:h2878|H2878]]; slaughter;
 
 ===== Meaning =====
 

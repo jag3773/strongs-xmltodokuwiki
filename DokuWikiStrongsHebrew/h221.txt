@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H217; **fiery**;
+from [[en:strongs:h217|H217]]; **fiery**;
 
 ===== Meaning =====
 

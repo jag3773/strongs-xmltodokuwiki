@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H2552; warm spring;
+from [[en:strongs:h2552|H2552]]; warm spring;
 
 ===== Meaning =====
 

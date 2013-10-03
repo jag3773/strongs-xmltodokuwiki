@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5329; **conspicuous**;
+from [[en:strongs:h5329|H5329]]; **conspicuous**;
 
 ===== Meaning =====
 

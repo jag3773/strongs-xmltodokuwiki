@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1110; waster;
+from [[en:strongs:h1110|H1110]]; waster;
 
 ===== Meaning =====
 

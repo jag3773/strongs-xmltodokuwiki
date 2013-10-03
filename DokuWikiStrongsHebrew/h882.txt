@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H875; fountained;
+from [[en:strongs:h875|H875]]; fountained;
 
 ===== Meaning =====
 

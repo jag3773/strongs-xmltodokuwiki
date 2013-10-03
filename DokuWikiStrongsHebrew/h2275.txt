@@ -6,7 +6,7 @@ n-pr-loc n-pr-m
 
 ===== Source =====
 
-from H2267; seat of association;
+from [[en:strongs:h2267|H2267]]; seat of association;
 
 ===== Meaning =====
 

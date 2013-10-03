@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H622; **collector**;
+from [[en:strongs:h622|H622]]; **collector**;
 
 ===== Meaning =====
 

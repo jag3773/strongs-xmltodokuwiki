@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H270; seizer;
+from [[en:strongs:h270|H270]]; seizer;
 
 ===== Meaning =====
 

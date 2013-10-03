@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-dual of H8179; **double gates**;
+dual of [[en:strongs:h8179|H8179]]; **double gates**;
 
 ===== Meaning =====
 

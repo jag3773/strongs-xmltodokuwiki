@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7139; **ice**;
+from [[en:strongs:h7139|H7139]]; **ice**;
 
 ===== Meaning =====
 

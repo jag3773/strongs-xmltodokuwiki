@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-the same as H5183; **quiet**;
+the same as [[en:strongs:h5183|H5183]]; **quiet**;
 
 ===== Meaning =====
 

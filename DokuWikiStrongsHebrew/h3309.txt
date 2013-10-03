@@ -6,7 +6,7 @@ n-pr-loc n-pr-m
 
 ===== Source =====
 
-from H3313; bright;
+from [[en:strongs:h3313|H3313]]; bright;
 
 ===== Meaning =====
 

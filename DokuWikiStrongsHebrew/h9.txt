@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H6; Compare H10.
+from [[en:strongs:h6|H6]]; Compare [[en:strongs:h10|H10]].
 
 ===== Meaning =====
 

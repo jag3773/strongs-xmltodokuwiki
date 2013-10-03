@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-; the same as H1444;
+; the same as [[en:strongs:h1444|H1444]];
 
 ===== Meaning =====
 

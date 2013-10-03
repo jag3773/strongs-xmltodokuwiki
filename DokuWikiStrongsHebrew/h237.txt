@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H235; departure;
+from [[en:strongs:h235|H235]]; departure;
 
 ===== Meaning =====
 

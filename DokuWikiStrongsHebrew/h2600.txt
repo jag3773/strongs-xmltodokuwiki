@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H2580;
+from [[en:strongs:h2580|H2580]];
 
 ===== Meaning =====
 

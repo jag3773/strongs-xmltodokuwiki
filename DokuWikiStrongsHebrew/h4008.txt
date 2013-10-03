@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H981;
+from [[en:strongs:h981|H981]];
 
 ===== Meaning =====
 

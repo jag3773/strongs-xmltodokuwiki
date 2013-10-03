@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5828; **helpful**;
+from [[en:strongs:h5828|H5828]]; **helpful**;
 
 ===== Meaning =====
 

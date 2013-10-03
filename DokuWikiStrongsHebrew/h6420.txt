@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6419; **judge**;
+from [[en:strongs:h6419|H6419]]; **judge**;
 
 ===== Meaning =====
 

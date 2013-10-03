@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1089; **timid**;
+from [[en:strongs:h1089|H1089]]; **timid**;
 
 ===== Meaning =====
 

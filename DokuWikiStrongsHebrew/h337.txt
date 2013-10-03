@@ -6,7 +6,7 @@ inj
 
 ===== Source =====
 
-short from H188;
+short from [[en:strongs:h188|H188]];
 
 ===== Meaning =====
 

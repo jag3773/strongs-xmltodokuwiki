@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2309; idle;
+from [[en:strongs:h2309|H2309]]; idle;
 
 ===== Meaning =====
 

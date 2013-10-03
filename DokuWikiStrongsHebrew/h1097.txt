@@ -6,7 +6,7 @@ np
 
 ===== Source =====
 
-from H1086;
+from [[en:strongs:h1086|H1086]];
 
 ===== Meaning =====
 

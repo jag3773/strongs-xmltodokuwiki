@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7231; **multitude**;
+from [[en:strongs:h7231|H7231]]; **multitude**;
 
 ===== Meaning =====
 

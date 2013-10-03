@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H758 and the dual of H5104;
+from [[en:strongs:h758|H758]] and the dual of [[en:strongs:h5104|H5104]];
 
 ===== Meaning =====
 

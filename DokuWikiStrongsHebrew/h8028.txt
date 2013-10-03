@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8027; **triplet**;
+from [[en:strongs:h8027|H8027]]; **triplet**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3161; unity;
+from [[en:strongs:h3161|H3161]]; unity;
 
 ===== Meaning =====
 

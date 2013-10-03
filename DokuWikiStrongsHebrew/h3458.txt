@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8085 and H410; God will hear;
+from [[en:strongs:h8085|H8085]] and [[en:strongs:h410|H410]]; God will hear;
 
 ===== Meaning =====
 

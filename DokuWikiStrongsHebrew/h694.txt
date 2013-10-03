@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H693; ambush;
+from [[en:strongs:h693|H693]]; ambush;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n
 
 ===== Source =====
 
-from H8138;
+from [[en:strongs:h8138|H8138]];
 
 ===== Meaning =====
 

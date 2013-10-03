@@ -6,7 +6,7 @@ n-pr
 
 ===== Source =====
 
-from H7863; **peak**;
+from [[en:strongs:h7863|H7863]]; **peak**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H183;
+from [[en:strongs:h183|H183]];
 
 ===== Meaning =====
 

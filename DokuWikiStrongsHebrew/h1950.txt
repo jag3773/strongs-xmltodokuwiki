@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2000; raging;
+from [[en:strongs:h2000|H2000]]; raging;
 
 ===== Meaning =====
 

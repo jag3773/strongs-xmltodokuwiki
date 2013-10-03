@@ -6,7 +6,7 @@ n-pr-f
 
 ===== Source =====
 
-from H7768; wealth;
+from [[en:strongs:h7768|H7768]]; wealth;
 
 ===== Meaning =====
 

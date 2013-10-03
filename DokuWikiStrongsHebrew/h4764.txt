@@ -6,7 +6,7 @@ n-pr-f
 
 ===== Source =====
 
-from H7231; **increase**;
+from [[en:strongs:h7231|H7231]]; **increase**;
 
 ===== Meaning =====
 

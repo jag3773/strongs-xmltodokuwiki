@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2115;
+from [[en:strongs:h2115|H2115]];
 
 ===== Meaning =====
 

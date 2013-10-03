@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6965; an **elevation**;
+from [[en:strongs:h6965|H6965]]; an **elevation**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H6942;
+from [[en:strongs:h6942|H6942]];
 
 ===== Meaning =====
 

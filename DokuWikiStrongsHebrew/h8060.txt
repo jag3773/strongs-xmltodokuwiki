@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8073; **destructive**;
+from [[en:strongs:h8073|H8073]]; **destructive**;
 
 ===== Meaning =====
 

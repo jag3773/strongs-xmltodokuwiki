@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H553; strong;
+from [[en:strongs:h553|H553]]; strong;
 
 ===== Meaning =====
 

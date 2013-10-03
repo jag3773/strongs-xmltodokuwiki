@@ -6,7 +6,7 @@ v
 
 ===== Source =====
 
-from H7200;
+from [[en:strongs:h7200|H7200]];
 
 ===== Meaning =====
 

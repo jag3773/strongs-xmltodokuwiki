@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1238; wasteful;
+from [[en:strongs:h1238|H1238]]; wasteful;
 
 ===== Meaning =====
 

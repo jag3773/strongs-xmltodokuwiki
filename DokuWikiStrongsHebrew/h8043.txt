@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-for H8039 (compare H38);
+for [[en:strongs:h8039|H8039]] (compare [[en:strongs:h38|H38]]);
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-patronymic from H264;
+patronymic from [[en:strongs:h264|H264]];
 
 ===== Meaning =====
 

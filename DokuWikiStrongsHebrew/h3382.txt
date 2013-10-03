@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3381; a descent;
+from [[en:strongs:h3381|H3381]]; a descent;
 
 ===== Meaning =====
 

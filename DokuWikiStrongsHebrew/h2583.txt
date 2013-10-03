@@ -6,7 +6,7 @@ v
 
 ===== Source =====
 
-a primitive root (compare H2603);
+a primitive root (compare [[en:strongs:h2603|H2603]]);
 
 ===== Meaning =====
 

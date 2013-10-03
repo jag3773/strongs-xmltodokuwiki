@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5592; bason-like;
+from [[en:strongs:h5592|H5592]]; bason-like;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7534; **thinness**;
+from [[en:strongs:h7534|H7534]]; **thinness**;
 
 ===== Meaning =====
 

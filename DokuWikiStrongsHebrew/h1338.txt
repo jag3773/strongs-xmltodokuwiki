@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1334; (with the article) the craggy spot;
+from [[en:strongs:h1334|H1334]]; (with the article) the craggy spot;
 
 ===== Meaning =====
 

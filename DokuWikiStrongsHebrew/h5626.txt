@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5493; departure;
+from [[en:strongs:h5493|H5493]]; departure;
 
 ===== Meaning =====
 

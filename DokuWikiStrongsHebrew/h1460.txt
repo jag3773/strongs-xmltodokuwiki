@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H1342 (corresponding to H1354);
+from [[en:strongs:h1342|H1342]] (corresponding to [[en:strongs:h1354|H1354]]);
 
 ===== Meaning =====
 

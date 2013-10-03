@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6280; **abundance**;
+from [[en:strongs:h6280|H6280]]; **abundance**;
 
 ===== Meaning =====
 

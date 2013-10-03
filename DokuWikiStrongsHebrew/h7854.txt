@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H7853;
+from [[en:strongs:h7853|H7853]];
 
 ===== Meaning =====
 

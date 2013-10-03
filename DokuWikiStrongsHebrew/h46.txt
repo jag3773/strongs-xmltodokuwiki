@@ -6,7 +6,7 @@ a-m
 
 ===== Source =====
 
-from H82;
+from [[en:strongs:h82|H82]];
 
 ===== Meaning =====
 

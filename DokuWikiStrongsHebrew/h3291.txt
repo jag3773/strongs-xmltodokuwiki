@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3290;
+from [[en:strongs:h3290|H3290]];
 
 ===== Meaning =====
 

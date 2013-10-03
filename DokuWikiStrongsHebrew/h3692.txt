@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3688; hopeful;
+from [[en:strongs:h3688|H3688]]; hopeful;
 
 ===== Meaning =====
 

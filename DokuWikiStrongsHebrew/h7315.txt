@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H7311;
+from [[en:strongs:h7311|H7311]];
 
 ===== Meaning =====
 

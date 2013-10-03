@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6738 and H6703; **clear shade**;
+from [[en:strongs:h6738|H6738]] and [[en:strongs:h6703|H6703]]; **clear shade**;
 
 ===== Meaning =====
 

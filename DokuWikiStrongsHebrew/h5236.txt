@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-' from H5234;
+' from [[en:strongs:h5234|H5234]];
 
 ===== Meaning =====
 

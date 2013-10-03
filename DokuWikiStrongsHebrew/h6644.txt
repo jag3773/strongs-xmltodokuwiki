@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-for H6645;
+for [[en:strongs:h6645|H6645]];
 
 ===== Meaning =====
 

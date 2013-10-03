@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H7811;
+from [[en:strongs:h7811|H7811]];
 
 ===== Meaning =====
 

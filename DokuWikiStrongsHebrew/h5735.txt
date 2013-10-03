@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5712; festival;
+from [[en:strongs:h5712|H5712]]; festival;
 
 ===== Meaning =====
 

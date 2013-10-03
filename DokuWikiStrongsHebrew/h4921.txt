@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7999; reconciliation;
+from [[en:strongs:h7999|H7999]]; reconciliation;
 
 ===== Meaning =====
 

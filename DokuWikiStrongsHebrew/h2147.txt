@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2142; memorable;
+from [[en:strongs:h2142|H2142]]; memorable;
 
 ===== Meaning =====
 

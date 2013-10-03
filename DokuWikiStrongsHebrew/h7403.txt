@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7402; **merchant**;
+from [[en:strongs:h7402|H7402]]; **merchant**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6501; **wildly**;
+from [[en:strongs:h6501|H6501]]; **wildly**;
 
 ===== Meaning =====
 

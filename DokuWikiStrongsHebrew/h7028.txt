@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6983; **winding**;
+from [[en:strongs:h6983|H6983]]; **winding**;
 
 ===== Meaning =====
 

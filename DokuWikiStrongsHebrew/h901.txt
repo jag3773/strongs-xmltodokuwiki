@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H898;
+from [[en:strongs:h898|H898]];
 
 ===== Meaning =====
 

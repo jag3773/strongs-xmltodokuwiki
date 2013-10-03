@@ -6,7 +6,7 @@ d
 
 ===== Source =====
 
-from H1976;
+from [[en:strongs:h1976|H1976]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H215; **enlightener**;
+from [[en:strongs:h215|H215]]; **enlightener**;
 
 ===== Meaning =====
 

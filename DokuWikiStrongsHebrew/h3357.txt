@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H3365;
+from [[en:strongs:h3365|H3365]];
 
 ===== Meaning =====
 

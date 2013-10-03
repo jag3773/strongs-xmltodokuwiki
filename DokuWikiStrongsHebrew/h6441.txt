@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H6440 with directive enclitic;
+from [[en:strongs:h6440|H6440]] with directive enclitic;
 
 ===== Meaning =====
 

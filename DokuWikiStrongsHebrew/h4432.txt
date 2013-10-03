@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H4427;
+from [[en:strongs:h4427|H4427]];
 
 ===== Meaning =====
 

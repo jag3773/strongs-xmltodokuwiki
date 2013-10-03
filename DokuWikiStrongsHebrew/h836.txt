@@ -6,7 +6,7 @@ n-pr
 
 ===== Source =====
 
-from H833, **happy**;
+from [[en:strongs:h833|H833]], **happy**;
 
 ===== Meaning =====
 

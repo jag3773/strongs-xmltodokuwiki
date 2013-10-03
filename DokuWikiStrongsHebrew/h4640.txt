@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6213; operative;
+from [[en:strongs:h6213|H6213]]; operative;
 
 ===== Meaning =====
 

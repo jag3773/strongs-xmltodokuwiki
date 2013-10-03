@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1589; theft;
+from [[en:strongs:h1589|H1589]]; theft;
 
 ===== Meaning =====
 

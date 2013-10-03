@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5775; **birdlike**;
+from [[en:strongs:h5775|H5775]]; **birdlike**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H7405;
+from [[en:strongs:h7405|H7405]];
 
 ===== Meaning =====
 

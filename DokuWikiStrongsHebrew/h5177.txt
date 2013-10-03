@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5172; **enchanter**;
+from [[en:strongs:h5172|H5172]]; **enchanter**;
 
 ===== Meaning =====
 

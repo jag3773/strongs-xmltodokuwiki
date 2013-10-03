@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H3851;
+from [[en:strongs:h3851|H3851]];
 
 ===== Meaning =====
 

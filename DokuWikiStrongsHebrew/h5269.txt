@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5128; **motion**;
+from [[en:strongs:h5128|H5128]]; **motion**;
 
 ===== Meaning =====
 

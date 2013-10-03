@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H571; veracious;
+from [[en:strongs:h571|H571]]; veracious;
 
 ===== Meaning =====
 

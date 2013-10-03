@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5539; **exultation**;
+from [[en:strongs:h5539|H5539]]; **exultation**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1270; iron-hearted;
+from [[en:strongs:h1270|H1270]]; iron-hearted;
 
 ===== Meaning =====
 

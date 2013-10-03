@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6942; a **sanctum**;
+from [[en:strongs:h6942|H6942]]; a **sanctum**;
 
 ===== Meaning =====
 

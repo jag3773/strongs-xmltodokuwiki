@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6923; beginnings;
+from [[en:strongs:h6923|H6923]]; beginnings;
 
 ===== Meaning =====
 

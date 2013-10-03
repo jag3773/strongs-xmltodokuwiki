@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2330; **junction**;
+from [[en:strongs:h2330|H2330]]; **junction**;
 
 ===== Meaning =====
 

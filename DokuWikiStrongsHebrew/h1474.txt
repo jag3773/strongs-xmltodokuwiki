@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1473; **captive**;
+from [[en:strongs:h1473|H1473]]; **captive**;
 
 ===== Meaning =====
 

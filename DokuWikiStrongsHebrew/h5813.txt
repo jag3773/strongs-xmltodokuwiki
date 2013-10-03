@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5810; **forceful**;
+from [[en:strongs:h5810|H5810]]; **forceful**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from root of H79;
+from root of [[en:strongs:h79|H79]];
 
 ===== Meaning =====
 

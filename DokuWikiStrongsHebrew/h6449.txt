@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6448; a **cleft**;
+from [[en:strongs:h6448|H6448]]; a **cleft**;
 
 ===== Meaning =====
 

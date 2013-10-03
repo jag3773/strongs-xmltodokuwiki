@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6819; **little**;
+from [[en:strongs:h6819|H6819]]; **little**;
 
 ===== Meaning =====
 

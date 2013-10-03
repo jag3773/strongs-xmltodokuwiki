@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2560; red;
+from [[en:strongs:h2560|H2560]]; red;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-patrial from H65;
+patrial from [[en:strongs:h65|H65]];
 
 ===== Meaning =====
 

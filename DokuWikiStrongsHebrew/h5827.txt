@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5826; **help**;
+from [[en:strongs:h5826|H5826]]; **help**;
 
 ===== Meaning =====
 

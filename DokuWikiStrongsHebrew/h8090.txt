@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-for H8087;
+for [[en:strongs:h8087|H8087]];
 
 ===== Meaning =====
 

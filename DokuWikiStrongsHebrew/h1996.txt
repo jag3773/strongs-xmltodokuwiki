@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1995 and H1463;
+from [[en:strongs:h1995|H1995]] and [[en:strongs:h1463|H1463]];
 
 ===== Meaning =====
 

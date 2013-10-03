@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6400; **slicing**;
+from [[en:strongs:h6400|H6400]]; **slicing**;
 
 ===== Meaning =====
 

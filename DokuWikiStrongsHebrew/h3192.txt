@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H3190; **pleasantness**;
+from [[en:strongs:h3190|H3190]]; **pleasantness**;
 
 ===== Meaning =====
 

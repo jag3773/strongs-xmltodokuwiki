@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H127; earthy;
+from [[en:strongs:h127|H127]]; earthy;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H8231; **beautiful**;
+from [[en:strongs:h8231|H8231]]; **beautiful**;
 
 ===== Meaning =====
 

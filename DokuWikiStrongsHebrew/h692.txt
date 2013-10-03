@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H691; **heroic**;
+from [[en:strongs:h691|H691]]; **heroic**;
 
 ===== Meaning =====
 

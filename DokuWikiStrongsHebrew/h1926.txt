@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H1921;
+from [[en:strongs:h1921|H1921]];
 
 ===== Meaning =====
 

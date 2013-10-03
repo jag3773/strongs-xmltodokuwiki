@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H6484;
+from [[en:strongs:h6484|H6484]];
 
 ===== Meaning =====
 

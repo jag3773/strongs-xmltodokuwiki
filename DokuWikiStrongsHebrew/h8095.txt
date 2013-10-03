@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8085; **hearing**;
+from [[en:strongs:h8085|H8085]]; **hearing**;
 
 ===== Meaning =====
 

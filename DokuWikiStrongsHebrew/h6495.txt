@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H6491 redoubled;
+from [[en:strongs:h6491|H6491]] redoubled;
 
 ===== Meaning =====
 

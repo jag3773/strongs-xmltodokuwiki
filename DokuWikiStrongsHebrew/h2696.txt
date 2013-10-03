@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H2691; court-yard;
+from [[en:strongs:h2691|H2691]]; court-yard;
 
 ===== Meaning =====
 

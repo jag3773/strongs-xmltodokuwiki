@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6999; **fumigative**;
+from [[en:strongs:h6999|H6999]]; **fumigative**;
 
 ===== Meaning =====
 

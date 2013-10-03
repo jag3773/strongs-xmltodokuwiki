@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6887; **rock**;
+from [[en:strongs:h6887|H6887]]; **rock**;
 
 ===== Meaning =====
 

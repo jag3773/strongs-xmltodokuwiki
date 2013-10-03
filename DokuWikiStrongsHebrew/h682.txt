@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H680; noble;
+from [[en:strongs:h680|H680]]; noble;
 
 ===== Meaning =====
 

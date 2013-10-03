@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5197; **distillation**;
+from [[en:strongs:h5197|H5197]]; **distillation**;
 
 ===== Meaning =====
 

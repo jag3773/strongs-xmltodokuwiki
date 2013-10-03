@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from the same as H4482; enumeration;
+from the same as [[en:strongs:h4482|H4482]]; enumeration;
 
 ===== Meaning =====
 

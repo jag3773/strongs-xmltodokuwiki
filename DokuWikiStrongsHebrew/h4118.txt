@@ -6,7 +6,7 @@ a adv
 
 ===== Source =====
 
-from H4116;
+from [[en:strongs:h4116|H4116]];
 
 ===== Meaning =====
 

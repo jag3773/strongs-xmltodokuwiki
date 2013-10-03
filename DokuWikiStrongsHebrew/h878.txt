@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H875; a well;
+from [[en:strongs:h875|H875]]; a well;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2388; strong;
+from [[en:strongs:h2388|H2388]]; strong;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H2790;
+from [[en:strongs:h2790|H2790]];
 
 ===== Meaning =====
 

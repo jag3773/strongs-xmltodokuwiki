@@ -6,7 +6,7 @@ n-pr-f
 
 ===== Source =====
 
-from H2603; favored;
+from [[en:strongs:h2603|H2603]]; favored;
 
 ===== Meaning =====
 

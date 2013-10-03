@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H4100 and H1767;
+from [[en:strongs:h4100|H4100]] and [[en:strongs:h1767|H1767]];
 
 ===== Meaning =====
 

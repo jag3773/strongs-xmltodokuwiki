@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6256 and H7011; **time of a judge**;
+from [[en:strongs:h6256|H6256]] and [[en:strongs:h7011|H7011]]; **time of a judge**;
 
 ===== Meaning =====
 

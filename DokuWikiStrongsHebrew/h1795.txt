@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H1794 like H1793;
+from [[en:strongs:h1794|H1794]] like [[en:strongs:h1793|H1793]];
 
 ===== Meaning =====
 

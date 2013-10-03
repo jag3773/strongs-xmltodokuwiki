@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H7582;
+from [[en:strongs:h7582|H7582]];
 
 ===== Meaning =====
 

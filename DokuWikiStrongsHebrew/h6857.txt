@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6822; **watch-tower**;
+from [[en:strongs:h6822|H6822]]; **watch-tower**;
 
 ===== Meaning =====
 

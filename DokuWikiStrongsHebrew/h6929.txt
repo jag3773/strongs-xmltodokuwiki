@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6923; **precedence**;
+from [[en:strongs:h6923|H6923]]; **precedence**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H8385 and H7887; **approach of Shiloh**;
+from [[en:strongs:h8385|H8385]] and [[en:strongs:h7887|H7887]]; **approach of Shiloh**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H2717; **desolate**;
+from [[en:strongs:h2717|H2717]]; **desolate**;
 
 ===== Meaning =====
 

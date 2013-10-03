@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H3486;
+from [[en:strongs:h3486|H3486]];
 
 ===== Meaning =====
 

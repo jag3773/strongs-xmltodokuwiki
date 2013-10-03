@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3201; potent;
+from [[en:strongs:h3201|H3201]]; potent;
 
 ===== Meaning =====
 

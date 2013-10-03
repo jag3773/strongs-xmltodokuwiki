@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H354; deer-field;
+from [[en:strongs:h354|H354]]; deer-field;
 
 ===== Meaning =====
 

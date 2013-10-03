@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H5774;
+from [[en:strongs:h5774|H5774]];
 
 ===== Meaning =====
 

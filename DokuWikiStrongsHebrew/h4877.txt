@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7725; **returned**;
+from [[en:strongs:h7725|H7725]]; **returned**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H564;
+from [[en:strongs:h564|H564]];
 
 ===== Meaning =====
 

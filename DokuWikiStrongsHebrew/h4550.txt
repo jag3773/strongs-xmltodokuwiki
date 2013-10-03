@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H5265;
+from [[en:strongs:h5265|H5265]];
 
 ===== Meaning =====
 

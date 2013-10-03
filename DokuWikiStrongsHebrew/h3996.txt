@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H935; (with or without H8121)
+from [[en:strongs:h935|H935]]; (with or without [[en:strongs:h8121|H8121]])
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2505; apportioned;
+from [[en:strongs:h2505|H2505]]; apportioned;
 
 ===== Meaning =====
 

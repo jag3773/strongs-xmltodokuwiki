@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7592; **request**;
+from [[en:strongs:h7592|H7592]]; **request**;
 
 ===== Meaning =====
 

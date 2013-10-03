@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H1258; hail;
+from [[en:strongs:h1258|H1258]]; hail;
 
 ===== Meaning =====
 

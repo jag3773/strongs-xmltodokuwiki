@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1835 and (apparently) H3282; judge of purpose;
+from [[en:strongs:h1835|H1835]] and (apparently) [[en:strongs:h3282|H3282]]; judge of purpose;
 
 ===== Meaning =====
 

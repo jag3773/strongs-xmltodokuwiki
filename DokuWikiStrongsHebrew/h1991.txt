@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H1993;
+from [[en:strongs:h1993|H1993]];
 
 ===== Meaning =====
 

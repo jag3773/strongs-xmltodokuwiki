@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-dual of H2660; double pit;
+dual of [[en:strongs:h2660|H2660]]; double pit;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1607; a quaking;
+from [[en:strongs:h1607|H1607]]; a quaking;
 
 ===== Meaning =====
 

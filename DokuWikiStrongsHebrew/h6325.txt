@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6323; **perplexity**;
+from [[en:strongs:h6323|H6323]]; **perplexity**;
 
 ===== Meaning =====
 

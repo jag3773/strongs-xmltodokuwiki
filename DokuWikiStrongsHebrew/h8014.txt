@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8008; **clothed**;
+from [[en:strongs:h8008|H8008]]; **clothed**;
 
 ===== Meaning =====
 

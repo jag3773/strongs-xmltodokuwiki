@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H8150; compare	H8143
+from [[en:strongs:h8150|H8150]]; compare	[[en:strongs:h8143|H8143]]
 
 ===== Meaning =====
 

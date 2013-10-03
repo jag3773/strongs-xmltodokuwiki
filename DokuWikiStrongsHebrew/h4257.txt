@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H2470; **sickness**;
+from [[en:strongs:h2470|H2470]]; **sickness**;
 
 ===== Meaning =====
 

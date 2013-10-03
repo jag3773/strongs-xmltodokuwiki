@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H5264;
+from [[en:strongs:h5264|H5264]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7750; **roving**;
+from [[en:strongs:h7750|H7750]]; **roving**;
 
 ===== Meaning =====
 

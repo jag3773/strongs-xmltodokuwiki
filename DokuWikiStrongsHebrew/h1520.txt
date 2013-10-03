@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1518; a fountain;
+from [[en:strongs:h1518|H1518]]; a fountain;
 
 ===== Meaning =====
 

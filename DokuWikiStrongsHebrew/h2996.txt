@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1129; a building;
+from [[en:strongs:h1129|H1129]]; a building;
 
 ===== Meaning =====
 

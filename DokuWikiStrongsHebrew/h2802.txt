@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H2801 (but equivalent to H2793); forest;
+from [[en:strongs:h2801|H2801]] (but equivalent to [[en:strongs:h2793|H2793]]); forest;
 
 ===== Meaning =====
 

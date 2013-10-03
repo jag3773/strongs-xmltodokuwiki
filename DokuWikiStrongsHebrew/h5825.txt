@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5823; **tilled**;
+from [[en:strongs:h5823|H5823]]; **tilled**;
 
 ===== Meaning =====
 

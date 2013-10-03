@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H4116; **hasty**;
+from [[en:strongs:h4116|H4116]]; **hasty**;
 
 ===== Meaning =====
 

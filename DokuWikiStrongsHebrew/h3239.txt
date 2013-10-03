@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H3240; **quiet**;
+from [[en:strongs:h3240|H3240]]; **quiet**;
 
 ===== Meaning =====
 

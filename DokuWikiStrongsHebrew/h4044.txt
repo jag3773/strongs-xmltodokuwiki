@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H4042;
+from [[en:strongs:h4042|H4042]];
 
 ===== Meaning =====
 

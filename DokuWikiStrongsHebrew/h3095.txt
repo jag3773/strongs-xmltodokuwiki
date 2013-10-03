@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H1986 (in the sense of **hardness**);
+from [[en:strongs:h1986|H1986]] (in the sense of **hardness**);
 
 ===== Meaning =====
 

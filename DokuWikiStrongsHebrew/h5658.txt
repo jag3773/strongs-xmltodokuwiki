@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H5647; **servitude**;
+from [[en:strongs:h5647|H5647]]; **servitude**;
 
 ===== Meaning =====
 

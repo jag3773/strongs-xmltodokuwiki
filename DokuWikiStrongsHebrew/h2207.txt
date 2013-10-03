@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2204;
+from [[en:strongs:h2204|H2204]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H965; lightning;
+from [[en:strongs:h965|H965]]; lightning;
 
 ===== Meaning =====
 

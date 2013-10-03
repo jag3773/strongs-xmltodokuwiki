@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-for H4861;
+for [[en:strongs:h4861|H4861]];
 
 ===== Meaning =====
 

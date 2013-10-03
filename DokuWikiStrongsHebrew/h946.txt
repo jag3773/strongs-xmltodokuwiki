@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H995; discretion;
+from [[en:strongs:h995|H995]]; discretion;
 
 ===== Meaning =====
 

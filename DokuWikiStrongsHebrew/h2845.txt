@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2865; terror;
+from [[en:strongs:h2865|H2865]]; terror;
 
 ===== Meaning =====
 

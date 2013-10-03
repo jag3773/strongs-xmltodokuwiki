@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2763; **snub-nosed**;
+from [[en:strongs:h2763|H2763]]; **snub-nosed**;
 
 ===== Meaning =====
 

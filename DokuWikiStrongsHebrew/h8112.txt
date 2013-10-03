@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H8110 and a derivative of H4754; guard of lashing;
+from [[en:strongs:h8110|H8110]] and a derivative of [[en:strongs:h4754|H4754]]; guard of lashing;
 
 ===== Meaning =====
 

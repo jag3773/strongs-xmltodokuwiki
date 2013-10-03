@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H2583;
+from [[en:strongs:h2583|H2583]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6601; **expansion**;
+from [[en:strongs:h6601|H6601]]; **expansion**;
 
 ===== Meaning =====
 

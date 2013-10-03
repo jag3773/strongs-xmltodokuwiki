@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H332; maimed;
+from [[en:strongs:h332|H332]]; maimed;
 
 ===== Meaning =====
 

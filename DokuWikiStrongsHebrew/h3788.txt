@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H3787;
+from [[en:strongs:h3787|H3787]];
 
 ===== Meaning =====
 

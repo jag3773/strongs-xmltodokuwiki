@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1129; built;
+from [[en:strongs:h1129|H1129]]; built;
 
 ===== Meaning =====
 

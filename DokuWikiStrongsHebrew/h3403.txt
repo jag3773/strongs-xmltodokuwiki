@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3401; **contentious**;
+from [[en:strongs:h3401|H3401]]; **contentious**;
 
 ===== Meaning =====
 

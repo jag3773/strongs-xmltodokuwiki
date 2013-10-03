@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H8324; (compare H8306)
+from [[en:strongs:h8324|H8324]]; (compare [[en:strongs:h8306|H8306]])
 
 ===== Meaning =====
 

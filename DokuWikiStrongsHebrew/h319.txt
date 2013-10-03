@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H310;
+from [[en:strongs:h310|H310]];
 
 ===== Meaning =====
 

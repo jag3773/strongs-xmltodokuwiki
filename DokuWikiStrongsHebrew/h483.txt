@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H481;
+from [[en:strongs:h481|H481]];
 
 ===== Meaning =====
 

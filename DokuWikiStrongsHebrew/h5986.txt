@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6006; **burdensome**;
+from [[en:strongs:h6006|H6006]]; **burdensome**;
 
 ===== Meaning =====
 

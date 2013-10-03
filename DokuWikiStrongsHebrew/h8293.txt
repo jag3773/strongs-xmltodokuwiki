@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H8281 abbreviated;
+from [[en:strongs:h8281|H8281]] abbreviated;
 
 ===== Meaning =====
 

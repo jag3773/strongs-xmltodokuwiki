@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2651; perhaps pugilist;
+from [[en:strongs:h2651|H2651]]; perhaps pugilist;
 
 ===== Meaning =====
 

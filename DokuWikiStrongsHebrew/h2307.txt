@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2300; a peak;
+from [[en:strongs:h2300|H2300]]; a peak;
 
 ===== Meaning =====
 

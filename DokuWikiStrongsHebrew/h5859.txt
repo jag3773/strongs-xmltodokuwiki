@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5856; **ruin**;
+from [[en:strongs:h5856|H5856]]; **ruin**;
 
 ===== Meaning =====
 

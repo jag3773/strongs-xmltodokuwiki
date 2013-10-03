@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H5024; a **bark**;
+from [[en:strongs:h5024|H5024]]; a **bark**;
 
 ===== Meaning =====
 

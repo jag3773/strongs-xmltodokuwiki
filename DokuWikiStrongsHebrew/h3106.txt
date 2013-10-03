@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2986; stream;
+from [[en:strongs:h2986|H2986]]; stream;
 
 ===== Meaning =====
 

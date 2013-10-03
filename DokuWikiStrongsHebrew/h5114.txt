@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5068; **noble**;
+from [[en:strongs:h5068|H5068]]; **noble**;
 
 ===== Meaning =====
 

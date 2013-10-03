@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1908 and H7417;
+from [[en:strongs:h1908|H1908]] and [[en:strongs:h7417|H7417]];
 
 ===== Meaning =====
 

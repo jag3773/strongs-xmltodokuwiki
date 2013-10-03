@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6403; **escape**;
+from [[en:strongs:h6403|H6403]]; **escape**;
 
 ===== Meaning =====
 

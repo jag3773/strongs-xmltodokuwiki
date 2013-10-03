@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H8040;
+from [[en:strongs:h8040|H8040]];
 
 ===== Meaning =====
 

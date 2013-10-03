@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H270; seizure;
+from [[en:strongs:h270|H270]]; seizure;
 
 ===== Meaning =====
 

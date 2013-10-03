@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7311; elevated;
+from [[en:strongs:h7311|H7311]]; elevated;
 
 ===== Meaning =====
 

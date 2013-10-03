@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2245; **cherished**;
+from [[en:strongs:h2245|H2245]]; **cherished**;
 
 ===== Meaning =====
 

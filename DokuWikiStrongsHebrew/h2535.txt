@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H2525;
+from [[en:strongs:h2525|H2525]];
 
 ===== Meaning =====
 

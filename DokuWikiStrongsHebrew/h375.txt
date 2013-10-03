@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H335 and H6311;
+from [[en:strongs:h335|H335]] and [[en:strongs:h6311|H6311]];
 
 ===== Meaning =====
 

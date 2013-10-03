@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1561; dungy;
+from [[en:strongs:h1561|H1561]]; dungy;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H1949;
+from [[en:strongs:h1949|H1949]];
 
 ===== Meaning =====
 

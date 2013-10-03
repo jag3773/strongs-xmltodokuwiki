@@ -6,7 +6,7 @@ n-pr
 
 ===== Source =====
 
-from H1961;
+from [[en:strongs:h1961|H1961]];
 
 ===== Meaning =====
 

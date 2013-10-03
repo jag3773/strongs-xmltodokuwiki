@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H251; brotherly;
+from [[en:strongs:h251|H251]]; brotherly;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H5218;
+from [[en:strongs:h5218|H5218]];
 
 ===== Meaning =====
 

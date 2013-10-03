@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7411; height;
+from [[en:strongs:h7411|H7411]]; height;
 
 ===== Meaning =====
 

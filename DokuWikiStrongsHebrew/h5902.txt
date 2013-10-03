@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5892; **city-wise**;
+from [[en:strongs:h5892|H5892]]; **city-wise**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H995; intelligent;
+from [[en:strongs:h995|H995]]; intelligent;
 
 ===== Meaning =====
 

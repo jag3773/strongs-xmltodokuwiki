@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5526; **inclosure**;
+from [[en:strongs:h5526|H5526]]; **inclosure**;
 
 ===== Meaning =====
 

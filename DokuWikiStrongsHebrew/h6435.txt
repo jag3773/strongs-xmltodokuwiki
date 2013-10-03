@@ -6,7 +6,7 @@ conj
 
 ===== Source =====
 
-from H6437;
+from [[en:strongs:h6437|H6437]];
 
 ===== Meaning =====
 

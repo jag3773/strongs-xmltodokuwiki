@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7743; **dell**;
+from [[en:strongs:h7743|H7743]]; **dell**;
 
 ===== Meaning =====
 

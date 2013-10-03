@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H8058;
+from [[en:strongs:h8058|H8058]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6095; **closure**;
+from [[en:strongs:h6095|H6095]]; **closure**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6491; **watch**;
+from [[en:strongs:h6491|H6491]]; **watch**;
 
 ===== Meaning =====
 

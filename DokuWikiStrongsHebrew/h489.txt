@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H481 as in H488;
+from [[en:strongs:h481|H481]] as in [[en:strongs:h488|H488]];
 
 ===== Meaning =====
 

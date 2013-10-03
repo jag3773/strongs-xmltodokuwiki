@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5861; **hawk-ground**;
+from [[en:strongs:h5861|H5861]]; **hawk-ground**;
 
 ===== Meaning =====
 

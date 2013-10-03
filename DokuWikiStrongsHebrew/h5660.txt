@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5647; **serviceable**;
+from [[en:strongs:h5647|H5647]]; **serviceable**;
 
 ===== Meaning =====
 

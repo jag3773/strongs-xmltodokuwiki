@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H4487; a portion assigned;
+from [[en:strongs:h4487|H4487]]; a portion assigned;
 
 ===== Meaning =====
 

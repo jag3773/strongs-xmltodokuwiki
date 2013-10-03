@@ -6,7 +6,7 @@ n-pr-m n-pr-f
 
 ===== Source =====
 
-from H1584; completion;
+from [[en:strongs:h1584|H1584]]; completion;
 
 ===== Meaning =====
 

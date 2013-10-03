@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5301; a **gust**;
+from [[en:strongs:h5301|H5301]]; a **gust**;
 
 ===== Meaning =====
 

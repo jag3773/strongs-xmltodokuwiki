@@ -6,7 +6,7 @@ a n-m n-f
 
 ===== Source =====
 
-from H7489;
+from [[en:strongs:h7489|H7489]];
 
 ===== Meaning =====
 

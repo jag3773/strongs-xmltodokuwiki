@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H258; united;
+from [[en:strongs:h258|H258]]; united;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5676; transitional;
+from [[en:strongs:h5676|H5676]]; transitional;
 
 ===== Meaning =====
 

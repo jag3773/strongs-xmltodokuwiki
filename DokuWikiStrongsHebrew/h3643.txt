@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H3642; pining;
+from [[en:strongs:h3642|H3642]]; pining;
 
 ===== Meaning =====
 

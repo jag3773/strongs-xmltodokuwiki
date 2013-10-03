@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H2428; fortress;
+from [[en:strongs:h2428|H2428]]; fortress;
 
 ===== Meaning =====
 

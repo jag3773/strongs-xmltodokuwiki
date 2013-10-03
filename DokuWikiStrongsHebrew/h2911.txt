@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2912;
+from [[en:strongs:h2912|H2912]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H4843; **bitter**;
+from [[en:strongs:h4843|H4843]]; **bitter**;
 
 ===== Meaning =====
 

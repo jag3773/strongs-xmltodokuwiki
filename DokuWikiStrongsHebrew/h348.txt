@@ -6,7 +6,7 @@ n-pr-f
 
 ===== Source =====
 
-from H336 and H2083;
+from [[en:strongs:h336|H336]] and [[en:strongs:h2083|H2083]];
 
 ===== Meaning =====
 

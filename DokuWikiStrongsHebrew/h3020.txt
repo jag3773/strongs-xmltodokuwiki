@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1540; exiled;
+from [[en:strongs:h1540|H1540]]; exiled;
 
 ===== Meaning =====
 

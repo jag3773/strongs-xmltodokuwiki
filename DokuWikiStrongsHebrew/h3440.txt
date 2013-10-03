@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7737; **level**;
+from [[en:strongs:h7737|H7737]]; **level**;
 
 ===== Meaning =====
 

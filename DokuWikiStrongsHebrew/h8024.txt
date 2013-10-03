@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7956;
+from [[en:strongs:h7956|H7956]];
 
 ===== Meaning =====
 

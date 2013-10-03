@@ -6,7 +6,7 @@ n-m n-pr-m
 
 ===== Source =====
 
-from H8226;
+from [[en:strongs:h8226|H8226]];
 
 ===== Meaning =====
 

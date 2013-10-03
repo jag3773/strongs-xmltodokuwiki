@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H4048; **precipice**;
+from [[en:strongs:h4048|H4048]]; **precipice**;
 
 ===== Meaning =====
 

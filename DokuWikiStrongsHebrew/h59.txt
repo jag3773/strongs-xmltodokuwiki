@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H58; a meadow;
+from [[en:strongs:h58|H58]]; a meadow;
 
 ===== Meaning =====
 

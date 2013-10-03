@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5641; **hidden**;
+from [[en:strongs:h5641|H5641]]; **hidden**;
 
 ===== Meaning =====
 

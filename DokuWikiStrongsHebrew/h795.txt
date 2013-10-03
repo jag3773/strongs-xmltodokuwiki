@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7703; **ravager**;
+from [[en:strongs:h7703|H7703]]; **ravager**;
 
 ===== Meaning =====
 

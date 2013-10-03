@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H4376; **salesman**;
+from [[en:strongs:h4376|H4376]]; **salesman**;
 
 ===== Meaning =====
 

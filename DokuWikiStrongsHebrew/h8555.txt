@@ -6,7 +6,7 @@ n-pr-m n-pr-f
 
 ===== Source =====
 
-from H4513; **restraint**;
+from [[en:strongs:h4513|H4513]]; **restraint**;
 
 ===== Meaning =====
 

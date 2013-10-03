@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H408 and H7843;
+from [[en:strongs:h408|H408]] and [[en:strongs:h7843|H7843]];
 
 ===== Meaning =====
 

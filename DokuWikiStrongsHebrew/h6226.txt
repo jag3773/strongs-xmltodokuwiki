@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H6225;
+from [[en:strongs:h6225|H6225]];
 
 ===== Meaning =====
 

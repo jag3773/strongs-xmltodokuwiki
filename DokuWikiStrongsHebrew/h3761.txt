@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-patron from H3760;
+patron from [[en:strongs:h3760|H3760]];
 
 ===== Meaning =====
 

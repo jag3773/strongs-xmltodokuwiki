@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H6617; my wrestling;
+from [[en:strongs:h6617|H6617]]; my wrestling;
 
 ===== Meaning =====
 

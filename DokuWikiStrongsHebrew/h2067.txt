@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2065; giving;
+from [[en:strongs:h2065|H2065]]; giving;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H759; **palatial**;
+from [[en:strongs:h759|H759]]; **palatial**;
 
 ===== Meaning =====
 

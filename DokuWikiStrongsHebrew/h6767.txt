@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H6750 reduplicated;
+from [[en:strongs:h6750|H6750]] reduplicated;
 
 ===== Meaning =====
 

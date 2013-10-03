@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H2330;
+from [[en:strongs:h2330|H2330]];
 
 ===== Meaning =====
 

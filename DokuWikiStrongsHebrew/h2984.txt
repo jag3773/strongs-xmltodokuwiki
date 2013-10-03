@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H977; choice;
+from [[en:strongs:h977|H977]]; choice;
 
 ===== Meaning =====
 

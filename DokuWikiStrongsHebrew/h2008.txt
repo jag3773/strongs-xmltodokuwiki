@@ -6,7 +6,7 @@ adv
 
 ===== Source =====
 
-from H2004;
+from [[en:strongs:h2004|H2004]];
 
 ===== Meaning =====
 

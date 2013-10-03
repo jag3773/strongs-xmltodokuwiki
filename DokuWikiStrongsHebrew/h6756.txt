@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H6754; **shady**;
+from [[en:strongs:h6754|H6754]]; **shady**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-for the same as H8088;
+for the same as [[en:strongs:h8088|H8088]];
 
 ===== Meaning =====
 

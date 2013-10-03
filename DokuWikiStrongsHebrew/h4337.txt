@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H3467; safety;
+from [[en:strongs:h3467|H3467]]; safety;
 
 ===== Meaning =====
 

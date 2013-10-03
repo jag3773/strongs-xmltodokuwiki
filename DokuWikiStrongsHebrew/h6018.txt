@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6014; **heaping**;
+from [[en:strongs:h6014|H6014]]; **heaping**;
 
 ===== Meaning =====
 

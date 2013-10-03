@@ -6,7 +6,7 @@ n
 
 ===== Source =====
 
-from H142;
+from [[en:strongs:h142|H142]];
 
 ===== Meaning =====
 

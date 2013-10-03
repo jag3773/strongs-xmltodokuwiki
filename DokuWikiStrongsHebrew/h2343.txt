@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2342; a circle;
+from [[en:strongs:h2342|H2342]]; a circle;
 
 ===== Meaning =====
 

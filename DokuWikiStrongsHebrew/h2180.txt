@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2179 (in the original sense of **flapping**);
+from [[en:strongs:h2179|H2179]] (in the original sense of **flapping**);
 
 ===== Meaning =====
 

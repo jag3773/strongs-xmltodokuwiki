@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H3915;
+from [[en:strongs:h3915|H3915]];
 
 ===== Meaning =====
 

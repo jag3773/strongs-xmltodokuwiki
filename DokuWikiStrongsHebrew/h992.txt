@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H990;
+from [[en:strongs:h990|H990]];
 
 ===== Meaning =====
 

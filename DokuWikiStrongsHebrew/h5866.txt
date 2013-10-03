@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5927; **elevated**;
+from [[en:strongs:h5927|H5927]]; **elevated**;
 
 ===== Meaning =====
 

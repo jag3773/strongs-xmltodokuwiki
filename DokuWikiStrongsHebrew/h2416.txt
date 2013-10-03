@@ -6,7 +6,7 @@ a n-m n-f
 
 ===== Source =====
 
-from H2421;
+from [[en:strongs:h2421|H2421]];
 
 ===== Meaning =====
 

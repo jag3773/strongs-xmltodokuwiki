@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H732; way faring;
+from [[en:strongs:h732|H732]]; way faring;
 
 ===== Meaning =====
 

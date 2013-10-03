@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H2015;
+from [[en:strongs:h2015|H2015]];
 
 ===== Meaning =====
 

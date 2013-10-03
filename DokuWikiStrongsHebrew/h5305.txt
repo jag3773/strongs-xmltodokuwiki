@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5314; **refreshed**;
+from [[en:strongs:h5314|H5314]]; **refreshed**;
 
 ===== Meaning =====
 

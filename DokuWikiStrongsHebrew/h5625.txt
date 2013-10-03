@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-patron from H5624;
+patron from [[en:strongs:h5624|H5624]];
 
 ===== Meaning =====
 

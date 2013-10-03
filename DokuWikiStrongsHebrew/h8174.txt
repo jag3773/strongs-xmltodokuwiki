@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H5586; **fluctuation**;
+from [[en:strongs:h5586|H5586]]; **fluctuation**;
 
 ===== Meaning =====
 

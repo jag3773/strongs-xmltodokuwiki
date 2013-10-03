@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2466; worldliness;
+from [[en:strongs:h2466|H2466]]; worldliness;
 
 ===== Meaning =====
 

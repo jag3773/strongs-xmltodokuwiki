@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H7551; **versicolor**;
+from [[en:strongs:h7551|H7551]]; **versicolor**;
 
 ===== Meaning =====
 

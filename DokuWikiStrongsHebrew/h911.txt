@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H909; **separation**;
+from [[en:strongs:h909|H909]]; **separation**;
 
 ===== Meaning =====
 

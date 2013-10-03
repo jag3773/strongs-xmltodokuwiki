@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8324; **hostile**;
+from [[en:strongs:h8324|H8324]]; **hostile**;
 
 ===== Meaning =====
 

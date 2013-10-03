@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H1409; fortunate;
+from [[en:strongs:h1409|H1409]]; fortunate;
 
 ===== Meaning =====
 

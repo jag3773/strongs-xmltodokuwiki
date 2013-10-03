@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H5115; residence;
+from [[en:strongs:h5115|H5115]]; residence;
 
 ===== Meaning =====
 

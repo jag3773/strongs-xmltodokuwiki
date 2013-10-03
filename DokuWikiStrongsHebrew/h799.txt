@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H784 and H1881;
+from [[en:strongs:h784|H784]] and [[en:strongs:h1881|H1881]];
 
 ===== Meaning =====
 

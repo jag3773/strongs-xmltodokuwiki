@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H1849; a knock;
+from [[en:strongs:h1849|H1849]]; a knock;
 
 ===== Meaning =====
 

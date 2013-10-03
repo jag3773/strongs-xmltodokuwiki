@@ -6,7 +6,7 @@ n-pr-f
 
 ===== Source =====
 
-from H3576; **false**;
+from [[en:strongs:h3576|H3576]]; **false**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H776; earthiness;
+from [[en:strongs:h776|H776]]; earthiness;
 
 ===== Meaning =====
 

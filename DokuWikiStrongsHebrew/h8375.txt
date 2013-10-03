@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H8374 (compare H15);
+from [[en:strongs:h8374|H8374]] (compare [[en:strongs:h15|H15]]);
 
 ===== Meaning =====
 

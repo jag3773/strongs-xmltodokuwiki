@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8121; **sunlight**;
+from [[en:strongs:h8121|H8121]]; **sunlight**;
 
 ===== Meaning =====
 

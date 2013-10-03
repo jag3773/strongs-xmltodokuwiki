@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6014; a (ruined) **heap**;
+from [[en:strongs:h6014|H6014]]; a (ruined) **heap**;
 
 ===== Meaning =====
 

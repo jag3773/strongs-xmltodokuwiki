@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2687;	also like H2671
+from [[en:strongs:h2687|H2687]];	also like [[en:strongs:h2671|H2671]]
 
 ===== Meaning =====
 

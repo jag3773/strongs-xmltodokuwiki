@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H3245;
+from [[en:strongs:h3245|H3245]];
 
 ===== Meaning =====
 

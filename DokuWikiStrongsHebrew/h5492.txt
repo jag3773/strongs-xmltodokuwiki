@@ -6,7 +6,7 @@ n-f n-pr-loc
 
 ===== Source =====
 
-from H5486;
+from [[en:strongs:h5486|H5486]];
 
 ===== Meaning =====
 

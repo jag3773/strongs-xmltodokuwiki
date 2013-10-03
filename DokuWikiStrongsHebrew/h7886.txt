@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7951; tranquil;
+from [[en:strongs:h7951|H7951]]; tranquil;
 
 ===== Meaning =====
 

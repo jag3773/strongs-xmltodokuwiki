@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H8172; **support**;
+from [[en:strongs:h8172|H8172]]; **support**;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H7617; **captor**;
+from [[en:strongs:h7617|H7617]]; **captor**;
 
 ===== Meaning =====
 

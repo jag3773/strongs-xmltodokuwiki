@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H5703;
+from [[en:strongs:h5703|H5703]];
 
 ===== Meaning =====
 

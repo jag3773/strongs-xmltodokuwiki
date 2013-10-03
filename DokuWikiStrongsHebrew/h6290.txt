@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H6286; **ornamental**;
+from [[en:strongs:h6286|H6286]]; **ornamental**;
 
 ===== Meaning =====
 

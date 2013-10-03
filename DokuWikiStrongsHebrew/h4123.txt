@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H2048;
+from [[en:strongs:h2048|H2048]];
 
 ===== Meaning =====
 

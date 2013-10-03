@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H3417;
+from [[en:strongs:h3417|H3417]];
 
 ===== Meaning =====
 

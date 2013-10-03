@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H157;
+from [[en:strongs:h157|H157]];
 
 ===== Meaning =====
 

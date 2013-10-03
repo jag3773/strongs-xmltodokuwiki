@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H517; gathering-spot;
+from [[en:strongs:h517|H517]]; gathering-spot;
 
 ===== Meaning =====
 

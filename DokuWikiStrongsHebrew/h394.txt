@@ -6,7 +6,7 @@ a
 
 ===== Source =====
 
-from H393;
+from [[en:strongs:h393|H393]];
 
 ===== Meaning =====
 

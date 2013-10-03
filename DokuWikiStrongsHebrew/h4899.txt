@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H4886;
+from [[en:strongs:h4886|H4886]];
 
 ===== Meaning =====
 

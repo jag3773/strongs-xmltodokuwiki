@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H6009; **deep**;
+from [[en:strongs:h6009|H6009]]; **deep**;
 
 ===== Meaning =====
 

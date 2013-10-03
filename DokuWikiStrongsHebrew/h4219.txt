@@ -6,7 +6,7 @@ n-m
 
 ===== Source =====
 
-from H2236;
+from [[en:strongs:h2236|H2236]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H3547;
+from [[en:strongs:h3547|H3547]];
 
 ===== Meaning =====
 

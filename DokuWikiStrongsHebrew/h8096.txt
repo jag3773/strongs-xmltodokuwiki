@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H8088; **famous**;
+from [[en:strongs:h8088|H8088]]; **famous**;
 
 ===== Meaning =====
 

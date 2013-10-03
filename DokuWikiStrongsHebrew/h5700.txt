@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H5695; vituline;
+from [[en:strongs:h5695|H5695]]; vituline;
 
 ===== Meaning =====
 

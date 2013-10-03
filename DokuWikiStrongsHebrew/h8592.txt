@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H6105;
+from [[en:strongs:h6105|H6105]];
 
 ===== Meaning =====
 

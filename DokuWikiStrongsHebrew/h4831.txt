@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H7477; perhaps, **earthquake**;
+from [[en:strongs:h7477|H7477]]; perhaps, **earthquake**;
 
 ===== Meaning =====
 

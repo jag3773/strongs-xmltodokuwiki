@@ -6,7 +6,7 @@ n-pr-m
 
 ===== Source =====
 
-from H2111; **disquiet**;
+from [[en:strongs:h2111|H2111]]; **disquiet**;
 
 ===== Meaning =====
 

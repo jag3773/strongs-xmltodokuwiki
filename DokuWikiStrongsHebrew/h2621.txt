@@ -6,7 +6,7 @@ n-pr-m n-pr-loc
 
 ===== Source =====
 
-from H2620; hopeful;
+from [[en:strongs:h2620|H2620]]; hopeful;
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ n-pr-loc
 
 ===== Source =====
 
-from H2186; **rejected**;
+from [[en:strongs:h2186|H2186]]; **rejected**;
 
 ===== Meaning =====
 

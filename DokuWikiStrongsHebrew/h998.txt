@@ -6,7 +6,7 @@ n-f
 
 ===== Source =====
 
-from H995;
+from [[en:strongs:h995|H995]];
 
 ===== Meaning =====
 

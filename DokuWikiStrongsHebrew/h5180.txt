@@ -6,7 +6,7 @@ n
 
 ===== Source =====
 
-from H5178;
+from [[en:strongs:h5178|H5178]];
 
 ===== Meaning =====
 
