@@ -29,15 +29,15 @@ from xml.dom import minidom
 
 HebrewStrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
-entryHead = u'''====== {0}: {1} ======
+entryHead = u'''====== {0}: {1} ({2}) ======
 
 ===== Source =====
 
-{2}
+{3}
 
 ===== Meaning =====
 
-{3}
+{4}
 
 ===== Definitions =====
 
@@ -51,19 +51,20 @@ entryFooter = u'''
 
 
 if __name__ == '__main__':
-  d = {}
   dictxml = minidom.parse(HebrewStrongFile)
   for entryxml in dictxml.getElementsByTagName('entry'):
-    entryid = entryxml.getAttribute('id')
-    f = codecs.open('{0}/{1}'.format(DokuWikiDir, entryid), 'w', encoding='utf-8')
-    d[entryid] = {}
     token = u''
+    xlit = u''
     source = []
     meaning = []
+    entryid = entryxml.getAttribute('id')
+    f = codecs.open('{0}/{1}'.format(DokuWikiDir, entryid), 'w',
+                                                             encoding='utf-8')
     # Get word
     for x in entryxml.getElementsByTagName('w'):
       if x.hasAttribute('xml:lang'):
         token = x.firstChild.data
+        xlit = x.getAttribute('xlit')
     # Get source
     for x in entryxml.getElementsByTagName('source'):
       for i in x.childNodes:
@@ -86,7 +87,8 @@ if __name__ == '__main__':
           meaning.append(i.firstChild.data)
         else:
           meaning.append(i.data)
-    f.write(entryHead.format(entryid, token, u' '.join(source), u' '.join(meaning)))
+    f.write(entryHead.format(entryid, token, xlit, u' '.join(source),
+                                                          u' '.join(meaning)))
 
     # Get definitions
     for x in entryxml.getElementsByTagName('def'):
