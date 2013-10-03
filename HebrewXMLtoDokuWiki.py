@@ -58,7 +58,8 @@ if __name__ == '__main__':
     source = []
     meaning = []
     entryid = entryxml.getAttribute('id')
-    f = codecs.open('{0}/{1}'.format(DokuWikiDir, entryid), 'w',
+    filename = '{0}.txt'.format(entryid.lower())
+    f = codecs.open('{0}/{1}'.format(DokuWikiDir, filename), 'w',
                                                              encoding='utf-8')
     # Get word
     for x in entryxml.getElementsByTagName('w'):
