@@ -53,7 +53,6 @@ entryFooter = u'''
 {0}
 '''
 
-# Links en:strongs:h98
 
 if __name__ == '__main__':
   dictxml = minidom.parse(HebrewStrongFile)
@@ -78,7 +77,8 @@ if __name__ == '__main__':
         if i.nodeName == u'note':
           pass
         elif i.nodeName == u'w':
-          source.append(i.getAttribute('src'))
+          source.append(u'[[en:strongs:{0}|{1}]]'.format(
+                        i.getAttribute('src').lower(), i.getAttribute('src')))
         elif i.nodeName == u'def':
           source.append(u'**{0}**'.format(i.firstChild.data))
         else:
@@ -89,7 +89,8 @@ if __name__ == '__main__':
         if i.nodeName == u'note':
           pass
         elif i.nodeName == u'w':
-          meaning.append(i.getAttribute('src'))
+          meaning.append(u'[[en:strongs:{0}|{1}]]'.format(
+                        i.getAttribute('src').lower(), i.getAttribute('src')))
         elif i.nodeName == u'def':
           meaning.append(u'**{0}**'.format(i.firstChild.data))
         else:
