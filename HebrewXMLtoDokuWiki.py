@@ -80,8 +80,7 @@ if __name__ == '__main__':
         elif i.nodeName == u'w':
           source.append(i.getAttribute('src'))
         elif i.nodeName == u'def':
-          # make bold
-          source.append(i.firstChild.data)
+          source.append(u'**{0}**'.format(i.firstChild.data))
         else:
           source.append(i.data)
     # Get meaning
@@ -92,7 +91,7 @@ if __name__ == '__main__':
         elif i.nodeName == u'w':
           meaning.append(i.getAttribute('src'))
         elif i.nodeName == u'def':
-          meaning.append(i.firstChild.data)
+          meaning.append(u'**{0}**'.format(i.firstChild.data))
         else:
           meaning.append(i.data)
     f.write(entryHead.format(entryid, token, xlit, pos, u''.join(source),
