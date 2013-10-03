@@ -1,12 +1,16 @@
 ====== H3649: כָּמָר (kâmâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3648 ;
+from H3648;
 
 ===== Meaning =====
 
-properly, an  ascetic  (as if shrunk with self-maceration), i.e. an  idolatrous priest  (only in plural)
+properly, an **ascetic** (as if shrunk with self-maceration), i.e. an **idolatrous priest** (only in plural)
 
 ===== Definitions =====
 

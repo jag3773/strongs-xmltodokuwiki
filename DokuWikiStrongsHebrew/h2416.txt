@@ -1,12 +1,16 @@
 ====== H2416: חַי (chay) ======
 
+===== Part of Speech =====
+
+a n-m n-f
+
 ===== Source =====
 
-from  H2421 ;
+from H2421;
 
 ===== Meaning =====
 
-alive ; hence,  raw  (flesh);  fresh  (plant, water, year),  strong ; also (as noun, especially in the feminine singular and masculine plural)  life  (or living thing), whether literally or figuratively
+**alive**; hence, **raw** (flesh); **fresh** (plant, water, year), **strong**; also (as noun, especially in the feminine singular and masculine plural) **life** (or living thing), whether literally or figuratively
 
 ===== Definitions =====
 

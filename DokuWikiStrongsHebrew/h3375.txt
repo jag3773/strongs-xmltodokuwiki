@@ -1,12 +1,16 @@
 ====== H3375: יִרְאוֹן (Yirʼôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3372 ; fearfulness;
+from H3372; fearfulness;
 
 ===== Meaning =====
 
-Jiron , a place in Palestine
+**Jiron**, a place in Palestine
 
 ===== Definitions =====
 

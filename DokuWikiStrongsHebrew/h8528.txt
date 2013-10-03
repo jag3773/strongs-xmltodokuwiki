@@ -1,12 +1,16 @@
 ====== H8528: תֵּל מֶלַח (Têl Melach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H8510  and  H4417 ;  ;
+from H8510 and H4417; **mound of salt**;
 
 ===== Meaning =====
 
-mound of salt Tel-Melach , a place in Babylonia
+**Tel-Melach**, a place in Babylonia
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8076: שָׁמֵם (shâmêm) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8074 ;
+from H8074;
 
 ===== Meaning =====
 
-ruined
+**ruined**
 
 ===== Definitions =====
 

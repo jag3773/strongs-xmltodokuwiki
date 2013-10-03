@@ -1,12 +1,16 @@
 ====== H4505: מְנַחֵם (Mᵉnachêm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5162 ;  ;
+from H5162; **comforter**;
 
 ===== Meaning =====
 
-comforter Menachem , an Israelite
+**Menachem**, an Israelite
 
 ===== Definitions =====
 

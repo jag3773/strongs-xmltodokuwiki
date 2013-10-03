@@ -1,12 +1,16 @@
 ====== H8191: שַׁעְשֻׁעַ (shaʻshuaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8173 ;
+from H8173;
 
 ===== Meaning =====
 
-enjoyment
+**enjoyment**
 
 ===== Definitions =====
 

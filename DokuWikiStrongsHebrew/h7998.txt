@@ -1,12 +1,16 @@
 ====== H7998: שָׁלָל (shâlâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7997 ;
+from H7997;
 
 ===== Meaning =====
 
-booty
+**booty**
 
 ===== Definitions =====
 

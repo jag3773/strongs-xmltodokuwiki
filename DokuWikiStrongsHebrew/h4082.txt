@@ -1,12 +1,16 @@
 ====== H4082: מְדִינָה (mᵉdîynâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1777 ;
+from H1777;
 
 ===== Meaning =====
 
-properly, a  judgeship , i.e.  jurisdiction ; by implication, a  district  (as ruled by a judge); generally, a  region
+properly, a **judgeship**, i.e. **jurisdiction**; by implication, a **district** (as ruled by a judge); generally, a **region**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8601: תֻּפִין (tuphîyn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H644 ;
+from H644;
 
 ===== Meaning =====
 
-cookery , i.e. (concretely) a  cake
+**cookery**, i.e. (concretely) a **cake**
 
 ===== Definitions =====
 

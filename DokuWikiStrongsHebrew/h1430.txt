@@ -1,12 +1,16 @@
 ====== H1430: גָּדִישׁ (gâdîysh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root (meaning to heap up);
 
 ===== Meaning =====
 
-a  stack  of sheaves; by analogy, a  tomb
+a **stack** of sheaves; by analogy, a **tomb**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8633: תֹּקֶף (tôqeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8630 ;
+from H8630;
 
 ===== Meaning =====
 
-might  or (figuratively)  positiveness
+**might** or (figuratively) **positiveness**
 
 ===== Definitions =====
 

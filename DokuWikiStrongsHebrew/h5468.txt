@@ -1,12 +1,16 @@
 ====== H5468: סֶדֶר (çeder) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **arrange**;
 
 ===== Meaning =====
 
-arrange order
+**order**
 
 ===== Definitions =====
 

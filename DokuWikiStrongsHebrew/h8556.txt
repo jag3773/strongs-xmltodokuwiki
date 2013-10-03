@@ -1,12 +1,16 @@
 ====== H8556: תִּמְנַת חֶרֶס (Timnath Chereç) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-or   ; from  H8553  and  H2775 ; portion of (the) sun;
+or ; from H8553 and H2775; portion of (the) sun;
 
 ===== Meaning =====
 
-Timnath-Cheres , a place in Palestine
+**Timnath-Cheres**, a place in Palestine
 
 ===== Definitions =====
 

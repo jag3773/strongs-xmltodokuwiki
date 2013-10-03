@@ -1,12 +1,16 @@
 ====== H7649: שָׂבֵעַ (sâbêaʻ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7646 ;
+from H7646;
 
 ===== Meaning =====
 
-satiated  (in a pleasant or disagreeable sense)
+**satiated** (in a pleasant or disagreeable sense)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4727: מִקָּח (miqqâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3947 ;
+from H3947;
 
 ===== Meaning =====
 
-reception
+**reception**
 
 ===== Definitions =====
 

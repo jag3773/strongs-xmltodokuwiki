@@ -1,12 +1,16 @@
 ====== H1695: דָּבֵק (dâbêq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1692 ;
+from H1692;
 
 ===== Meaning =====
 
-adhering
+**adhering**
 
 ===== Definitions =====
 

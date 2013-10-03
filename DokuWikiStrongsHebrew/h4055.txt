@@ -1,12 +1,16 @@
 ====== H4055: מַד (mad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from  H4058 ;
+or ; from H4058;
 
 ===== Meaning =====
 
-properly,  extent , i.e.  height ; also a  measure ; by implication, a  vesture  (as measured); also a  carpet
+properly, **extent**, i.e. **height**; also a **measure**; by implication, a **vesture** (as measured); also a **carpet**
 
 ===== Definitions =====
 

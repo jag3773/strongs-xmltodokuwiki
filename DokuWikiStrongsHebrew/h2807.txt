@@ -1,12 +1,16 @@
 ====== H2807: חֲשֻׁבָה (Chăshubâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2803 ; estimation;
+from H2803; estimation;
 
 ===== Meaning =====
 
-Cashubah , an Israelite
+**Cashubah**, an Israelite
 
 ===== Definitions =====
 

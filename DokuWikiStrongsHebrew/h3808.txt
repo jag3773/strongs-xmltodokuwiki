@@ -1,12 +1,16 @@
 ====== H3808: לֹא (lôʼ) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-or   ; or   ; (Deuteronomy 3:11), a primitive particle;
+or ; or ; (Deuteronomy 3:11), a primitive particle;
 
 ===== Meaning =====
 
-not  (the simple or abs. negation); by implication,  no ; often used with other particles
+**not** (the simple or abs. negation); by implication, **no**; often used with other particles
 
 ===== Definitions =====
 

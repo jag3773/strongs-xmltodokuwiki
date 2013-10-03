@@ -1,12 +1,16 @@
 ====== H872: בְּאָה (bᵉʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H935 ;
+from H935;
 
 ===== Meaning =====
 
-an  entrance  to a building
+an **entrance** to a building
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H681: אֵצֶל (ʼêtsel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H680  (in the sense of joining);
+from H680 (in the sense of joining);
 
 ===== Meaning =====
 
-a  side ; (as a preposition)  near
+a **side**; (as a preposition) **near**
 
 ===== Definitions =====
 

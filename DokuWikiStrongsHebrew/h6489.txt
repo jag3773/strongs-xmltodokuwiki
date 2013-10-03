@@ -1,12 +1,16 @@
 ====== H6489: פְּקוֹד (Pᵉqôwd) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H6485 ;  ;
+from H6485; **punishment**;
 
 ===== Meaning =====
 
-punishment Pekod , a symbolic name for Babylon
+**Pekod**, a symbolic name for Babylon
 
 ===== Definitions =====
 

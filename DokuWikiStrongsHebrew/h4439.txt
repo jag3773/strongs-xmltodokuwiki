@@ -1,12 +1,16 @@
 ====== H4439: מַלְכִּיאֵל (Malkîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4428  and  H410 ; king of (i.e. appointed by) God;
+from H4428 and H410; king of (i.e. appointed by) God;
 
 ===== Meaning =====
 
-Malkiel , an Israelite
+**Malkiel**, an Israelite
 
 ===== Definitions =====
 

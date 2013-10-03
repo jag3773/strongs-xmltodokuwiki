@@ -1,12 +1,16 @@
 ====== H6238: עָשַׁר (ʻâshar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  accumulate ; chiefly (specifically) to  grow  (causatively,  make )  rich
+properly, to **accumulate**; chiefly (specifically) to **grow** (causatively, **make**) **rich**
 
 ===== Definitions =====
 

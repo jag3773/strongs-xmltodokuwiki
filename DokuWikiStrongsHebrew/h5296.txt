@@ -1,12 +1,16 @@
 ====== H5296: נְעֹרֶת (nᵉʻôreth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5287 ;
+from H5287;
 
 ===== Meaning =====
 
-something  shaken  out, i.e.  tow  (as the refuse of flax)
+something **shaken** out, i.e. **tow** (as the refuse of flax)
 
 ===== Definitions =====
 

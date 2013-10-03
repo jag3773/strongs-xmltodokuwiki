@@ -1,12 +1,16 @@
 ====== H3740: כֵּרָה (kêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3739 ;
+from H3739;
 
 ===== Meaning =====
 
-a  purchase
+a **purchase**
 
 ===== Definitions =====
 

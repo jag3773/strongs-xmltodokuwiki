@@ -1,12 +1,16 @@
 ====== H1845: דְּעוּאֵל (Dᵉʻûwʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3045  and  H410 ;  ;
+from H3045 and H410; **known of God**;
 
 ===== Meaning =====
 
-known of God Deuel , an Israelite
+**Deuel**, an Israelite
 
 ===== Definitions =====
 

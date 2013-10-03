@@ -1,12 +1,16 @@
 ====== H1038: בֵּית מַעֲכָה (Bêyth Maʻăkâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H4601 ; house of Maakah;
+from H1004 and H4601; house of Maakah;
 
 ===== Meaning =====
 
-Beth-Maakah , a place in Palestine
+**Beth-Maakah**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4926: מִשְׁמָע (mishmâʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8085 ;
+from H8085;
 
 ===== Meaning =====
 
-a  report
+a **report**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4110: מַהֲלָל (mahălâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1984 ;
+from H1984;
 
 ===== Meaning =====
 
-fame
+**fame**
 
 ===== Definitions =====
 

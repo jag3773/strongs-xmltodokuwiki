@@ -1,12 +1,16 @@
 ====== H2020: הַצָּלָה (hatstsâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5337 ;
+from H5337;
 
 ===== Meaning =====
 
-rescue
+**rescue**
 
 ===== Definitions =====
 

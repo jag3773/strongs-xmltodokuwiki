@@ -1,12 +1,16 @@
 ====== H7785: שׁוֹק (shôwq) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7783 ;
+from H7783;
 
 ===== Meaning =====
 
-the (lower)  leg  (as a  runner )
+the (lower) **leg** (as a **runner**)
 
 ===== Definitions =====
 

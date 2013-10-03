@@ -1,12 +1,16 @@
 ====== H5114: נוֹדָב (Nôwdâb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5068 ;  ;
+from H5068; **noble**;
 
 ===== Meaning =====
 
-noble Nodab , an Arab tribe
+**Nodab**, an Arab tribe
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H120: אָדָם (ʼâdâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H119 ;
+from H119;
 
 ===== Meaning =====
 
-ruddy  i.e. a  human being  (an individual or the species,  mankind , etc.)
+**ruddy** i.e. a **human being** (an individual or the species, **mankind**, etc.)
 
 ===== Definitions =====
 

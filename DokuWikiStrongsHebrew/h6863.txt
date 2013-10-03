@@ -1,12 +1,16 @@
 ====== H6863: צֵר (Tsêr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6887 ;  ;
+from H6887; **rock**;
 
 ===== Meaning =====
 
-rock Tser , a place in Palestine
+**Tser**, a place in Palestine
 
 ===== Definitions =====
 

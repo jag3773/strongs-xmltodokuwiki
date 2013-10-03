@@ -1,12 +1,16 @@
 ====== H2765: חֳרֵם (Chŏrêm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2763 ;  ;
+from H2763; **devoted**;
 
 ===== Meaning =====
 
-devoted Chorem , a place in Palestine
+**Chorem**, a place in Palestine
 
 ===== Definitions =====
 

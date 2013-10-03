@@ -1,12 +1,16 @@
 ====== H5640: סָתַם (çâtham) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; (Numbers 24:15), a primitive root;
+or ; (Numbers 24:15), a primitive root;
 
 ===== Meaning =====
 
-to  stop  up; by implication, to  repair ; figuratively, to  keep secret
+to **stop** up; by implication, to **repair**; figuratively, to **keep secret**
 
 ===== Definitions =====
 

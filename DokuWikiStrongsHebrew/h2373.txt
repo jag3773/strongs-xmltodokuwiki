@@ -1,12 +1,16 @@
 ====== H2373: חָזֶה (châzeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2372 ;
+from H2372;
 
 ===== Meaning =====
 
-the  breast  (as most  seen  in front)
+the **breast** (as most **seen** in front)
 
 ===== Definitions =====
 

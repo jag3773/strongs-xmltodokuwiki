@@ -1,12 +1,16 @@
 ====== H944: בּוּל (bûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H2981 ;
+for H2981;
 
 ===== Meaning =====
 
-produce  (of the earth, etc.)
+**produce** (of the earth, etc.)
 
 ===== Definitions =====
 

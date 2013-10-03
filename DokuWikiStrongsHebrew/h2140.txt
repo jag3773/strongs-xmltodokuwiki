@@ -1,12 +1,16 @@
 ====== H2140: זַכַּי (Zakkay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2141 ; pure;
+from H2141; pure;
 
 ===== Meaning =====
 
-Zakkai , an Israelite
+**Zakkai**, an Israelite
 
 ===== Definitions =====
 

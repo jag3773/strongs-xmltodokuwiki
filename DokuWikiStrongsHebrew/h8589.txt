@@ -1,12 +1,16 @@
 ====== H8589: תַּעֲנִית (taʻănîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6031 ;
+from H6031;
 
 ===== Meaning =====
 
-affliction  (of self), i.e.  fasting
+**affliction** (of self), i.e. **fasting**
 
 ===== Definitions =====
 

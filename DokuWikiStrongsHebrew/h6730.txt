@@ -1,12 +1,16 @@
 ====== H6730: צִיעֹר (Tsîyʻôr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6819 ;  ;
+from H6819; **small**;
 
 ===== Meaning =====
 
-small Tsior , a place in Palestine
+**Tsior**, a place in Palestine
 
 ===== Definitions =====
 

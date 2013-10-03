@@ -1,12 +1,16 @@
 ====== H2289: חָגוֹר (châgôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2296 ;
+from H2296;
 
 ===== Meaning =====
 
-belted
+**belted**
 
 ===== Definitions =====
 

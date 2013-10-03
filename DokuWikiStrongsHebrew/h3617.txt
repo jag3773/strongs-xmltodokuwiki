@@ -1,12 +1,16 @@
 ====== H3617: כָּלָה (kâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3615 ;
+from H3615;
 
 ===== Meaning =====
 
-a  completion ; adverb,  completely ; also  destruction
+a **completion**; adverb, **completely**; also **destruction**
 
 ===== Definitions =====
 

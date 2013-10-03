@@ -1,12 +1,16 @@
 ====== H5729: עֶדֶן (ʻEden) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5727 ;  ;
+from H5727; **pleasure**;
 
 ===== Meaning =====
 
-pleasure Eden , a place in Mesopotamia
+**Eden**, a place in Mesopotamia
 
 ===== Definitions =====
 

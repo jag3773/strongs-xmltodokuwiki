@@ -1,12 +1,16 @@
 ====== H2068: זַבְדִּיאֵל (Zabdîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2065  and  H410 ;
+from H2065 and H410;
 
 ===== Meaning =====
 
-gift of God ;  Zabdiel , the name of two Israelites
+**gift of God**; **Zabdiel**, the name of two Israelites
 
 ===== Definitions =====
 

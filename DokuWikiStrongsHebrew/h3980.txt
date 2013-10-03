@@ -1,12 +1,16 @@
 ====== H3980: מַאֲכֹלֶת (maʼăkôleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H398 ;
+from H398;
 
 ===== Meaning =====
 
-something  eaten  (by fire), i.e.  fuel
+something **eaten** (by fire), i.e. **fuel**
 
 ===== Definitions =====
 

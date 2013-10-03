@@ -1,12 +1,16 @@
 ====== H66: אַבֵל מַיִם (ʼAbêl Mayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H58  and  H4325 ; meadow of water;
+from H58 and H4325; meadow of water;
 
 ===== Meaning =====
 
-Abel-Majim , a place in Palestine
+**Abel-Majim**, a place in Palestine
 
 ===== Definitions =====
 

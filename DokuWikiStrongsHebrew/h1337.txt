@@ -1,12 +1,16 @@
 ====== H1337: בַּת רַבִּים (Bath Rabbîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1323  and a masculine plural from  H7227 ;
+from H1323 and a masculine plural from H7227;
 
 ===== Meaning =====
 
-the  daughter  (i.e. city)  of Rabbah
+the **daughter** (i.e. city) **of Rabbah**
 
 ===== Definitions =====
 

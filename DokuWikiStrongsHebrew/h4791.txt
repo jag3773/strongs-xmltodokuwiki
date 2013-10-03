@@ -1,12 +1,16 @@
 ====== H4791: מָרוֹם (mârôwm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7311 ;
+from H7311;
 
 ===== Meaning =====
 
-altitude , i.e. concretely (an  elevated place ), abstractly ( elevation , figuratively ( elation ), or adverbially ( aloft )
+**altitude**, i.e. concretely (an **elevated place**), abstractly (**elevation**, figuratively (**elation**), or adverbially (**aloft**)
 
 ===== Definitions =====
 

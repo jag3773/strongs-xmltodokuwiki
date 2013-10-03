@@ -1,12 +1,16 @@
 ====== H3710: כֵּף (kêph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3721 ;
+from H3721;
 
 ===== Meaning =====
 
-a  hollow rock
+a **hollow rock**
 
 ===== Definitions =====
 

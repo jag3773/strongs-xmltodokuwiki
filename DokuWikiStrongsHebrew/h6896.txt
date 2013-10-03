@@ -1,12 +1,16 @@
 ====== H6896: קֵבָה (qêbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6895 ;
+from H6895;
 
 ===== Meaning =====
 
-the  paunch  (as a cavity) or  first stomach of ruminants
+the **paunch** (as a cavity) or **first stomach of ruminants**
 
 ===== Definitions =====
 

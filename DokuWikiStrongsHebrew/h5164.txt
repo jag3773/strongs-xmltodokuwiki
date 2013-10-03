@@ -1,12 +1,16 @@
 ====== H5164: נֹחַם (nôcham) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5162 ;
+from H5162;
 
 ===== Meaning =====
 
-ruefulness , i.e.  desistance
+**ruefulness**, i.e. **desistance**
 
 ===== Definitions =====
 

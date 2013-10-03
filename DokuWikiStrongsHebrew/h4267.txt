@@ -1,12 +1,16 @@
 ====== H4267: מַחֲנַק (machănaq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2614 ;
+from H2614;
 
 ===== Meaning =====
 
-choking
+**choking**
 
 ===== Definitions =====
 

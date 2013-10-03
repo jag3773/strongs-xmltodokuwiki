@@ -1,12 +1,16 @@
 ====== H2672: חָצַב (châtsab) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; a primitive root;
+or ; a primitive root;
 
 ===== Meaning =====
 
-to  cut  or carve (wood, stone or other material); by implication, to  hew ,  split ,  square ,  quarry ,  engrave
+to **cut** or carve (wood, stone or other material); by implication, to **hew**, **split**, **square**, **quarry**, **engrave**
 
 ===== Definitions =====
 

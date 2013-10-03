@@ -1,12 +1,16 @@
 ====== H6652: צִבֻּר (tsibbur) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6551 ;
+from H6551;
 
 ===== Meaning =====
 
-a  pile
+a **pile**
 
 ===== Definitions =====
 

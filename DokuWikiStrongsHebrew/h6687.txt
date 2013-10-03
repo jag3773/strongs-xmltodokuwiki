@@ -1,12 +1,16 @@
 ====== H6687: צוּף (tsûwph) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  overflow
+to **overflow**
 
 ===== Definitions =====
 

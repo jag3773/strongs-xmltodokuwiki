@@ -1,12 +1,16 @@
 ====== H2821: חָשַׁךְ (châshak) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be dark  (as  withholding  light); transitively, to  darken
+to **be dark** (as **withholding** light); transitively, to **darken**
 
 ===== Definitions =====
 

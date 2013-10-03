@@ -1,12 +1,16 @@
 ====== H6258: עַתָּה (ʻattâh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H6256 ;
+from H6256;
 
 ===== Meaning =====
 
-at this time , whether adverb, conjunction or expletive
+**at this time**, whether adverb, conjunction or expletive
 
 ===== Definitions =====
 

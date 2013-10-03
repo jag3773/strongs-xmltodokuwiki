@@ -1,12 +1,16 @@
 ====== H6145: עָר (ʻâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5782 ;
+from H5782;
 
 ===== Meaning =====
 
-a  foe  (as watchful for mischief)
+a **foe** (as watchful for mischief)
 
 ===== Definitions =====
 

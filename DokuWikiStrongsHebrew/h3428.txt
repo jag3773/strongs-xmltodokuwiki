@@ -1,12 +1,16 @@
 ====== H3428: יֶשֶׁבְאָב (Yeshebʼâb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3427  and  H1 ; seat of (his) father;
+from H3427 and H1; seat of (his) father;
 
 ===== Meaning =====
 
-Jeshebab , an Israelite
+**Jeshebab**, an Israelite
 
 ===== Definitions =====
 

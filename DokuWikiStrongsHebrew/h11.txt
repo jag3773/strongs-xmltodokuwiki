@@ -1,12 +1,16 @@
 ====== H11: אֲבַדּוֹן (ʼăbaddôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-intensive from  H6 ;
+intensive from H6;
 
 ===== Meaning =====
 
-abstract, a  perishing ; concrete, Hades
+abstract, a **perishing**; concrete, Hades
 
 ===== Definitions =====
 

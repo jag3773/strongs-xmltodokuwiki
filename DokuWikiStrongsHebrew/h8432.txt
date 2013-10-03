@@ -1,12 +1,16 @@
 ====== H8432: תָּוֶךְ (tâvek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **sever**;
 
 ===== Meaning =====
 
-sever a  bisection , i.e. (by implication) the  centre
+a **bisection**, i.e. (by implication) the **centre**
 
 ===== Definitions =====
 

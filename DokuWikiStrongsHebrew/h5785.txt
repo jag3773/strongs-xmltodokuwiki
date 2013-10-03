@@ -1,12 +1,16 @@
 ====== H5785: עוֹר (ʻôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5783 ;
+from H5783;
 
 ===== Meaning =====
 
-skin  (as naked); by implication,  hide ,  leather
+**skin** (as naked); by implication, **hide**, **leather**
 
 ===== Definitions =====
 

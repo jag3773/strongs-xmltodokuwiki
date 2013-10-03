@@ -1,12 +1,16 @@
 ====== H4346: מַכְבָּר (makbâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3527  in the sense of covering; (compare  H4345 )
+from H3527 in the sense of covering; (compare H4345)
 
 ===== Meaning =====
 
-a  cloth  (as netted)
+a **cloth** (as netted)
 
 ===== Definitions =====
 

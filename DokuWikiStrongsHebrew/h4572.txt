@@ -1,12 +1,16 @@
 ====== H4572: מַעֲדַי (Maʻăday) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5710 ;  ;
+from H5710; **ornamental**;
 
 ===== Meaning =====
 
-ornamental Maadai , an Israelite
+**Maadai**, an Israelite
 
 ===== Definitions =====
 

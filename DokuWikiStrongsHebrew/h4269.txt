@@ -1,12 +1,16 @@
 ====== H4269: מַחְסוֹם (machçôwm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2629 ;
+from H2629;
 
 ===== Meaning =====
 
-a  muzzle
+a **muzzle**
 
 ===== Definitions =====
 

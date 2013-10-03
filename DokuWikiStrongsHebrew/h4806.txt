@@ -1,12 +1,16 @@
 ====== H4806: מְרִיא (mᵉrîyʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4754  in the sense of  , through the idea of   (compare  H4756 );
+from H4754 in the sense of **grossness**, through the idea of **domineering** (compare H4756);
 
 ===== Meaning =====
 
-grossness domineering stall-fed ; often (as noun) a  beeve
+**stall-fed**; often (as noun) a **beeve**
 
 ===== Definitions =====
 

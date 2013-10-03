@@ -1,12 +1,16 @@
 ====== H5920: עַל (ʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-properly, the  top ; specifically, the  Highest  (i.e.  God ); also (adverb)  aloft ,  to Jehovah
+properly, the **top**; specifically, the **Highest** (i.e. **God**); also (adverb) **aloft**, **to Jehovah**
 
 ===== Definitions =====
 

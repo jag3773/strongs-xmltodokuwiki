@@ -1,12 +1,16 @@
 ====== H957: בַּז (baz) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H962 ;
+from H962;
 
 ===== Meaning =====
 
-plunder
+**plunder**
 
 ===== Definitions =====
 

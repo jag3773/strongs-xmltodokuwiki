@@ -1,12 +1,16 @@
 ====== H4764: מֵרָב (Mêrâb) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H7231 ;  ;
+from H7231; **increase**;
 
 ===== Meaning =====
 
-increase Merab , a daughter of Saul
+**Merab**, a daughter of Saul
 
 ===== Definitions =====
 

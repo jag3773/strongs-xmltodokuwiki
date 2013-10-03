@@ -1,12 +1,16 @@
 ====== H2134: זַךְ (zak) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2141 ;
+from H2141;
 
 ===== Meaning =====
 
-clear
+**clear**
 
 ===== Definitions =====
 

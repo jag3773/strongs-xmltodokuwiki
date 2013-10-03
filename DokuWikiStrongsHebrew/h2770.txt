@@ -1,12 +1,16 @@
 ====== H2770: חֶרְמֵשׁ (chermêsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2763 ;
+from H2763;
 
 ===== Meaning =====
 
-a  sickle  (as cutting)
+a **sickle** (as cutting)
 
 ===== Definitions =====
 

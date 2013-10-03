@@ -1,12 +1,16 @@
 ====== H4987: מֹתֶק (môtheq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4985 ;
+from H4985;
 
 ===== Meaning =====
 
-sweetness
+**sweetness**
 
 ===== Definitions =====
 

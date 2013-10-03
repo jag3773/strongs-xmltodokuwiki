@@ -1,12 +1,16 @@
 ====== H2919: טַל (ṭal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2926 ;
+from H2926;
 
 ===== Meaning =====
 
-dew  (as  covering  vegetation)
+**dew** (as **covering** vegetation)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2133: זֵיתָן (Zêythân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2132 ; olive grove;
+from H2132; olive grove;
 
 ===== Meaning =====
 
-Zethan , an Israelite
+**Zethan**, an Israelite
 
 ===== Definitions =====
 

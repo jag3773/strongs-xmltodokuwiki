@@ -1,12 +1,16 @@
 ====== H4197: מֶזֶג (mezeg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to   (water with wine);
+from an unused root meaning to **mingle** (water with wine);
 
 ===== Meaning =====
 
-mingle tempered wine
+**tempered wine**
 
 ===== Definitions =====
 

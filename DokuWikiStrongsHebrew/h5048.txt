@@ -1,12 +1,16 @@
 ====== H5048: נֶגֶד (neged) ======
 
+===== Part of Speech =====
+
+prep
+
 ===== Source =====
 
-from  H5046 ;
+from H5046;
 
 ===== Meaning =====
 
-a  front , i.e.  part opposite ; specifically a  counterpart , or  mate ; usually (adverbial, especially with preposition)  over against  or  before
+a **front**, i.e. **part opposite**; specifically a **counterpart**, or **mate**; usually (adverbial, especially with preposition) **over against** or **before**
 
 ===== Definitions =====
 

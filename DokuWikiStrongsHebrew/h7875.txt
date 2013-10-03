@@ -1,12 +1,16 @@
 ====== H7875: שִׂיד (sîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7874 ;
+from H7874;
 
 ===== Meaning =====
 
-lime  (as  boiling  when slacked)
+**lime** (as **boiling** when slacked)
 
 ===== Definitions =====
 

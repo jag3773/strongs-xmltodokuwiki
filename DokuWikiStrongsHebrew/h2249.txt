@@ -1,12 +1,16 @@
 ====== H2249: חָבוֹר (Châbôwr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2266 ;  ;
+from H2266; **united**;
 
 ===== Meaning =====
 
-united Chabor , a river of Assyria
+**Chabor**, a river of Assyria
 
 ===== Definitions =====
 

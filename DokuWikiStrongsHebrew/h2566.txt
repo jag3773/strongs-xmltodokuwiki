@@ -1,12 +1,16 @@
 ====== H2566: חַמְרָן (Chamrân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2560 ; red;
+from H2560; red;
 
 ===== Meaning =====
 
-Chamran , an Idumaean
+**Chamran**, an Idumaean
 
 ===== Definitions =====
 

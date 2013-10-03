@@ -1,12 +1,16 @@
 ====== H4885: מָשׂוֹשׂ (mâsôws) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7797 ;
+from H7797;
 
 ===== Meaning =====
 
-delight , concretely (the cause or object) or abstractly (the feeling)
+**delight**, concretely (the cause or object) or abstractly (the feeling)
 
 ===== Definitions =====
 

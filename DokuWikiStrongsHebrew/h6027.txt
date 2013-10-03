@@ -1,12 +1,16 @@
 ====== H6027: עֹנֶג (ʻôneg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6026 ;
+from H6026;
 
 ===== Meaning =====
 
-luxury
+**luxury**
 
 ===== Definitions =====
 

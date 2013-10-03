@@ -1,12 +1,16 @@
 ====== H4020: מִגְבָּלָה (migbâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1379 ;
+from H1379;
 
 ===== Meaning =====
 
-a  border
+a **border**
 
 ===== Definitions =====
 

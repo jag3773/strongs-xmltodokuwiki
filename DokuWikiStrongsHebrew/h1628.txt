@@ -1,12 +1,16 @@
 ====== H1628: גֵּרוּת (gêrûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1481 ;
+from H1481;
 
 ===== Meaning =====
 
-a (temporary)  residence
+a (temporary) **residence**
 
 ===== Definitions =====
 

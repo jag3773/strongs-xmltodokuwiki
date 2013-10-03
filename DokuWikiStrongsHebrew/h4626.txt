@@ -1,12 +1,16 @@
 ====== H4626: מַעַר (maʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6168 ;
+from H6168;
 
 ===== Meaning =====
 
-a nude place , i.e. (literally)  the pudenda , or (figuratively)  a vacant space
+**a nude place**, i.e. (literally) **the pudenda**, or (figuratively) **a vacant space**
 
 ===== Definitions =====
 

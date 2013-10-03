@@ -1,12 +1,16 @@
 ====== H2382: חֲזָיָה (Chăzâyâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2372  and  H3050 ; Jah has seen;
+from H2372 and H3050; Jah has seen;
 
 ===== Meaning =====
 
-Chazajah , an Israelite
+**Chazajah**, an Israelite
 
 ===== Definitions =====
 

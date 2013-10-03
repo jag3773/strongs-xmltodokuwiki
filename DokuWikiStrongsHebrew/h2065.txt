@@ -1,12 +1,16 @@
 ====== H2065: זֶבֶד (zebed) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2064 ;
+from H2064;
 
 ===== Meaning =====
 
-a  gift
+a **gift**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4813: מִרְיָם (Miryâm) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H4805 ;  ;
+from H4805; **rebelliously**;
 
 ===== Meaning =====
 
-rebelliously Mirjam , the name of two Israelitesses
+**Mirjam**, the name of two Israelitesses
 
 ===== Definitions =====
 

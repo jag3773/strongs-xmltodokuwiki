@@ -1,12 +1,16 @@
 ====== H5790: עוּת (ʻûwth) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-for  H5789 ;
+for H5789;
 
 ===== Meaning =====
 
-to  hasten , i.e.  succor
+to **hasten**, i.e. **succor**
 
 ===== Definitions =====
 

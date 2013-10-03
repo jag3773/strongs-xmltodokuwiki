@@ -1,12 +1,16 @@
 ====== H4608: מַעֲלֶה (maʻăleh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-an  elevation , i.e. (concretely)  acclivity  or  platform ; abstractly (the relation or state) a  rise  or (figuratively)  priority
+an **elevation**, i.e. (concretely) **acclivity** or **platform**; abstractly (the relation or state) a **rise** or (figuratively) **priority**
 
 ===== Definitions =====
 

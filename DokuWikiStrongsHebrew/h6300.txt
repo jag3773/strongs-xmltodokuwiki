@@ -1,12 +1,16 @@
 ====== H6300: פְּדַהְאֵל (Pᵉdahʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6299  and  H410 ;  ;
+from H6299 and H410; **God has ransomed**;
 
 ===== Meaning =====
 
-God has ransomed Pedahel , an Israelite
+**Pedahel**, an Israelite
 
 ===== Definitions =====
 

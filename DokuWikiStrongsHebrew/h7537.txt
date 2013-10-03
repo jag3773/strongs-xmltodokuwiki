@@ -1,12 +1,16 @@
 ====== H7537: רָקַב (râqab) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  decay  (as by worm-eating)
+to **decay** (as by worm-eating)
 
 ===== Definitions =====
 

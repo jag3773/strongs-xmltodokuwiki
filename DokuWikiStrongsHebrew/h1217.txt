@@ -1,12 +1,16 @@
 ====== H1217: בָּצֵק (bâtsêq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1216 ;
+from H1216;
 
 ===== Meaning =====
 
-dough  (as swelling by fermentation)
+**dough** (as swelling by fermentation)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7675: שֶׁבֶת (shebeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-infinitive of  H3427 ;
+infinitive of H3427;
 
 ===== Meaning =====
 
-properly,  session ; but used also concretely, an  abode  or  locality
+properly, **session**; but used also concretely, an **abode** or **locality**
 
 ===== Definitions =====
 

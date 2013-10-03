@@ -1,12 +1,16 @@
 ====== H4114: מַהְפֵּכָה (mahpêkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2015 ;
+from H2015;
 
 ===== Meaning =====
 
-a  destruction
+a **destruction**
 
 ===== Definitions =====
 

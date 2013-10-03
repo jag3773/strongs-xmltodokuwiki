@@ -1,12 +1,16 @@
 ====== H3227: יְמִינִי (yᵉmîynîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-for  H3225 ;
+for H3225;
 
 ===== Meaning =====
 
-right
+**right**
 
 ===== Definitions =====
 

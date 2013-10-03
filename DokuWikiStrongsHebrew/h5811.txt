@@ -1,12 +1,16 @@
 ====== H5811: עָזָז (ʻÂzâz) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5810 ;  ;
+from H5810; **strong**;
 
 ===== Meaning =====
 
-strong Azaz , an Israelite
+**Azaz**, an Israelite
 
 ===== Definitions =====
 

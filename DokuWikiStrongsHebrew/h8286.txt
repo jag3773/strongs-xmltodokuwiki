@@ -1,12 +1,16 @@
 ====== H8286: שְׂרוּג (Sᵉrûwg) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8276 ; tendril;
+from H8276; tendril;
 
 ===== Meaning =====
 
-Serug , a postdiluvian patriarch
+**Serug**, a postdiluvian patriarch
 
 ===== Definitions =====
 

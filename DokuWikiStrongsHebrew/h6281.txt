@@ -1,12 +1,16 @@
 ====== H6281: עֶתֶר (ʻEther) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6280 ;  ;
+from H6280; **abundance**;
 
 ===== Meaning =====
 
-abundance Ether , a place in Palestine
+**Ether**, a place in Palestine
 
 ===== Definitions =====
 

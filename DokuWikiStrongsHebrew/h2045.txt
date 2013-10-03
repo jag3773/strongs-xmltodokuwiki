@@ -1,12 +1,16 @@
 ====== H2045: הַשְׁמָעוּת (hashmâʻûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8085 ;
+from H8085;
 
 ===== Meaning =====
 
-announcement
+**announcement**
 
 ===== Definitions =====
 

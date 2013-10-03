@@ -1,12 +1,16 @@
 ====== H5492: סוּפָה (çûwphâh) ======
 
+===== Part of Speech =====
+
+n-f n-pr-loc
+
 ===== Source =====
 
-from  H5486 ;
+from H5486;
 
 ===== Meaning =====
 
-a  hurricane
+a **hurricane**
 
 ===== Definitions =====
 

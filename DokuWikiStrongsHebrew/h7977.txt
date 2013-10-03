@@ -1,12 +1,16 @@
 ====== H7977: שִׁלְחִי (Shilchîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7973 ; missive, i.e.  ;
+from H7973; missive, i.e. **armed**;
 
 ===== Meaning =====
 
-armed Shilchi , an Israelite
+**Shilchi**, an Israelite
 
 ===== Definitions =====
 

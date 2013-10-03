@@ -1,12 +1,16 @@
 ====== H4631: מְעָרָה (mᵉʻârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5783 ;
+from H5783;
 
 ===== Meaning =====
 
-a  cavern  (as dark)
+a **cavern** (as dark)
 
 ===== Definitions =====
 

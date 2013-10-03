@@ -1,12 +1,16 @@
 ====== H5209: נִין (nîyn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5125 ;
+from H5125;
 
 ===== Meaning =====
 
-progeny
+**progeny**
 
 ===== Definitions =====
 

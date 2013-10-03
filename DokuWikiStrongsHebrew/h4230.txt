@@ -1,12 +1,16 @@
 ====== H4230: מְחוּגָה (mᵉchûwgâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2328 ;
+from H2328;
 
 ===== Meaning =====
 
-an instrument for marking a circle, i.e.  compasses
+an instrument for marking a circle, i.e. **compasses**
 
 ===== Definitions =====
 

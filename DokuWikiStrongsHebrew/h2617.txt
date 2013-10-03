@@ -1,12 +1,16 @@
 ====== H2617: חֶסֶד (cheçed) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2616 ;
+from H2616;
 
 ===== Meaning =====
 
-kindness ; by implication (towards God)  piety ; rarely (by opposition)  reproof , or (subject.)  beauty
+**kindness**; by implication (towards God) **piety**; rarely (by opposition) **reproof**, or (subject.) **beauty**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H708: אֶרֶג (ʼereg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H707 ;
+from H707;
 
 ===== Meaning =====
 
-a  weaving ; a  braid ; also a  shuttle
+a **weaving**; a **braid**; also a **shuttle**
 
 ===== Definitions =====
 

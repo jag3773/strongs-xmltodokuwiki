@@ -1,12 +1,16 @@
 ====== H5856: עִי (ʻîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5753 ;
+from H5753;
 
 ===== Meaning =====
 
-a  ruin  (as if overturned)
+a **ruin** (as if overturned)
 
 ===== Definitions =====
 

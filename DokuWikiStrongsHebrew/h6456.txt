@@ -1,12 +1,16 @@
 ====== H6456: פְּסִיל (pᵉçîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6458 ;
+from H6458;
 
 ===== Meaning =====
 
-an  idol
+an **idol**
 
 ===== Definitions =====
 

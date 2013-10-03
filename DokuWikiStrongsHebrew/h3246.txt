@@ -1,12 +1,16 @@
 ====== H3246: יְסֻד (yᵉçud) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3245 ;
+from H3245;
 
 ===== Meaning =====
 
-a  foundation  (figuratively, i.e. beginning)
+a **foundation** (figuratively, i.e. beginning)
 
 ===== Definitions =====
 

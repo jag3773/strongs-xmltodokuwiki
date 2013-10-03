@@ -1,12 +1,16 @@
 ====== H7948: שָׁלָב (shâlâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7947 ;
+from H7947;
 
 ===== Meaning =====
 
-a  spacer  or  raised interval , i.e. the  stile in a frame  or  panel
+a **spacer** or **raised interval**, i.e. the **stile in a frame** or **panel**
 
 ===== Definitions =====
 

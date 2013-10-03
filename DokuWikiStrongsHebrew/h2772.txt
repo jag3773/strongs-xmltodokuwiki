@@ -1,12 +1,16 @@
 ====== H2772: חֹרֹנִי (Chôrônîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-patrial from  H2773 ;
+patrial from H2773;
 
 ===== Meaning =====
 
-a  Choronite  or inhabitant of Choronaim
+a **Choronite** or inhabitant of Choronaim
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1447: גָּדֵר (gâdêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1443 ;
+from H1443;
 
 ===== Meaning =====
 
-a  circumvallation ; by implication, an  inclosure
+a **circumvallation**; by implication, an **inclosure**
 
 ===== Definitions =====
 

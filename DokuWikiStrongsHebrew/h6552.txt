@@ -1,12 +1,16 @@
 ====== H6552: פִּרְעָתוֹן (Pirʻâthôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6546 ;  ;
+from H6546; **chieftaincy**;
 
 ===== Meaning =====
 
-chieftaincy Pirathon , a place in Palestine
+**Pirathon**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7629: שֹׁבִי (Shôbîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7617 ;  ;
+from H7617; **captor**;
 
 ===== Meaning =====
 
-captor Shobi , an Ammonite
+**Shobi**, an Ammonite
 
 ===== Definitions =====
 

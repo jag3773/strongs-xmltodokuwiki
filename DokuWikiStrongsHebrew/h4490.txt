@@ -1,12 +1,16 @@
 ====== H4490: מָנָה (mânâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4487 ;
+from H4487;
 
 ===== Meaning =====
 
-properly, something  weighed  out, i.e. (generally) a  division ; specifically (of food) a  ration ; also a  lot
+properly, something **weighed** out, i.e. (generally) a **division**; specifically (of food) a **ration**; also a **lot**
 
 ===== Definitions =====
 

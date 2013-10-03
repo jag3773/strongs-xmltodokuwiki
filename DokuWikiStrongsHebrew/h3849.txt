@@ -1,12 +1,16 @@
 ====== H3849: לֹג (lôg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root apparently meaning to deepen or hollow (like  H3537 );
+from an unused root apparently meaning to deepen or hollow (like H3537);
 
 ===== Meaning =====
 
-a  log  or  measure for liquids
+a **log** or **measure for liquids**
 
 ===== Definitions =====
 

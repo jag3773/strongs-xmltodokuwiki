@@ -1,12 +1,16 @@
 ====== H3659: כׇּנְיָהוּ (Konyâhûw) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H3204 ;
+for H3204;
 
 ===== Meaning =====
 
-Conjah , an Israelite king
+**Conjah**, an Israelite king
 
 ===== Definitions =====
 

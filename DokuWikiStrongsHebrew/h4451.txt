@@ -1,12 +1,16 @@
 ====== H4451: מַלְמָד (malmâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3925 ;
+from H3925;
 
 ===== Meaning =====
 
-a  goad  for oxen
+a **goad** for oxen
 
 ===== Definitions =====
 

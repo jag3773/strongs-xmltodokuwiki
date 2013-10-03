@@ -1,12 +1,16 @@
 ====== H6837: צִפְיוֹן (Tsiphyôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6822 ;  ;
+from H6822; **watch-tower**;
 
 ===== Meaning =====
 
-watch-tower Tsiphjon , an Israelite
+**Tsiphjon**, an Israelite
 
 ===== Definitions =====
 

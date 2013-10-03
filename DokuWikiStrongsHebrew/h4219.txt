@@ -1,12 +1,16 @@
 ====== H4219: מִזְרָק (mizrâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2236 ;
+from H2236;
 
 ===== Meaning =====
 
-a  bowl  (as if for sprinkling)
+a **bowl** (as if for sprinkling)
 
 ===== Definitions =====
 

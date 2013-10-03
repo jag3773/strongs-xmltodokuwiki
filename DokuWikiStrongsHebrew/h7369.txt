@@ -1,12 +1,16 @@
 ====== H7369: רָחֵק (râchêq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7368 ;
+from H7368;
 
 ===== Meaning =====
 
-remote
+**remote**
 
 ===== Definitions =====
 

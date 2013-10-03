@@ -1,12 +1,16 @@
 ====== H5177: נַחְשׁוֹן (Nachshôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5172 ;  ;
+from H5172; **enchanter**;
 
 ===== Meaning =====
 
-enchanter Nachshon , an Israelite
+**Nachshon**, an Israelite
 
 ===== Definitions =====
 

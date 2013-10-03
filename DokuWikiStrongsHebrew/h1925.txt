@@ -1,12 +1,16 @@
 ====== H1925: הֶדֶר (heder) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1921 ;
+from H1921;
 
 ===== Meaning =====
 
-honour ; used (figuratively) for the capital city (Jerusalem)
+**honour**; used (figuratively) for the capital city (Jerusalem)
 
 ===== Definitions =====
 

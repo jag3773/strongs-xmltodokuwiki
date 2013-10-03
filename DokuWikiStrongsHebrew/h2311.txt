@@ -1,12 +1,16 @@
 ====== H2311: חַדְלַי (Chadlay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2309 ; idle;
+from H2309; idle;
 
 ===== Meaning =====
 
-Chadlai , an Israelite
+**Chadlai**, an Israelite
 
 ===== Definitions =====
 

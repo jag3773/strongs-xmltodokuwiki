@@ -1,12 +1,16 @@
 ====== H8513: תְּלָאָה (tᵉlâʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3811 ;
+from H3811;
 
 ===== Meaning =====
 
-distress
+**distress**
 
 ===== Definitions =====
 

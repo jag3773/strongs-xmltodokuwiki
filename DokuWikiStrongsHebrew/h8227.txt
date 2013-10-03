@@ -1,12 +1,16 @@
 ====== H8227: שָׁפָן (shâphân) ======
 
+===== Part of Speech =====
+
+n-m n-pr-m
+
 ===== Source =====
 
-from  H8226 ;
+from H8226;
 
 ===== Meaning =====
 
-a species of  rock-rabbit  (from its  hiding ), i.e. probably the  hyrax
+a species of **rock-rabbit** (from its **hiding**), i.e. probably the **hyrax**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2448: חַכְלִלוּת (chaklilûwth) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2447 ;
+from H2447;
 
 ===== Meaning =====
 
-flash  (of the eyes); in a bad sense,  blearedness
+**flash** (of the eyes); in a bad sense, **blearedness**
 
 ===== Definitions =====
 

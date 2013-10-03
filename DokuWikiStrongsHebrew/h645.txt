@@ -1,12 +1,16 @@
 ====== H645: אֵפוֹ (ʼêphôw) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
-or   ; from  H6311 ;
+or ; from H6311;
 
 ===== Meaning =====
 
-strictly a demonstrative particle,  here ; but used of time,  now  or  then
+strictly a demonstrative particle, **here**; but used of time, **now** or **then**
 
 ===== Definitions =====
 

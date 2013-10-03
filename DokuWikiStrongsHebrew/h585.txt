@@ -1,12 +1,16 @@
 ====== H585: אֲנָחָה (ʼănâchâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H584 ;
+from H584;
 
 ===== Meaning =====
 
-sighing
+**sighing**
 
 ===== Definitions =====
 

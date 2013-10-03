@@ -1,12 +1,16 @@
 ====== H3250: יִסּוֹר (yiççôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3256 ;
+from H3256;
 
 ===== Meaning =====
 
-a  reprover
+a **reprover**
 
 ===== Definitions =====
 

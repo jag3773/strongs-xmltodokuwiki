@@ -1,12 +1,16 @@
 ====== H4526: מִסְגֶּרֶת (miçgereth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5462 ;
+from H5462;
 
 ===== Meaning =====
 
-something  enclosing , i.e. a  margin  (of a region, of a panel); concretely, a  stronghold
+something **enclosing**, i.e. a **margin** (of a region, of a panel); concretely, a **stronghold**
 
 ===== Definitions =====
 

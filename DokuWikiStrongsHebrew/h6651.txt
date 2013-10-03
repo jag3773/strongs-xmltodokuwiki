@@ -1,12 +1,16 @@
 ====== H6651: צָבַר (tsâbar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  aggregate
+to **aggregate**
 
 ===== Definitions =====
 

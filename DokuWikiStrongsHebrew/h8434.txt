@@ -1,12 +1,16 @@
 ====== H8434: תּוֹלָד (Tôwlâd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3205 ;  ;
+from H3205; **posterity**;
 
 ===== Meaning =====
 
-posterity Tolad , a place in Palestine
+**Tolad**, a place in Palestine
 
 ===== Definitions =====
 

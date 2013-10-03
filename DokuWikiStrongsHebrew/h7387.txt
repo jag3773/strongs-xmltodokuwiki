@@ -1,12 +1,16 @@
 ====== H7387: רֵיקָם (rêyqâm) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H7386 ;
+from H7386;
 
 ===== Meaning =====
 
-emptily ; figuratively (objective)  ineffectually , (subjective)  undeservedly
+**emptily**; figuratively (objective) **ineffectually**, (subjective) **undeservedly**
 
 ===== Definitions =====
 

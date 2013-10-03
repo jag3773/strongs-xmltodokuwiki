@@ -1,12 +1,16 @@
 ====== H5449: סַבָּל (çabbâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5445 ;
+from H5445;
 
 ===== Meaning =====
 
-a  porter
+a **porter**
 
 ===== Definitions =====
 

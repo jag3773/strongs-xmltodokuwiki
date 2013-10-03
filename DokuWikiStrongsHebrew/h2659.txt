@@ -1,12 +1,16 @@
 ====== H2659: חָפֵר (châphêr) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (perhaps rather the same as  H2658  through the idea of  );
+a primitive root (perhaps rather the same as H2658 through the idea of **detection**);
 
 ===== Meaning =====
 
-detection to  blush ; figuratively, to  be ashamed ,  disappointed ; causatively, to  shame ,  reproach
+to **blush**; figuratively, to **be ashamed**, **disappointed**; causatively, to **shame**, **reproach**
 
 ===== Definitions =====
 

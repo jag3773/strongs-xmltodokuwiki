@@ -1,12 +1,16 @@
 ====== H8300: שָׂרִיד (sârîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8277 ;
+from H8277;
 
 ===== Meaning =====
 
-a  survivor
+a **survivor**
 
 ===== Definitions =====
 

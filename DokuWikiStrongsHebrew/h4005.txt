@@ -1,12 +1,16 @@
 ====== H4005: מִבְחָר (mibchâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H977 ;
+from H977;
 
 ===== Meaning =====
 
-select , i.e. best
+**select**, i.e. best
 
 ===== Definitions =====
 

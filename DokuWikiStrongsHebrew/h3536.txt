@@ -1,12 +1,16 @@
 ====== H3536: כִּבְשָׁן (kibshân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3533 ;
+from H3533;
 
 ===== Meaning =====
 
-a smelting  furnace  (as  reducing  metals)
+a smelting **furnace** (as **reducing** metals)
 
 ===== Definitions =====
 

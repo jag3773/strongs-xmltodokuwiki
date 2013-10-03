@@ -1,12 +1,16 @@
 ====== H4327: מִין (mîyn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **portion out**;
 
 ===== Meaning =====
 
-portion out a  sort , i.e.  species
+a **sort**, i.e. **species**
 
 ===== Definitions =====
 

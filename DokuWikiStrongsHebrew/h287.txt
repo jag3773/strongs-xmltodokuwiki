@@ -1,12 +1,16 @@
 ====== H287: אֲחִימוֹת (ʼĂchîymôwth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H4191 ; brother of death;
+from H251 and H4191; brother of death;
 
 ===== Meaning =====
 
-Achimoth , an Israelite
+**Achimoth**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8667: תְּשׂוּמֶת (tᵉsûwmeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7760 ;
+from H7760;
 
 ===== Meaning =====
 
-a  deposit , i.e.  pledging
+a **deposit**, i.e. **pledging**
 
 ===== Definitions =====
 

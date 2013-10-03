@@ -1,12 +1,16 @@
 ====== H4488: מָנֶה (mâneh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4487 ;
+from H4487;
 
 ===== Meaning =====
 
-properly, a  fixed weight  or  measured amount , i.e. (techn.) a  maneh  or  mina
+properly, a **fixed weight** or **measured amount**, i.e. (techn.) a **maneh** or **mina**
 
 ===== Definitions =====
 

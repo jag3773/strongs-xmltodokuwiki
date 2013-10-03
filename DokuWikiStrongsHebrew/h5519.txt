@@ -1,12 +1,16 @@
 ====== H5519: סָךְ (çâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5526 ;
+from H5526;
 
 ===== Meaning =====
 
-properly, a  thicket of men , i.e. a  crowd
+properly, a **thicket of men**, i.e. a **crowd**
 
 ===== Definitions =====
 

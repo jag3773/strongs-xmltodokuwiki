@@ -1,12 +1,16 @@
 ====== H415: אֵל אֱלֹהֵי יִשְׂרָאֵל (ʼÊl ʼĕlôhêy Yisrâʼêl) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H410  and  H430  and  H3478 ; the mighty god if Jisrael;
+from H410 and H430 and H3478; the mighty god if Jisrael;
 
 ===== Meaning =====
 
-El-Elohi-Jisrael , the title given to a consecrated spot by Jacob
+**El-Elohi-Jisrael**, the title given to a consecrated spot by Jacob
 
 ===== Definitions =====
 

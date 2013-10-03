@@ -1,12 +1,16 @@
 ====== H7015: קִינָה (qîynâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6969 ;
+from H6969;
 
 ===== Meaning =====
 
-a  dirge  (as accompanied by beating the breasts or on instruments)
+a **dirge** (as accompanied by beating the breasts or on instruments)
 
 ===== Definitions =====
 

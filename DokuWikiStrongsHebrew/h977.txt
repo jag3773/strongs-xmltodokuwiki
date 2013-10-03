@@ -1,12 +1,16 @@
 ====== H977: בָּחַר (bâchar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  try , i.e. (by implication)  select
+properly, to **try**, i.e. (by implication) **select**
 
 ===== Definitions =====
 

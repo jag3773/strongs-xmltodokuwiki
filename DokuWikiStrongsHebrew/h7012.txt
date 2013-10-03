@@ -1,12 +1,16 @@
 ====== H7012: קִימָה (qîymâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6965 ;
+from H6965;
 
 ===== Meaning =====
 
-an  arising
+an **arising**
 
 ===== Definitions =====
 

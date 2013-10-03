@@ -1,12 +1,16 @@
 ====== H5608: סָפַר (çâphar) ======
 
+===== Part of Speech =====
+
+v n-m
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  score  with a mark as a tally or record, i.e. (by implication) to  inscribe , and also to  enumerate ; intensively, to  recount , i.e.  celebrate
+properly, to **score** with a mark as a tally or record, i.e. (by implication) to **inscribe**, and also to **enumerate**; intensively, to **recount**, i.e. **celebrate**
 
 ===== Definitions =====
 

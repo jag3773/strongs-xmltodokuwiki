@@ -1,12 +1,16 @@
 ====== H124: אֹדֶם (ʼôdem) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H119 ;
+from H119;
 
 ===== Meaning =====
 
-redness , i.e. the  ruby ,  garnet , or some other red gem
+**redness**, i.e. the **ruby**, **garnet**, or some other red gem
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5205: נִיד (nîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5110 ;
+from H5110;
 
 ===== Meaning =====
 
-motion  (of the lips in speech)
+**motion** (of the lips in speech)
 
 ===== Definitions =====
 

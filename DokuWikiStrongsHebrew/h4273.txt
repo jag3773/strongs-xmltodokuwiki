@@ -1,12 +1,16 @@
 ====== H4273: מַחַץ (machats) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4272 ;
+from H4272;
 
 ===== Meaning =====
 
-a  contusion
+a **contusion**
 
 ===== Definitions =====
 

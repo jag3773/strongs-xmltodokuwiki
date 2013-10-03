@@ -1,12 +1,16 @@
 ====== H1635: גֶּרֶם (gerem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H1634 ;
+(Aramaic) corresponding to H1634;
 
 ===== Meaning =====
 
-a  bone
+a **bone**
 
 ===== Definitions =====
 

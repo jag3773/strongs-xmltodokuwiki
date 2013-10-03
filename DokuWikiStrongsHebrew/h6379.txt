@@ -1,12 +1,16 @@
 ====== H6379: פָּכָה (pâkâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  pour
+to **pour**
 
 ===== Definitions =====
 

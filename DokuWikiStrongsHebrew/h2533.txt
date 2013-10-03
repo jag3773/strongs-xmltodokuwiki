@@ -1,12 +1,16 @@
 ====== H2533: חֶמְדָּן (Chemdân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2531 ;  ;
+from H2531; **pleasant**;
 
 ===== Meaning =====
 
-pleasant Chemdan , an Idumaean
+**Chemdan**, an Idumaean
 
 ===== Definitions =====
 

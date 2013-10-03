@@ -1,12 +1,16 @@
 ====== H487: אַלַּמֶּלֶךְ (ʼAllammelek) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H427  and  H4428 ; oak of (the) king;
+from H427 and H4428; oak of (the) king;
 
 ===== Meaning =====
 
-Allammelek , a place in Palestine
+**Allammelek**, a place in Palestine
 
 ===== Definitions =====
 

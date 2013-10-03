@@ -1,12 +1,16 @@
 ====== H127: אֲדָמָה (ʼădâmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H119 ;
+from H119;
 
 ===== Meaning =====
 
-soil  (from its general redness)
+**soil** (from its general redness)
 
 ===== Definitions =====
 

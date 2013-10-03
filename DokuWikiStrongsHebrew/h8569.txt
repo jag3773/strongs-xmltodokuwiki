@@ -1,12 +1,16 @@
 ====== H8569: תְּנוּאָה (tᵉnûwʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5106 ;
+from H5106;
 
 ===== Meaning =====
 
-alienation ; by implication,  enmity
+**alienation**; by implication, **enmity**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4359: מִכְלָל (miklâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3634 ;
+from H3634;
 
 ===== Meaning =====
 
-perfection  (of beauty)
+**perfection** (of beauty)
 
 ===== Definitions =====
 

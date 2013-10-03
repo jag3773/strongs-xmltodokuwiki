@@ -1,12 +1,16 @@
 ====== H5708: עֵד (ʻêd) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from an unused root meaning to   a period (compare  H5710 ,  H5749 );
+from an unused root meaning to **set** a period (compare H5710, H5749);
 
 ===== Meaning =====
 
-set the  menstrual  flux (as periodical); by implication (in plural)  soiling
+the **menstrual** flux (as periodical); by implication (in plural) **soiling**
 
 ===== Definitions =====
 

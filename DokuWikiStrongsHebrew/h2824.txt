@@ -1,12 +1,16 @@
 ====== H2824: חֶשְׁכָה (cheshkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2821 ;
+from H2821;
 
 ===== Meaning =====
 
-darkness
+**darkness**
 
 ===== Definitions =====
 

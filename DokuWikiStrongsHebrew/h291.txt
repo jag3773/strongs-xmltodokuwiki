@@ -1,12 +1,16 @@
 ====== H291: אַחְיָן (ʼAchyân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251 ; brotherly;
+from H251; brotherly;
 
 ===== Meaning =====
 
-Achjan , an Israelite
+**Achjan**, an Israelite
 
 ===== Definitions =====
 

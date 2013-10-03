@@ -1,12 +1,16 @@
 ====== H8383: תְּאֻן (tᵉʼun) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H205 ;
+from H205;
 
 ===== Meaning =====
 
-naughtiness , i.e.  toil
+**naughtiness**, i.e. **toil**
 
 ===== Definitions =====
 

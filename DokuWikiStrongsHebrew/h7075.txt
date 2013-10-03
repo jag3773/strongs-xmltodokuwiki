@@ -1,12 +1,16 @@
 ====== H7075: קִנְיָן (qinyân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7069 ;
+from H7069;
 
 ===== Meaning =====
 
-creation , i.e. (concretely)  creatures ; also  acquisition ,  purchase ,  wealth
+**creation**, i.e. (concretely) **creatures**; also **acquisition**, **purchase**, **wealth**
 
 ===== Definitions =====
 

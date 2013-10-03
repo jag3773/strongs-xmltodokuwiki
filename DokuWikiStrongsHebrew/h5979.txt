@@ -1,12 +1,16 @@
 ====== H5979: עֶמְדָּה (ʻemdâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5975 ;
+from H5975;
 
 ===== Meaning =====
 
-a  station , i.e.  domicile
+a **station**, i.e. **domicile**
 
 ===== Definitions =====
 

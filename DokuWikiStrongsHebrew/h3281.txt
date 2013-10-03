@@ -1,12 +1,16 @@
 ====== H3281: יַעְלָם (Yaʻlâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5956 ;  ;
+from H5956; **occult**;
 
 ===== Meaning =====
 
-occult Jalam , an Edomite
+**Jalam**, an Edomite
 
 ===== Definitions =====
 

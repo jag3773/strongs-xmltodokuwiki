@@ -1,12 +1,16 @@
 ====== H4984: מִתְנַשֵּׂא (mithnassêʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5375 ;
+from H5375;
 
 ===== Meaning =====
 
-(used as abstractly)  supreme exaltation
+(used as abstractly) **supreme exaltation**
 
 ===== Definitions =====
 

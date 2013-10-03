@@ -1,12 +1,16 @@
 ====== H4563: מִסְתּוֹר (miçtôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5641 ;
+from H5641;
 
 ===== Meaning =====
 
-a  refuge
+a **refuge**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4903: מִשְׁכַּב (mishkab) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H4904 ;
+(Aramaic) corresponding to H4904;
 
 ===== Meaning =====
 
-a  bed
+a **bed**
 
 ===== Definitions =====
 

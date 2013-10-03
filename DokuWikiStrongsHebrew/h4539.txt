@@ -1,12 +1,16 @@
 ====== H4539: מָסָךְ (mâçâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5526 ;
+from H5526;
 
 ===== Meaning =====
 
-a  cover , i.e.  veil
+a **cover**, i.e. **veil**
 
 ===== Definitions =====
 

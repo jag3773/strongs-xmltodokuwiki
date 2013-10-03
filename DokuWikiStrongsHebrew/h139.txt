@@ -1,12 +1,16 @@
 ====== H139: אֲדֹנִי־צֶדֶק (ʼĂdônîy-Tsedeq) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H113  and  H6664 ; lord of justice;
+from H113 and H6664; lord of justice;
 
 ===== Meaning =====
 
-Adoni-Tsedek , a Canaanitish king
+**Adoni-Tsedek**, a Canaanitish king
 
 ===== Definitions =====
 

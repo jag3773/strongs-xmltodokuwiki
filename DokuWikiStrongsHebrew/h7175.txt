@@ -1,12 +1,16 @@
 ====== H7175: קֶרֶשׁ (qeresh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to   off;
+from an unused root meaning to **split** off;
 
 ===== Meaning =====
 
-split a  slab  or plank; by implication, a  deck  of a ship
+a **slab** or plank; by implication, a **deck** of a ship
 
 ===== Definitions =====
 

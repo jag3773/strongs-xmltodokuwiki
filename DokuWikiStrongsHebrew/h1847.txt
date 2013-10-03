@@ -1,12 +1,16 @@
 ====== H1847: דַּעַת (daʻath) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H3045 ;
+from H3045;
 
 ===== Meaning =====
 
-knowledge
+**knowledge**
 
 ===== Definitions =====
 

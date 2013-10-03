@@ -1,12 +1,16 @@
 ====== H8358: שְׁתִי (shᵉthîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8354 ;
+from H8354;
 
 ===== Meaning =====
 
-intoxicaion
+**intoxicaion**
 
 ===== Definitions =====
 

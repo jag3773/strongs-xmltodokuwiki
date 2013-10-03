@@ -1,12 +1,16 @@
 ====== H2390: חָזֵק (châzêq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2388 ;
+from H2388;
 
 ===== Meaning =====
 
-powerful
+**powerful**
 
 ===== Definitions =====
 

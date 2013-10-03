@@ -1,12 +1,16 @@
 ====== H8570: תְּנוּבָה (tᵉnûwbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5107 ;
+from H5107;
 
 ===== Meaning =====
 
-produce
+**produce**
 
 ===== Definitions =====
 

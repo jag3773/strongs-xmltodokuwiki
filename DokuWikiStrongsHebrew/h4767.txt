@@ -1,12 +1,16 @@
 ====== H4767: מִרְבָּה (mirbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7235 ;
+from H7235;
 
 ===== Meaning =====
 
-abundance , i.e. a  great quantity
+**abundance**, i.e. a **great quantity**
 
 ===== Definitions =====
 

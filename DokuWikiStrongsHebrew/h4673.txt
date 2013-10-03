@@ -1,12 +1,16 @@
 ====== H4673: מַצָּב (matstsâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5324 ;
+from H5324;
 
 ===== Meaning =====
 
-a fixed  spot ; figuratively, an  office , a military  post
+a fixed **spot**; figuratively, an **office**, a military **post**
 
 ===== Definitions =====
 

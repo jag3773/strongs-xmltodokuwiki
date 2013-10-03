@@ -1,12 +1,16 @@
 ====== H2728: חָרְגֹּל (chârᵉgôl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2727 ;
+from H2727;
 
 ===== Meaning =====
 
-the  leaping insect , i.e. a  locust
+the **leaping insect**, i.e. a **locust**
 
 ===== Definitions =====
 

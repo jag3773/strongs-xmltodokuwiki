@@ -1,12 +1,16 @@
 ====== H2292: חַגַּי (Chaggay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2282 ;  ;
+from H2282; **festive**;
 
 ===== Meaning =====
 
-festive Chaggai , a Hebrew prophet
+**Chaggai**, a Hebrew prophet
 
 ===== Definitions =====
 

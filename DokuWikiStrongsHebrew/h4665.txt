@@ -1,12 +1,16 @@
 ====== H4665: מִפְרֶקֶת (miphreqeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6561 ;
+from H6561;
 
 ===== Meaning =====
 
-properly, a  fracture , i.e.  joint  (vertebrae) of the neck
+properly, a **fracture**, i.e. **joint** (vertebrae) of the neck
 
 ===== Definitions =====
 

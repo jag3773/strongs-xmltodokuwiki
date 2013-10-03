@@ -1,12 +1,16 @@
 ====== H8475: תַּחְרֵעַ (Tachrêaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H8390 ;
+for H8390;
 
 ===== Meaning =====
 
-Tachrea , an Israelite
+**Tachrea**, an Israelite
 
 ===== Definitions =====
 

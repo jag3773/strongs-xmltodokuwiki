@@ -1,12 +1,16 @@
 ====== H1808: דָּלִיָּה (dâlîyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1802 ;
+from H1802;
 
 ===== Meaning =====
 
-something  dangling , i.e. a  bough
+something **dangling**, i.e. a **bough**
 
 ===== Definitions =====
 

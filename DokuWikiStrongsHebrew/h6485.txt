@@ -1,12 +1,16 @@
 ====== H6485: פָּקַד (pâqad) ======
 
+===== Part of Speech =====
+
+v n-m
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  visit  (with friendly or hostile intent); by analogy, to  oversee ,  muster ,  charge ,  care for ,  miss ,  deposit , etc.
+to **visit** (with friendly or hostile intent); by analogy, to **oversee**, **muster**, **charge**, **care for**, **miss**, **deposit**, etc.
 
 ===== Definitions =====
 

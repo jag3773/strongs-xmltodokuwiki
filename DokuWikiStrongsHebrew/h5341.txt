@@ -1,12 +1,16 @@
 ====== H5341: נָצַר (nâtsar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  guard , in a good sense (to  protect ,  maintain ,  obey , etc.) or a bad one (to  conceal , etc.)
+to **guard**, in a good sense (to **protect**, **maintain**, **obey**, etc.) or a bad one (to **conceal**, etc.)
 
 ===== Definitions =====
 

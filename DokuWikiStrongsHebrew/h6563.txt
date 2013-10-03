@@ -1,12 +1,16 @@
 ====== H6563: פֶּרֶק (pereq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6561 ;
+from H6561;
 
 ===== Meaning =====
 
-rapine ; also a  fork  (in roads)
+**rapine**; also a **fork** (in roads)
 
 ===== Definitions =====
 

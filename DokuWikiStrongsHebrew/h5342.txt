@@ -1,12 +1,16 @@
 ====== H5342: נֵצֶר (nêtser) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5341  in the sense of   as a striking color;
+from H5341 in the sense of **greenness** as a striking color;
 
 ===== Meaning =====
 
-greenness a  shoot ; figuratively, a  descendant
+a **shoot**; figuratively, a **descendant**
 
 ===== Definitions =====
 

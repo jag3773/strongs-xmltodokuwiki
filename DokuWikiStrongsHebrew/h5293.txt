@@ -1,12 +1,16 @@
 ====== H5293: נַעֲרַי (Naʻăray) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5288 ;  ;
+from H5288; **youthful**;
 
 ===== Meaning =====
 
-youthful Naarai , an Israelite
+**Naarai**, an Israelite
 
 ===== Definitions =====
 

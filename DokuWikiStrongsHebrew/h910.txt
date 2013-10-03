@@ -1,12 +1,16 @@
 ====== H910: בָּדָד (bâdâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H909 ;
+from H909;
 
 ===== Meaning =====
 
-separate ; adverb,  separately
+**separate**; adverb, **separately**
 
 ===== Definitions =====
 

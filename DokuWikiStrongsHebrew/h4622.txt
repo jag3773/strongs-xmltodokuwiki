@@ -1,12 +1,16 @@
 ====== H4622: מַעְצוֹר (maʻtsôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6113 ;
+from H6113;
 
 ===== Meaning =====
 
-objectively, a  hindrance
+objectively, a **hindrance**
 
 ===== Definitions =====
 

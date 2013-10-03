@@ -1,12 +1,16 @@
 ====== H2536: חַמּוּאֵל (Chammûwʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2535  and  H410 ; anger of God;
+from H2535 and H410; anger of God;
 
 ===== Meaning =====
 
-Chammuel , an Israelite
+**Chammuel**, an Israelite
 
 ===== Definitions =====
 

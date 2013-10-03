@@ -1,12 +1,16 @@
 ====== H5277: נַעַם (Naʻam) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5276 ;  ;
+from H5276; **pleasure**;
 
 ===== Meaning =====
 
-pleasure Naam , an Israelite
+**Naam**, an Israelite
 
 ===== Definitions =====
 

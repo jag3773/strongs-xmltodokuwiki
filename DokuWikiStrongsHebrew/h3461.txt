@@ -1,12 +1,16 @@
 ====== H3461: יִשְׁמְרַי (Yishmᵉray) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8104 ;  ;
+from H8104; **preservative**;
 
 ===== Meaning =====
 
-preservative Jishmerai , an Israelite
+**Jishmerai**, an Israelite
 
 ===== Definitions =====
 

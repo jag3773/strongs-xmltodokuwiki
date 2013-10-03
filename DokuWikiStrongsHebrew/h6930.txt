@@ -1,12 +1,16 @@
 ====== H6930: קַדְמוֹן (qadmôwn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6923 ;
+from H6923;
 
 ===== Meaning =====
 
-eastern
+**eastern**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5733: עַדְנָא (ʻAdnâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5727 ;  ;
+from H5727; **pleasure**;
 
 ===== Meaning =====
 
-pleasure Adna , the name of two Israelites
+**Adna**, the name of two Israelites
 
 ===== Definitions =====
 

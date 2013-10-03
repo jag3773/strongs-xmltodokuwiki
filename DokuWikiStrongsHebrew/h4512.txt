@@ -1,12 +1,16 @@
 ====== H4512: מִנְלֶה (minleh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5239 ;
+from H5239;
 
 ===== Meaning =====
 
-completion , i.e. (in produce)  wealth
+**completion**, i.e. (in produce) **wealth**
 
 ===== Definitions =====
 

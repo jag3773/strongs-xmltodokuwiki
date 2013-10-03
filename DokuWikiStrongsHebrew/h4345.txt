@@ -1,12 +1,16 @@
 ====== H4345: מַכְבֵּר (makbêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3527  in the sense of covering (compare  H3531 );
+from H3527 in the sense of covering (compare H3531);
 
 ===== Meaning =====
 
-a  grate
+a **grate**
 
 ===== Definitions =====
 

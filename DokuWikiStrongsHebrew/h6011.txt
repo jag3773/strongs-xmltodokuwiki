@@ -1,12 +1,16 @@
 ====== H6011: עֹמֶק (ʻômeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6009 ;
+from H6009;
 
 ===== Meaning =====
 
-depth
+**depth**
 
 ===== Definitions =====
 

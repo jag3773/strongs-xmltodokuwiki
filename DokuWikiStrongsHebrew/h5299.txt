@@ -1,12 +1,16 @@
 ====== H5299: נָפָה (nâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5130  in the sense of  ;
+from H5130 in the sense of **lifting**;
 
 ===== Meaning =====
 
-lifting a  sieve
+a **sieve**
 
 ===== Definitions =====
 

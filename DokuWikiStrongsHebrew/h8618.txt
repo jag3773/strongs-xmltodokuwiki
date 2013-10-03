@@ -1,12 +1,16 @@
 ====== H8618: תְּקוֹמֵם (tᵉqôwmêm) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H6965 ;
+from H6965;
 
 ===== Meaning =====
 
-an  opponent
+an **opponent**
 
 ===== Definitions =====
 

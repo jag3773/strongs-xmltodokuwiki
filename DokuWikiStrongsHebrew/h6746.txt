@@ -1,12 +1,16 @@
 ====== H6746: צְלֹחִית (tsᵉlôchîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6743 ;
+from H6743;
 
 ===== Meaning =====
 
-something  prolonged  or  tall , i.e. a  vial  or  salt-cellar
+something **prolonged** or **tall**, i.e. a **vial** or **salt-cellar**
 
 ===== Definitions =====
 

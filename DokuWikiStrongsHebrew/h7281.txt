@@ -1,12 +1,16 @@
 ====== H7281: רֶגַע (regaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7280 .
+from H7280.
 
 ===== Meaning =====
 
-a  wink  (of the eyes), i.e. a very  short space  of time
+a **wink** (of the eyes), i.e. a very **short space** of time
 
 ===== Definitions =====
 

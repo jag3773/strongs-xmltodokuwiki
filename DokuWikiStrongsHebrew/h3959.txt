@@ -1,12 +1,16 @@
 ====== H3959: לֶשֶׁם (Leshem) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H3958 ;
+the same as H3958;
 
 ===== Meaning =====
 
-Leshem , a place in Palestine
+**Leshem**, a place in Palestine
 
 ===== Definitions =====
 

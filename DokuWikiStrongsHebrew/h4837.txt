@@ -1,12 +1,16 @@
 ====== H4837: מַרְצֶפֶת (martsepheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7528 ;
+from H7528;
 
 ===== Meaning =====
 
-a  pavement
+a **pavement**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8127: שֵׁן (shên) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8150 ; compare	 H8143
+from H8150; compare	H8143
 
 ===== Meaning =====
 
-a  tooth  (as  sharp ); specifically  ivory ; figuratively, a  cliff
+a **tooth** (as **sharp**); specifically **ivory**; figuratively, a **cliff**
 
 ===== Definitions =====
 

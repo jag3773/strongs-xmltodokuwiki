@@ -1,12 +1,16 @@
 ====== H2046: הִתּוּךְ (hittûwk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5413 ;
+from H5413;
 
 ===== Meaning =====
 
-a  melting
+a **melting**
 
 ===== Definitions =====
 

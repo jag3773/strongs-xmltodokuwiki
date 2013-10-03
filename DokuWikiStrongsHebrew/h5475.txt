@@ -1,12 +1,16 @@
 ====== H5475: סוֹד (çôwd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3245 ;
+from H3245;
 
 ===== Meaning =====
 
-a  session , i.e.  company  of persons (in close deliberation); by implication,  intimacy ,  consultation , a  secret
+a **session**, i.e. **company** of persons (in close deliberation); by implication, **intimacy**, **consultation**, a **secret**
 
 ===== Definitions =====
 

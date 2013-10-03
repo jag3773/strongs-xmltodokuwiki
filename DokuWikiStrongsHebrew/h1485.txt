@@ -1,12 +1,16 @@
 ====== H1485: גּוּר־בַּעַל (Gûwr-Baʻal) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1481  and  H1168 ; dwelling of Baal;
+from H1481 and H1168; dwelling of Baal;
 
 ===== Meaning =====
 
-Gur-Baal , a place in Arabia
+**Gur-Baal**, a place in Arabia
 
 ===== Definitions =====
 

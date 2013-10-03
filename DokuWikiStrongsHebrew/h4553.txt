@@ -1,12 +1,16 @@
 ====== H4553: מִסְפֵּד (miçpêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5594 ;
+from H5594;
 
 ===== Meaning =====
 
-a  lamentation
+a **lamentation**
 
 ===== Definitions =====
 

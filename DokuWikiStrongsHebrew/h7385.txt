@@ -1,12 +1,16 @@
 ====== H7385: רִיק (rîyq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7324 ;
+from H7324;
 
 ===== Meaning =====
 
-emptiness ; figuratively, a  worthless  thing; adverbially,  in vain
+**emptiness**; figuratively, a **worthless** thing; adverbially, **in vain**
 
 ===== Definitions =====
 

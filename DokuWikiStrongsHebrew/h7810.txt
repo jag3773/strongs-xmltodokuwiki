@@ -1,12 +1,16 @@
 ====== H7810: שַׁחַד (shachad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7809 ;
+from H7809;
 
 ===== Meaning =====
 
-a  donation  (venal or redemptive)
+a **donation** (venal or redemptive)
 
 ===== Definitions =====
 

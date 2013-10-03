@@ -1,12 +1,16 @@
 ====== H1975: הַלָּז (hallâz) ======
 
+===== Part of Speech =====
+
+d
+
 ===== Source =====
 
-from  H1976 ;
+from H1976;
 
 ===== Meaning =====
 
-this  or  that
+**this** or **that**
 
 ===== Definitions =====
 

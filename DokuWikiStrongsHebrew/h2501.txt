@@ -1,12 +1,16 @@
 ====== H2501: חֶלֶף (Cheleph) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H2500 ; change;
+the same as H2500; change;
 
 ===== Meaning =====
 
-Cheleph , a place in Palestine
+**Cheleph**, a place in Palestine
 
 ===== Definitions =====
 

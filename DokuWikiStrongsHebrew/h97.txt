@@ -1,12 +1,16 @@
 ====== H97: אֶגְלַיִם (ʼEglayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual of  H96 .; a  ;
+dual of H96.; a **double pond**;
 
 ===== Meaning =====
 
-double pond Eglajim , a place in Moab
+**Eglajim**, a place in Moab
 
 ===== Definitions =====
 

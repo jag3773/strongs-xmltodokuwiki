@@ -1,12 +1,16 @@
 ====== H7717: שָׂהֵד (sâhêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **testify**;
 
 ===== Meaning =====
 
-testify a  witness
+a **witness**
 
 ===== Definitions =====
 

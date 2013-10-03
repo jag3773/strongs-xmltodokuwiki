@@ -1,12 +1,16 @@
 ====== H4096: מִדְרָךְ (midrâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1869 ;
+from H1869;
 
 ===== Meaning =====
 
-a  treading , i.e. a place for stepping on
+a **treading**, i.e. a place for stepping on
 
 ===== Definitions =====
 

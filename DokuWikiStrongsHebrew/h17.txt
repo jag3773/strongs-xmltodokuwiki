@@ -1,12 +1,16 @@
 ====== H17: אֲבוֹי (ʼăbôwy) ======
 
+===== Part of Speech =====
+
+inj
+
 ===== Source =====
 
-from  H14  (in the sense of desiring);
+from H14 (in the sense of desiring);
 
 ===== Meaning =====
 
-want
+**want**
 
 ===== Definitions =====
 

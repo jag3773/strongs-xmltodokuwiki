@@ -1,12 +1,16 @@
 ====== H8323: שָׂרַר (sârar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  have  (transitively,  exercise ; reflexively,  get )  dominion
+to **have** (transitively, **exercise**; reflexively, **get**) **dominion**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5711: עָדָה (ʻÂdâh) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H5710 ; ornament;
+from H5710; ornament;
 
 ===== Meaning =====
 
-Adah , the name of two women
+**Adah**, the name of two women
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H825: אַשָּׁף (ʼashshâph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root (probably meaning to lisp, i.e. practice enchantment);
 
 ===== Meaning =====
 
-a  conjurer
+a **conjurer**
 
 ===== Definitions =====
 

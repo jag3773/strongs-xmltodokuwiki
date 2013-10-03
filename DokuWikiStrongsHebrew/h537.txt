@@ -1,12 +1,16 @@
 ====== H537: אֲמֵלָל (ʼămêlâl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H535 ;
+from H535;
 
 ===== Meaning =====
 
-languid
+**languid**
 
 ===== Definitions =====
 

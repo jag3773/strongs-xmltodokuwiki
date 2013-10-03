@@ -1,12 +1,16 @@
 ====== H7141: קֹרַח (Qôrach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7139 ;  ;
+from H7139; **ice**;
 
 ===== Meaning =====
 
-ice Korach , the name of two Edomites and three Israelites
+**Korach**, the name of two Edomites and three Israelites
 
 ===== Definitions =====
 

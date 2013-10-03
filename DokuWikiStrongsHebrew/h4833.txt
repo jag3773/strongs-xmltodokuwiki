@@ -1,12 +1,16 @@
 ====== H4833: מִרְפָּשׂ (mirpâs) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7515 ;
+from H7515;
 
 ===== Meaning =====
 
-muddled water
+**muddled water**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1950: הוֹמָם (Hôwmâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2000 ; raging;
+from H2000; raging;
 
 ===== Meaning =====
 
-Homam , an Edomitish chieftain
+**Homam**, an Edomitish chieftain
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H49: אֲבִישַׁג (ʼĂbîyshag) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H1  and  H7686 ; father of error (i.e. blundering);
+from H1 and H7686; father of error (i.e. blundering);
 
 ===== Meaning =====
 
-Abishag , a concubine of David
+**Abishag**, a concubine of David
 
 ===== Definitions =====
 

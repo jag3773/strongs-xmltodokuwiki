@@ -1,12 +1,16 @@
 ====== H8240: שָׁפָת (shâphâth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8239 ;
+from H8239;
 
 ===== Meaning =====
 
-a (double)  stall  (for cattle); also a (two-pronged)  hook  (for flaying animals on)
+a (double) **stall** (for cattle); also a (two-pronged) **hook** (for flaying animals on)
 
 ===== Definitions =====
 

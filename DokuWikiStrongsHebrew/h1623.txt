@@ -1,12 +1,16 @@
 ====== H1623: גָּרַד (gârad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  abrade
+to **abrade**
 
 ===== Definitions =====
 

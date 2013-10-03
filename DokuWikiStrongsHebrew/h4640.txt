@@ -1,12 +1,16 @@
 ====== H4640: מַעֲשַׂי (Maʻăsay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6213 ; operative;
+from H6213; operative;
 
 ===== Meaning =====
 
-Maasai , an Israelite
+**Maasai**, an Israelite
 
 ===== Definitions =====
 

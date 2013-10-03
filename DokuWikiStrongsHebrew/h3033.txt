@@ -1,12 +1,16 @@
 ====== H3033: יְדִדוּת (yᵉdidûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3039 ;
+from H3039;
 
 ===== Meaning =====
 
-properly,  affection ; concretely, a  darling object
+properly, **affection**; concretely, a **darling object**
 
 ===== Definitions =====
 

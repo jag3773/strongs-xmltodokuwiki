@@ -1,12 +1,16 @@
 ====== H6269: עֲתָךְ (ʻĂthâk) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from an unused root meaning to sojourn;  ;
+from an unused root meaning to sojourn; **lodging**;
 
 ===== Meaning =====
 
-lodging Athak , a place in Palestine
+**Athak**, a place in Palestine
 
 ===== Definitions =====
 

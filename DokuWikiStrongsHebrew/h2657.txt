@@ -1,12 +1,16 @@
 ====== H2657: חֶפְצִי בָּהּ (Chephtsîy bâhh) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H2656  with suffixes;   (is)  ;
+from H2656 with suffixes; **my delight** (is) **in her**;
 
 ===== Meaning =====
 
-my delight in her Cheptsi-bah , a fanciful name for Palestine
+**Cheptsi-bah**, a fanciful name for Palestine
 
 ===== Definitions =====
 

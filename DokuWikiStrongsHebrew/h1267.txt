@@ -1,12 +1,16 @@
 ====== H1267: בָּרוּת (bârûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1262 ;
+from H1262;
 
 ===== Meaning =====
 
-food
+**food**
 
 ===== Definitions =====
 

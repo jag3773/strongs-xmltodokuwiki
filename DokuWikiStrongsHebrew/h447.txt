@@ -1,12 +1,16 @@
 ====== H447: אֱלִיאֵל (ʼĔlîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  repeated; God of (his) God;
+from H410 repeated; God of (his) God;
 
 ===== Meaning =====
 
-Eliel , the name of nine Israelites
+**Eliel**, the name of nine Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5602: סֵפֶל (çêphel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **depress**;
 
 ===== Meaning =====
 
-depress a  basin  (as deepened out)
+a **basin** (as deepened out)
 
 ===== Definitions =====
 

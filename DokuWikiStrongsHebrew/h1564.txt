@@ -1,12 +1,16 @@
 ====== H1564: גֹּלֶם (gôlem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1563 ;
+from H1563;
 
 ===== Meaning =====
 
-a  wrapped  (and unformed mass, i.e. as the embryo)
+a **wrapped** (and unformed mass, i.e. as the embryo)
 
 ===== Definitions =====
 

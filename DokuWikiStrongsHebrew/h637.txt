@@ -1,12 +1,16 @@
 ====== H637: אַף (ʼaph) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
 a primitive particle;
 
 ===== Meaning =====
 
-meaning  accession  (used as an adverb or conjunction); also or  yea ; adversatively  though
+meaning **accession** (used as an adverb or conjunction); also or **yea**; adversatively **though**
 
 ===== Definitions =====
 

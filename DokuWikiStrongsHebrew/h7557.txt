@@ -1,12 +1,16 @@
 ====== H7557: רַקַּת (Raqqath) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7556  in its original sense of diffusing; a beach (as expanded shingle);
+from H7556 in its original sense of diffusing; a beach (as expanded shingle);
 
 ===== Meaning =====
 
-Rakkath , a place in Palestine
+**Rakkath**, a place in Palestine
 
 ===== Definitions =====
 

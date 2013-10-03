@@ -1,12 +1,16 @@
 ====== H8368: שָׂתַר (sâthar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  break out  (as an eruption)
+to **break out** (as an eruption)
 
 ===== Definitions =====
 

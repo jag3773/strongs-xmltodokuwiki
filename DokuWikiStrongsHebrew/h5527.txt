@@ -1,12 +1,16 @@
 ====== H5527: סְכָכָה (Çᵉkâkâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5526 ;  ;
+from H5526; **inclosure**;
 
 ===== Meaning =====
 
-inclosure Secacah , a place in Palestine
+**Secacah**, a place in Palestine
 
 ===== Definitions =====
 

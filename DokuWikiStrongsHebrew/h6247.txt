@@ -1,12 +1,16 @@
 ====== H6247: עֶשֶׁת (ʻesheth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6245 ;
+from H6245;
 
 ===== Meaning =====
 
-a  fabric
+a **fabric**
 
 ===== Definitions =====
 

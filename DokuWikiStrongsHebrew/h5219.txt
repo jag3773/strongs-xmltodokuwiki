@@ -1,12 +1,16 @@
 ====== H5219: נְכֹאת (nᵉkôʼth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5218 ;
+from H5218;
 
 ===== Meaning =====
 
-properly, a  smiting , i.e. (concretely) an aromatic  gum  (perhaps styrax) (as powdered)
+properly, a **smiting**, i.e. (concretely) an aromatic **gum** (perhaps styrax) (as powdered)
 
 ===== Definitions =====
 

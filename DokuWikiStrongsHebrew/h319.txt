@@ -1,12 +1,16 @@
 ====== H319: אַחֲרִית (ʼachărîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H310 ;
+from H310;
 
 ===== Meaning =====
 
-the  last  or  end , hence, the  future ; also  posterity
+the **last** or **end**, hence, the **future**; also **posterity**
 
 ===== Definitions =====
 

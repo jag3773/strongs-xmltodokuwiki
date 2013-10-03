@@ -1,12 +1,16 @@
 ====== H3475: יֵשֶׁר (Yêsher) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3474 ; the right;
+from H3474; the right;
 
 ===== Meaning =====
 
-Jesher , an Israelite
+**Jesher**, an Israelite
 
 ===== Definitions =====
 

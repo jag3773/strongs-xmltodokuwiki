@@ -1,12 +1,16 @@
 ====== H709: אַרְגֹּב (ʼArgôb) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
-from the same as  H7263 ; stony;
+from the same as H7263; stony;
 
 ===== Meaning =====
 
-Argob , a district of Palestine
+**Argob**, a district of Palestine
 
 ===== Definitions =====
 

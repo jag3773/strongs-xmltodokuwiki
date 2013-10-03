@@ -1,12 +1,16 @@
 ====== H4182: מוֹרֶשֶׁת גַּת (Môwresheth Gath) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3423  and  H1661 ; possession of Gath;
+from H3423 and H1661; possession of Gath;
 
 ===== Meaning =====
 
-Moresheth-Gath , a place in Palestine
+**Moresheth-Gath**, a place in Palestine
 
 ===== Definitions =====
 

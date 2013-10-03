@@ -1,12 +1,16 @@
 ====== H8419: תַּהְפֻּכָה (tahpukâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2015 ;
+from H2015;
 
 ===== Meaning =====
 
-a  perversity  or  fraud
+a **perversity** or **fraud**
 
 ===== Definitions =====
 

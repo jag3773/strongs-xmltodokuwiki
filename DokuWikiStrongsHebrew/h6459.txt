@@ -1,12 +1,16 @@
 ====== H6459: פֶּסֶל (peçel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6458 ;
+from H6458;
 
 ===== Meaning =====
 
-an  idol
+an **idol**
 
 ===== Definitions =====
 

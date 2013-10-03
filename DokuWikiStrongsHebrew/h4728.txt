@@ -1,12 +1,16 @@
 ====== H4728: מַקָּחָה (maqqâchâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3947 ;
+from H3947;
 
 ===== Meaning =====
 
-something  received , i.e.  merchandise  (purchased)
+something **received**, i.e. **merchandise** (purchased)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H518: אִם (ʼim) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
 a primitive particle;
 
 ===== Meaning =====
 
-used very widely as demonstrative,  lo! ; interrogative,  whether? ; or conditional,  if ,  although ; also  Oh that! ,  when ; hence, as a negative,  not
+used very widely as demonstrative, **lo!**; interrogative, **whether?**; or conditional, **if**, **although**; also **Oh that!**, **when**; hence, as a negative, **not**
 
 ===== Definitions =====
 

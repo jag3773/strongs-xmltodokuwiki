@@ -1,12 +1,16 @@
 ====== H6375: פִּיק (pîyq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6329 ;
+from H6329;
 
 ===== Meaning =====
 
-a  tottering
+a **tottering**
 
 ===== Definitions =====
 

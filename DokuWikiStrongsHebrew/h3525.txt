@@ -1,12 +1,16 @@
 ====== H3525: כֶּבֶל (kebel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to twine or braid together;
 
 ===== Meaning =====
 
-a  fetter
+a **fetter**
 
 ===== Definitions =====
 

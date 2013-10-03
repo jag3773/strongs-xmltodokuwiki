@@ -1,12 +1,16 @@
 ====== H5877: עֵין חָצוֹר (ʻÊyn Châtsôwr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and the same as  H2674 ;  ;
+from H5869 and the same as H2674; **fountain of a village**;
 
 ===== Meaning =====
 
-fountain of a village En-Chatsor , a place in Palestine
+**En-Chatsor**, a place in Palestine
 
 ===== Definitions =====
 

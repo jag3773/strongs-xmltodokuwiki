@@ -1,12 +1,16 @@
 ====== H7377: רִי (rîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7301 ;
+from H7301;
 
 ===== Meaning =====
 
-irrigation , i.e. a  shower
+**irrigation**, i.e. a **shower**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7983: שִׁלְטוֹן (shilṭôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7980 ;
+from H7980;
 
 ===== Meaning =====
 
-a  potentate
+a **potentate**
 
 ===== Definitions =====
 

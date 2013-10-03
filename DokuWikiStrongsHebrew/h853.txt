@@ -1,12 +1,16 @@
 ====== H853: אֵת (ʼêth) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
-apparent contracted from  H226  in the demonstrative sense of  ;
+apparent contracted from H226 in the demonstrative sense of **entity**;
 
 ===== Meaning =====
 
-entity properly,  self  (but generally used to point out more definitely the object of a verb or preposition,  even  or  namely )
+properly, **self** (but generally used to point out more definitely the object of a verb or preposition, **even** or **namely**)
 
 ===== Definitions =====
 

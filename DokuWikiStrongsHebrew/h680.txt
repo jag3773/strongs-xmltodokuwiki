@@ -1,12 +1,16 @@
 ====== H680: אָצַל (ʼâtsal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  join ; used only as a denominative from  H681 ; to  separate ; hence, to  select ,  refuse ,  contract
+properly, to **join**; used only as a denominative from H681; to **separate**; hence, to **select**, **refuse**, **contract**
 
 ===== Definitions =====
 

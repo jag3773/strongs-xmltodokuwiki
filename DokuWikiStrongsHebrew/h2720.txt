@@ -1,12 +1,16 @@
 ====== H2720: חָרֵב (chârêb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2717 ;
+from H2717;
 
 ===== Meaning =====
 
-parched  or  ruined
+**parched** or **ruined**
 
 ===== Definitions =====
 

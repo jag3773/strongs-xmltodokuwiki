@@ -1,12 +1,16 @@
 ====== H79: אָבַק (ʼâbaq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root, probably to   away (as vapor), but used only as denominative from  H80 ;
+a primitive root, probably to **float** away (as vapor), but used only as denominative from H80;
 
 ===== Meaning =====
 
-float to  bedust , i.e.  grapple
+to **bedust**, i.e. **grapple**
 
 ===== Definitions =====
 

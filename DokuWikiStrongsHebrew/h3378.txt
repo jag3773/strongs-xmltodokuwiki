@@ -1,12 +1,16 @@
 ====== H3378: יְרֻבַּעַל (Yᵉrubbaʻal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7378  and  H1168 ; Baal will contend;
+from H7378 and H1168; Baal will contend;
 
 ===== Meaning =====
 
-Jerubbaal , a symbolic name of Gideon
+**Jerubbaal**, a symbolic name of Gideon
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4733: מִקְלָט (miqlâṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7038  in the sense of   in;
+from H7038 in the sense of **taking** in;
 
 ===== Meaning =====
 
-taking an  asylum  (as a  receptacle )
+an **asylum** (as a **receptacle**)
 
 ===== Definitions =====
 

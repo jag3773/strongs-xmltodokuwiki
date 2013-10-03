@@ -1,12 +1,16 @@
 ====== H8228: שֶׁפַע (shephaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **abound**;
 
 ===== Meaning =====
 
-abound resources
+**resources**
 
 ===== Definitions =====
 

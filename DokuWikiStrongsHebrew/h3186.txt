@@ -1,12 +1,16 @@
 ====== H3186: יָחַר (yâchar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  delay
+to **delay**
 
 ===== Definitions =====
 

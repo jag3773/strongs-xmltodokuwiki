@@ -1,12 +1,16 @@
 ====== H5305: נָפִישׁ (Nâphîysh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5314 ;  ;
+from H5314; **refreshed**;
 
 ===== Meaning =====
 
-refreshed Naphish , a son of Ishmael, and his posterity
+**Naphish**, a son of Ishmael, and his posterity
 
 ===== Definitions =====
 

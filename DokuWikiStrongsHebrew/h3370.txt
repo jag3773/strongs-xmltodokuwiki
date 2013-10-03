@@ -1,12 +1,16 @@
 ====== H3370: יׇקְשָׁן (Yoqshân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3369 ; insidious;
+from H3369; insidious;
 
 ===== Meaning =====
 
-Jokshan , an Arabian patriarch
+**Jokshan**, an Arabian patriarch
 
 ===== Definitions =====
 

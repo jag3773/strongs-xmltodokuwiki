@@ -1,12 +1,16 @@
 ====== H2965: טָרָף (ṭârâph) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2963 ;
+from H2963;
 
 ===== Meaning =====
 
-recently torn off , i.e.  fresh
+**recently torn off**, i.e. **fresh**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1193: בַּעַל תָּמָר (Baʻal Tâmâr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1167  and  H8558 ; possessor of (the) palm-tree;
+from H1167 and H8558; possessor of (the) palm-tree;
 
 ===== Meaning =====
 
-Baal-Tamar , a place in Palestine
+**Baal-Tamar**, a place in Palestine
 
 ===== Definitions =====
 

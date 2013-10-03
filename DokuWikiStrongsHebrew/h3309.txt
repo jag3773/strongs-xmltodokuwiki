@@ -1,12 +1,16 @@
 ====== H3309: יָפִיעַ (Yâphîyaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
-from  H3313 ; bright;
+from H3313; bright;
 
 ===== Meaning =====
 
-Japhia , the name of a Canaanite, an Israelite, and a place in Palestine
+**Japhia**, the name of a Canaanite, an Israelite, and a place in Palestine
 
 ===== Definitions =====
 

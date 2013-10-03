@@ -1,12 +1,16 @@
 ====== H1171: בַּעַל גָּד (Baʻal Gâd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1168  and  H1409 ; Baal of Fortune;
+from H1168 and H1409; Baal of Fortune;
 
 ===== Meaning =====
 
-Baal-Gad , a place in Syria
+**Baal-Gad**, a place in Syria
 
 ===== Definitions =====
 

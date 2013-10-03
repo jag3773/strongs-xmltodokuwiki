@@ -1,12 +1,16 @@
 ====== H2267: חֶבֶר (cheber) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2266 ;
+from H2266;
 
 ===== Meaning =====
 
-a  society ; also a  spell
+a **society**; also a **spell**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1926: הָדָר (hâdâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1921 ;
+from H1921;
 
 ===== Meaning =====
 
-magnificence , i.e. ornament or splendor
+**magnificence**, i.e. ornament or splendor
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6844: צָפִית (tsâphîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6822 ;
+from H6822;
 
 ===== Meaning =====
 
-a  sentry
+a **sentry**
 
 ===== Definitions =====
 

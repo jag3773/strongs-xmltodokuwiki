@@ -1,12 +1,16 @@
 ====== H7263: רֶגֶב (regeb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to pile together;
 
 ===== Meaning =====
 
-a  lump of clay
+a **lump of clay**
 
 ===== Definitions =====
 

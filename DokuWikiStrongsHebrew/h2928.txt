@@ -1,12 +1,16 @@
 ====== H2928: טֶלֶם (Ṭelem) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
 from an unused root meaning to break up or treat violently; oppression;
 
 ===== Meaning =====
 
-Telem , the name of a place in Idumaea, also of a temple doorkeeper
+**Telem**, the name of a place in Idumaea, also of a temple doorkeeper
 
 ===== Definitions =====
 

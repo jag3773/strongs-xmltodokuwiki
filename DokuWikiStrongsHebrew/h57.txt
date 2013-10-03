@@ -1,12 +1,16 @@
 ====== H57: אָבֵל (ʼâbêl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H56 ;
+from H56;
 
 ===== Meaning =====
 
-lamenting
+**lamenting**
 
 ===== Definitions =====
 

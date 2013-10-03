@@ -1,12 +1,16 @@
 ====== H3453: יָשִׁישׁ (yâshîysh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3486 ;
+from H3486;
 
 ===== Meaning =====
 
-an  old man
+an **old man**
 
 ===== Definitions =====
 

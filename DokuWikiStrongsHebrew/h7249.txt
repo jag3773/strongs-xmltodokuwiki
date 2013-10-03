@@ -1,12 +1,16 @@
 ====== H7249: רַב־סָרִיס (Rab-Çârîyç) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7227  and a foreign word for a eunuch; chief chamberlain;
+from H7227 and a foreign word for a eunuch; chief chamberlain;
 
 ===== Meaning =====
 
-Rab-Saris , a Babylonian official
+**Rab-Saris**, a Babylonian official
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8235: שִׁפְרָה (shiphrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8231 ;
+from H8231;
 
 ===== Meaning =====
 
-brightness
+**brightness**
 
 ===== Definitions =====
 

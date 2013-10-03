@@ -1,12 +1,16 @@
 ====== H1215: בֶּצַע (betsaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1214 ;
+from H1214;
 
 ===== Meaning =====
 
-plunder ; by extension,  gain  (usually unjust)
+**plunder**; by extension, **gain** (usually unjust)
 
 ===== Definitions =====
 

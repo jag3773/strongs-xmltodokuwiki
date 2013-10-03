@@ -1,12 +1,16 @@
 ====== H7694: שֵׁגָל (shêgâl) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7693 ;
+from H7693;
 
 ===== Meaning =====
 
-a  queen  (from cohabitation)
+a **queen** (from cohabitation)
 
 ===== Definitions =====
 

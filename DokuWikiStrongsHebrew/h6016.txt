@@ -1,12 +1,16 @@
 ====== H6016: עֹמֶר (ʻômer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6014 ;
+from H6014;
 
 ===== Meaning =====
 
-properly, a  heap , i.e. a  sheaf ; also an  omer , as a dry measure
+properly, a **heap**, i.e. a **sheaf**; also an **omer**, as a dry measure
 
 ===== Definitions =====
 

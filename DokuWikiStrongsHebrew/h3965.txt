@@ -1,12 +1,16 @@
 ====== H3965: מַאֲבוּס (maʼăbûwç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H75 ;
+from H75;
 
 ===== Meaning =====
 
-a  granary
+a **granary**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5363: נֹקֶף (nôqeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5362 ;
+from H5362;
 
 ===== Meaning =====
 
-a  threshing  (of olives)
+a **threshing** (of olives)
 
 ===== Definitions =====
 

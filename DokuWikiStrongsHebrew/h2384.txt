@@ -1,12 +1,16 @@
 ====== H2384: חִזָּיוֹן (chizzâyôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2372 ;
+from H2372;
 
 ===== Meaning =====
 
-a  revelation , expectation by  dream
+a **revelation**, expectation by **dream**
 
 ===== Definitions =====
 

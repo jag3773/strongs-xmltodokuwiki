@@ -1,8 +1,12 @@
 ====== H1868: דָּֽרְיָוֵשׁ (Dârᵉyâvêsh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H1867
+(Aramaic) corresponding to H1867
 
 ===== Meaning =====
 

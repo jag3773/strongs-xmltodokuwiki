@@ -1,12 +1,16 @@
 ====== H7552: רֶקֶם (Reqem) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H7551 ;  ;
+from H7551; **versicolor**;
 
 ===== Meaning =====
 
-versicolor Rekem , the name of a place in Palestine, also of a Midianite and an Israelite
+**Rekem**, the name of a place in Palestine, also of a Midianite and an Israelite
 
 ===== Definitions =====
 

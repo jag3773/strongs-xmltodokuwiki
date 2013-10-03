@@ -1,12 +1,16 @@
 ====== H4968: מְתוּשֶׁלַח (Mᵉthûwshelach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4962  and  H7973 ;  ;
+from H4962 and H7973; **man of a dart**;
 
 ===== Meaning =====
 
-man of a dart Methushelach , an antediluvian patriarch
+**Methushelach**, an antediluvian patriarch
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2481: חֲלִי (chălîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2470 ;
+from H2470;
 
 ===== Meaning =====
 
-a  trinket  (as polished)
+a **trinket** (as polished)
 
 ===== Definitions =====
 

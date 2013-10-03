@@ -1,12 +1,16 @@
 ====== H4662: מִפְקָד (miphqâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6485 ;
+from H6485;
 
 ===== Meaning =====
 
-an appointment , i.e.  mandate ; concretely,  a designated spot ; specifically,  a census
+**an appointment**, i.e. **mandate**; concretely, **a designated spot**; specifically, **a census**
 
 ===== Definitions =====
 

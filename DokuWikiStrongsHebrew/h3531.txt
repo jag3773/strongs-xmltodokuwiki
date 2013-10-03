@@ -1,12 +1,16 @@
 ====== H3531: כְּבָרָה (kᵉbârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3527  in its original sense;
+from H3527 in its original sense;
 
 ===== Meaning =====
 
-a  sieve  (as netted)
+a **sieve** (as netted)
 
 ===== Definitions =====
 

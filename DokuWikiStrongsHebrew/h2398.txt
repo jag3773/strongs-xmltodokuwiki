@@ -1,12 +1,16 @@
 ====== H2398: חָטָא (châṭâʼ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  miss ; hence (figuratively and generally) to  sin ; by inference, to  forfeit ,  lack ,  expiate ,  repent , (causatively)  lead astray ,  condemn
+properly, to **miss**; hence (figuratively and generally) to **sin**; by inference, to **forfeit**, **lack**, **expiate**, **repent**, (causatively) **lead astray**, **condemn**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8318: שֶׁרֶץ (sherets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8317 ;
+from H8317;
 
 ===== Meaning =====
 
-a  swarm , i.e.  active mass of minute animals
+a **swarm**, i.e. **active mass of minute animals**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2985: יָבִין (Yâbîyn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H995 ; intelligent;
+from H995; intelligent;
 
 ===== Meaning =====
 
-Jabin , the name of two Canaanitish kings
+**Jabin**, the name of two Canaanitish kings
 
 ===== Definitions =====
 

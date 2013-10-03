@@ -1,12 +1,16 @@
 ====== H8153: שְׁנָת (shᵉnâth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3462 ;
+from H3462;
 
 ===== Meaning =====
 
-sleep
+**sleep**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4417: מֶלַח (melach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4414 ;
+from H4414;
 
 ===== Meaning =====
 
-properly,  powder , i.e. (specifically)  salt  (as easily pulverized and dissolved)
+properly, **powder**, i.e. (specifically) **salt** (as easily pulverized and dissolved)
 
 ===== Definitions =====
 

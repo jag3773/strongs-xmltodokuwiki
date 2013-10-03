@@ -1,12 +1,16 @@
 ====== H7941: שֵׁכָר (shêkâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7937 ;
+from H7937;
 
 ===== Meaning =====
 
-an  intoxicant , i.e. intensely alcoholic  liquor
+an **intoxicant**, i.e. intensely alcoholic **liquor**
 
 ===== Definitions =====
 

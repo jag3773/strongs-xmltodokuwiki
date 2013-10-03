@@ -1,12 +1,16 @@
 ====== H7834: שַׁחַק (shachaq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7833 ;
+from H7833;
 
 ===== Meaning =====
 
-a  powder  (as  beaten  small); by analogy, a thin  vapor ; by extension, the  firmament
+a **powder** (as **beaten** small); by analogy, a thin **vapor**; by extension, the **firmament**
 
 ===== Definitions =====
 

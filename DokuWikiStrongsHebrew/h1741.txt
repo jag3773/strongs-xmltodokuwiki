@@ -1,12 +1,16 @@
 ====== H1741: דְּוַי (dᵉvay) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1739 ;
+from H1739;
 
 ===== Meaning =====
 
-sickness ; figuratively,  loathing
+**sickness**; figuratively, **loathing**
 
 ===== Definitions =====
 

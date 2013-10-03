@@ -1,12 +1,16 @@
 ====== H4897: מֶשִׁי (meshîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4871 ;
+from H4871;
 
 ===== Meaning =====
 
-silk  (as drawn from the cocoon)
+**silk** (as drawn from the cocoon)
 
 ===== Definitions =====
 

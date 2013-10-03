@@ -1,12 +1,16 @@
 ====== H1241: בָּקָר (bâqâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1239 ;
+from H1239;
 
 ===== Meaning =====
 
-a  beeve  or an animal of the ox family of either gender (as used for  plowing ); collectively, a  herd
+a **beeve** or an animal of the ox family of either gender (as used for **plowing**); collectively, a **herd**
 
 ===== Definitions =====
 

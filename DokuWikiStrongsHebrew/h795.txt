@@ -1,12 +1,16 @@
 ====== H795: אַשְׁדּוֹד (ʼAshdôwd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7703 ;  ;
+from H7703; **ravager**;
 
 ===== Meaning =====
 
-ravager Ashdod , a place in Palestine
+**Ashdod**, a place in Palestine
 
 ===== Definitions =====
 

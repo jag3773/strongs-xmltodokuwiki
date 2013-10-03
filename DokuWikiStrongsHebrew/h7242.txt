@@ -1,12 +1,16 @@
 ====== H7242: רָבִיד (râbîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7234 ;
+from H7234;
 
 ===== Meaning =====
 
-a  collar  (as spread around the neck)
+a **collar** (as spread around the neck)
 
 ===== Definitions =====
 

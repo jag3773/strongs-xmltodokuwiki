@@ -1,12 +1,16 @@
 ====== H7102: קְצִיעָה (qᵉtsîyʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7106 ;
+from H7106;
 
 ===== Meaning =====
 
-cassia  (as peeled; plural the bark)
+**cassia** (as peeled; plural the bark)
 
 ===== Definitions =====
 

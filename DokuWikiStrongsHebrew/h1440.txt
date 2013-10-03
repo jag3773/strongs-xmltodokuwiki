@@ -1,12 +1,16 @@
 ====== H1440: גִּדְעֹם (Gidʻôm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1438 ; a cutting (i.e. desolation);
+from H1438; a cutting (i.e. desolation);
 
 ===== Meaning =====
 
-Gidom , a place in Palestine
+**Gidom**, a place in Palestine
 
 ===== Definitions =====
 

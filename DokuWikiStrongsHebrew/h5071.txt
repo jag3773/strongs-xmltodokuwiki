@@ -1,12 +1,16 @@
 ====== H5071: נְדָבָה (nᵉdâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5068 ;
+from H5068;
 
 ===== Meaning =====
 
-properly (abstractly)  spontaneity , or (adjectively)  spontaneous ; also (concretely) a  spontaneous  or (by inference, in plural)  abundant  gift
+properly (abstractly) **spontaneity**, or (adjectively) **spontaneous**; also (concretely) a **spontaneous** or (by inference, in plural) **abundant** gift
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4738: מִקְסָם (miqçâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7080 ;
+from H7080;
 
 ===== Meaning =====
 
-an  augury
+an **augury**
 
 ===== Definitions =====
 

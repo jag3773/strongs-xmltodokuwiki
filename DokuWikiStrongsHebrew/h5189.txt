@@ -1,12 +1,16 @@
 ====== H5189: נְטִישָׁה (nᵉṭîyshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5203 ;
+from H5203;
 
 ===== Meaning =====
 
-a  tendril  (as an offshoot)
+a **tendril** (as an offshoot)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7100: קֶצַח (qetsach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root apparently meaning to  ;
+from an unused root apparently meaning to **incise**;
 
 ===== Meaning =====
 
-incise fennel-flower  (from its  pungency )
+**fennel-flower** (from its **pungency**)
 
 ===== Definitions =====
 

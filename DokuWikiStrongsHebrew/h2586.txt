@@ -1,12 +1,16 @@
 ====== H2586: חָנוּן (Chânûwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2603 ; favored;
+from H2603; favored;
 
 ===== Meaning =====
 
-Chanun , the name of an Ammonite and of two Israelites
+**Chanun**, the name of an Ammonite and of two Israelites
 
 ===== Definitions =====
 

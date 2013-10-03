@@ -1,12 +1,16 @@
 ====== H5610: סְפָר (çᵉphâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5608 ;
+from H5608;
 
 ===== Meaning =====
 
-a  census
+a **census**
 
 ===== Definitions =====
 

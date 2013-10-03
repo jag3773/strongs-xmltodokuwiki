@@ -1,12 +1,16 @@
 ====== H4771: מַרְגּוֹעַ (margôwaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7280 ;
+from H7280;
 
 ===== Meaning =====
 
-a  resting place
+a **resting place**
 
 ===== Definitions =====
 

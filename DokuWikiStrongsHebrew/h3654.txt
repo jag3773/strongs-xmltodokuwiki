@@ -1,12 +1,16 @@
 ====== H3654: כֵּן (kên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3661  in the sense of fastening; (from infixing its sting; used only in plural (and irregular in Exodus 8:17,18; Hebrews 13:14))
+from H3661 in the sense of fastening; (from infixing its sting; used only in plural (and irregular in Exodus 8:17,18; Hebrews 13:14))
 
 ===== Meaning =====
 
-a  gnat
+a **gnat**
 
 ===== Definitions =====
 

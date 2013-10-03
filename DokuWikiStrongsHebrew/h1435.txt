@@ -1,12 +1,16 @@
 ====== H1435: גִּדֵּל (Giddêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1431 ; stout;
+from H1431; stout;
 
 ===== Meaning =====
 
-Giddel , the name of one of the Nethinim, also of one of 'Solomon's servants'
+**Giddel**, the name of one of the Nethinim, also of one of 'Solomon's servants'
 
 ===== Definitions =====
 

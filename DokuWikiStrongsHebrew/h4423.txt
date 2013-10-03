@@ -1,12 +1,16 @@
 ====== H4423: מֶלֶט (meleṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4422 ,
+from H4422,
 
 ===== Meaning =====
 
-cement  (from its plastic smoothness)
+**cement** (from its plastic smoothness)
 
 ===== Definitions =====
 

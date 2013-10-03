@@ -1,12 +1,16 @@
 ====== H7207: רַאֲוָה (raʼăvâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H7200 ;
+from H7200;
 
 ===== Meaning =====
 
-sight , i.e.  satisfaction
+**sight**, i.e. **satisfaction**
 
 ===== Definitions =====
 

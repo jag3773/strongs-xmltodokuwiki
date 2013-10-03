@@ -1,12 +1,16 @@
 ====== H5231: נֵכֶל (nêkel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5230 ;
+from H5230;
 
 ===== Meaning =====
 
-deceit
+**deceit**
 
 ===== Definitions =====
 

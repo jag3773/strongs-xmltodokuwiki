@@ -1,12 +1,16 @@
 ====== H407: אַכְשָׁף (ʼAkshâph) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3784 ; fascination;
+from H3784; fascination;
 
 ===== Meaning =====
 
-Acshaph , a place in Palestine
+**Acshaph**, a place in Palestine
 
 ===== Definitions =====
 

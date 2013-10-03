@@ -1,12 +1,16 @@
 ====== H2855: חֶתְלֹן (Chethlôn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2853 ;  ;
+from H2853; **enswathed**;
 
 ===== Meaning =====
 
-enswathed Chethlon , a place in Palestine
+**Chethlon**, a place in Palestine
 
 ===== Definitions =====
 

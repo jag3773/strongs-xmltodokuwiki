@@ -1,12 +1,16 @@
 ====== H310: אַחַר (ʼachar) ======
 
+===== Part of Speech =====
+
+adv adj
+
 ===== Source =====
 
-from  H309 ;
+from H309;
 
 ===== Meaning =====
 
-properly,  the hind part ; generally used as an adverb or conjunction,  after  (in various senses)
+properly, **the hind part**; generally used as an adverb or conjunction, **after** (in various senses)
 
 ===== Definitions =====
 

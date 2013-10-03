@@ -1,12 +1,16 @@
 ====== H1164: בְּעִי (bᵉʻîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1158 ;
+from H1158;
 
 ===== Meaning =====
 
-a prayer
+**a prayer**
 
 ===== Definitions =====
 

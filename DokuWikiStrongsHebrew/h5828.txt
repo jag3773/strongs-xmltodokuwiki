@@ -1,12 +1,16 @@
 ====== H5828: עֵזֶר (ʻêzer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5826 ;
+from H5826;
 
 ===== Meaning =====
 
-aid
+**aid**
 
 ===== Definitions =====
 

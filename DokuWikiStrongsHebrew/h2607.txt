@@ -1,12 +1,16 @@
 ====== H2607: חֲנָנִי (Chănânîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2603 ; gracious;
+from H2603; gracious;
 
 ===== Meaning =====
 
-Chanani , the name of six Israelites
+**Chanani**, the name of six Israelites
 
 ===== Definitions =====
 

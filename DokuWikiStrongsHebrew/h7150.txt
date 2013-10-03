@@ -1,12 +1,16 @@
 ====== H7150: קְרִיאָה (qᵉrîyʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7121 ;
+from H7121;
 
 ===== Meaning =====
 
-a  proclamation
+a **proclamation**
 
 ===== Definitions =====
 

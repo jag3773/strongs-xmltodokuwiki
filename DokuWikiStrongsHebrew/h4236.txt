@@ -1,12 +1,16 @@
 ====== H4236: מַחֲזֶה (machăzeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2372 ;
+from H2372;
 
 ===== Meaning =====
 
-a  vision
+a **vision**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5416: נָתָן (Nâthân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5414 ;  ;
+from H5414; **given**;
 
 ===== Meaning =====
 
-given Nathan , the name of five Israelites
+**Nathan**, the name of five Israelites
 
 ===== Definitions =====
 

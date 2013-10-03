@@ -1,12 +1,16 @@
 ====== H3970: מַאֲוַי (maʼăvay) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H183 ;
+from H183;
 
 ===== Meaning =====
 
-a  desire
+a **desire**
 
 ===== Definitions =====
 

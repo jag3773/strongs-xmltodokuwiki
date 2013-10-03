@@ -1,8 +1,12 @@
 ====== H3390: יְרוּשָׁלֵם (Yᵉrûwshâlêm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-(Aramaic) corresponding to  H3389
+(Aramaic) corresponding to H3389
 
 ===== Meaning =====
 

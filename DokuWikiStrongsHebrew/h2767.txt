@@ -1,12 +1,16 @@
 ====== H2767: חׇרְמָה (Chormâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2763 ;  ;
+from H2763; **devoted**;
 
 ===== Meaning =====
 
-devoted Chormah , a place in Palestine
+**Chormah**, a place in Palestine
 
 ===== Definitions =====
 

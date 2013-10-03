@@ -1,12 +1,16 @@
 ====== H7744: שׁוּחַ (Shûwach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7743 ;  ;
+from H7743; **dell**;
 
 ===== Meaning =====
 
-dell Shuach , a son of Abraham
+**Shuach**, a son of Abraham
 
 ===== Definitions =====
 

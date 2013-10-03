@@ -1,12 +1,16 @@
 ====== H5681: עִבְרִי (ʻIbrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-the same as  H5680 ;
+the same as H5680;
 
 ===== Meaning =====
 
-Ibri , an Israelite
+**Ibri**, an Israelite
 
 ===== Definitions =====
 

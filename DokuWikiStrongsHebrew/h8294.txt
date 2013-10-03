@@ -1,12 +1,16 @@
 ====== H8294: שֶׂרַח (Serach) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-by permutation for  H5629 ;  ;
+by permutation for H5629; **superfluity**;
 
 ===== Meaning =====
 
-superfluity Serach , an Israelitess
+**Serach**, an Israelitess
 
 ===== Definitions =====
 

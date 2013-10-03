@@ -1,12 +1,16 @@
 ====== H837: אֹשֶׁר (ʼôsher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H833 ;
+from H833;
 
 ===== Meaning =====
 
-happiness
+**happiness**
 
 ===== Definitions =====
 

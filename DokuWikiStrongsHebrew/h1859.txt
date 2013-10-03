@@ -1,12 +1,16 @@
 ====== H1859: דָּר (dâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H1755 ;
+(Aramaic) corresponding to H1755;
 
 ===== Meaning =====
 
-an  age
+an **age**
 
 ===== Definitions =====
 

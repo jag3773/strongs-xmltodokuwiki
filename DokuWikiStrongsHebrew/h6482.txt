@@ -1,12 +1,16 @@
 ====== H6482: פֶּצַע (petsaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6481 ;
+from H6481;
 
 ===== Meaning =====
 
-a  wound
+a **wound**
 
 ===== Definitions =====
 

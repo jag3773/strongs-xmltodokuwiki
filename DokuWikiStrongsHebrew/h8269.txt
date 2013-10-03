@@ -1,12 +1,16 @@
 ====== H8269: שַׂר (sar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8323 ;
+from H8323;
 
 ===== Meaning =====
 
-a  head  person (of any rank or class)
+a **head** person (of any rank or class)
 
 ===== Definitions =====
 

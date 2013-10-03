@@ -1,12 +1,16 @@
 ====== H3993: מַאֲרָב (maʼărâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H693 ;
+from H693;
 
 ===== Meaning =====
 
-an  ambuscade
+an **ambuscade**
 
 ===== Definitions =====
 

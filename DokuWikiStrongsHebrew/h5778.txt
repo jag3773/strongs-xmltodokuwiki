@@ -1,12 +1,16 @@
 ====== H5778: עוֹפַי (ʻÔwphay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5775 ;  ;
+from H5775; **birdlike**;
 
 ===== Meaning =====
 
-birdlike Ephai , an Israelite
+**Ephai**, an Israelite
 
 ===== Definitions =====
 

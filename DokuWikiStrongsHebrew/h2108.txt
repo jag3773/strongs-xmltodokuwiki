@@ -1,12 +1,16 @@
 ====== H2108: זוּלָה (zûwlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2107 ;
+from H2107;
 
 ===== Meaning =====
 
-probably  scattering , i.e.  removal ; used adverbially,  except
+probably **scattering**, i.e. **removal**; used adverbially, **except**
 
 ===== Definitions =====
 

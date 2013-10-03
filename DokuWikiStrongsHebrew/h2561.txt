@@ -1,12 +1,16 @@
 ====== H2561: חֶמֶר (chemer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2560 ;
+from H2560;
 
 ===== Meaning =====
 
-wine  (as  fermenting )
+**wine** (as **fermenting**)
 
 ===== Definitions =====
 

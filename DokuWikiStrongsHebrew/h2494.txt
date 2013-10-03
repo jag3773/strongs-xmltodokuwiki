@@ -1,12 +1,16 @@
 ====== H2494: חֵלֶם (Chêlem) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2492 ; a  ;
+from H2492; a **dream**;
 
 ===== Meaning =====
 
-dream Chelem , an Israelite
+**Chelem**, an Israelite
 
 ===== Definitions =====
 

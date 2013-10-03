@@ -1,12 +1,16 @@
 ====== H7825: שְׁחִית (shᵉchîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7812 ;
+from H7812;
 
 ===== Meaning =====
 
-a  pit-fall  (literally or figuratively)
+a **pit-fall** (literally or figuratively)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5173: נַחַשׁ (nachash) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5172 ;
+from H5172;
 
 ===== Meaning =====
 
-an  incantation  or  augury
+an **incantation** or **augury**
 
 ===== Definitions =====
 

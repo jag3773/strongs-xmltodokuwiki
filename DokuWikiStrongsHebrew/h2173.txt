@@ -1,12 +1,16 @@
 ====== H2173: זִמְרָה (zimrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2168 ;
+from H2168;
 
 ===== Meaning =====
 
-pruned  (i.e. choice)  fruit
+**pruned** (i.e. choice) **fruit**
 
 ===== Definitions =====
 

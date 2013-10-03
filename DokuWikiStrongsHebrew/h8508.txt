@@ -1,12 +1,16 @@
 ====== H8508: תׇּכְנִית (toknîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8506 ;
+from H8506;
 
 ===== Meaning =====
 
-admeasurement , i.e.  consummation
+**admeasurement**, i.e. **consummation**
 
 ===== Definitions =====
 

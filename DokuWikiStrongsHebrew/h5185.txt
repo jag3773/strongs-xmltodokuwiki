@@ -1,12 +1,16 @@
 ====== H5185: נָחֵת (nâchêth) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5181 ;
+from H5181;
 
 ===== Meaning =====
 
-descending
+**descending**
 
 ===== Definitions =====
 

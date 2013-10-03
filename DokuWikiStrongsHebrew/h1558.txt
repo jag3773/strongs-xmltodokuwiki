@@ -1,12 +1,16 @@
 ====== H1558: גָּלָל (gâlâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1556 ;
+from H1556;
 
 ===== Meaning =====
 
-a  circumstance  (as rolled around); only used adverbially,  on account of
+a **circumstance** (as rolled around); only used adverbially, **on account of**
 
 ===== Definitions =====
 

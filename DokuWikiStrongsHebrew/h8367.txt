@@ -1,12 +1,16 @@
 ====== H8367: שָׁתַק (shâthaq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  subside
+to **subside**
 
 ===== Definitions =====
 

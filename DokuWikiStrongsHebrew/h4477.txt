@@ -1,12 +1,16 @@
 ====== H4477: מַמְתַּק (mamtaq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4985 ;
+from H4985;
 
 ===== Meaning =====
 
-something  sweet  (literally or figuratively)
+something **sweet** (literally or figuratively)
 
 ===== Definitions =====
 

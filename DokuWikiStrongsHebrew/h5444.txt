@@ -1,12 +1,16 @@
 ====== H5444: סִבְּכַי (Çibbᵉkay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5440 ;  ;
+from H5440; **copse-like**;
 
 ===== Meaning =====
 
-copse-like Sibbecai , an Israelite
+**Sibbecai**, an Israelite
 
 ===== Definitions =====
 

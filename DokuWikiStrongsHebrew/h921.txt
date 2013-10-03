@@ -1,12 +1,16 @@
 ====== H921: בְּדַר (bᵉdar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-(Aramaic) corresponding (by transposition) to  H6504 ;
+(Aramaic) corresponding (by transposition) to H6504;
 
 ===== Meaning =====
 
-to  scatter
+to **scatter**
 
 ===== Definitions =====
 

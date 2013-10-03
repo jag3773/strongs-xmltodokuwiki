@@ -1,12 +1,16 @@
 ====== H5336: נָצִיר (nâtsîyr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5341 ;
+from H5341;
 
 ===== Meaning =====
 
-properly,  conservative ; but used passively,  delivered
+properly, **conservative**; but used passively, **delivered**
 
 ===== Definitions =====
 

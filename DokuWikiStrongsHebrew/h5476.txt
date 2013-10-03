@@ -1,12 +1,16 @@
 ====== H5476: סוֹדִי (Çôwdîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5475 ; a  ;
+from H5475; a **confidant**;
 
 ===== Meaning =====
 
-confidant Sodi , an Israelite
+**Sodi**, an Israelite
 
 ===== Definitions =====
 

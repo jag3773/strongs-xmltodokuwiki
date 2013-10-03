@@ -1,12 +1,16 @@
 ====== H2275: חֶבְרוֹן (Chebrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
-from  H2267 ; seat of association;
+from H2267; seat of association;
 
 ===== Meaning =====
 
-Chebron , a place in Palestine, also the name of two Israelites
+**Chebron**, a place in Palestine, also the name of two Israelites
 
 ===== Definitions =====
 

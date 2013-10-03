@@ -1,12 +1,16 @@
 ====== H4370: מִכְנָס (miknâç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3647  in the sense of  ;
+from H3647 in the sense of **hiding**;
 
 ===== Meaning =====
 
-hiding (only in dual)  drawers  (from  concealing  the private parts)
+(only in dual) **drawers** (from **concealing** the private parts)
 
 ===== Definitions =====
 

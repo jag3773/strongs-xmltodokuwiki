@@ -1,12 +1,16 @@
 ====== H5960: עַלְמוֹן (ʻAlmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5956 ;  ; See also  H5963 .
+from H5956; **hidden**; See also H5963.
 
 ===== Meaning =====
 
-hidden Almon , a place in Palestine
+**Almon**, a place in Palestine
 
 ===== Definitions =====
 

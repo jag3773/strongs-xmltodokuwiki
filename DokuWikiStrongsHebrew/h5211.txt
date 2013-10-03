@@ -1,12 +1,16 @@
 ====== H5211: נִיס (nîyç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5127 ;
+from H5127;
 
 ===== Meaning =====
 
-fugitive
+**fugitive**
 
 ===== Definitions =====
 

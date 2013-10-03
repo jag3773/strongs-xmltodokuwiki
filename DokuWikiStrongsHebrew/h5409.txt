@@ -1,12 +1,16 @@
 ====== H5409: נֵתַח (nêthach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5408 ;
+from H5408;
 
 ===== Meaning =====
 
-a  fragment
+a **fragment**
 
 ===== Definitions =====
 

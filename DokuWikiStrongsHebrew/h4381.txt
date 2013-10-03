@@ -1,12 +1,16 @@
 ====== H4381: מִכְרִי (Mikrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4376 ;  ;
+from H4376; **salesman**;
 
 ===== Meaning =====
 
-salesman Mikri , an Israelite
+**Mikri**, an Israelite
 
 ===== Definitions =====
 

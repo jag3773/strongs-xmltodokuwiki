@@ -1,12 +1,16 @@
 ====== H7854: שָׂטָן (sâṭân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7853 ;
+from H7853;
 
 ===== Meaning =====
 
-an  opponent ; especially (with the article prefixed)  Satan , the arch-enemy of good
+an **opponent**; especially (with the article prefixed) **Satan**, the arch-enemy of good
 
 ===== Definitions =====
 

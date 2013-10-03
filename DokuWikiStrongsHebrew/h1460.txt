@@ -1,12 +1,16 @@
 ====== H1460: גֵּו (gêv) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1342  (corresponding to  H1354 );
+from H1342 (corresponding to H1354);
 
 ===== Meaning =====
 
-the  back ; by analogy, the  middle
+the **back**; by analogy, the **middle**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1674: דְּאָגָה (dᵉʼâgâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1672 ;
+from H1672;
 
 ===== Meaning =====
 
-anxiety
+**anxiety**
 
 ===== Definitions =====
 

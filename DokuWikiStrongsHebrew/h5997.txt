@@ -1,12 +1,16 @@
 ====== H5997: עָמִית (ʻâmîyth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from a primitive root meaning to  ;
+from a primitive root meaning to **associate**;
 
 ===== Meaning =====
 
-associate companionship ; hence (concretely) a  comrade  or kindred man
+**companionship**; hence (concretely) a **comrade** or kindred man
 
 ===== Definitions =====
 

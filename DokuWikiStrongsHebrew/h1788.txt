@@ -1,12 +1,16 @@
 ====== H1788: דִּישֹׁן (dîyshôn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1758 ;
+from H1758;
 
 ===== Meaning =====
 
-the  leaper , i.e. an  antelope
+the **leaper**, i.e. an **antelope**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8516: תַּלְבֹּשֶׁת (talbôsheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3847 ;
+from H3847;
 
 ===== Meaning =====
 
-a  garment
+a **garment**
 
 ===== Definitions =====
 

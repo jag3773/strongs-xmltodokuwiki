@@ -1,12 +1,16 @@
 ====== H4240: מְחִידָא (Mᵉchîydâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2330 ;  ;
+from H2330; **junction**;
 
 ===== Meaning =====
 
-junction Mechida , one of the Nethinim
+**Mechida**, one of the Nethinim
 
 ===== Definitions =====
 

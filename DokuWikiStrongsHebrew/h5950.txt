@@ -1,12 +1,16 @@
 ====== H5950: עֲלִילִיָּה (ʻălîylîyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-for  H5949 ;
+for H5949;
 
 ===== Meaning =====
 
-(miraculous)  execution
+(miraculous) **execution**
 
 ===== Definitions =====
 

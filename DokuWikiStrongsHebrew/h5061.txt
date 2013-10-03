@@ -1,12 +1,16 @@
 ====== H5061: נֶגַע (negaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5060 ;
+from H5060;
 
 ===== Meaning =====
 
-a  blow  (figuratively, infliction); also (by implication) a  spot  (concretely, a leprous person or dress)
+a **blow** (figuratively, infliction); also (by implication) a **spot** (concretely, a leprous person or dress)
 
 ===== Definitions =====
 

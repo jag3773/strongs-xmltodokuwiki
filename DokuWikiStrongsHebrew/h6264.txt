@@ -1,12 +1,16 @@
 ====== H6264: עָתִיד (ʻâthîyd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6257 ;
+from H6257;
 
 ===== Meaning =====
 
-prepared ; by implication,  skilful ; feminine plural the  future ; also  treasure
+**prepared**; by implication, **skilful**; feminine plural the **future**; also **treasure**
 
 ===== Definitions =====
 

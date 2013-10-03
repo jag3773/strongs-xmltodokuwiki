@@ -1,12 +1,16 @@
 ====== H1439: גִּדְעוֹן (Gidʻôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1438 ; feller (i.e. warrior);
+from H1438; feller (i.e. warrior);
 
 ===== Meaning =====
 
-Gidon , an Israelite
+**Gidon**, an Israelite
 
 ===== Definitions =====
 

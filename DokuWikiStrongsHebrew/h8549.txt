@@ -1,12 +1,16 @@
 ====== H8549: תָּמִים (tâmîym) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8552 ;
+from H8552;
 
 ===== Meaning =====
 
-entire  (literally, figuratively or morally); also (as noun)  integrity ,  truth
+**entire** (literally, figuratively or morally); also (as noun) **integrity**, **truth**
 
 ===== Definitions =====
 

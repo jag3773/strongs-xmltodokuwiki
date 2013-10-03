@@ -1,12 +1,16 @@
 ====== H238: אָזַן (ʼâzan) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; probably to  ; but used only as a denominative from  H241 ;
+a primitive root; probably to **expand**; but used only as a denominative from H241;
 
 ===== Meaning =====
 
-expand to  broaden out the ear  (with the hand), i.e. (by implication) to  listen
+to **broaden out the ear** (with the hand), i.e. (by implication) to **listen**
 
 ===== Definitions =====
 

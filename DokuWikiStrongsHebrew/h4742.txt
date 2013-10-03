@@ -1,12 +1,16 @@
 ====== H4742: מְקֻצְעָה (mᵉqutsʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7106  in the denominative sense of bending;
+from H7106 in the denominative sense of bending;
 
 ===== Meaning =====
 
-an  angle
+an **angle**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3643: כִּמְהָם (Kimhâm) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H3642 ; pining;
+from H3642; pining;
 
 ===== Meaning =====
 
-Kimham , an Israelite
+**Kimham**, an Israelite
 
 ===== Definitions =====
 

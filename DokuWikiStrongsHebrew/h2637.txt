@@ -1,12 +1,16 @@
 ====== H2637: חָסֵר (châçêr) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  lack ; by implication, to  fail ,  want ,  lessen
+to **lack**; by implication, to **fail**, **want**, **lessen**
 
 ===== Definitions =====
 

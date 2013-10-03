@@ -1,12 +1,16 @@
 ====== H7406: רֶכֶס (rekeç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7405 ;
+from H7405;
 
 ===== Meaning =====
 
-a mountain  ridge  (as of  tied  summits)
+a mountain **ridge** (as of **tied** summits)
 
 ===== Definitions =====
 

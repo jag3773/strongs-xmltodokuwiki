@@ -1,12 +1,16 @@
 ====== H234: אַזְכָּרָה (ʼazkârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2142 ;
+from H2142;
 
 ===== Meaning =====
 
-a  reminder ; specifically  remembrance-offering
+a **reminder**; specifically **remembrance-offering**
 
 ===== Definitions =====
 

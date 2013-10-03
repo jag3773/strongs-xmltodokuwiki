@@ -1,12 +1,16 @@
 ====== H1205: בְּעָתָה (bᵉʻâthâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1204 ;
+from H1204;
 
 ===== Meaning =====
 
-fear
+**fear**
 
 ===== Definitions =====
 

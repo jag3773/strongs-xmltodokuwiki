@@ -1,12 +1,16 @@
 ====== H4867: מִשְׁבָּר (mishbâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7665 ;
+from H7665;
 
 ===== Meaning =====
 
-a  breaker  (of the sea)
+a **breaker** (of the sea)
 
 ===== Definitions =====
 

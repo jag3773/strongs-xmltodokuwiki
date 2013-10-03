@@ -1,12 +1,16 @@
 ====== H7571: רֶתַח (rethach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7570 ;
+from H7570;
 
 ===== Meaning =====
 
-a  boiling
+a **boiling**
 
 ===== Definitions =====
 

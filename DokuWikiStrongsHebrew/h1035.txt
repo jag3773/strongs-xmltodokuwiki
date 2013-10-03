@@ -1,12 +1,16 @@
 ====== H1035: בֵּית לֶחֶם (Bêyth Lechem) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H3899 ;  ;
+from H1004 and H3899; **house of bread**;
 
 ===== Meaning =====
 
-house of bread Beth-Lechem , a place in Palestine
+**Beth-Lechem**, a place in Palestine
 
 ===== Definitions =====
 

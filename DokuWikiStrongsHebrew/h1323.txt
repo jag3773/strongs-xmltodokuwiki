@@ -1,12 +1,16 @@
 ====== H1323: בַּת (bath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1129  (as feminine of  H1121 );
+from H1129 (as feminine of H1121);
 
 ===== Meaning =====
 
-a  daughter  (used in the same wide sense as other terms of relationship, literally and figuratively)
+a **daughter** (used in the same wide sense as other terms of relationship, literally and figuratively)
 
 ===== Definitions =====
 

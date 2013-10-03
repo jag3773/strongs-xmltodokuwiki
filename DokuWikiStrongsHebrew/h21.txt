@@ -1,12 +1,16 @@
 ====== H21: אֲבִי (ʼĂbîy) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H1 ; fatherly;
+from H1; fatherly;
 
 ===== Meaning =====
 
-Abi , Hezekiah's mother
+**Abi**, Hezekiah's mother
 
 ===== Definitions =====
 

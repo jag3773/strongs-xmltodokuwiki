@@ -1,12 +1,16 @@
 ====== H7578: רְתֵת (rᵉthêth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H7374 ;
+for H7374;
 
 ===== Meaning =====
 
-terror
+**terror**
 
 ===== Definitions =====
 

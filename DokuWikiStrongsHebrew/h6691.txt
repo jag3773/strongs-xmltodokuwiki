@@ -1,12 +1,16 @@
 ====== H6691: צוֹפַר (Tsôwphar) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6852 ;  ;
+from H6852; **departing**;
 
 ===== Meaning =====
 
-departing Tsophar , a friend of Job
+**Tsophar**, a friend of Job
 
 ===== Definitions =====
 

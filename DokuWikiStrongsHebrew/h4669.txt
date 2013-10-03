@@ -1,12 +1,16 @@
 ====== H4669: מִפְתָּח (miphtâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6605 ;
+from H6605;
 
 ===== Meaning =====
 
-an  aperture , i.e. (figuratively)  utterance
+an **aperture**, i.e. (figuratively) **utterance**
 
 ===== Definitions =====
 

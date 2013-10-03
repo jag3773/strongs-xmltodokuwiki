@@ -1,12 +1,16 @@
 ====== H4707: מִצְפֶּה (mitspeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6822 ;
+from H6822;
 
 ===== Meaning =====
 
-an  observatory , especially for military purposes
+an **observatory**, especially for military purposes
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6382: פֶּלֶא (peleʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6381 ;
+from H6381;
 
 ===== Meaning =====
 
-a  miracle
+a **miracle**
 
 ===== Definitions =====
 

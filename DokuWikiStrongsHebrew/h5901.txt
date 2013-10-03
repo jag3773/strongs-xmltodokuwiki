@@ -1,12 +1,16 @@
 ====== H5901: עִירִי (ʻÎyrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5892 ;  ;
+from H5892; **urbane**;
 
 ===== Meaning =====
 
-urbane Iri , an Israelite
+**Iri**, an Israelite
 
 ===== Definitions =====
 

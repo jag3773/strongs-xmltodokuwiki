@@ -1,12 +1,16 @@
 ====== H4674: מֻצָּב (mutstsâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5324 ;
+from H5324;
 
 ===== Meaning =====
 
-a  station , i.e. military  post
+a **station**, i.e. military **post**
 
 ===== Definitions =====
 

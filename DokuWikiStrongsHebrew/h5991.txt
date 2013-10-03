@@ -1,12 +1,16 @@
 ====== H5991: עַמִּיחוּר (ʻAmmîychûwr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5971  and  H2353 ; people of nobility;
+from H5971 and H2353; people of nobility;
 
 ===== Meaning =====
 
-Ammichur , a Syrian prince
+**Ammichur**, a Syrian prince
 
 ===== Definitions =====
 

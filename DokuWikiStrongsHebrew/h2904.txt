@@ -1,12 +1,16 @@
 ====== H2904: טוּל (ṭûwl) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  pitch  over or  reel ; hence (transitively) to  cast  down or out
+to **pitch** over or **reel**; hence (transitively) to **cast** down or out
 
 ===== Definitions =====
 

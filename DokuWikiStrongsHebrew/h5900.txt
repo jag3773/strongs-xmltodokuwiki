@@ -1,12 +1,16 @@
 ====== H5900: עִירוּ (ʻÎyrûw) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5892 ; a  ;
+from H5892; a **citizen**;
 
 ===== Meaning =====
 
-citizen Iru , an Israelite
+**Iru**, an Israelite
 
 ===== Definitions =====
 

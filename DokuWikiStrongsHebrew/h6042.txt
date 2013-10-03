@@ -1,12 +1,16 @@
 ====== H6042: עֻנִּי (ʻUnnîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6031 ;  ;
+from H6031; **afflicted**;
 
 ===== Meaning =====
 
-afflicted Unni , the name of two Israelites
+**Unni**, the name of two Israelites
 
 ===== Definitions =====
 

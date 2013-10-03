@@ -1,12 +1,16 @@
 ====== H1870: דֶּרֶךְ (derek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1869 ;
+from H1869;
 
 ===== Meaning =====
 
-a  road  (as  trodden ); figuratively, a  course  of life or  mode  of action, often adverb
+a **road** (as **trodden**); figuratively, a **course** of life or **mode** of action, often adverb
 
 ===== Definitions =====
 

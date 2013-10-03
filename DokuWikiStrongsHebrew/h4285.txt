@@ -1,12 +1,16 @@
 ====== H4285: מַחְשָׁךְ (machshâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2821 ;
+from H2821;
 
 ===== Meaning =====
 
-darkness ; concretely, a  dark place
+**darkness**; concretely, a **dark place**
 
 ===== Definitions =====
 

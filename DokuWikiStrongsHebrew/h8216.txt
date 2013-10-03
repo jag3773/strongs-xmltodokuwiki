@@ -1,12 +1,16 @@
 ====== H8216: שֶׁפֶל (shephel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8213 ;
+from H8213;
 
 ===== Meaning =====
 
-an  humble  rank
+an **humble** rank
 
 ===== Definitions =====
 

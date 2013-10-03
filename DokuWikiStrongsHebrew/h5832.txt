@@ -1,12 +1,16 @@
 ====== H5832: עֲזַרְאֵל (ʻĂzarʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5826  and  H410 ;  ;
+from H5826 and H410; **God has helped**;
 
 ===== Meaning =====
 
-God has helped Azarel , the name of five Israelites
+**Azarel**, the name of five Israelites
 
 ===== Definitions =====
 

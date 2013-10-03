@@ -1,12 +1,16 @@
 ====== H3425: יְרֻשָּׁה (yᵉrushshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3423 ;
+from H3423;
 
 ===== Meaning =====
 
-something  occupied ; a  conquest ; also a  patrimony
+something **occupied**; a **conquest**; also a **patrimony**
 
 ===== Definitions =====
 

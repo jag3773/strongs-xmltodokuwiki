@@ -1,12 +1,16 @@
 ====== H660: אֶפְעֶה (ʼephʻeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H659  (in the sense of  );
+from H659 (in the sense of **hissing**);
 
 ===== Meaning =====
 
-hissing an  asp  or other venomous serpent
+an **asp** or other venomous serpent
 
 ===== Definitions =====
 

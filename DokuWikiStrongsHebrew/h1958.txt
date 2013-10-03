@@ -1,12 +1,16 @@
 ====== H1958: הִי (hîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H5092 ;
+for H5092;
 
 ===== Meaning =====
 
-lamentation
+**lamentation**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H315: אַחְרַח (ʼAchrach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H310  and  H251 ; after (his) brother;
+from H310 and H251; after (his) brother;
 
 ===== Meaning =====
 
-Achrach , an Israelite
+**Achrach**, an Israelite
 
 ===== Definitions =====
 

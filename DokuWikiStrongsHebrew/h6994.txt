@@ -1,12 +1,16 @@
 ====== H6994: קָטֹן (qâṭôn) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (rather denominative from  H6996 );
+a primitive root (rather denominative from H6996);
 
 ===== Meaning =====
 
-to  diminish , i.e.  be  (causatively,  make )  diminutive  or (figuratively)  of no account
+to **diminish**, i.e. **be** (causatively, **make**) **diminutive** or (figuratively) **of no account**
 
 ===== Definitions =====
 

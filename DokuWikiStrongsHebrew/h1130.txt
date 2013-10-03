@@ -1,12 +1,16 @@
 ====== H1130: בֶּן־הֲדַד (Ben-Hădad) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and  H1908 ; son of Hadad;
+from H1121 and H1908; son of Hadad;
 
 ===== Meaning =====
 
-Ben-Hadad , the name of several Syrian kings
+**Ben-Hadad**, the name of several Syrian kings
 
 ===== Definitions =====
 

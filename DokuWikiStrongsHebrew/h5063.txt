@@ -1,12 +1,16 @@
 ====== H5063: נֶגֶף (negeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5062 ;
+from H5062;
 
 ===== Meaning =====
 
-a  trip  (of the foot); figuratively, an  infliction  (of disease)
+a **trip** (of the foot); figuratively, an **infliction** (of disease)
 
 ===== Definitions =====
 

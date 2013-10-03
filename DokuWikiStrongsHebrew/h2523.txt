@@ -1,12 +1,16 @@
 ====== H2523: חַלָּשׁ (challâsh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2522 ;
+from H2522;
 
 ===== Meaning =====
 
-frail
+**frail**
 
 ===== Definitions =====
 

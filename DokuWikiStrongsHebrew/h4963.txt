@@ -1,12 +1,16 @@
 ====== H4963: מַתְבֵּן (mathbên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-denominative from  H8401 ;
+denominative from H8401;
 
 ===== Meaning =====
 
-straw  in the heap
+**straw** in the heap
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1974: הִלּוּל (hillûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1984  (in the sense of rejoicing);
+from H1984 (in the sense of rejoicing);
 
 ===== Meaning =====
 
-a  celebration of thanksgiving for harvest
+a **celebration of thanksgiving for harvest**
 
 ===== Definitions =====
 

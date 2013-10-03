@@ -1,12 +1,16 @@
 ====== H5028: נְבָט (Nᵉbâṭ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5027 ;  ;
+from H5027; **regard**;
 
 ===== Meaning =====
 
-regard Nebat , the father of Jeroboam I
+**Nebat**, the father of Jeroboam I
 
 ===== Definitions =====
 

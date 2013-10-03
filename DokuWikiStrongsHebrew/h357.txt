@@ -1,12 +1,16 @@
 ====== H357: אַיָּלוֹן (ʼAyâlôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H354 ; deer-field;
+from H354; deer-field;
 
 ===== Meaning =====
 
-Ajalon , the name of five places in Palestine
+**Ajalon**, the name of five places in Palestine
 
 ===== Definitions =====
 

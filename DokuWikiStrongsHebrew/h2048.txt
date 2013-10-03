@@ -1,12 +1,16 @@
 ====== H2048: הָתַל (hâthal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  deride ; by implication, to  cheat
+to **deride**; by implication, to **cheat**
 
 ===== Definitions =====
 

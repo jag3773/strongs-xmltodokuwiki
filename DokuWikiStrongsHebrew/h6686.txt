@@ -1,12 +1,16 @@
 ====== H6686: צוּעָר (Tsûwʻâr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6819 ;  ;
+from H6819; **small**;
 
 ===== Meaning =====
 
-small Tsuär , an Israelite
+**Tsuär**, an Israelite
 
 ===== Definitions =====
 

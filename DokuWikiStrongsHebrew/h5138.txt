@@ -1,12 +1,16 @@
 ====== H5138: נָזִיד (nâzîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2102 ;
+from H2102;
 
 ===== Meaning =====
 
-something  boiled , i.e.  soup
+something **boiled**, i.e. **soup**
 
 ===== Definitions =====
 

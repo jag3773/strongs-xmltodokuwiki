@@ -1,12 +1,16 @@
 ====== H7162: קֶרֶן (qeren) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) corresponding to  H7161 ;
+(Aramaic) corresponding to H7161;
 
 ===== Meaning =====
 
-a  horn  (literally or for sound)
+a **horn** (literally or for sound)
 
 ===== Definitions =====
 

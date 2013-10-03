@@ -1,12 +1,16 @@
 ====== H480: אַלְלַי (ʼalᵉlay) ======
 
+===== Part of Speech =====
+
+inj
+
 ===== Source =====
 
-by reduplication from  H421 ;
+by reduplication from H421;
 
 ===== Meaning =====
 
-alas!
+**alas!**
 
 ===== Definitions =====
 

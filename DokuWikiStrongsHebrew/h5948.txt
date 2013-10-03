@@ -1,12 +1,16 @@
 ====== H5948: עֲלִיל (ʻălîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5953  in the sense of completing;
+from H5953 in the sense of completing;
 
 ===== Meaning =====
 
-probably a  crucible  (as working over the metal)
+probably a **crucible** (as working over the metal)
 
 ===== Definitions =====
 

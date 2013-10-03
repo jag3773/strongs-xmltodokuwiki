@@ -1,12 +1,16 @@
 ====== H2301: חֲדַד (Chădad) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2300 ; fierce;
+from H2300; fierce;
 
 ===== Meaning =====
 
-Chadad , an Ishmaelite
+**Chadad**, an Ishmaelite
 
 ===== Definitions =====
 

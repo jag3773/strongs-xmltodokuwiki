@@ -1,12 +1,16 @@
 ====== H5079: נִדָּה (niddâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5074 ;
+from H5074;
 
 ===== Meaning =====
 
-properly,  rejection ; by implication,  impurity , especially personal (menstruation) or moral (idolatry, incest)
+properly, **rejection**; by implication, **impurity**, especially personal (menstruation) or moral (idolatry, incest)
 
 ===== Definitions =====
 

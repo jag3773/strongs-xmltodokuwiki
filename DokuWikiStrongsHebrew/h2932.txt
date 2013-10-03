@@ -1,12 +1,16 @@
 ====== H2932: טֻמְאָה (ṭumʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2930 ;
+from H2930;
 
 ===== Meaning =====
 
-religious  impurity
+religious **impurity**
 
 ===== Definitions =====
 

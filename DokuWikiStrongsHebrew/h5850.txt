@@ -1,12 +1,16 @@
 ====== H5850: עֲטָרָה (ʻăṭârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5849 ;
+from H5849;
 
 ===== Meaning =====
 
-a  crown
+a **crown**
 
 ===== Definitions =====
 

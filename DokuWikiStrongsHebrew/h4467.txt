@@ -1,12 +1,16 @@
 ====== H4467: מַמְלָכָה (mamlâkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4427 ;
+from H4427;
 
 ===== Meaning =====
 
-dominion , i.e. (abstractly) the estate ( rule ) or (concretely) the country ( realm )
+**dominion**, i.e. (abstractly) the estate (**rule**) or (concretely) the country (**realm**)
 
 ===== Definitions =====
 

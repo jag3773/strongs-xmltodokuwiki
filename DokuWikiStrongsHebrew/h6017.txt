@@ -1,12 +1,16 @@
 ====== H6017: עֲמֹרָה (ʻĂmôrâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6014 ; a (ruined)  ;
+from H6014; a (ruined) **heap**;
 
 ===== Meaning =====
 
-heap Amorah , a place in Palestine
+**Amorah**, a place in Palestine
 
 ===== Definitions =====
 

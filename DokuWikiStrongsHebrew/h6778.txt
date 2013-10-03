@@ -1,12 +1,16 @@
 ====== H6778: צַמּוּק (tsammûwq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6784 ;
+from H6784;
 
 ===== Meaning =====
 
-a  cake of dried grapes
+a **cake of dried grapes**
 
 ===== Definitions =====
 

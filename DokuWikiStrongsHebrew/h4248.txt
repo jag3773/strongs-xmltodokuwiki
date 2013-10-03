@@ -1,12 +1,16 @@
 ====== H4248: מַחְלוֹן (Machlôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2470 ;  ;
+from H2470; **sick**;
 
 ===== Meaning =====
 
-sick Machlon , an Israelite
+**Machlon**, an Israelite
 
 ===== Definitions =====
 

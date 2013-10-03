@@ -1,12 +1,16 @@
 ====== H7202: רָאֶה (râʼeh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7200 ;
+from H7200;
 
 ===== Meaning =====
 
-seeing , i.e.  experiencing
+**seeing**, i.e. **experiencing**
 
 ===== Definitions =====
 

@@ -1,8 +1,12 @@
 ====== H5020: נְבוּכַדְנֶצַּר (Nᵉbûwkadnetstsar) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H5019
+(Aramaic) corresponding to H5019
 
 ===== Meaning =====
 

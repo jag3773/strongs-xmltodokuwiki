@@ -1,12 +1,16 @@
 ====== H5717: עֲדִיאֵל (ʻĂdîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5716  and  H410 ;  ;
+from H5716 and H410; **ornament of God**;
 
 ===== Meaning =====
 
-ornament of God Adiel , the name of three Israelites
+**Adiel**, the name of three Israelites
 
 ===== Definitions =====
 

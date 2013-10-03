@@ -1,12 +1,16 @@
 ====== H557: אַמְצִי (ʼAmtsîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H553 ; strong;
+from H553; strong;
 
 ===== Meaning =====
 
-Amtsi , an Israelite
+**Amtsi**, an Israelite
 
 ===== Definitions =====
 

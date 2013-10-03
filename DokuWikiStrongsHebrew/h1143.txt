@@ -1,12 +1,16 @@
 ====== H1143: בֵּנַיִם (bênayim) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-dual of  H996 ;
+dual of H996;
 
 ===== Meaning =====
 
-a double interval , i.e.  the space between two armies
+**a double interval**, i.e. **the space between two armies**
 
 ===== Definitions =====
 

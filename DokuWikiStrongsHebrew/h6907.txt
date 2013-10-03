@@ -1,12 +1,16 @@
 ====== H6907: קֻבַּעַת (qubbaʻath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6906 ;
+from H6906;
 
 ===== Meaning =====
 
-a  goblet  (as deep like a  cover )
+a **goblet** (as deep like a **cover**)
 
 ===== Definitions =====
 

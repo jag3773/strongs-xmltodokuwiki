@@ -1,12 +1,16 @@
 ====== H5504: סַחַר (çachar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5503 ;
+from H5503;
 
 ===== Meaning =====
 
-profit  (from trade)
+**profit** (from trade)
 
 ===== Definitions =====
 

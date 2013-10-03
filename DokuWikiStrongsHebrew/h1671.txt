@@ -1,12 +1,16 @@
 ====== H1671: דְּאָבוֹן (dᵉʼâbôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1669 ;
+from H1669;
 
 ===== Meaning =====
 
-pining
+**pining**
 
 ===== Definitions =====
 

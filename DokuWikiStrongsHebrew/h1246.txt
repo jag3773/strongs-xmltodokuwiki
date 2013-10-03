@@ -1,12 +1,16 @@
 ====== H1246: בַּקָּשָׁה (baqqâshâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1245 ;
+from H1245;
 
 ===== Meaning =====
 
-a  petition
+a **petition**
 
 ===== Definitions =====
 

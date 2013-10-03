@@ -1,12 +1,16 @@
 ====== H1796: דֳּכִי (dŏkîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1794 ;
+from H1794;
 
 ===== Meaning =====
 
-a  dashing of surf
+a **dashing of surf**
 
 ===== Definitions =====
 

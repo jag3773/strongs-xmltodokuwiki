@@ -1,12 +1,16 @@
 ====== H4031: מָגוֹג (Mâgôwg) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H1463 ;
+from H1463;
 
 ===== Meaning =====
 
-Magog , a son of Japheth; also a barbarous northern region
+**Magog**, a son of Japheth; also a barbarous northern region
 
 ===== Definitions =====
 

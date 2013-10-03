@@ -1,12 +1,16 @@
 ====== H4864: מַשְׂאֵת (masʼêth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5375 ;
+from H5375;
 
 ===== Meaning =====
 
-properly, (abstractly) a  raising  (as of the hands in prayer), or  rising  (of flame); figuratively, an  utterance ; concretely, a  beacon  (as raised); a  present  (as taken),  mess , or  tribute ; figuratively, a  reproach  (as a burden)
+properly, (abstractly) a **raising** (as of the hands in prayer), or **rising** (of flame); figuratively, an **utterance**; concretely, a **beacon** (as raised); a **present** (as taken), **mess**, or **tribute**; figuratively, a **reproach** (as a burden)
 
 ===== Definitions =====
 

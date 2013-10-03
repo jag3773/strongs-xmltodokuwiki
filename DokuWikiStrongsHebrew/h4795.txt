@@ -1,12 +1,16 @@
 ====== H4795: מָרוּק (mârûwq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4838 ;
+from H4838;
 
 ===== Meaning =====
 
-properly,  rubbed ; but used abstractly, a  rubbing  (with perfumery)
+properly, **rubbed**; but used abstractly, a **rubbing** (with perfumery)
 
 ===== Definitions =====
 

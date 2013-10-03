@@ -1,12 +1,16 @@
 ====== H6529: פְּרִי (pᵉrîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6509 ;
+from H6509;
 
 ===== Meaning =====
 
-fruit  (literally or figuratively)
+**fruit** (literally or figuratively)
 
 ===== Definitions =====
 

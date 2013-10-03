@@ -1,12 +1,16 @@
 ====== H8431: תּוֹחֶלֶת (tôwcheleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3176 ;
+from H3176;
 
 ===== Meaning =====
 
-expectation
+**expectation**
 
 ===== Definitions =====
 

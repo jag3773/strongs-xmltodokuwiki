@@ -1,12 +1,16 @@
 ====== H1748: דּוּמָם (dûwmâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1826 ;
+from H1826;
 
 ===== Meaning =====
 
-still ; adverbially,  silently
+**still**; adverbially, **silently**
 
 ===== Definitions =====
 

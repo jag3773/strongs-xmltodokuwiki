@@ -1,12 +1,16 @@
 ====== H7035: קָלַהּ (qâlahh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-for  H6950 ;
+for H6950;
 
 ===== Meaning =====
 
-to  assemble
+to **assemble**
 
 ===== Definitions =====
 

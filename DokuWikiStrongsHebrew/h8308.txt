@@ -1,12 +1,16 @@
 ====== H8308: שָׂרַךְ (sârak) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  interlace
+to **interlace**
 
 ===== Definitions =====
 

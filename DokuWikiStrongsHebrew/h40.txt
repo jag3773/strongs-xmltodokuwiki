@@ -1,12 +1,16 @@
 ====== H40: אֲבִימֶלֶךְ (ʼĂbîymelek) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1  and  H4428 ; father of (the) king;
+from H1 and H4428; father of (the) king;
 
 ===== Meaning =====
 
-Abimelek , the name of two Philistine kings and of two Israelites
+**Abimelek**, the name of two Philistine kings and of two Israelites
 
 ===== Definitions =====
 

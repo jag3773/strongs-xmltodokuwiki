@@ -1,12 +1,16 @@
 ====== H7171: קֶרֶץ (qerets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7169 ;
+from H7169;
 
 ===== Meaning =====
 
-extirpation  (as if by constriction)
+**extirpation** (as if by constriction)
 
 ===== Definitions =====
 

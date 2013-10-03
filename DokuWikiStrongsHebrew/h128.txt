@@ -1,12 +1,16 @@
 ====== H128: אֲדָמָה (ʼĂdâmâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H127 ;
+the same as H127;
 
 ===== Meaning =====
 
-Adamah , a place in Palestine
+**Adamah**, a place in Palestine
 
 ===== Definitions =====
 

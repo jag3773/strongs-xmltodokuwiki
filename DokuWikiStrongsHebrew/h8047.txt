@@ -1,12 +1,16 @@
 ====== H8047: שַׁמָּה (shammâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8074 ;
+from H8074;
 
 ===== Meaning =====
 
-ruin ; by implication,  consternation
+**ruin**; by implication, **consternation**
 
 ===== Definitions =====
 

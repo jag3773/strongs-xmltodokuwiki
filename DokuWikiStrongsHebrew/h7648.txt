@@ -1,12 +1,16 @@
 ====== H7648: שֹׂבַע (sôbaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7646 ;
+from H7646;
 
 ===== Meaning =====
 
-satisfaction  (of food or [figuratively] joy)
+**satisfaction** (of food or [figuratively] joy)
 
 ===== Definitions =====
 

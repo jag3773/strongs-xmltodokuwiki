@@ -1,12 +1,16 @@
 ====== H7936: שָׂכַר (sâkar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or (by permutation)   ; (Ezra 4:5), a primitive root (apparently akin (by prosthesis) to  H3739  through the idea of temporary purchase; compare  H7937 );
+or (by permutation) ; (Ezra 4:5), a primitive root (apparently akin (by prosthesis) to H3739 through the idea of temporary purchase; compare H7937);
 
 ===== Meaning =====
 
-to  hire
+to **hire**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6771: צָמֵא (tsâmêʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6770 ;
+from H6770;
 
 ===== Meaning =====
 
-thirsty  (literally or figuratively)
+**thirsty** (literally or figuratively)
 
 ===== Definitions =====
 

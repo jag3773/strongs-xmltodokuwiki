@@ -1,12 +1,16 @@
 ====== H2667: חֹפֶשׁ (Chôphesh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2666 ;
+from H2666;
 
 ===== Meaning =====
 
-something  spread loosely , i.e. a  carpet
+something **spread loosely**, i.e. a **carpet**
 
 ===== Definitions =====
 

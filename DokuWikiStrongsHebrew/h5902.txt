@@ -1,12 +1,16 @@
 ====== H5902: עִירָם (ʻÎyrâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5892 ;  ;
+from H5892; **city-wise**;
 
 ===== Meaning =====
 
-city-wise Iram , an Idumaean
+**Iram**, an Idumaean
 
 ===== Definitions =====
 

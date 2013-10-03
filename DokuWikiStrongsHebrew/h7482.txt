@@ -1,12 +1,16 @@
 ====== H7482: רַעַם (raʻam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7481 ;
+from H7481;
 
 ===== Meaning =====
 
-a  peal  of thunder
+a **peal** of thunder
 
 ===== Definitions =====
 

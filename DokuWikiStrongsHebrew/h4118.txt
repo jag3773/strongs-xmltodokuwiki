@@ -1,12 +1,16 @@
 ====== H4118: מַהֵר (mahêr) ======
 
+===== Part of Speech =====
+
+a adv
+
 ===== Source =====
 
-from  H4116 ;
+from H4116;
 
 ===== Meaning =====
 
-properly,  hurrying ; hence (adverbially)  in a hurry
+properly, **hurrying**; hence (adverbially) **in a hurry**
 
 ===== Definitions =====
 

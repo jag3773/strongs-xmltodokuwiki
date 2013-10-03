@@ -1,12 +1,16 @@
 ====== H6179: עֵרִי (ʻÊrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5782 ;  ;
+from H5782; **watchful**;
 
 ===== Meaning =====
 
-watchful Eri , an Israelite
+**Eri**, an Israelite
 
 ===== Definitions =====
 

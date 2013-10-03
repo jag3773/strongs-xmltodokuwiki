@@ -1,12 +1,16 @@
 ====== H3413: יְרֵמַי (Yᵉrêmay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7311 ; elevated;
+from H7311; elevated;
 
 ===== Meaning =====
 
-Jeremai , an Israelite
+**Jeremai**, an Israelite
 
 ===== Definitions =====
 

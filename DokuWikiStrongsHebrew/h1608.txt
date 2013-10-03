@@ -1,12 +1,16 @@
 ====== H1608: גַּעַשׁ (Gaʻash) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1607 ; a quaking;
+from H1607; a quaking;
 
 ===== Meaning =====
 
-Gaash , a hill in Palestine
+**Gaash**, a hill in Palestine
 
 ===== Definitions =====
 

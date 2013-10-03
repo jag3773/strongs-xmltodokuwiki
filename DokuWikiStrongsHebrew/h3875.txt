@@ -1,12 +1,16 @@
 ====== H3875: לוֹט (lôwṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3874 ;
+from H3874;
 
 ===== Meaning =====
 
-a  veil
+a **veil**
 
 ===== Definitions =====
 

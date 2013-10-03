@@ -1,12 +1,16 @@
 ====== H4910: מָשַׁל (mâshal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  rule
+to **rule**
 
 ===== Definitions =====
 

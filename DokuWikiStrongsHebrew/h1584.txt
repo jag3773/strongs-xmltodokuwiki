@@ -1,12 +1,16 @@
 ====== H1584: גָּמַר (gâmar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  end  (in the sense of completion or failure)
+to **end** (in the sense of completion or failure)
 
 ===== Definitions =====
 

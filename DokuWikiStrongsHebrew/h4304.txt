@@ -1,12 +1,16 @@
 ====== H4304: מִטְפַּחַת (miṭpachath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2946 ;
+from H2946;
 
 ===== Meaning =====
 
-a wide  cloak  (for a woman)
+a wide **cloak** (for a woman)
 
 ===== Definitions =====
 

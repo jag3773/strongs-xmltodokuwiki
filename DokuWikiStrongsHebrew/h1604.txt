@@ -1,12 +1,16 @@
 ====== H1604: גֹּעַל (gôʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1602 ;
+from H1602;
 
 ===== Meaning =====
 
-abhorrence
+**abhorrence**
 
 ===== Definitions =====
 

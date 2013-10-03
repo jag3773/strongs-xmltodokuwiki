@@ -1,12 +1,16 @@
 ====== H4174: מוֹרָד (môwrâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3381 ;
+from H3381;
 
 ===== Meaning =====
 
-a  descent ; as architecture, an  ornamental appendage , perhaps a  festoon
+a **descent**; as architecture, an **ornamental appendage**, perhaps a **festoon**
 
 ===== Definitions =====
 

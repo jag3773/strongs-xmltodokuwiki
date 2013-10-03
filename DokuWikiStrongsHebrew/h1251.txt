@@ -1,12 +1,16 @@
 ====== H1251: בַּר (bar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H1250 ;
+(Aramaic) corresponding to H1250;
 
 ===== Meaning =====
 
-a  field
+a **field**
 
 ===== Definitions =====
 

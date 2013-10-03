@@ -1,12 +1,16 @@
 ====== H1280: בְּרִיחַ (bᵉrîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1272 ;
+from H1272;
 
 ===== Meaning =====
 
-a  bolt
+a **bolt**
 
 ===== Definitions =====
 

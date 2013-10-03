@@ -1,12 +1,16 @@
 ====== H6967: קוֹמָה (qôwmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6965 ;
+from H6965;
 
 ===== Meaning =====
 
-height
+**height**
 
 ===== Definitions =====
 

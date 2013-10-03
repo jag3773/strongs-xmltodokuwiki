@@ -1,12 +1,16 @@
 ====== H6160: עֲרָבָה (ʻărâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6150  (in the sense of sterility);
+from H6150 (in the sense of sterility);
 
 ===== Meaning =====
 
-a  desert ; especially (with the article prefix) the (generally) sterile valley of the Jordan and its continuation to the Red Sea
+a **desert**; especially (with the article prefix) the (generally) sterile valley of the Jordan and its continuation to the Red Sea
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8194: שָׁפָה (shâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8192  in the sense of clarifying;
+from H8192 in the sense of clarifying;
 
 ===== Meaning =====
 
-a  cheese  (as strained from the whey)
+a **cheese** (as strained from the whey)
 
 ===== Definitions =====
 

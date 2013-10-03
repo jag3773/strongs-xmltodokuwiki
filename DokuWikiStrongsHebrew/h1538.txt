@@ -1,12 +1,16 @@
 ====== H1538: גֻּלְגֹּלֶת (gulgôleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-by reduplication from  H1556 ;
+by reduplication from H1556;
 
 ===== Meaning =====
 
-a  skull  (as  round ); by implication, a  head  (in enumeration of persons)
+a **skull** (as **round**); by implication, a **head** (in enumeration of persons)
 
 ===== Definitions =====
 

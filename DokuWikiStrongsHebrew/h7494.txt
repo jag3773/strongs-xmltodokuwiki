@@ -1,12 +1,16 @@
 ====== H7494: רַעַשׁ (raʻash) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7493 ;
+from H7493;
 
 ===== Meaning =====
 
-vibration ,  bounding ,  uproar
+**vibration**, **bounding**, **uproar**
 
 ===== Definitions =====
 

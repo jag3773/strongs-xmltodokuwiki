@@ -1,12 +1,16 @@
 ====== H1352: גֹּאֶל (gôʼel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1351 ;
+from H1351;
 
 ===== Meaning =====
 
-profanation
+**profanation**
 
 ===== Definitions =====
 

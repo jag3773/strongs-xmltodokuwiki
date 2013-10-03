@@ -1,12 +1,16 @@
 ====== H1961: הָיָה (hâyâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H1933 );
+a primitive root (compare H1933);
 
 ===== Meaning =====
 
-to  exist , i.e.  be  or  become ,  come to pass  (always emphatic, and not a mere copula or auxiliary)
+to **exist**, i.e. **be** or **become**, **come to pass** (always emphatic, and not a mere copula or auxiliary)
 
 ===== Definitions =====
 

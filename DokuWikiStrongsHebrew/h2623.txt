@@ -1,12 +1,16 @@
 ====== H2623: חָסִיד (châçîyd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2616 ;
+from H2616;
 
 ===== Meaning =====
 
-properly,  kind , i.e. (religiously)  pious  (a saint)
+properly, **kind**, i.e. (religiously) **pious** (a saint)
 
 ===== Definitions =====
 

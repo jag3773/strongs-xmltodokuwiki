@@ -1,12 +1,16 @@
 ====== H8276: שָׂרַג (sârag) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  intwine
+to **intwine**
 
 ===== Definitions =====
 

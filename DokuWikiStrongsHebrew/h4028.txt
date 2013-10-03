@@ -1,12 +1,16 @@
 ====== H4028: מִגְדַּל־גָּד (Migdal-Gâd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H4026  and  H1408 ; tower of Fortune;
+from H4026 and H1408; tower of Fortune;
 
 ===== Meaning =====
 
-Migdal-Gad , a place in Palestine
+**Migdal-Gad**, a place in Palestine
 
 ===== Definitions =====
 

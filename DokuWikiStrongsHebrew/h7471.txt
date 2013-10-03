@@ -1,12 +1,16 @@
 ====== H7471: רְעִי (rᵉʻîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7462 ;
+from H7462;
 
 ===== Meaning =====
 
-pasture
+**pasture**
 
 ===== Definitions =====
 

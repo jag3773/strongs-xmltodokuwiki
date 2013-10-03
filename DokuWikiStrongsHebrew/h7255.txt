@@ -1,12 +1,16 @@
 ====== H7255: רֹבַע (rôbaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7251 ;
+from H7251;
 
 ===== Meaning =====
 
-a  quarter
+a **quarter**
 
 ===== Definitions =====
 

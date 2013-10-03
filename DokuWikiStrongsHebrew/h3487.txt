@@ -1,12 +1,16 @@
 ====== H3487: יַת (yath) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
-(Aramaic) corresponding to  H853 ;
+(Aramaic) corresponding to H853;
 
 ===== Meaning =====
 
-a  sign of the object of a verb
+a **sign of the object of a verb**
 
 ===== Definitions =====
 

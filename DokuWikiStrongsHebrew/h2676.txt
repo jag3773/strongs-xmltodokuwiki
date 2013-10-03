@@ -1,12 +1,16 @@
 ====== H2676: חָצוֹת (châtsôwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2673 ;
+from H2673;
 
 ===== Meaning =====
 
-the  middle  (of the night)
+the **middle** (of the night)
 
 ===== Definitions =====
 

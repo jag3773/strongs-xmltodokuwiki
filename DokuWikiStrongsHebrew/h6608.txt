@@ -1,12 +1,16 @@
 ====== H6608: פֵּתַח (pêthach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6605 ;
+from H6605;
 
 ===== Meaning =====
 
-opening  (figuratively) i.e.  disclosure
+**opening** (figuratively) i.e. **disclosure**
 
 ===== Definitions =====
 

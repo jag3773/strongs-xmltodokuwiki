@@ -1,12 +1,16 @@
 ====== H2766: חָרִם (Chârim) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2763 ;  ;
+from H2763; **snub-nosed**;
 
 ===== Meaning =====
 
-snub-nosed Charim , an Israelite
+**Charim**, an Israelite
 
 ===== Definitions =====
 

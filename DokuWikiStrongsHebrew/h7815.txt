@@ -1,12 +1,16 @@
 ====== H7815: שְׁחוֹר (shᵉchôwr) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7835 ;
+from H7835;
 
 ===== Meaning =====
 
-dinginess , i.e. perhaps  soot
+**dinginess**, i.e. perhaps **soot**
 
 ===== Definitions =====
 

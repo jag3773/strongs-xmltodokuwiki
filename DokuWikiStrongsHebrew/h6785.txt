@@ -1,12 +1,16 @@
 ====== H6785: צֶמֶר (tsemer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root probably meaning to  ;
+from an unused root probably meaning to **be shaggy**;
 
 ===== Meaning =====
 
-be shaggy wool
+**wool**
 
 ===== Definitions =====
 

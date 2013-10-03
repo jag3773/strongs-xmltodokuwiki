@@ -1,12 +1,16 @@
 ====== H1178: בַּעַל חָצוֹר (Baʻal Châtsôwr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1167  and a modification of  H2691 ; possessor of a village;
+from H1167 and a modification of H2691; possessor of a village;
 
 ===== Meaning =====
 
-Baal-Chatsor , a place in Palestine
+**Baal-Chatsor**, a place in Palestine
 
 ===== Definitions =====
 

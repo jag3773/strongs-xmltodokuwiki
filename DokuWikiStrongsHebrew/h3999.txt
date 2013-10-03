@@ -1,12 +1,16 @@
 ====== H3999: מַבּוּל (mabbûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2986  in the sense of flowing;
+from H2986 in the sense of flowing;
 
 ===== Meaning =====
 
-a  deluge
+a **deluge**
 
 ===== Definitions =====
 

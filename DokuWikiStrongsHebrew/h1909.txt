@@ -1,12 +1,16 @@
 ====== H1909: הֲדַדְעֶזֶר (Hădadʻezer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1908  and  H5828 ; Hadad (is his) help;
+from H1908 and H5828; Hadad (is his) help;
 
 ===== Meaning =====
 
-Hadadezer , a Syrian king
+**Hadadezer**, a Syrian king
 
 ===== Definitions =====
 

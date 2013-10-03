@@ -1,12 +1,16 @@
 ====== H33: אֲבִי הָעֶזְרִי (ʼĂbîy hâ-ʻEzrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H44  with the article inserted; father of the Ezrite;
+from H44 with the article inserted; father of the Ezrite;
 
 ===== Meaning =====
 
-an  Abiezrite  or descendant of Abiezer
+an **Abiezrite** or descendant of Abiezer
 
 ===== Definitions =====
 

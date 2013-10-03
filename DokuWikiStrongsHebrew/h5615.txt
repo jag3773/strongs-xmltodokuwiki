@@ -1,12 +1,16 @@
 ====== H5615: סְפֹרָה (çᵉphôrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5608 ;
+from H5608;
 
 ===== Meaning =====
 
-a  numeration
+a **numeration**
 
 ===== Definitions =====
 

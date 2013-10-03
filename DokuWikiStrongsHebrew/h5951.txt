@@ -1,12 +1,16 @@
 ====== H5951: עֲלִיצוּת (ʻălîytsûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5970 ;
+from H5970;
 
 ===== Meaning =====
 
-exultation
+**exultation**
 
 ===== Definitions =====
 

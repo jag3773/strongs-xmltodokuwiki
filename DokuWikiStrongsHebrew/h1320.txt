@@ -1,12 +1,16 @@
 ====== H1320: בָּשָׂר (bâsâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1319 ;
+from H1319;
 
 ===== Meaning =====
 
-flesh  (from its  freshness ); by extension,  body ,  person ; also (by euphemistically) the  pudenda  of a man
+**flesh** (from its **freshness**); by extension, **body**, **person**; also (by euphemistically) the **pudenda** of a man
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5995: עָמִיר (ʻâmîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6014 ;
+from H6014;
 
 ===== Meaning =====
 
-a  bunch of grain
+a **bunch of grain**
 
 ===== Definitions =====
 

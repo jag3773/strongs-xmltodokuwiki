@@ -1,12 +1,16 @@
 ====== H3800: כֶּתֶם (kethem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3799 ;
+from H3799;
 
 ===== Meaning =====
 
-properly, something  carved  out, i.e.  ore ; hence,  gold  (pure as originally mined)
+properly, something **carved** out, i.e. **ore**; hence, **gold** (pure as originally mined)
 
 ===== Definitions =====
 

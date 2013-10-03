@@ -1,12 +1,16 @@
 ====== H7698: שֶׁגֶר (sheger) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from an unused root probably meaning to  ;
+from an unused root probably meaning to **eject**;
 
 ===== Meaning =====
 
-eject the  fœtus  (as finally  expelled )
+the **fœtus** (as finally **expelled**)
 
 ===== Definitions =====
 

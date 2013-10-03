@@ -1,12 +1,16 @@
 ====== H2511: חַלָּק (challâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2505 ;
+from H2505;
 
 ===== Meaning =====
 
-smooth
+**smooth**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6329: פּוּק (pûwq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root [rather identical with  H6328  through the idea of   out; compare  H5312 ];
+a primitive root [rather identical with H6328 through the idea of **dropping** out; compare H5312];
 
 ===== Meaning =====
 
-dropping to  issue , i.e.  furnish ; causatively, to  secure ; figuratively, to  succeed
+to **issue**, i.e. **furnish**; causatively, to **secure**; figuratively, to **succeed**
 
 ===== Definitions =====
 

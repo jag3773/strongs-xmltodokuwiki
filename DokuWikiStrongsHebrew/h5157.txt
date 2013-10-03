@@ -1,12 +1,16 @@
 ====== H5157: נָחַל (nâchal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  inherit  (as a (figurative) mode of descent), or (generally) to  occupy ; causatively, to  bequeath , or (generally)  distribute ,  instate
+to **inherit** (as a (figurative) mode of descent), or (generally) to **occupy**; causatively, to **bequeath**, or (generally) **distribute**, **instate**
 
 ===== Definitions =====
 

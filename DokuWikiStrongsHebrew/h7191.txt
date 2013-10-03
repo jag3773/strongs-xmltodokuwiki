@@ -1,12 +1,16 @@
 ====== H7191: קִשְׁיוֹן (Qishyôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7190 ;  ;
+from H7190; **hard ground**;
 
 ===== Meaning =====
 
-hard ground Kishjon , a place in Palestine
+**Kishjon**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H28: אֲבִידָע (ʼĂbîydâʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1  and  H3045 ;   (i.e. knowing);
+from H1 and H3045; **father of knowledge** (i.e. knowing);
 
 ===== Meaning =====
 
-father of knowledge Abida , a son of Abraham by Keturah
+**Abida**, a son of Abraham by Keturah
 
 ===== Definitions =====
 

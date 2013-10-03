@@ -1,12 +1,16 @@
 ====== H7056: קָמוֹן (Qâmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6965 ; an  ;
+from H6965; an **elevation**;
 
 ===== Meaning =====
 
-elevation Kamon , a place East of the Jordan
+**Kamon**, a place East of the Jordan
 
 ===== Definitions =====
 

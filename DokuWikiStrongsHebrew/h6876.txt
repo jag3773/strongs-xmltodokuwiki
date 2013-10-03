@@ -1,12 +1,16 @@
 ====== H6876: צֹרִי (Tsôrîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H6865 ;
+patrial from H6865;
 
 ===== Meaning =====
 
-a  Tsorite  or inhabitant of Tsor (i.e. Syrian)
+a **Tsorite** or inhabitant of Tsor (i.e. Syrian)
 
 ===== Definitions =====
 

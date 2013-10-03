@@ -1,12 +1,16 @@
 ====== H8118: שֹׁמרֹנִי (Shômrônîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-patrial from  H8111 ;
+patrial from H8111;
 
 ===== Meaning =====
 
-a  Shomeronite  (collectively) or inhabitants of Shomeron
+a **Shomeronite** (collectively) or inhabitants of Shomeron
 
 ===== Definitions =====
 

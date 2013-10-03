@@ -1,12 +1,16 @@
 ====== H5542: סֶלָה (çelâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H5541 ;
+from H5541;
 
 ===== Meaning =====
 
-suspension  (of music), i.e.  pause
+**suspension** (of music), i.e. **pause**
 
 ===== Definitions =====
 

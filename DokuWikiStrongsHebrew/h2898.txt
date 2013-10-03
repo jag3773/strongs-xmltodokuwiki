@@ -1,12 +1,16 @@
 ====== H2898: טוּב (ṭûwb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2895 ;
+from H2895;
 
 ===== Meaning =====
 
-good  (as a noun), in the widest sense, especially  goodness  (superlative concretely, the  best ),  beauty ,  gladness ,  welfare
+**good** (as a noun), in the widest sense, especially **goodness** (superlative concretely, the **best**), **beauty**, **gladness**, **welfare**
 
 ===== Definitions =====
 

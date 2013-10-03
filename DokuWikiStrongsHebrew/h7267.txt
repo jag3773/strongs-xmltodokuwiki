@@ -1,12 +1,16 @@
 ====== H7267: רֹגֶז (rôgez) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7264 ;
+from H7264;
 
 ===== Meaning =====
 
-commotion ,  restlessness  (of a horse),  crash  (of thunder),  disquiet ,  anger
+**commotion**, **restlessness** (of a horse), **crash** (of thunder), **disquiet**, **anger**
 
 ===== Definitions =====
 

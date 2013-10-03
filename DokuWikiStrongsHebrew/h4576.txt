@@ -1,12 +1,16 @@
 ====== H4576: מַעְדֵּר (maʻdêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5737 ;
+from H5737;
 
 ===== Meaning =====
 
-a (weeding)  hoe
+a (weeding) **hoe**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H44: אֲבִיעֶזֶר (ʼĂbîyʻezer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1  and  H5829 ; father of help (i.e. helpful);
+from H1 and H5829; father of help (i.e. helpful);
 
 ===== Meaning =====
 
-Abiezer , the name of two Israelites
+**Abiezer**, the name of two Israelites
 
 ===== Definitions =====
 

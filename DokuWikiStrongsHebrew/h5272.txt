@@ -1,12 +1,16 @@
 ====== H5272: נְעִיאֵל (Nᵉʻîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5128  and  H410 ;  ;
+from H5128 and H410; **moved of God**;
 
 ===== Meaning =====
 
-moved of God Neiel , a place in Palestine
+**Neiel**, a place in Palestine
 
 ===== Definitions =====
 

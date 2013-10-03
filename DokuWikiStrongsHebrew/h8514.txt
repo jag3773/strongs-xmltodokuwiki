@@ -1,12 +1,16 @@
 ====== H8514: תַּלְאוּבָה (talʼûwbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3851 ;
+from H3851;
 
 ===== Meaning =====
 
-desiccation
+**desiccation**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3840: לִבְנָה (libnâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3835 ;
+from H3835;
 
 ===== Meaning =====
 
-properly,  whiteness , i.e. (by implication)  transparency
+properly, **whiteness**, i.e. (by implication) **transparency**
 
 ===== Definitions =====
 

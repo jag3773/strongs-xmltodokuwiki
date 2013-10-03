@@ -1,12 +1,16 @@
 ====== H8510: תֵּל (têl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-by contraction from  H8524 ;
+by contraction from H8524;
 
 ===== Meaning =====
 
-a  mound
+a **mound**
 
 ===== Definitions =====
 

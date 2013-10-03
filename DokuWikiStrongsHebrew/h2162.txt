@@ -1,12 +1,16 @@
 ====== H2162: זָמָם (zâmâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2161 ;
+from H2161;
 
 ===== Meaning =====
 
-a  plot
+a **plot**
 
 ===== Definitions =====
 

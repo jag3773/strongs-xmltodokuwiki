@@ -1,8 +1,12 @@
 ====== H8340: שֵׁשְׁבַּצַּר (Shêshᵉbatstsar) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H8339
+(Aramaic) corresponding to H8339
 
 ===== Meaning =====
 

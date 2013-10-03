@@ -1,12 +1,16 @@
 ====== H8107: שִׁמֻּר (shimmur) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8104 ;
+from H8104;
 
 ===== Meaning =====
 
-an  observance
+an **observance**
 
 ===== Definitions =====
 

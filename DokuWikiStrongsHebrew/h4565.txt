@@ -1,12 +1,16 @@
 ====== H4565: מִסְתָּר (miçtâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5641 ;
+from H5641;
 
 ===== Meaning =====
 
-properly, a  concealer , i.e. a  covert
+properly, a **concealer**, i.e. a **covert**
 
 ===== Definitions =====
 

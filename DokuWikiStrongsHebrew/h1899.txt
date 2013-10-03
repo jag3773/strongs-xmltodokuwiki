@@ -1,12 +1,16 @@
 ====== H1899: הֶגֶה (hegeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1897 ;
+from H1897;
 
 ===== Meaning =====
 
-a  muttering  (in sighing, thought, or as thunder)
+a **muttering** (in sighing, thought, or as thunder)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6021: עֲמָשָׂא (ʻĂmâsâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6006 ;  ;
+from H6006; **burden**;
 
 ===== Meaning =====
 
-burden Amasa , the name of two Israelites
+**Amasa**, the name of two Israelites
 
 ===== Definitions =====
 

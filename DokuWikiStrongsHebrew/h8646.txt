@@ -1,12 +1,16 @@
 ====== H8646: תֶּרַח (Terach) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
 of uncertain derivation;
 
 ===== Meaning =====
 
-Terach , the father of Abraham; also a place in the Desert
+**Terach**, the father of Abraham; also a place in the Desert
 
 ===== Definitions =====
 

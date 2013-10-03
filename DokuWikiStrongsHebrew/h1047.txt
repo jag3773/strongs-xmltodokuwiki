@@ -1,12 +1,16 @@
 ====== H1047: בֵּית פְּעוֹר (Bêyth Pᵉʻôwr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H6465 ;  ;
+from H1004 and H6465; **house of Peor**;
 
 ===== Meaning =====
 
-house of Peor Beth-Peor , a place East of the Jordan
+**Beth-Peor**, a place East of the Jordan
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2540: חַמּוֹן (Chammôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2552 ; warm spring;
+from H2552; warm spring;
 
 ===== Meaning =====
 
-Chammon , the name of two places in Palestine
+**Chammon**, the name of two places in Palestine
 
 ===== Definitions =====
 

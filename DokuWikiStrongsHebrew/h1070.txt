@@ -1,12 +1,16 @@
 ====== H1070: בֶּכֶר (beker) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1069  (in the sense of  );
+from H1069 (in the sense of **youth**);
 
 ===== Meaning =====
 
-youth a young  camel
+a young **camel**
 
 ===== Definitions =====
 

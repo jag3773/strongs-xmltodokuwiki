@@ -1,12 +1,16 @@
 ====== H4377: מֶכֶר (meker) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4376 ;
+from H4376;
 
 ===== Meaning =====
 
-merchandise ; also  value
+**merchandise**; also **value**
 
 ===== Definitions =====
 

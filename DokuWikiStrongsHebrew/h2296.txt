@@ -1,12 +1,16 @@
 ====== H2296: חָגַר (châgar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  gird  on (as a belt, armor, etc.)
+to **gird** on (as a belt, armor, etc.)
 
 ===== Definitions =====
 

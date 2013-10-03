@@ -1,12 +1,16 @@
 ====== H4217: מִזְרָח (mizrâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2224 ;
+from H2224;
 
 ===== Meaning =====
 
-sunrise , i.e. the  east
+**sunrise**, i.e. the **east**
 
 ===== Definitions =====
 

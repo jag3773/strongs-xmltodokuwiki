@@ -1,12 +1,16 @@
 ====== H531: אָמוֹץ (ʼÂmôwts) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H553 ;  ;
+from H553; **strong**;
 
 ===== Meaning =====
 
-strong Amots , an Israelite
+**Amots**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4066: מָדוֹן (mâdôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1777 ;
+from H1777;
 
 ===== Meaning =====
 
-a  contest  or  quarrel
+a **contest** or **quarrel**
 
 ===== Definitions =====
 

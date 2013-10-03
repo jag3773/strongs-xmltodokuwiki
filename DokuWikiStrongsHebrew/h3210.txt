@@ -1,12 +1,16 @@
 ====== H3210: יָלוֹן (Yâlôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3885 ;  ;
+from H3885; **lodging**;
 
 ===== Meaning =====
 
-lodging Jalon , an Israelite
+**Jalon**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2451: חׇכְמָה (chokmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2449 ;
+from H2449;
 
 ===== Meaning =====
 
-wisdom  (in a good sense)
+**wisdom** (in a good sense)
 
 ===== Definitions =====
 

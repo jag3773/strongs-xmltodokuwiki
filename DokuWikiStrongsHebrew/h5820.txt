@@ -1,12 +1,16 @@
 ====== H5820: עַזְמָוֶת (ʻAzmâveth) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H5794  and  H4194 ;  ;
+from H5794 and H4194; **strong one of death**;
 
 ===== Meaning =====
 
-strong one of death Azmaveth , the name of three Israelites and of a place in Palestine
+**Azmaveth**, the name of three Israelites and of a place in Palestine
 
 ===== Definitions =====
 

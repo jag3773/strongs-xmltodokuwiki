@@ -1,12 +1,16 @@
 ====== H1228: בַּקְבֻּק (baqbuq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1238 ;
+from H1238;
 
 ===== Meaning =====
 
-a  bottle  (from the gurgling in emptying)
+a **bottle** (from the gurgling in emptying)
 
 ===== Definitions =====
 

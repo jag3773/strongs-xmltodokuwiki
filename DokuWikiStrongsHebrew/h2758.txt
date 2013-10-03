@@ -1,12 +1,16 @@
 ====== H2758: חָרִישׁ (chârîysh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2790 ;
+from H2790;
 
 ===== Meaning =====
 
-ploughing  or its  season
+**ploughing** or its **season**
 
 ===== Definitions =====
 

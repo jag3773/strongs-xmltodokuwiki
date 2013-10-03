@@ -1,12 +1,16 @@
 ====== H4815: מְרִירִי (mᵉrîyrîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H4843 ;
+from H4843;
 
 ===== Meaning =====
 
-bitter , i.e.  poisonous
+**bitter**, i.e. **poisonous**
 
 ===== Definitions =====
 

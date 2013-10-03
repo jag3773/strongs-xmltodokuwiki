@@ -1,12 +1,16 @@
 ====== H2857: חֲתַם (chătham) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-(Aramaic) a root corresponding to  H2856 ;
+(Aramaic) a root corresponding to H2856;
 
 ===== Meaning =====
 
-to  seal
+to **seal**
 
 ===== Definitions =====
 

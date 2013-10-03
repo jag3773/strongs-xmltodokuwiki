@@ -1,12 +1,16 @@
 ====== H4588: מָעוּף (mâʻûwph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5774  in the sense of   with shade (compare  H4155 );
+from H5774 in the sense of **covering** with shade (compare H4155);
 
 ===== Meaning =====
 
-covering darkness
+**darkness**
 
 ===== Definitions =====
 

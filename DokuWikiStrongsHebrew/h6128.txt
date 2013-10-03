@@ -1,12 +1,16 @@
 ====== H6128: עֲקַלְקַל (ʻăqalqal) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6127 ;
+from H6127;
 
 ===== Meaning =====
 
-winding
+**winding**
 
 ===== Definitions =====
 

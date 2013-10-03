@@ -1,12 +1,16 @@
 ====== H551: אׇמְנָם (ʼomnâm) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-adverb from  H544 ;
+adverb from H544;
 
 ===== Meaning =====
 
-verily
+**verily**
 
 ===== Definitions =====
 

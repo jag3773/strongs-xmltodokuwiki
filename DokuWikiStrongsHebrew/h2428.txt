@@ -1,12 +1,16 @@
 ====== H2428: חַיִל (chayil) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2342 ;
+from H2342;
 
 ===== Meaning =====
 
-probably a  force , whether of men, means or other resources; an  army ,  wealth ,  virtue ,  valor ,  strength
+probably a **force**, whether of men, means or other resources; an **army**, **wealth**, **virtue**, **valor**, **strength**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4249: מַחְלִי (Machlîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2470 ; sick;
+from H2470; sick;
 
 ===== Meaning =====
 
-Machli , the name of two Israelites
+**Machli**, the name of two Israelites
 
 ===== Definitions =====
 

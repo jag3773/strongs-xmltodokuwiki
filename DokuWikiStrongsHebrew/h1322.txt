@@ -1,12 +1,16 @@
 ====== H1322: בֹּשֶׁת (bôsheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H954 ;
+from H954;
 
 ===== Meaning =====
 
-shame  (the feeling and the condition, as well as its cause); by implication (specifically) an  idol
+**shame** (the feeling and the condition, as well as its cause); by implication (specifically) an **idol**
 
 ===== Definitions =====
 

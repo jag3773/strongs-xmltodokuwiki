@@ -1,12 +1,16 @@
 ====== H8222: שָׂפָם (sâphâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8193 ;
+from H8193;
 
 ===== Meaning =====
 
-the  beard  (as a  lip-piece )
+the **beard** (as a **lip-piece**)
 
 ===== Definitions =====
 

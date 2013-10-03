@@ -1,12 +1,16 @@
 ====== H7544: רֶקַח (reqach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7543 ;
+from H7543;
 
 ===== Meaning =====
 
-properly,  perfumery , i.e. (by implication)  spicery  (for flavor)
+properly, **perfumery**, i.e. (by implication) **spicery** (for flavor)
 
 ===== Definitions =====
 

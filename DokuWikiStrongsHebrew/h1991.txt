@@ -1,12 +1,16 @@
 ====== H1991: הֵם (hêm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1993 ;
+from H1993;
 
 ===== Meaning =====
 
-abundance , i.e.  wealth
+**abundance**, i.e. **wealth**
 
 ===== Definitions =====
 

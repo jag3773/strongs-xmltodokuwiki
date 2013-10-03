@@ -1,12 +1,16 @@
 ====== H7486: רַעְמְסֵס (Raʻmᵉçêç) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-or   ; of Egyptian origin;
+or ; of Egyptian origin;
 
 ===== Meaning =====
 
-Rameses  or  Raamses , a place in Egypt
+**Rameses** or **Raamses**, a place in Egypt
 
 ===== Definitions =====
 

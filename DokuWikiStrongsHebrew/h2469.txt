@@ -1,12 +1,16 @@
 ====== H2469: חֶלְדַּי (Chelday) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2466 ; worldliness;
+from H2466; worldliness;
 
 ===== Meaning =====
 
-Cheldai , the name of two Israelites
+**Cheldai**, the name of two Israelites
 
 ===== Definitions =====
 

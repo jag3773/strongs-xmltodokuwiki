@@ -1,8 +1,12 @@
 ====== H4076: מָדַי (Mâday) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-(Aramaic) corresponding to  H4074
+(Aramaic) corresponding to H4074
 
 ===== Meaning =====
 

@@ -1,12 +1,16 @@
 ====== H3081: יְהוּכַל (Yᵉhûwkal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3201 ; potent;
+from H3201; potent;
 
 ===== Meaning =====
 
-Jehukal , an Israelite
+**Jehukal**, an Israelite
 
 ===== Definitions =====
 

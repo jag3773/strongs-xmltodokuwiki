@@ -1,12 +1,16 @@
 ====== H5625: סַרְדִּי (Çardîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patron from  H5624 ;
+patron from H5624;
 
 ===== Meaning =====
 
-a  Seredite  (collectively) or descendants of Sered
+a **Seredite** (collectively) or descendants of Sered
 
 ===== Definitions =====
 

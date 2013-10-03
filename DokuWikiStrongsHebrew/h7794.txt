@@ -1,12 +1,16 @@
 ====== H7794: שׁוֹר (shôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7788 ;
+from H7788;
 
 ===== Meaning =====
 
-a  bullock  (as a  traveller )
+a **bullock** (as a **traveller**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2303: חַדּוּד (chaddûwd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2300 ;
+from H2300;
 
 ===== Meaning =====
 
-a  point
+a **point**
 
 ===== Definitions =====
 

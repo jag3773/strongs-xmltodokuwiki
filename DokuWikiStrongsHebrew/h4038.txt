@@ -1,12 +1,16 @@
 ====== H4038: מַגָּל (maggâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **reap**;
 
 ===== Meaning =====
 
-reap a  sickle
+a **sickle**
 
 ===== Definitions =====
 

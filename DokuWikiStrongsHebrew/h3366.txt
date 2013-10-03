@@ -1,12 +1,16 @@
 ====== H3366: יְקָר (yᵉqâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3365 ;
+from H3365;
 
 ===== Meaning =====
 
-value , i.e. (concretely)  wealth ; abstractly,  costliness ,  dignity
+**value**, i.e. (concretely) **wealth**; abstractly, **costliness**, **dignity**
 
 ===== Definitions =====
 

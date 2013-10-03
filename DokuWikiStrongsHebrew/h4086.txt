@@ -1,12 +1,16 @@
 ====== H4086: מַדְמֵן (Madmên) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H1828 ; dunghill;
+from the same as H1828; dunghill;
 
 ===== Meaning =====
 
-Madmen , a place in Palestine
+**Madmen**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H508: אֶלְפַּעַל (ʼElpaʻal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H6466 ; God (is) act;
+from H410 and H6466; God (is) act;
 
 ===== Meaning =====
 
-Elpaal , an Israelite
+**Elpaal**, an Israelite
 
 ===== Definitions =====
 

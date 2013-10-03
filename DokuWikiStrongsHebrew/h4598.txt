@@ -1,12 +1,16 @@
 ====== H4598: מְעִיל (mᵉʻîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4603  in the sense of covering;
+from H4603 in the sense of covering;
 
 ===== Meaning =====
 
-a  robe  (i.e. upper and outer garment)
+a **robe** (i.e. upper and outer garment)
 
 ===== Definitions =====
 

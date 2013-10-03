@@ -1,12 +1,16 @@
 ====== H4059: מִדַּד (middad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H5074 ;
+from H5074;
 
 ===== Meaning =====
 
-flight
+**flight**
 
 ===== Definitions =====
 

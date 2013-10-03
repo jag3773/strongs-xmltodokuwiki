@@ -1,12 +1,16 @@
 ====== H6830: צְפוֹנִי (tsᵉphôwnîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6828 ;
+from H6828;
 
 ===== Meaning =====
 
-northern
+**northern**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2509: חָלָק (châlâq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2505 ;
+from H2505;
 
 ===== Meaning =====
 
-smooth  (especially of tongue)
+**smooth** (especially of tongue)
 
 ===== Definitions =====
 

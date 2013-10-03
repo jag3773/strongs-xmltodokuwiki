@@ -1,12 +1,16 @@
 ====== H6803: צִנְצֶנֶת (tsintseneth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from the same as  H6791 ;
+from the same as H6791;
 
 ===== Meaning =====
 
-a  vase  (probably a vial  tapering  at the top)
+a **vase** (probably a vial **tapering** at the top)
 
 ===== Definitions =====
 

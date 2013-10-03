@@ -1,12 +1,16 @@
 ====== H3982: מַאֲמַר (maʼămar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H559 ;
+from H559;
 
 ===== Meaning =====
 
-something (authoritatively)  said , i.e. an  edict
+something (authoritatively) **said**, i.e. an **edict**
 
 ===== Definitions =====
 

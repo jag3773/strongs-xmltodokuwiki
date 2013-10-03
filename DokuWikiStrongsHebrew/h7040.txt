@@ -1,12 +1,16 @@
 ====== H7040: קַלַּי (Qallay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7043 ;  ;
+from H7043; **frivolous**;
 
 ===== Meaning =====
 
-frivolous Kallai , an Israelite
+**Kallai**, an Israelite
 
 ===== Definitions =====
 

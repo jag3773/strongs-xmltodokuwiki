@@ -1,12 +1,16 @@
 ====== H1480: גּוּפָה (gûwphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1479 ;
+from H1479;
 
 ===== Meaning =====
 
-a  corpse  (as closed to sense)
+a **corpse** (as closed to sense)
 
 ===== Definitions =====
 

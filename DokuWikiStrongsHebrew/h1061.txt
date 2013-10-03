@@ -1,12 +1,16 @@
 ====== H1061: בִּכּוּר (bikkûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1069 ;
+from H1069;
 
 ===== Meaning =====
 
-the  first-fruits  of the crop
+the **first-fruits** of the crop
 
 ===== Definitions =====
 

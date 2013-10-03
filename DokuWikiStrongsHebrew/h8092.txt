@@ -1,12 +1,16 @@
 ====== H8092: שִׁמְעָא (Shimʻâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H8093 ;
+for H8093;
 
 ===== Meaning =====
 
-Shima , the name of four Israelites
+**Shima**, the name of four Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4300: מְטִיל (mᵉṭîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2904  in the sense of  ;
+from H2904 in the sense of **hammering out**;
 
 ===== Meaning =====
 
-hammering out an  iron bar  (as forged)
+an **iron bar** (as forged)
 
 ===== Definitions =====
 

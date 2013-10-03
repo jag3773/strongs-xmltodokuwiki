@@ -1,12 +1,16 @@
 ====== H2541: חָמוֹץ (châmôwts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2556 ;
+from H2556;
 
 ===== Meaning =====
 
-properly,  violent ; by implication, a  robber
+properly, **violent**; by implication, a **robber**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2892: טֹהַר (ṭôhar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2891 ;
+from H2891;
 
 ===== Meaning =====
 
-literally  brightness ; ceremonially  purification
+literally **brightness**; ceremonially **purification**
 
 ===== Definitions =====
 

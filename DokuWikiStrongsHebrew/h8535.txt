@@ -1,12 +1,16 @@
 ====== H8535: תָּם (tâm) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8552 ;
+from H8552;
 
 ===== Meaning =====
 
-complete ; usually (morally)  pious ; specifically,  gentle ,  dear
+**complete**; usually (morally) **pious**; specifically, **gentle**, **dear**
 
 ===== Definitions =====
 

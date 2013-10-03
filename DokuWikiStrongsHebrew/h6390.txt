@@ -1,12 +1,16 @@
 ====== H6390: פְּלַגָּה (pᵉlaggâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6385 ;
+from H6385;
 
 ===== Meaning =====
 
-a  runlet , i.e.  gully
+a **runlet**, i.e. **gully**
 
 ===== Definitions =====
 

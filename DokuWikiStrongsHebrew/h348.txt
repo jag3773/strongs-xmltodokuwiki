@@ -1,12 +1,16 @@
 ====== H348: אִיזֶבֶל (ʼÎyzebel) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H336  and  H2083 ;
+from H336 and H2083;
 
 ===== Meaning =====
 
-Izebel , the wife of king Ahab
+**Izebel**, the wife of king Ahab
 
 ===== Definitions =====
 

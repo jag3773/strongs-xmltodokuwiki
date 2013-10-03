@@ -1,12 +1,16 @@
 ====== H6242: עֶשְׂרִים (ʻesrîym) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H6235 ;
+from H6235;
 
 ===== Meaning =====
 
-twenty ; also (ordinal)  twentieth
+**twenty**; also (ordinal) **twentieth**
 
 ===== Definitions =====
 

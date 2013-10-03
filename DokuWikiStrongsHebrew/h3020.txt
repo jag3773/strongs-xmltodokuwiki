@@ -1,12 +1,16 @@
 ====== H3020: יׇגְלִי (Yoglîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1540 ; exiled;
+from H1540; exiled;
 
 ===== Meaning =====
 
-Jogli , an Israelite
+**Jogli**, an Israelite
 
 ===== Definitions =====
 

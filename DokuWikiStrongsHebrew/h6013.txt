@@ -1,12 +1,16 @@
 ====== H6013: עָמֹק (ʻâmôq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6009 ;
+from H6009;
 
 ===== Meaning =====
 
-deep  (literally or figuratively)
+**deep** (literally or figuratively)
 
 ===== Definitions =====
 

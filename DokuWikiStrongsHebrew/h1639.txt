@@ -1,12 +1,16 @@
 ====== H1639: גָּרַע (gâraʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  scrape  off; by implication, to  shave ,  remove ,  lessen ,  withhold
+to **scrape** off; by implication, to **shave**, **remove**, **lessen**, **withhold**
 
 ===== Definitions =====
 

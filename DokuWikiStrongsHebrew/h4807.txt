@@ -1,12 +1,16 @@
 ====== H4807: מְרִיב בַּעַל (Mᵉrîyb Baʻal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7378  and  H1168 ;
+from H7378 and H1168;
 
 ===== Meaning =====
 
-quarreller of Baal ,  Merib-Baal , an epithet of Gideon
+**quarreller of Baal**, **Merib-Baal**, an epithet of Gideon
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6756: צַלְמוֹן (Tsalmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H6754 ;  ;
+from H6754; **shady**;
 
 ===== Meaning =====
 
-shady Tsalmon , the name of a place in Palestine and of an Israelite
+**Tsalmon**, the name of a place in Palestine and of an Israelite
 
 ===== Definitions =====
 

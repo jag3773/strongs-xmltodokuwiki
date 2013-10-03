@@ -1,12 +1,16 @@
 ====== H4421: מִלְחָמָה (milchâmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3898  (in the sense of  );
+from H3898 (in the sense of **fighting**);
 
 ===== Meaning =====
 
-fighting a  battle  (i.e. the  engagement ); generally,  war  (i.e.  war-fare )
+a **battle** (i.e. the **engagement**); generally, **war** (i.e. **war-fare**)
 
 ===== Definitions =====
 

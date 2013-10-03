@@ -1,12 +1,16 @@
 ====== H3594: כִּיּוּן (Kîyûwn) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H3559 ;
+from H3559;
 
 ===== Meaning =====
 
-properly, a  statue , i.e.  idol ; but used (by euphemism) for some  heathen deity  (perhaps corresponding to Priapus or Baal-peor)
+properly, a **statue**, i.e. **idol**; but used (by euphemism) for some **heathen deity** (perhaps corresponding to Priapus or Baal-peor)
 
 ===== Definitions =====
 

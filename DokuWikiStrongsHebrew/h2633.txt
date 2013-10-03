@@ -1,12 +1,16 @@
 ====== H2633: חֹסֶן (chôçen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2630 ;
+from H2630;
 
 ===== Meaning =====
 
-wealth
+**wealth**
 
 ===== Definitions =====
 

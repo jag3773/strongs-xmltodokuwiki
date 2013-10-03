@@ -1,12 +1,16 @@
 ====== H5883: עֵין רֹגֵל (ʻÊyn Rôgêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and the active participle of  H7270 ; fountain of a traveller;
+from H5869 and the active participle of H7270; fountain of a traveller;
 
 ===== Meaning =====
 
-En-Rogel , a place near Jerusalem
+**En-Rogel**, a place near Jerusalem
 
 ===== Definitions =====
 

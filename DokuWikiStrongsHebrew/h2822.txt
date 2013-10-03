@@ -1,12 +1,16 @@
 ====== H2822: חֹשֶׁךְ (chôshek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2821 ;
+from H2821;
 
 ===== Meaning =====
 
-the  dark ; hence (literally)  darkness ; figuratively,  misery ,  destruction ,  death ,  ignorance ,  sorrow ,  wickedness
+the **dark**; hence (literally) **darkness**; figuratively, **misery**, **destruction**, **death**, **ignorance**, **sorrow**, **wickedness**
 
 ===== Definitions =====
 

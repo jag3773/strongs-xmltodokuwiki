@@ -1,12 +1,16 @@
 ====== H5419: נְתַן־מֶלֶךְ (Nᵉthan-Melek) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5414  and  H4428 ; given of (the) king;
+from H5414 and H4428; given of (the) king;
 
 ===== Meaning =====
 
-Nethan-Melek , an Israelite
+**Nethan-Melek**, an Israelite
 
 ===== Definitions =====
 

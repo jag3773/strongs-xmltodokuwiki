@@ -1,12 +1,16 @@
 ====== H1174: בַּעַל הָמוֹן (Baʻal Hâmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1167  and  H1995 ; possessor of a multitude;
+from H1167 and H1995; possessor of a multitude;
 
 ===== Meaning =====
 
-Baal-Hamon , a place in Palestine
+**Baal-Hamon**, a place in Palestine
 
 ===== Definitions =====
 

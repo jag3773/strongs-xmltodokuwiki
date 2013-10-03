@@ -1,12 +1,16 @@
 ====== H1065: בְּכִי (Bᵉkîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1058 ;
+from H1058;
 
 ===== Meaning =====
 
-a  weeping ; by analogy, a  dripping
+a **weeping**; by analogy, a **dripping**
 
 ===== Definitions =====
 

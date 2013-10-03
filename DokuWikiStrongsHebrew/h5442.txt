@@ -1,12 +1,16 @@
 ====== H5442: סְבָךְ (çᵉbâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5440 ,
+from H5440,
 
 ===== Meaning =====
 
-a  copse
+a **copse**
 
 ===== Definitions =====
 

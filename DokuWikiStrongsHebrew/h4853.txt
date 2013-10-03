@@ -1,12 +1,16 @@
 ====== H4853: מַשָּׂא (massâʼ) ======
 
+===== Part of Speech =====
+
+n-m n-pr-m
+
 ===== Source =====
 
-from  H5375 ;
+from H5375;
 
 ===== Meaning =====
 
-a  burden ; specifically,  tribute , or (abstractly)  porterage ; figuratively, an  utterance , chiefly a  doom , especially  singing ; mental,  desire
+a **burden**; specifically, **tribute**, or (abstractly) **porterage**; figuratively, an **utterance**, chiefly a **doom**, especially **singing**; mental, **desire**
 
 ===== Definitions =====
 

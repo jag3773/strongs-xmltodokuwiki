@@ -1,12 +1,16 @@
 ====== H8405: תֵּבֵץ (Têbêts) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H948 ;  ;
+from the same as H948; **whiteness**;
 
 ===== Meaning =====
 
-whiteness Tebets , a place in Palestine
+**Tebets**, a place in Palestine
 
 ===== Definitions =====
 

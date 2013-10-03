@@ -1,12 +1,16 @@
 ====== H273: אַחְזַי (ʼAchzay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H270 ; seizer;
+from H270; seizer;
 
 ===== Meaning =====
 
-Achzai , an Israelite
+**Achzai**, an Israelite
 
 ===== Definitions =====
 

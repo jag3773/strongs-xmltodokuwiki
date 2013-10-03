@@ -1,12 +1,16 @@
 ====== H3756: כַּרְמִי (Karmîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3754 ; gardener;
+from H3754; gardener;
 
 ===== Meaning =====
 
-Karmi , the name of three Israelites
+**Karmi**, the name of three Israelites
 
 ===== Definitions =====
 

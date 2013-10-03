@@ -1,12 +1,16 @@
 ====== H2137: זְכוּכִית (zᵉkûwkîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2135 ;
+from H2135;
 
 ===== Meaning =====
 
-properly,  transparency , i.e.  glass
+properly, **transparency**, i.e. **glass**
 
 ===== Definitions =====
 

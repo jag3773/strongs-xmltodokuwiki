@@ -1,12 +1,16 @@
 ====== H4469: מַמְסָךְ (mamçâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4537 ;
+from H4537;
 
 ===== Meaning =====
 
-mixture , i.e. (specifically) wine  mixed  (with water or spices)
+**mixture**, i.e. (specifically) wine **mixed** (with water or spices)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H882: בְּאֵרִי (Bᵉʼêrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H875 ; fountained;
+from H875; fountained;
 
 ===== Meaning =====
 
-Beeri , the name of a Hittite and of an Israelite
+**Beeri**, the name of a Hittite and of an Israelite
 
 ===== Definitions =====
 

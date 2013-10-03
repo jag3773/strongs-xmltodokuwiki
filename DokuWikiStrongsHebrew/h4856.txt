@@ -1,12 +1,16 @@
 ====== H4856: מַשֹּׂא (massôʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5375 ;
+from H5375;
 
 ===== Meaning =====
 
-partiality  (as a lifting up)
+**partiality** (as a lifting up)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2714: חֵקֶר (chêqer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2713 ;
+from H2713;
 
 ===== Meaning =====
 
-examination ,  enumeration ,  deliberation
+**examination**, **enumeration**, **deliberation**
 
 ===== Definitions =====
 

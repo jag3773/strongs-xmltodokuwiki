@@ -1,12 +1,16 @@
 ====== H8175: שָׂעַר (sâʻar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  storm ; by implication, to  shiver , i.e.  fear
+to **storm**; by implication, to **shiver**, i.e. **fear**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5990: עַמִּיזָבָד (ʻAmmîyzâbâd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5971  and  H2064 ;  ;
+from H5971 and H2064; **people of endowment**;
 
 ===== Meaning =====
 
-people of endowment Ammizabad , an Israelite
+**Ammizabad**, an Israelite
 
 ===== Definitions =====
 

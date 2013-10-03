@@ -1,12 +1,16 @@
 ====== H7330: רָזֶה (râzeh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7329 ;
+from H7329;
 
 ===== Meaning =====
 
-thin
+**thin**
 
 ===== Definitions =====
 

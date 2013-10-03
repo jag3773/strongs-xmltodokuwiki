@@ -1,12 +1,16 @@
 ====== H2578: חֲמַת צוֹבָה (Chămath Tsôwbâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2574  and  H6678 ; Chamath of Tsobah; probably the same as  H2574
+from H2574 and H6678; Chamath of Tsobah; probably the same as H2574
 
 ===== Meaning =====
 
-Chamath-Tsobah
+**Chamath-Tsobah**
 
 ===== Definitions =====
 

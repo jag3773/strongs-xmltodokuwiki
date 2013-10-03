@@ -1,12 +1,16 @@
 ====== H4472: מַמְרֹר (mamrôr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4843 ;
+from H4843;
 
 ===== Meaning =====
 
-a  bitterness , i.e. (figuratively)  calamity
+a **bitterness**, i.e. (figuratively) **calamity**
 
 ===== Definitions =====
 

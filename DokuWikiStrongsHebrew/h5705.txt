@@ -1,8 +1,12 @@
 ====== H5705: עַד (ʻad) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
-(Aramaic) corresponding to  H5704
+(Aramaic) corresponding to H5704
 
 ===== Meaning =====
 

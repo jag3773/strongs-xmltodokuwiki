@@ -1,12 +1,16 @@
 ====== H6610: פִּתְחוֹן (pithchôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6605 ;
+from H6605;
 
 ===== Meaning =====
 
-opening  (the act)
+**opening** (the act)
 
 ===== Definitions =====
 

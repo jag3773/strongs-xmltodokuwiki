@@ -1,12 +1,16 @@
 ====== H3323: יִצְהָר (yitshâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6671 ;
+from H6671;
 
 ===== Meaning =====
 
-oil  (as producing light); figuratively,  anointing
+**oil** (as producing light); figuratively, **anointing**
 
 ===== Definitions =====
 

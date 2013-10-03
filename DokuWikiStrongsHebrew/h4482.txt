@@ -1,12 +1,16 @@
 ====== H4482: מֵן (mên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **apportion**;
 
 ===== Meaning =====
 
-apportion a  part ; hence, a musical  chord  (as parted into strings)
+a **part**; hence, a musical **chord** (as parted into strings)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7333: רָזוֹן (râzôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7336 ;
+from H7336;
 
 ===== Meaning =====
 
-a  dignitary
+a **dignitary**
 
 ===== Definitions =====
 

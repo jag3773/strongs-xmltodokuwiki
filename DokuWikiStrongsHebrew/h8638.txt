@@ -1,12 +1,16 @@
 ====== H8638: תִּרְגַּם (tirgam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a denominative from  H7275  in the sense of throwing over;
+a denominative from H7275 in the sense of throwing over;
 
 ===== Meaning =====
 
-to  transfer , i.e.  translate
+to **transfer**, i.e. **translate**
 
 ===== Definitions =====
 

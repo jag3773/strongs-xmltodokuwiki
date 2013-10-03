@@ -1,12 +1,16 @@
 ====== H5121: נָוִית (Nâvîyth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5115 ; residence;
+from H5115; residence;
 
 ===== Meaning =====
 
-Navith , a place in Palestine
+**Navith**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1817: דֶּלֶת (deleth) ======
 
+===== Part of Speech =====
+
+n-m n-f
+
 ===== Source =====
 
-from  H1802 ;
+from H1802;
 
 ===== Meaning =====
 
-something swinging , i.e.  the valve of a door
+**something swinging**, i.e. **the valve of a door**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5971: עַם (ʻam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6004 ;
+from H6004;
 
 ===== Meaning =====
 
-a  people  (as a congregated unit); specifically, a  tribe  (as those of Israel); hence (collectively)  troops  or  attendants ; figuratively, a  flock
+a **people** (as a congregated unit); specifically, a **tribe** (as those of Israel); hence (collectively) **troops** or **attendants**; figuratively, a **flock**
 
 ===== Definitions =====
 

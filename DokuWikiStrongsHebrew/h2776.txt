@@ -1,12 +1,16 @@
 ====== H2776: חֶרֶס (Chereç) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H2775 ;  ;
+the same as H2775; **shining**;
 
 ===== Meaning =====
 
-shining Cheres , a mountain in Palestine
+**Cheres**, a mountain in Palestine
 
 ===== Definitions =====
 

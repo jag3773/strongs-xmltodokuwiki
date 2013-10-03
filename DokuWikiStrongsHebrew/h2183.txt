@@ -1,12 +1,16 @@
 ====== H2183: זָנוּן (zânûwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2181 ;
+from H2181;
 
 ===== Meaning =====
 
-adultery ; figuratively,  idolatry
+**adultery**; figuratively, **idolatry**
 
 ===== Definitions =====
 

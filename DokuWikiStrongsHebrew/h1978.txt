@@ -1,12 +1,16 @@
 ====== H1978: הָלִיךְ (hâlîyk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1980 ;
+from H1980;
 
 ===== Meaning =====
 
-a  walk , i.e. (by implication) a  step
+a **walk**, i.e. (by implication) a **step**
 
 ===== Definitions =====
 

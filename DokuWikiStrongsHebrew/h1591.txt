@@ -1,12 +1,16 @@
 ====== H1591: גְּנֵבָה (gᵉnêbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1589 ;
+from H1589;
 
 ===== Meaning =====
 
-stealing , i.e. (concretely) something  stolen
+**stealing**, i.e. (concretely) something **stolen**
 
 ===== Definitions =====
 

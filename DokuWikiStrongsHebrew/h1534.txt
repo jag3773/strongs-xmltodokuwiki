@@ -1,12 +1,16 @@
 ====== H1534: גַּלְגַּל (galgal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-by reduplication from  H1556 ;
+by reduplication from H1556;
 
 ===== Meaning =====
 
-a  wheel ; by analogy, a  whirlwind ; also  dust  (as  whirled )
+a **wheel**; by analogy, a **whirlwind**; also **dust** (as **whirled**)
 
 ===== Definitions =====
 

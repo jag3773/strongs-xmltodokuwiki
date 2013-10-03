@@ -1,12 +1,16 @@
 ====== H561: אֵמֶר (ʼêmer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H559 ;
+from H559;
 
 ===== Meaning =====
 
-something said
+**something said**
 
 ===== Definitions =====
 

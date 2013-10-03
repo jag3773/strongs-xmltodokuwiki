@@ -1,12 +1,16 @@
 ====== H1383: גַּבְלֻת (gabluth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1379 ;
+from H1379;
 
 ===== Meaning =====
 
-a twisted  chain  or  lace
+a twisted **chain** or **lace**
 
 ===== Definitions =====
 

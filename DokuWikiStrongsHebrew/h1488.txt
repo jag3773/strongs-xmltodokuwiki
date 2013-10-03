@@ -1,12 +1,16 @@
 ====== H1488: גֵּז (gêz) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1494 ;
+from H1494;
 
 ===== Meaning =====
 
-a  fleece  (as shorn); also  mown grass
+a **fleece** (as shorn); also **mown grass**
 
 ===== Definitions =====
 

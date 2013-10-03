@@ -1,12 +1,16 @@
 ====== H7156: קִרְיָתַיִם (Qiryâthayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual of  H7151 ;  ;
+dual of H7151; **double city**;
 
 ===== Meaning =====
 
-double city Kirjathaim , the name of two placed in Palestine
+**Kirjathaim**, the name of two placed in Palestine
 
 ===== Definitions =====
 

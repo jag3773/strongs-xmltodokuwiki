@@ -1,12 +1,16 @@
 ====== H4485: מַנְגִּינָה (mangîynâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5059 ;
+from H5059;
 
 ===== Meaning =====
 
-a  satire
+a **satire**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4889: מַשְׁחִית (mashchîyth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7843 ;
+from H7843;
 
 ===== Meaning =====
 
-destructive , i.e. (as noun)  destruction , literally (specifically a snare) or figuratively (corruption)
+**destructive**, i.e. (as noun) **destruction**, literally (specifically a snare) or figuratively (corruption)
 
 ===== Definitions =====
 

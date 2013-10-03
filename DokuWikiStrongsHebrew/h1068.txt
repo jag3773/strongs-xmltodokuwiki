@@ -1,12 +1,16 @@
 ====== H1068: בְּכִית (bᵉkîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1058 ;
+from H1058;
 
 ===== Meaning =====
 
-a  weeping
+a **weeping**
 
 ===== Definitions =====
 

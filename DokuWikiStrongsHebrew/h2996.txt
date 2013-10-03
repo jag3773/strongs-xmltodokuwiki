@@ -1,12 +1,16 @@
 ====== H2996: יַבְנֶה (Yabneh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1129 ; a building;
+from H1129; a building;
 
 ===== Meaning =====
 
-Jabneh , a place in Palestine
+**Jabneh**, a place in Palestine
 
 ===== Definitions =====
 

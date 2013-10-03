@@ -1,12 +1,16 @@
 ====== H1059: בֶּכֶה (bekeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1058 ;
+from H1058;
 
 ===== Meaning =====
 
-a  weeping
+a **weeping**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7443: רֶנֶן (renen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7442 ;
+from H7442;
 
 ===== Meaning =====
 
-an  ostrich  (from its wail)
+an **ostrich** (from its wail)
 
 ===== Definitions =====
 

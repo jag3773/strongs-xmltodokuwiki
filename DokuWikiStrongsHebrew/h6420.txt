@@ -1,12 +1,16 @@
 ====== H6420: פָּלָל (Pâlâl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6419 ;  ;
+from H6419; **judge**;
 
 ===== Meaning =====
 
-judge Palal , an Israelite
+**Palal**, an Israelite
 
 ===== Definitions =====
 

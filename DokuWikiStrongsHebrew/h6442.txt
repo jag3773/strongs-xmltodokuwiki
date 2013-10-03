@@ -1,12 +1,16 @@
 ====== H6442: פְּנִימִי (pᵉnîymîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6440 ;
+from H6440;
 
 ===== Meaning =====
 
-interior
+**interior**
 
 ===== Definitions =====
 

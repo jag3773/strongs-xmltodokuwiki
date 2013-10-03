@@ -1,12 +1,16 @@
 ====== H8596: תֹּף (tôph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8608  contracted;
+from H8608 contracted;
 
 ===== Meaning =====
 
-a  tambourine
+a **tambourine**
 
 ===== Definitions =====
 

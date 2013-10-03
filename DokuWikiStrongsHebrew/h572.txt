@@ -1,12 +1,16 @@
 ====== H572: אַמְתַּחַת (ʼamtachath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4969 ;
+from H4969;
 
 ===== Meaning =====
 
-properly, something  expansive , i.e. a  bag
+properly, something **expansive**, i.e. a **bag**
 
 ===== Definitions =====
 

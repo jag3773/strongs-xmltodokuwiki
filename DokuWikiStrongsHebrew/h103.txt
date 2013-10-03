@@ -1,12 +1,16 @@
 ====== H103: אָגַר (ʼâgar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  harvest
+to **harvest**
 
 ===== Definitions =====
 

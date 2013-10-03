@@ -1,12 +1,16 @@
 ====== H8110: שִׁמְרוֹן (Shimrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H8105  in its original sense;  ;
+from H8105 in its original sense; **guardianship**;
 
 ===== Meaning =====
 
-guardianship Shimron , the name of an Israelite and of a place in Palestine
+**Shimron**, the name of an Israelite and of a place in Palestine
 
 ===== Definitions =====
 

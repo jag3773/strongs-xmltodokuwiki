@@ -1,12 +1,16 @@
 ====== H2677: חֵצִי (chêtsîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2673 ;
+from H2673;
 
 ===== Meaning =====
 
-the  half  or  middle
+the **half** or **middle**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4604: מַעַל (maʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4603 ;
+from H4603;
 
 ===== Meaning =====
 
-treachery , i.e. sin
+**treachery**, i.e. sin
 
 ===== Definitions =====
 

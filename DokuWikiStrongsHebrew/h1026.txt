@@ -1,12 +1,16 @@
 ====== H1026: בֵּית הָעֲרָבָה (Bêyth hâ-ʻĂrâbâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H6160  with the article interposed; house of the Desert;
+from H1004 and H6160 with the article interposed; house of the Desert;
 
 ===== Meaning =====
 
-Beth-ha-Arabah , a place in Palestine
+**Beth-ha-Arabah**, a place in Palestine
 
 ===== Definitions =====
 

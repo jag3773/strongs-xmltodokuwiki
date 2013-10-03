@@ -1,12 +1,16 @@
 ====== H2088: זֶה (zeh) ======
 
+===== Part of Speech =====
+
+d
+
 ===== Source =====
 
 a primitive word;
 
 ===== Meaning =====
 
-the masculine demonstrative pronoun,  this  or  that
+the masculine demonstrative pronoun, **this** or **that**
 
 ===== Definitions =====
 

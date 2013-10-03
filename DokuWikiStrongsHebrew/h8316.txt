@@ -1,12 +1,16 @@
 ====== H8316: שְׂרֵפָה (sᵉrêphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8313 ;
+from H8313;
 
 ===== Meaning =====
 
-cremation
+**cremation**
 
 ===== Definitions =====
 

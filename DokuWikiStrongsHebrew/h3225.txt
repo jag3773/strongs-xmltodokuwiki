@@ -1,12 +1,16 @@
 ====== H3225: יָמִין (yâmîyn) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3231 ;
+from H3231;
 
 ===== Meaning =====
 
-the  right  hand or side (leg, eye) of a person or other object (as the  stronger  and more dexterous); locally, the  south
+the **right** hand or side (leg, eye) of a person or other object (as the **stronger** and more dexterous); locally, the **south**
 
 ===== Definitions =====
 

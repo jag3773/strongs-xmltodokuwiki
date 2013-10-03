@@ -1,12 +1,16 @@
 ====== H226: אוֹת (ʼôwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-probably from  H225  (in the sense of  );
+probably from H225 (in the sense of **appearing**);
 
 ===== Meaning =====
 
-appearing a  signal  (literally or figuratively), as a  flag ,  beacon ,  monument ,  omen ,  prodigy ,  evidence , etc.
+a **signal** (literally or figuratively), as a **flag**, **beacon**, **monument**, **omen**, **prodigy**, **evidence**, etc.
 
 ===== Definitions =====
 

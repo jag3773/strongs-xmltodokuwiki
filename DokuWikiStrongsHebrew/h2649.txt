@@ -1,12 +1,16 @@
 ====== H2649: חִפָּזוֹן (chippâzôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2468 ;
+from H2468;
 
 ===== Meaning =====
 
-hasty flight
+**hasty flight**
 
 ===== Definitions =====
 

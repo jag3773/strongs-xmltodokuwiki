@@ -1,12 +1,16 @@
 ====== H8586: תַּעֲלוּל (taʻălûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5953 ;
+from H5953;
 
 ===== Meaning =====
 
-caprice  (as a fit  coming on ), i.e.  vexation ; concretely a  tyrant
+**caprice** (as a fit **coming on**), i.e. **vexation**; concretely a **tyrant**
 
 ===== Definitions =====
 

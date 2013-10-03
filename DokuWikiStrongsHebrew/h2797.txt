@@ -1,12 +1,16 @@
 ====== H2797: חַרְשָׁא (Charshâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2792 ; magician;
+from H2792; magician;
 
 ===== Meaning =====
 
-Charsha , one of the Nethinim
+**Charsha**, one of the Nethinim
 
 ===== Definitions =====
 

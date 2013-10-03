@@ -1,12 +1,16 @@
 ====== H7125: קִרְאָה (qirʼâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7122 ;
+from H7122;
 
 ===== Meaning =====
 
-an  encountering , accidental, friendly or hostile (also adverbially,  opposite )
+an **encountering**, accidental, friendly or hostile (also adverbially, **opposite**)
 
 ===== Definitions =====
 

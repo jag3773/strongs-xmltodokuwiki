@@ -1,12 +1,16 @@
 ====== H8537: תֹּם (tôm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8552 ;
+from H8552;
 
 ===== Meaning =====
 
-completeness ; figuratively,  prosperity ; usually (morally)  innocence
+**completeness**; figuratively, **prosperity**; usually (morally) **innocence**
 
 ===== Definitions =====
 

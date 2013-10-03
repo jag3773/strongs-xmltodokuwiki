@@ -1,12 +1,16 @@
 ====== H7366: רַחַץ (rachats) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7364 ;
+from H7364;
 
 ===== Meaning =====
 
-a  bath
+a **bath**
 
 ===== Definitions =====
 

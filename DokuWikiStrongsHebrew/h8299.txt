@@ -1,12 +1,16 @@
 ====== H8299: שָׂרִיג (sârîyg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8276 ;
+from H8276;
 
 ===== Meaning =====
 
-a  tendril  (as entwining)
+a **tendril** (as entwining)
 
 ===== Definitions =====
 

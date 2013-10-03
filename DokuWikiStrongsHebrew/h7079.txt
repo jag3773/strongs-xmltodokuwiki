@@ -1,12 +1,16 @@
 ====== H7079: קְנָת (Qᵉnâth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7069 ;  ;
+from H7069; **possession**;
 
 ===== Meaning =====
 
-possession Kenath , a place East of the Jordan
+**Kenath**, a place East of the Jordan
 
 ===== Definitions =====
 

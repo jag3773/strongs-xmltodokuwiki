@@ -1,12 +1,16 @@
 ====== H658: אֶפֶס דַּמִּים (ʼEpheç Dammîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H657  and the plural of  H1818 ; boundary of blood-drops;
+from H657 and the plural of H1818; boundary of blood-drops;
 
 ===== Meaning =====
 
-Ephes-Dammim , a place in Palestine
+**Ephes-Dammim**, a place in Palestine
 
 ===== Definitions =====
 

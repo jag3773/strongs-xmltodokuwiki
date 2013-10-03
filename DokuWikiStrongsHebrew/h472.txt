@@ -1,12 +1,16 @@
 ====== H472: אֱלִישֶׁבַע (ʼĔlîyshebaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H410  and  H7651  (in the sense of  H7650 ); God of (the) oath;
+from H410 and H7651 (in the sense of H7650); God of (the) oath;
 
 ===== Meaning =====
 
-Elisheba , the wife of Aaron
+**Elisheba**, the wife of Aaron
 
 ===== Definitions =====
 

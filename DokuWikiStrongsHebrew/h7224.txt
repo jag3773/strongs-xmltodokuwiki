@@ -1,12 +1,16 @@
 ====== H7224: רִאשֹׁנִי (riʼshônîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7223 ;
+from H7223;
 
 ===== Meaning =====
 
-first
+**first**
 
 ===== Definitions =====
 

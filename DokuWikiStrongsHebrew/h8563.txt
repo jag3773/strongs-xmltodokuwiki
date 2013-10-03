@@ -1,12 +1,16 @@
 ====== H8563: תַּמְרוּר (tamrûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4843 ;
+from H4843;
 
 ===== Meaning =====
 
-bitterness  (plural as collective)
+**bitterness** (plural as collective)
 
 ===== Definitions =====
 

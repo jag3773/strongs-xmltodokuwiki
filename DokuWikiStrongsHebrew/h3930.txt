@@ -1,12 +1,16 @@
 ====== H3930: לֹעַ (lôaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3886 ;
+from H3886;
 
 ===== Meaning =====
 
-the  gullet
+the **gullet**
 
 ===== Definitions =====
 

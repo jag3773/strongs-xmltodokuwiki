@@ -1,12 +1,16 @@
 ====== H4009: מִבְטָח (mibṭâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H982 ;
+from H982;
 
 ===== Meaning =====
 
-properly, a  refuge , i.e. (objective)  security , or (subjective)  assurance
+properly, a **refuge**, i.e. (objective) **security**, or (subjective) **assurance**
 
 ===== Definitions =====
 

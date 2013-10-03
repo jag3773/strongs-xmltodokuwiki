@@ -1,12 +1,16 @@
 ====== H600: אֲנַף (ʼănaph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H639  (only in the plural as a singular);
+(Aramaic) corresponding to H639 (only in the plural as a singular);
 
 ===== Meaning =====
 
-the  face
+the **face**
 
 ===== Definitions =====
 

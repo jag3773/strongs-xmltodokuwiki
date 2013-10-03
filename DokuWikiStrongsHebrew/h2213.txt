@@ -1,12 +1,16 @@
 ====== H2213: זֵר (zêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2237  (in the sense of  );
+from H2237 (in the sense of **scattering**);
 
 ===== Meaning =====
 
-scattering a  chaplet  (as  spread  around the top), i.e. (specifically) a border  moulding
+a **chaplet** (as **spread** around the top), i.e. (specifically) a border **moulding**
 
 ===== Definitions =====
 

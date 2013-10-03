@@ -1,12 +1,16 @@
 ====== H6480: פָּצַם (pâtsam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  rend  (by earthquake)
+to **rend** (by earthquake)
 
 ===== Definitions =====
 

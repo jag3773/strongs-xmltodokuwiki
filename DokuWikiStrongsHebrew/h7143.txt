@@ -1,12 +1,16 @@
 ====== H7143: קָרֵחַ (Qârêach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7139 ;  ;
+from H7139; **bald**;
 
 ===== Meaning =====
 
-bald Kareach , an Israelite
+**Kareach**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5987: עָמוֹק (ʻÂmôwq) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6009 ;  ;
+from H6009; **deep**;
 
 ===== Meaning =====
 
-deep Amok , an Israelite
+**Amok**, an Israelite
 
 ===== Definitions =====
 

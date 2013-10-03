@@ -1,12 +1,16 @@
 ====== H7913: שָׁכֵחַ (shâkêach) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7911 ;
+from H7911;
 
 ===== Meaning =====
 
-oblivious
+**oblivious**
 
 ===== Definitions =====
 

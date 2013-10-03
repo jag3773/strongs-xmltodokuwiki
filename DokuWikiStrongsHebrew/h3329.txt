@@ -1,12 +1,16 @@
 ====== H3329: יָצִיא (yâtsîyʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3318 ;
+from H3318;
 
 ===== Meaning =====
 
-issue , i.e.  offspring
+**issue**, i.e. **offspring**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5872: עֵין גֶּדִי (ʻÊyn Gedîy) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and  H1423 ; fountain of a kid;
+from H5869 and H1423; fountain of a kid;
 
 ===== Meaning =====
 
-En-Gedi , a place in Palestine
+**En-Gedi**, a place in Palestine
 
 ===== Definitions =====
 

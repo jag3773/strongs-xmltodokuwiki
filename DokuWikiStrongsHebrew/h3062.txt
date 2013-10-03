@@ -1,12 +1,16 @@
 ====== H3062: יְהוּדָאִי (Yᵉhûwdâʼîy) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-(Aramaic) patrial from  H3061 ;
+(Aramaic) patrial from H3061;
 
 ===== Meaning =====
 
-a  Jehudaite  (or Judaite), i.e.  Jew
+a **Jehudaite** (or Judaite), i.e. **Jew**
 
 ===== Definitions =====
 

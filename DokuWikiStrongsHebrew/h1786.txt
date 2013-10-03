@@ -1,12 +1,16 @@
 ====== H1786: דַּיִשׁ (dayish) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1758 ;
+from H1758;
 
 ===== Meaning =====
 
-threshing-time
+**threshing-time**
 
 ===== Definitions =====
 

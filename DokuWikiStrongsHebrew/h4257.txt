@@ -1,12 +1,16 @@
 ====== H4257: מַחֲלַת (machălath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2470 ;  ;
+from H2470; **sickness**;
 
 ===== Meaning =====
 
-sickness 'Machalath' , probably the title (initial word) of a popular song
+**'Machalath'**, probably the title (initial word) of a popular song
 
 ===== Definitions =====
 

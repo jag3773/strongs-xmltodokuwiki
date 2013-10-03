@@ -1,12 +1,16 @@
 ====== H1300: בָּרָק (bârâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1299 ;
+from H1299;
 
 ===== Meaning =====
 
-lightning ; by analogy, a  gleam ; concretely, a  flashing sword
+**lightning**; by analogy, a **gleam**; concretely, a **flashing sword**
 
 ===== Definitions =====
 

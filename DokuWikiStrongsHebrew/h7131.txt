@@ -1,12 +1,16 @@
 ====== H7131: קָרֵב (qârêb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7126 ;
+from H7126;
 
 ===== Meaning =====
 
-near
+**near**
 
 ===== Definitions =====
 

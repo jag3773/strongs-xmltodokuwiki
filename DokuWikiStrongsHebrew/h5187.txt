@@ -1,12 +1,16 @@
 ====== H5187: נְטִיל (nᵉṭîyl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5190 ;
+from H5190;
 
 ===== Meaning =====
 
-laden
+**laden**
 
 ===== Definitions =====
 

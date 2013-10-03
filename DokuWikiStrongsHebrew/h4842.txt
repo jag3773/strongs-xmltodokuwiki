@@ -1,12 +1,16 @@
 ====== H4842: מִרְקַחַת (mirqachath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7543 ;
+from H7543;
 
 ===== Meaning =====
 
-an aromatic  unguent ; also an  unguent-pot
+an aromatic **unguent**; also an **unguent-pot**
 
 ===== Definitions =====
 

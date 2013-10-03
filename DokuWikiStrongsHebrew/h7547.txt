@@ -1,12 +1,16 @@
 ====== H7547: רַקֻּחַ (raqquach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7543 ;
+from H7543;
 
 ===== Meaning =====
 
-a  scented  substance
+a **scented** substance
 
 ===== Definitions =====
 

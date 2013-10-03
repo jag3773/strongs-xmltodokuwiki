@@ -1,12 +1,16 @@
 ====== H4868: מִשְׁבָּת (mishbâth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7673 ;
+from H7673;
 
 ===== Meaning =====
 
-cessation , i.e.  destruction
+**cessation**, i.e. **destruction**
 
 ===== Definitions =====
 

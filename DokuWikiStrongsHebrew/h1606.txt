@@ -1,12 +1,16 @@
 ====== H1606: גְּעָרָה (gᵉʻârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1605 ;
+from H1605;
 
 ===== Meaning =====
 
-a  chiding
+a **chiding**
 
 ===== Definitions =====
 

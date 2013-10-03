@@ -1,12 +1,16 @@
 ====== H6135: עָקָר (ʻâqâr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6131 ;
+from H6131;
 
 ===== Meaning =====
 
-sterile  (as if extirpated in the generative organs)
+**sterile** (as if extirpated in the generative organs)
 
 ===== Definitions =====
 

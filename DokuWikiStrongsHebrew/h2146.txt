@@ -1,12 +1,16 @@
 ====== H2146: זִכְרוֹן (zikrôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2142 ;
+from H2142;
 
 ===== Meaning =====
 
-a  memento  (or memorable thing, day or writing)
+a **memento** (or memorable thing, day or writing)
 
 ===== Definitions =====
 

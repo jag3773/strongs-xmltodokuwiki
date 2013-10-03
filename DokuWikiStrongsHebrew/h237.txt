@@ -1,12 +1,16 @@
 ====== H237: אֶזֶל (ʼezel) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H235 ; departure;
+from H235; departure;
 
 ===== Meaning =====
 
-Ezel , a memorial stone in Palestine
+**Ezel**, a memorial stone in Palestine
 
 ===== Definitions =====
 

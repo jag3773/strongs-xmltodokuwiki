@@ -1,12 +1,16 @@
 ====== H6934: קַדְמִיאֵל (Qadmîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6924  and  H410 ;  ;
+from H6924 and H410; **presence of God**;
 
 ===== Meaning =====
 
-presence of God Kadmiel , the name of three Israelites
+**Kadmiel**, the name of three Israelites
 
 ===== Definitions =====
 

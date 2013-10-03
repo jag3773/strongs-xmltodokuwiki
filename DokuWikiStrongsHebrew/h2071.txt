@@ -1,12 +1,16 @@
 ====== H2071: זָבוּד (Zâbûwd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2064 ;
+from H2064;
 
 ===== Meaning =====
 
-given ,  Zabud , an Israelite
+**given**, **Zabud**, an Israelite
 
 ===== Definitions =====
 

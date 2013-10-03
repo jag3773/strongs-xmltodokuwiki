@@ -1,12 +1,16 @@
 ====== H4478: מָן (mân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4100 ;
+from H4100;
 
 ===== Meaning =====
 
-literally a  whatness  (so to speak), i.e.  manna  (so called from the question about it)
+literally a **whatness** (so to speak), i.e. **manna** (so called from the question about it)
 
 ===== Definitions =====
 

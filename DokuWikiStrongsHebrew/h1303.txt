@@ -1,12 +1,16 @@
 ====== H1303: בַּרְקָן (barqân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1300 ;
+from H1300;
 
 ===== Meaning =====
 
-a  thorn  (perhaps as burning brightly)
+a **thorn** (perhaps as burning brightly)
 
 ===== Definitions =====
 

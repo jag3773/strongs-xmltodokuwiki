@@ -1,12 +1,16 @@
 ====== H1496: גָּזִית (gâzîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1491 ;
+from H1491;
 
 ===== Meaning =====
 
-something  cut , i.e.  dressed  stone
+something **cut**, i.e. **dressed** stone
 
 ===== Definitions =====
 

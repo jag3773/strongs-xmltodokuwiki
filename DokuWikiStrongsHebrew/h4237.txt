@@ -1,12 +1,16 @@
 ====== H4237: מֶחֱזָה (mechĕzâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2372 ;
+from H2372;
 
 ===== Meaning =====
 
-a  window
+a **window**
 
 ===== Definitions =====
 

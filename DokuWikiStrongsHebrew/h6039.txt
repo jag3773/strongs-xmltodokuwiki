@@ -1,12 +1,16 @@
 ====== H6039: עֱנוּת (ʻĕnûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6031 ;
+from H6031;
 
 ===== Meaning =====
 
-affliction
+**affliction**
 
 ===== Definitions =====
 

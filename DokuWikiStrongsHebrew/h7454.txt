@@ -1,12 +1,16 @@
 ====== H7454: רֵעַ (rêaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7462 ;
+from H7462;
 
 ===== Meaning =====
 
-a  thought  (as association of ideas)
+a **thought** (as association of ideas)
 
 ===== Definitions =====
 

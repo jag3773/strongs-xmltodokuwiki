@@ -1,12 +1,16 @@
 ====== H2696: חֶצְרוֹן (Chetsrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H2691 ; court-yard;
+from H2691; court-yard;
 
 ===== Meaning =====
 
-Chetsron , the name of a place in Palestine; also of two Israelites
+**Chetsron**, the name of a place in Palestine; also of two Israelites
 
 ===== Definitions =====
 

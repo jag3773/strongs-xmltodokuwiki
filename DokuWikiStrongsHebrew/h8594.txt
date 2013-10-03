@@ -1,12 +1,16 @@
 ====== H8594: תַּעֲרֻבָה (taʻărubâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6148 ;
+from H6148;
 
 ===== Meaning =====
 
-suretyship , i.e. (concretely) a  pledge
+**suretyship**, i.e. (concretely) a **pledge**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H156: אָדַשׁ (ʼâdash) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  tread  out (grain)
+to **tread** out (grain)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4314: מֵי זָהָב (Mêy Zâhâb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4325  and  H2091 ,  ;
+from H4325 and H2091, **water of gold**;
 
 ===== Meaning =====
 
-water of gold Me-Zahab , an Edomite
+**Me-Zahab**, an Edomite
 
 ===== Definitions =====
 

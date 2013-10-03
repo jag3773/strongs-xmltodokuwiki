@@ -1,12 +1,16 @@
 ====== H5634: סַרְעַפָּה (çarʻappâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-for  H5589 ;
+for H5589;
 
 ===== Meaning =====
 
-a  twig
+a **twig**
 
 ===== Definitions =====
 

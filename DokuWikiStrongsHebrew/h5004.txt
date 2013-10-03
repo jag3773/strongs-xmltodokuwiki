@@ -1,12 +1,16 @@
 ====== H5004: נִאֻף (niʼuph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5003 ;
+from H5003;
 
 ===== Meaning =====
 
-adultery
+**adultery**
 
 ===== Definitions =====
 

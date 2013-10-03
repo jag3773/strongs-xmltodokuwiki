@@ -1,12 +1,16 @@
 ====== H2845: חֵת (Chêth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2865 ; terror;
+from H2865; terror;
 
 ===== Meaning =====
 
-Cheth , an aboriginal Canaanite
+**Cheth**, an aboriginal Canaanite
 
 ===== Definitions =====
 

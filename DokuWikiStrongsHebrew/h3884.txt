@@ -1,12 +1,16 @@
 ====== H3884: לוּלֵא (lûwlêʼ) ======
 
+===== Part of Speech =====
+
+conj
+
 ===== Source =====
 
-or   ; from  H3863  and  H3808 ;
+or ; from H3863 and H3808;
 
 ===== Meaning =====
 
-if not
+**if not**
 
 ===== Definitions =====
 

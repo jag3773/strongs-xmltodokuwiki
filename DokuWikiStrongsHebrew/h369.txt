@@ -1,12 +1,16 @@
 ====== H369: אַיִן (ʼayin) ======
 
+===== Part of Speech =====
+
+np
+
 ===== Source =====
 
-as if from a primitive root meaning to   or  ;
+as if from a primitive root meaning to **be nothing** or **not exist**;
 
 ===== Meaning =====
 
-be nothing not exist a  nonentity ; generally used as a negative particle
+a **nonentity**; generally used as a negative particle
 
 ===== Definitions =====
 

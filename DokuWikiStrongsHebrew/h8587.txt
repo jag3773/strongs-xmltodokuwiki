@@ -1,12 +1,16 @@
 ====== H8587: תַּעֲלֻמָּה (taʻălummâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5956 ;
+from H5956;
 
 ===== Meaning =====
 
-a  secret
+a **secret**
 
 ===== Definitions =====
 

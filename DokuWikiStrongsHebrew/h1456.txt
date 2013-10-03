@@ -1,12 +1,16 @@
 ====== H1456: גֵּהָה (gêhâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1455 ;
+from H1455;
 
 ===== Meaning =====
 
-a  cure
+a **cure**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3824: לֵבָב (lêbâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3823 ; used also like  H3820
+from H3823; used also like H3820
 
 ===== Meaning =====
 
-the  heart  (as the most interior organ);
+the **heart** (as the most interior organ);
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1210: בָּצִיר (bâtsîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1219 ;
+from H1219;
 
 ===== Meaning =====
 
-clipped , i.e. the  grape crop
+**clipped**, i.e. the **grape crop**
 
 ===== Definitions =====
 

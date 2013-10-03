@@ -1,12 +1,16 @@
 ====== H538: אֲמָם (ʼĂmâm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H517 ; gathering-spot;
+from H517; gathering-spot;
 
 ===== Meaning =====
 
-Amam , a place in Palestine
+**Amam**, a place in Palestine
 
 ===== Definitions =====
 

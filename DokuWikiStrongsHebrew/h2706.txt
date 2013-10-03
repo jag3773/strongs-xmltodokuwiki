@@ -1,12 +1,16 @@
 ====== H2706: חֹק (chôq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2710 ;
+from H2710;
 
 ===== Meaning =====
 
-an  enactment ; hence, an  appointment  (of time, space, quantity, labor or usage)
+an **enactment**; hence, an **appointment** (of time, space, quantity, labor or usage)
 
 ===== Definitions =====
 

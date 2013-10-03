@@ -1,12 +1,16 @@
 ====== H4434: מַלְכֹּדֶת (malkôdeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3920 ;
+from H3920;
 
 ===== Meaning =====
 
-a  snare
+a **snare**
 
 ===== Definitions =====
 

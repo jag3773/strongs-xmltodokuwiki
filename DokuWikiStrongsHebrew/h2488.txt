@@ -1,12 +1,16 @@
 ====== H2488: חֲלִיצָה (chălîytsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2503 ;
+from H2503;
 
 ===== Meaning =====
 
-spoil
+**spoil**
 
 ===== Definitions =====
 

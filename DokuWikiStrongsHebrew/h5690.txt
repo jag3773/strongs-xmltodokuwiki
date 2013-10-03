@@ -1,12 +1,16 @@
 ====== H5690: עֶגֶב (ʻegeb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5689 ;
+from H5689;
 
 ===== Meaning =====
 
-love  (concretely), i.e.  amative words
+**love** (concretely), i.e. **amative words**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1694: דֶּבֶק (debeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1692 ;
+from H1692;
 
 ===== Meaning =====
 
-a  joint ; by implication,  solder
+a **joint**; by implication, **solder**
 
 ===== Definitions =====
 

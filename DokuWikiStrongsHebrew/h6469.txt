@@ -1,12 +1,16 @@
 ====== H6469: פְּעֻלְּתַי (Pᵉʻullᵉthay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6468 ;  ;
+from H6468; **laborious**;
 
 ===== Meaning =====
 
-laborious Peullethai , an Israelite
+**Peullethai**, an Israelite
 
 ===== Definitions =====
 

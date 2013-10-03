@@ -1,12 +1,16 @@
 ====== H3949: לִקְחִי (Liqchîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3947 ; learned;
+from H3947; learned;
 
 ===== Meaning =====
 
-Likchi , an Israelite
+**Likchi**, an Israelite
 
 ===== Definitions =====
 

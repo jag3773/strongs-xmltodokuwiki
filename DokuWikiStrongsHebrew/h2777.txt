@@ -1,12 +1,16 @@
 ====== H2777: חַרְסוּת (charçûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2775  (apparently in the sense of a red tile used for scraping);
+from H2775 (apparently in the sense of a red tile used for scraping);
 
 ===== Meaning =====
 
-a potsherd , i.e. (by implication)  a pottery ; the name of a gate at Jerusalem
+**a potsherd**, i.e. (by implication) **a pottery**; the name of a gate at Jerusalem
 
 ===== Definitions =====
 

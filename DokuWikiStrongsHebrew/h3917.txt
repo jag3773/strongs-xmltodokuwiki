@@ -1,12 +1,16 @@
 ====== H3917: לִילִית (lîylîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3915 ;
+from H3915;
 
 ===== Meaning =====
 
-a  night  spectre
+a **night** spectre
 
 ===== Definitions =====
 

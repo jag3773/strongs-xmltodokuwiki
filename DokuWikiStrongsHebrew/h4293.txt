@@ -1,12 +1,16 @@
 ====== H4293: מַטְבֵּחַ (maṭbêach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2873 ;
+from H2873;
 
 ===== Meaning =====
 
-slaughter
+**slaughter**
 
 ===== Definitions =====
 

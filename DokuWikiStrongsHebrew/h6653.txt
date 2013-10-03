@@ -1,12 +1,16 @@
 ====== H6653: צֶבֶת (tsebeth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root apparently meaning to  ;
+from an unused root apparently meaning to **grip**;
 
 ===== Meaning =====
 
-grip a  lock  of stalks
+a **lock** of stalks
 
 ===== Definitions =====
 

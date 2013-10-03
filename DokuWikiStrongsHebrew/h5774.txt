@@ -1,12 +1,16 @@
 ====== H5774: עוּף (ʻûwph) ======
 
+===== Part of Speech =====
+
+v n-f
+
 ===== Source =====
 
-a primitive root; to   (with wings or obscurity); hence (as denominative from  H5775 )
+a primitive root; to **cover** (with wings or obscurity); hence (as denominative from H5775)
 
 ===== Meaning =====
 
-cover to  fly ; also (by implication of dimness) to  faint  (from the darkness of swooning)
+to **fly**; also (by implication of dimness) to **faint** (from the darkness of swooning)
 
 ===== Definitions =====
 

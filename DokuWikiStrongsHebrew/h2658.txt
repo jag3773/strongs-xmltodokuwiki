@@ -1,12 +1,16 @@
 ====== H2658: חָפַר (châphar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  pry into ; by implication, to  delve , to  explore
+properly, to **pry into**; by implication, to **delve**, to **explore**
 
 ===== Definitions =====
 

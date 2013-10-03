@@ -1,12 +1,16 @@
 ====== H8021: שַׁלְמֹן (shalmôn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7999 ;
+from H7999;
 
 ===== Meaning =====
 
-a  bribe
+a **bribe**
 
 ===== Definitions =====
 

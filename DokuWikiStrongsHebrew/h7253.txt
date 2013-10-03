@@ -1,12 +1,16 @@
 ====== H7253: רֶבַע (rebaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7251 ;
+from H7251;
 
 ===== Meaning =====
 
-a  fourth  (part or side)
+a **fourth** (part or side)
 
 ===== Definitions =====
 

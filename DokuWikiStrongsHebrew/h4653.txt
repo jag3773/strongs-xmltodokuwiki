@@ -1,12 +1,16 @@
 ====== H4653: מִפְלַגָּה (miphlaggâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6385 ;
+from H6385;
 
 ===== Meaning =====
 
-a  classification
+a **classification**
 
 ===== Definitions =====
 

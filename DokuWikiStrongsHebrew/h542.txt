@@ -1,12 +1,16 @@
 ====== H542: אָמָן (ʼâmân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H539  (in the sense of training);
+from H539 (in the sense of training);
 
 ===== Meaning =====
 
-an  expert
+an **expert**
 
 ===== Definitions =====
 

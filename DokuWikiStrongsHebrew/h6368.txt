@@ -1,12 +1,16 @@
 ====== H6368: פִּיחַ (pîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6315 ;
+from H6315;
 
 ===== Meaning =====
 
-a  powder  (as easily puffed away), i.e.  ashes  or  dust
+a **powder** (as easily puffed away), i.e. **ashes** or **dust**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7478: רַעַל (raʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7477 ;
+from H7477;
 
 ===== Meaning =====
 
-a  reeling  (from intoxication)
+a **reeling** (from intoxication)
 
 ===== Definitions =====
 

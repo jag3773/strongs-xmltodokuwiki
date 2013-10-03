@@ -1,12 +1,16 @@
 ====== H3214: יְלֵל (yᵉlêl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3213 ;
+from H3213;
 
 ===== Meaning =====
 
-howl
+**howl**
 
 ===== Definitions =====
 

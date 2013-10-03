@@ -1,12 +1,16 @@
 ====== H2949: טִפֻּח (ṭippuch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2946 ;
+from H2946;
 
 ===== Meaning =====
 
-nursing
+**nursing**
 
 ===== Definitions =====
 

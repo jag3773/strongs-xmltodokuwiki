@@ -1,12 +1,16 @@
 ====== H4664: מִפְרָץ (miphrâts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6555 ;
+from H6555;
 
 ===== Meaning =====
 
-a  break  (in the shore), i.e. a  haven
+a **break** (in the shore), i.e. a **haven**
 
 ===== Definitions =====
 

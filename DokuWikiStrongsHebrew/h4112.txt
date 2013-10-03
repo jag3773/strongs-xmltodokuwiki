@@ -1,12 +1,16 @@
 ====== H4112: מַהֲלֻמָּה (mahălummâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1986 ;
+from H1986;
 
 ===== Meaning =====
 
-a  blow
+a **blow**
 
 ===== Definitions =====
 

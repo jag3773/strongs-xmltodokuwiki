@@ -1,12 +1,16 @@
 ====== H6141: עִקֵּשׁ (ʻiqqêsh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6140 ;
+from H6140;
 
 ===== Meaning =====
 
-distorted ; hence,  false
+**distorted**; hence, **false**
 
 ===== Definitions =====
 

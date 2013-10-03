@@ -1,12 +1,16 @@
 ====== H5505: סָחַר (çâchar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5503 ;
+from H5503;
 
 ===== Meaning =====
 
-an  emporium ; abstractly,  profit  (from trade)
+an **emporium**; abstractly, **profit** (from trade)
 
 ===== Definitions =====
 

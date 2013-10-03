@@ -1,12 +1,16 @@
 ====== H2016: הֶפֶךְ (hephek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-; or   ; from  H2015 ;
+; or ; from H2015;
 
 ===== Meaning =====
 
-a  turn , i.e. the  reverse
+a **turn**, i.e. the **reverse**
 
 ===== Definitions =====
 

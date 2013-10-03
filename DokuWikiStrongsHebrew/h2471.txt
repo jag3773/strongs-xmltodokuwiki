@@ -1,12 +1,16 @@
 ====== H2471: חַלָּה (challâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2490 ;
+from H2490;
 
 ===== Meaning =====
 
-a  cake  (as usually  punctured )
+a **cake** (as usually **punctured**)
 
 ===== Definitions =====
 

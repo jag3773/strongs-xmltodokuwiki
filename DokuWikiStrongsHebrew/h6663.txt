@@ -1,12 +1,16 @@
 ====== H6663: צָדַק (tsâdaq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be  (causatively,  make )  right  (in a moral or forensic sense)
+to **be** (causatively, **make**) **right** (in a moral or forensic sense)
 
 ===== Definitions =====
 

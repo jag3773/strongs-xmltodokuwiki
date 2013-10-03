@@ -1,12 +1,16 @@
 ====== H1611: גַּף (gaph) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) corresponding to  H1610 ;
+(Aramaic) corresponding to H1610;
 
 ===== Meaning =====
 
-a  wing
+a **wing**
 
 ===== Definitions =====
 

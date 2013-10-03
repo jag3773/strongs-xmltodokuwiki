@@ -1,12 +1,16 @@
 ====== H1444: גֶּדֶר (geder) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1443 ;
+from H1443;
 
 ===== Meaning =====
 
-a  circumvallation
+a **circumvallation**
 
 ===== Definitions =====
 

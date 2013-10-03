@@ -1,12 +1,16 @@
 ====== H2860: חָתָן (châthân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2859 ;
+from H2859;
 
 ===== Meaning =====
 
-a  relative by marriage  (especially through the bride); figuratively, a  circumcised child  (as a species of religious espousal)
+a **relative by marriage** (especially through the bride); figuratively, a **circumcised child** (as a species of religious espousal)
 
 ===== Definitions =====
 

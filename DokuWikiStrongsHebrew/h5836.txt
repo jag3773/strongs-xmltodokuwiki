@@ -1,12 +1,16 @@
 ====== H5836: עֶזְרִי (ʻEzrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5828 ;  ;
+from H5828; **helpful**;
 
 ===== Meaning =====
 
-helpful Ezri , an Israelite
+**Ezri**, an Israelite
 
 ===== Definitions =====
 

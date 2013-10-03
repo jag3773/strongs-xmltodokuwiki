@@ -1,12 +1,16 @@
 ====== H5569: סָמָר (çâmâr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5568 ;
+from H5568;
 
 ===== Meaning =====
 
-bristling , i.e.  shaggy
+**bristling**, i.e. **shaggy**
 
 ===== Definitions =====
 

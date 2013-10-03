@@ -1,12 +1,16 @@
 ====== H7431: רֶמֶשׂ (remes) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7430 ;
+from H7430;
 
 ===== Meaning =====
 
-a  reptile  or any other rapidly moving animal
+a **reptile** or any other rapidly moving animal
 
 ===== Definitions =====
 

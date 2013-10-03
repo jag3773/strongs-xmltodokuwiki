@@ -1,12 +1,16 @@
 ====== H7898: שַׁיִת (shayith) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7896 ;
+from H7896;
 
 ===== Meaning =====
 
-scrub  or  trash , i.e. wild  growth  of weeds or briers (as if  put  on the field)
+**scrub** or **trash**, i.e. wild **growth** of weeds or briers (as if **put** on the field)
 
 ===== Definitions =====
 

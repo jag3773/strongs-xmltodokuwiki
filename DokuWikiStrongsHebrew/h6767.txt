@@ -1,12 +1,16 @@
 ====== H6767: צְלָצַל (tsᵉlâtsal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6750  reduplicated;
+from H6750 reduplicated;
 
 ===== Meaning =====
 
-a  clatter , i.e. (abstractly)  whirring  (of wings); (concretely) a  cricket ; also a  harpoon  (as  rattling ),a  cymbal  (as  clanging )
+a **clatter**, i.e. (abstractly) **whirring** (of wings); (concretely) a **cricket**; also a **harpoon** (as **rattling**),a **cymbal** (as **clanging**)
 
 ===== Definitions =====
 

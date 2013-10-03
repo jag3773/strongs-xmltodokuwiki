@@ -1,12 +1,16 @@
 ====== H5876: עֵין חַדָּה (ʻÊyn Chaddâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and the feminine of a derivative from  H2300 ;  ;
+from H5869 and the feminine of a derivative from H2300; **fountain of sharpness**;
 
 ===== Meaning =====
 
-fountain of sharpness En-Chaddah , a place in Palestine
+**En-Chaddah**, a place in Palestine
 
 ===== Definitions =====
 

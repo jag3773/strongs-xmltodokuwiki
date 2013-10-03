@@ -1,12 +1,16 @@
 ====== H992: בֹּטֶן (bôṭen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H990 ;
+from H990;
 
 ===== Meaning =====
 
-(only in plural) a  pistachio-nut  (from its form)
+(only in plural) a **pistachio-nut** (from its form)
 
 ===== Definitions =====
 

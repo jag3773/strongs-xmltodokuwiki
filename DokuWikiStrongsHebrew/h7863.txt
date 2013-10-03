@@ -1,12 +1,16 @@
 ====== H7863: שִׂיא (sîyʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from the same as  H7721  by permutation;
+from the same as H7721 by permutation;
 
 ===== Meaning =====
 
-elevation
+**elevation**
 
 ===== Definitions =====
 

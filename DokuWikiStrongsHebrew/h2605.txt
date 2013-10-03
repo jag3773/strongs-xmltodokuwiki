@@ -1,12 +1,16 @@
 ====== H2605: חָנָן (Chânân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2603 ;  ;
+from H2603; **favor**;
 
 ===== Meaning =====
 
-favor Chanan , the name of seven Israelites
+**Chanan**, the name of seven Israelites
 
 ===== Definitions =====
 

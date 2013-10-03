@@ -1,12 +1,16 @@
 ====== H6802: צְנֵפָה (tsᵉnêphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6801 ;
+from H6801;
 
 ===== Meaning =====
 
-a  ball
+a **ball**
 
 ===== Definitions =====
 

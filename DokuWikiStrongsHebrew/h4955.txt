@@ -1,12 +1,16 @@
 ====== H4955: מִשְׂרָפָה (misrâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8313 ;
+from H8313;
 
 ===== Meaning =====
 
-combustion , i.e.  cremation  (of a corpse), or  calcination  (of lime)
+**combustion**, i.e. **cremation** (of a corpse), or **calcination** (of lime)
 
 ===== Definitions =====
 

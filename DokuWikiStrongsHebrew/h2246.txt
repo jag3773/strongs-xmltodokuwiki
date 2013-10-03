@@ -1,12 +1,16 @@
 ====== H2246: חֹבָב (Chôbâb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2245 ;  ;
+from H2245; **cherished**;
 
 ===== Meaning =====
 
-cherished Chobab , father-in-law of Moses
+**Chobab**, father-in-law of Moses
 
 ===== Definitions =====
 

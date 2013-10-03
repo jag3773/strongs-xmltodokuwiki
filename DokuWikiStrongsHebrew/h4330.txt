@@ -1,12 +1,16 @@
 ====== H4330: מִיץ (mîyts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4160 ;
+from H4160;
 
 ===== Meaning =====
 
-pressure
+**pressure**
 
 ===== Definitions =====
 

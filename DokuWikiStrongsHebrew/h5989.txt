@@ -1,12 +1,16 @@
 ====== H5989: עַמִּיהוּד (ʻAmmîyhûwd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5971  and  H1935 ;  ;
+from H5971 and H1935; **people of splendor**;
 
 ===== Meaning =====
 
-people of splendor Ammihud , the name of three Israelites
+**Ammihud**, the name of three Israelites
 
 ===== Definitions =====
 

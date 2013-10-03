@@ -1,12 +1,16 @@
 ====== H1509: גְּזֵרָה (gᵉzêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1504 ;
+from H1504;
 
 ===== Meaning =====
 
-a  desert  (as separated)
+a **desert** (as separated)
 
 ===== Definitions =====
 

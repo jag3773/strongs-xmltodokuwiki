@@ -1,12 +1,16 @@
 ====== H312: אַחֵר (ʼachêr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H309 ;
+from H309;
 
 ===== Meaning =====
 
-properly,  hinder ; generally,  next ,  other , etc.
+properly, **hinder**; generally, **next**, **other**, etc.
 
 ===== Definitions =====
 

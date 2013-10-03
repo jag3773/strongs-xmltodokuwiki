@@ -1,12 +1,16 @@
 ====== H3241: יָנִים (Yânîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5123 ;  ;
+from H5123; **asleep**;
 
 ===== Meaning =====
 
-asleep Janim , a place in Palestine
+**Janim**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3586: כֶּחָשׁ (kechâsh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3584 ;
+from H3584;
 
 ===== Meaning =====
 
-faithless
+**faithless**
 
 ===== Definitions =====
 

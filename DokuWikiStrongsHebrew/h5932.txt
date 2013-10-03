@@ -1,12 +1,16 @@
 ====== H5932: עַלְוָה (ʻalvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-for  H5766 ;
+for H5766;
 
 ===== Meaning =====
 
-moral perverseness
+**moral perverseness**
 
 ===== Definitions =====
 

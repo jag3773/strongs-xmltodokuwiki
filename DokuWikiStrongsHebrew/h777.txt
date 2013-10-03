@@ -1,12 +1,16 @@
 ====== H777: אַרְצָא (ʼartsâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H776 ; earthiness;
+from H776; earthiness;
 
 ===== Meaning =====
 
-Artsa , an Israelite
+**Artsa**, an Israelite
 
 ===== Definitions =====
 

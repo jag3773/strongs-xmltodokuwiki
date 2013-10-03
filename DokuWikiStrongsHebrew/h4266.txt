@@ -1,12 +1,16 @@
 ====== H4266: מַחֲנַיִם (Machănayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual of  H4264 ;  ;
+dual of H4264; **double camp**;
 
 ===== Meaning =====
 
-double camp Machanajim , a place in Palestine
+**Machanajim**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4678: מַצֶּבֶת (matstsebeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5324 ;
+from H5324;
 
 ===== Meaning =====
 
-something  stationary , i.e. a monumental  stone ; also the  stock  of a tree
+something **stationary**, i.e. a monumental **stone**; also the **stock** of a tree
 
 ===== Definitions =====
 

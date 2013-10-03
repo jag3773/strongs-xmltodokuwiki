@@ -1,12 +1,16 @@
 ====== H5889: עָיֵף (ʻâyêph) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5888 ;
+from H5888;
 
 ===== Meaning =====
 
-languid
+**languid**
 
 ===== Definitions =====
 

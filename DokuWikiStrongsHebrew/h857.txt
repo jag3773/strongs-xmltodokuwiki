@@ -1,12 +1,16 @@
 ====== H857: אָתָה (ʼâthâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; a primitive root (collateral to  H225  contraction);
+or ; a primitive root (collateral to H225 contraction);
 
 ===== Meaning =====
 
-to  arrive
+to **arrive**
 
 ===== Definitions =====
 

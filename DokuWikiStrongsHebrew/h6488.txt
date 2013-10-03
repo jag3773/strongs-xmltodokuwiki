@@ -1,12 +1,16 @@
 ====== H6488: פְּקִדֻת (pᵉqiduth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6496 ;
+from H6496;
 
 ===== Meaning =====
 
-supervision
+**supervision**
 
 ===== Definitions =====
 

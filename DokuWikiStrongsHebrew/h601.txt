@@ -1,12 +1,16 @@
 ====== H601: אֲנָפָה (ʼănâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H599 ;
+from H599;
 
 ===== Meaning =====
 
-an  unclean bird , perhaps the  parrot  (from its irascibility)
+an **unclean bird**, perhaps the **parrot** (from its irascibility)
 
 ===== Definitions =====
 

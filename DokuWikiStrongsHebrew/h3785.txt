@@ -1,12 +1,16 @@
 ====== H3785: כֶּשֶׁף (kesheph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3784 ;
+from H3784;
 
 ===== Meaning =====
 
-magic
+**magic**
 
 ===== Definitions =====
 

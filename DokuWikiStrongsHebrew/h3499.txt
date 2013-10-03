@@ -1,12 +1,16 @@
 ====== H3499: יֶתֶר (yether) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3498 ;
+from H3498;
 
 ===== Meaning =====
 
-properly, an  overhanging , i.e. (by implication) an  excess ,  superiority ,  remainder ; also a small  rope  (as hanging free)
+properly, an **overhanging**, i.e. (by implication) an **excess**, **superiority**, **remainder**; also a small **rope** (as hanging free)
 
 ===== Definitions =====
 

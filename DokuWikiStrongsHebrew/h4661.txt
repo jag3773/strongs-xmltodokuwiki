@@ -1,12 +1,16 @@
 ====== H4661: מַפֵּץ (mappêts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5310 ;
+from H5310;
 
 ===== Meaning =====
 
-a  smiter , i.e. a  war club
+a **smiter**, i.e. a **war club**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1165: בְּעִיר (bᵉʻîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1197  (in the sense of eating);
+from H1197 (in the sense of eating);
 
 ===== Meaning =====
 
-cattle
+**cattle**
 
 ===== Definitions =====
 

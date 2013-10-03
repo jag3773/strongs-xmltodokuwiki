@@ -1,12 +1,16 @@
 ====== H1409: גָּד (gâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1464  (in the sense of distributing);
+from H1464 (in the sense of distributing);
 
 ===== Meaning =====
 
-fortune
+**fortune**
 
 ===== Definitions =====
 

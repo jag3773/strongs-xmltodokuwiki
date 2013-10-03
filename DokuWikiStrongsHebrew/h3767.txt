@@ -1,12 +1,16 @@
 ====== H3767: כָּרָע (kârâʻ) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3766 ;
+from H3766;
 
 ===== Meaning =====
 
-the  leg  (from the knee to the ankle) of men or locusts (only in the dual)
+the **leg** (from the knee to the ankle) of men or locusts (only in the dual)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1220: בֶּצֶר (betser) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1219 ;
+from H1219;
 
 ===== Meaning =====
 
-strictly a  clipping , i.e.  gold  (as dug out)
+strictly a **clipping**, i.e. **gold** (as dug out)
 
 ===== Definitions =====
 

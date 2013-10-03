@@ -1,12 +1,16 @@
 ====== H2986: יָבַל (yâbal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  flow ; causatively, to  bring  (especially with pomp)
+properly, to **flow**; causatively, to **bring** (especially with pomp)
 
 ===== Definitions =====
 

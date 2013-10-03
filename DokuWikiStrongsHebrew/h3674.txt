@@ -1,12 +1,16 @@
 ====== H3674: כְּנָת (kᵉnâth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3655 ;
+from H3655;
 
 ===== Meaning =====
 
-a  colleague  (as having the same title)
+a **colleague** (as having the same title)
 
 ===== Definitions =====
 

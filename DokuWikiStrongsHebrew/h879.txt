@@ -1,12 +1,16 @@
 ====== H879: בְּאֵר אֵלִים (Bᵉʼêr ʼÊlîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H875  and the plural of  H410 ;  ;
+from H875 and the plural of H410; **well of heroes**;
 
 ===== Meaning =====
 
-well of heroes Beer-Elim , a place in the Desert
+**Beer-Elim**, a place in the Desert
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4072: מִדְחֶה (midcheh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1760 ;
+from H1760;
 
 ===== Meaning =====
 
-overthrow
+**overthrow**
 
 ===== Definitions =====
 

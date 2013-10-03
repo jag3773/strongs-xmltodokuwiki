@@ -1,12 +1,16 @@
 ====== H4138: מוֹלֶדֶת (môwledeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3205 ;
+from H3205;
 
 ===== Meaning =====
 
-nativity  (plural birth-place); by implication,  lineage ,  native country ; also  offspring ,  family
+**nativity** (plural birth-place); by implication, **lineage**, **native country**; also **offspring**, **family**
 
 ===== Definitions =====
 

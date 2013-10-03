@@ -1,12 +1,16 @@
 ====== H3524: כַּבִּיר (kabbîyr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3527 ;
+from H3527;
 
 ===== Meaning =====
 
-vast , whether in extent (figuratively, of power,  mighty ; of time,  aged ), or in number,  many
+**vast**, whether in extent (figuratively, of power, **mighty**; of time, **aged**), or in number, **many**
 
 ===== Definitions =====
 

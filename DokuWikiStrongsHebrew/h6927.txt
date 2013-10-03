@@ -1,12 +1,16 @@
 ====== H6927: קַדְמָה (qadmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6923 ;
+from H6923;
 
 ===== Meaning =====
 
-priority  (in time); also used adverbially ( before )
+**priority** (in time); also used adverbially (**before**)
 
 ===== Definitions =====
 

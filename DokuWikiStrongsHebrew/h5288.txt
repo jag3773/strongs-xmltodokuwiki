@@ -1,12 +1,16 @@
 ====== H5288: נַעַר (naʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5287 ;
+from H5287;
 
 ===== Meaning =====
 
-(concretely) a  boy  (as active), from the age of infancy to adolescence; by implication, a  servant ; also (by interch. of sex), a  girl  (of similar latitude in age)
+(concretely) a **boy** (as active), from the age of infancy to adolescence; by implication, a **servant**; also (by interch. of sex), a **girl** (of similar latitude in age)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6899: קִבּוּץ (qibbûwts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6908 ;
+from H6908;
 
 ===== Meaning =====
 
-a  throng
+a **throng**
 
 ===== Definitions =====
 

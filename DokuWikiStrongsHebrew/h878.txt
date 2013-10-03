@@ -1,12 +1,16 @@
 ====== H878: בְּאֵרָא (Bᵉʼêrâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H875 ; a well;
+from H875; a well;
 
 ===== Meaning =====
 
-Beera , an Israelite
+**Beera**, an Israelite
 
 ===== Definitions =====
 

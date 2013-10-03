@@ -1,12 +1,16 @@
 ====== H4611: מַעֲלָל (maʻălâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5953 ;
+from H5953;
 
 ===== Meaning =====
 
-an  act  (good or bad)
+an **act** (good or bad)
 
 ===== Definitions =====
 

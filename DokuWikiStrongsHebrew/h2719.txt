@@ -1,12 +1,16 @@
 ====== H2719: חֶרֶב (chereb) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2717 ;
+from H2717;
 
 ===== Meaning =====
 
-drought ; also a  cutting  instrument (from its  destructive  effect), as a  knife ,  sword , or other sharp implement
+**drought**; also a **cutting** instrument (from its **destructive** effect), as a **knife**, **sword**, or other sharp implement
 
 ===== Definitions =====
 

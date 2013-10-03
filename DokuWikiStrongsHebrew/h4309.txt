@@ -1,12 +1,16 @@
 ====== H4309: מַטְרִי (Maṭrîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H4305 ;  ;
+from H4305; **rainy**;
 
 ===== Meaning =====
 
-rainy Matri , an Israelite
+**Matri**, an Israelite
 
 ===== Definitions =====
 

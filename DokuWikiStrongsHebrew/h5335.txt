@@ -1,12 +1,16 @@
 ====== H5335: נְצִיחַ (nᵉtsîyach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5329 ;  ;
+from H5329; **conspicuous**;
 
 ===== Meaning =====
 
-conspicuous Netsiach , a Temple-servant
+**Netsiach**, a Temple-servant
 
 ===== Definitions =====
 

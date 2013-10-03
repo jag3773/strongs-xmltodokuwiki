@@ -1,12 +1,16 @@
 ====== H3382: יֶרֶד (Yered) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3381 ; a descent;
+from H3381; a descent;
 
 ===== Meaning =====
 
-Jered , the name of an antediluvian, and of an Israelite
+**Jered**, the name of an antediluvian, and of an Israelite
 
 ===== Definitions =====
 

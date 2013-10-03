@@ -1,12 +1,16 @@
 ====== H4633: מַעֲרָךְ (maʻărâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6186 ;
+from H6186;
 
 ===== Meaning =====
 
-an  arrangement , i.e. (figuratively)  mental disposition
+an **arrangement**, i.e. (figuratively) **mental disposition**
 
 ===== Definitions =====
 

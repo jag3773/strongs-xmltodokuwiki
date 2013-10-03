@@ -1,12 +1,16 @@
 ====== H8250: שִׁקּוּי (shiqqûwy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8248 ;
+from H8248;
 
 ===== Meaning =====
 
-a  beverage ;  moisture , i.e. (figuratively)  refreshment
+a **beverage**; **moisture**, i.e. (figuratively) **refreshment**
 
 ===== Definitions =====
 

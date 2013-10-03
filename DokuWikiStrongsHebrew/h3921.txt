@@ -1,12 +1,16 @@
 ====== H3921: לֶכֶד (leked) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3920 ;
+from H3920;
 
 ===== Meaning =====
 
-something to  capture  with, i.e. a  noose
+something to **capture** with, i.e. a **noose**
 
 ===== Definitions =====
 

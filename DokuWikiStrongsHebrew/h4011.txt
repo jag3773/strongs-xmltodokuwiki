@@ -1,12 +1,16 @@
 ====== H4011: מִבְנֶה (mibneh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1129 ;
+from H1129;
 
 ===== Meaning =====
 
-a  building
+a **building**
 
 ===== Definitions =====
 

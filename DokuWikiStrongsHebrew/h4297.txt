@@ -1,12 +1,16 @@
 ====== H4297: מֻטֶּה (muṭṭeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5186 ;
+from H5186;
 
 ===== Meaning =====
 
-a  stretching , i.e.  distortion  (figuratively, iniquity)
+a **stretching**, i.e. **distortion** (figuratively, iniquity)
 
 ===== Definitions =====
 

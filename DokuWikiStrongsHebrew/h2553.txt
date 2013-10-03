@@ -1,12 +1,16 @@
 ====== H2553: חַמָּן (chammân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2535 ;
+from H2535;
 
 ===== Meaning =====
 
-a  sun -pillar
+a **sun**-pillar
 
 ===== Definitions =====
 

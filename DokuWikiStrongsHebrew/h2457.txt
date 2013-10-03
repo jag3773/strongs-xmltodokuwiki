@@ -1,12 +1,16 @@
 ====== H2457: חֶלְאָה (chelʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2456 ;
+from H2456;
 
 ===== Meaning =====
 
-properly,  disease ; hence,  rust
+properly, **disease**; hence, **rust**
 
 ===== Definitions =====
 

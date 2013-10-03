@@ -1,12 +1,16 @@
 ====== H30: אֲבִיהוּא (ʼĂbîyhûwʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1  and  H1931 ; father (i.e. worshipper) of Him (i.e. God);
+from H1 and H1931; father (i.e. worshipper) of Him (i.e. God);
 
 ===== Meaning =====
 
-Abihu , a son of Aaron
+**Abihu**, a son of Aaron
 
 ===== Definitions =====
 

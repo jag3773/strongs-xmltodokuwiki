@@ -1,12 +1,16 @@
 ====== H3095: יַהֲלֹם (yahălôm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1986  (in the sense of  );
+from H1986 (in the sense of **hardness**);
 
 ===== Meaning =====
 
-hardness a precious stone, probably  onyx
+a precious stone, probably **onyx**
 
 ===== Definitions =====
 

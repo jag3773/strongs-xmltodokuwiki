@@ -1,12 +1,16 @@
 ====== H7142: קֵרֵחַ (qêrêach) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7139 ;
+from H7139;
 
 ===== Meaning =====
 
-bald  (on the back of the head)
+**bald** (on the back of the head)
 
 ===== Definitions =====
 

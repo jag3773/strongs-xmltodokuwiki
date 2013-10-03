@@ -1,12 +1,16 @@
 ====== H3577: כָּזָב (kâzâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3576 ;
+from H3576;
 
 ===== Meaning =====
 
-falsehood ; literally (untruth) or figuratively (idol)
+**falsehood**; literally (untruth) or figuratively (idol)
 
 ===== Definitions =====
 

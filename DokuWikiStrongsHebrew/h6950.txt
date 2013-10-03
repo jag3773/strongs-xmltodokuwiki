@@ -1,12 +1,16 @@
 ====== H6950: קָהַל (qâhal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  convoke
+to **convoke**
 
 ===== Definitions =====
 

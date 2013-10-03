@@ -1,12 +1,16 @@
 ====== H5366: נְקָרָה (nᵉqârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5365 ;
+from H5365;
 
 ===== Meaning =====
 
-a  fissure
+a **fissure**
 
 ===== Definitions =====
 

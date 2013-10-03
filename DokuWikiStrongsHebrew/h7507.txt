@@ -1,12 +1,16 @@
 ====== H7507: רְפִידָה (rᵉphîydâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7502 ;
+from H7502;
 
 ===== Meaning =====
 
-a  railing  (as spread along)
+a **railing** (as spread along)
 
 ===== Definitions =====
 

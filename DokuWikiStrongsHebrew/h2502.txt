@@ -1,12 +1,16 @@
 ====== H2502: חָלַץ (châlats) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  pull off ; hence (intensively) to  strip , (reflex.) to  depart ; by implication, to  deliver ,  equip  (for fight);  present ,  strengthen
+to **pull off**; hence (intensively) to **strip**, (reflex.) to **depart**; by implication, to **deliver**, **equip** (for fight); **present**, **strengthen**
 
 ===== Definitions =====
 

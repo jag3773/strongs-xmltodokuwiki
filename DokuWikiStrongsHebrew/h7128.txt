@@ -1,12 +1,16 @@
 ====== H7128: קְרָב (qᵉrâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7126 ;
+from H7126;
 
 ===== Meaning =====
 
-hostile encounter
+**hostile encounter**
 
 ===== Definitions =====
 

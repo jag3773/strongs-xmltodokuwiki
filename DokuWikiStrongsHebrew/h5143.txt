@@ -1,12 +1,16 @@
 ====== H5143: נֵזֶק (nêzeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **injure**;
 
 ===== Meaning =====
 
-injure loss
+**loss**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3431: יִשְׁבַּח (Yishbach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7623 ;  ;
+from H7623; **he will praise**;
 
 ===== Meaning =====
 
-he will praise Jishbach , an Israelite
+**Jishbach**, an Israelite
 
 ===== Definitions =====
 

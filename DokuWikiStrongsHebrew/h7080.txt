@@ -1,12 +1,16 @@
 ====== H7080: קָסַם (qâçam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  distribute , i.e.  determine by lot  or  magical scroll ; by implication, to  divine
+properly, to **distribute**, i.e. **determine by lot** or **magical scroll**; by implication, to **divine**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7563: רָשָׁע (râshâʻ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7561 ;
+from H7561;
 
 ===== Meaning =====
 
-morally  wrong ; concretely, an (actively)  bad  person
+morally **wrong**; concretely, an (actively) **bad** person
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6297: פֶּגֶר (peger) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6296 ;
+from H6296;
 
 ===== Meaning =====
 
-a  carcase  (as limp), whether of man or beast; figuratively, an  idolatrous image
+a **carcase** (as limp), whether of man or beast; figuratively, an **idolatrous image**
 
 ===== Definitions =====
 

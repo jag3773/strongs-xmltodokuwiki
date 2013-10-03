@@ -1,12 +1,16 @@
 ====== H4930: מַשְׂמְרָה (masmᵉrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-for  H4548  fem.;
+for H4548 fem.;
 
 ===== Meaning =====
 
-a  peg
+a **peg**
 
 ===== Definitions =====
 

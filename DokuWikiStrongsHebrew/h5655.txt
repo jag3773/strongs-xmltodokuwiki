@@ -1,12 +1,16 @@
 ====== H5655: עַבְדְּאֵל (ʻAbdᵉʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5647  and  H410 ;  ;
+from H5647 and H410; **serving God**;
 
 ===== Meaning =====
 
-serving God Abdeel , an Israelite
+**Abdeel**, an Israelite
 
 ===== Definitions =====
 

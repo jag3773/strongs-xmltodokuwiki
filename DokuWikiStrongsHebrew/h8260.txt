@@ -1,12 +1,16 @@
 ====== H8260: שֶׁקֶף (sheqeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8259 ;
+from H8259;
 
 ===== Meaning =====
 
-a  loophole  (for looking out), to  admit light and air
+a **loophole** (for looking out), to **admit light and air**
 
 ===== Definitions =====
 

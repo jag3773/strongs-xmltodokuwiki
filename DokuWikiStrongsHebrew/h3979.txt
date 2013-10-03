@@ -1,12 +1,16 @@
 ====== H3979: מַאֲכֶלֶת (maʼăkeleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H398 ;
+from H398;
 
 ===== Meaning =====
 
-something to  eat  with, i.e. a  knife
+something to **eat** with, i.e. a **knife**
 
 ===== Definitions =====
 

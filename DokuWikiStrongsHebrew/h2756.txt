@@ -1,12 +1,16 @@
 ====== H2756: חָרִיף (Chârîyph) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2778 ;  ;
+from H2778; **autumnal**;
 
 ===== Meaning =====
 
-autumnal Chariph , the name of two Israelites
+**Chariph**, the name of two Israelites
 
 ===== Definitions =====
 

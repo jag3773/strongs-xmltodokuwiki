@@ -1,12 +1,16 @@
 ====== H8296: שֶׂרֶט (sereṭ) ======
 
+===== Part of Speech =====
+
+n-m n-f
+
 ===== Source =====
 
-and   ; from  H8295 ;
+and ; from H8295;
 
 ===== Meaning =====
 
-an  incision
+an **incision**
 
 ===== Definitions =====
 

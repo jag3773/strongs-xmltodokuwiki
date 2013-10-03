@@ -1,12 +1,16 @@
 ====== H1041: בֵּית עַזְמָוֶת (Bêyth ʻAzmâveth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H5820 ;
+from H1004 and H5820;
 
 ===== Meaning =====
 
-house of Azmaveth , a place in Palestine
+**house of Azmaveth**, a place in Palestine
 
 ===== Definitions =====
 

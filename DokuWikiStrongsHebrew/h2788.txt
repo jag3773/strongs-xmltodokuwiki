@@ -1,12 +1,16 @@
 ====== H2788: חָרֵר (chârêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2787 ;
+from H2787;
 
 ===== Meaning =====
 
-arid
+**arid**
 
 ===== Definitions =====
 

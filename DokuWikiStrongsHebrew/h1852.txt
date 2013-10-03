@@ -1,12 +1,16 @@
 ====== H1852: דֹּק (dôq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1854 ;
+from H1854;
 
 ===== Meaning =====
 
-something  crumbling , i.e.  fine  (as a  thin  cloth)
+something **crumbling**, i.e. **fine** (as a **thin** cloth)
 
 ===== Definitions =====
 

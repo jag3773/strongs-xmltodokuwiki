@@ -1,12 +1,16 @@
 ====== H5630: סִרְיֹן (çiryôn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H8302 ;
+for H8302;
 
 ===== Meaning =====
 
-a  coat of mail
+a **coat of mail**
 
 ===== Definitions =====
 

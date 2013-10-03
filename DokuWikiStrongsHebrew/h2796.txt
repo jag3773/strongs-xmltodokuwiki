@@ -1,12 +1,16 @@
 ====== H2796: חָרָשׁ (chârâsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2790 ;
+from H2790;
 
 ===== Meaning =====
 
-a  fabricator  or any material
+a **fabricator** or any material
 
 ===== Definitions =====
 

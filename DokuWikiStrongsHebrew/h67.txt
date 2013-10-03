@@ -1,12 +1,16 @@
 ====== H67: אָבֵל מִצְרַיִם (ʼÂbêl Mitsrayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H58  and  H4714 ; meadow of Egypt;
+from H58 and H4714; meadow of Egypt;
 
 ===== Meaning =====
 
-Abel-Mitsrajim , a place in Palestine
+**Abel-Mitsrajim**, a place in Palestine
 
 ===== Definitions =====
 

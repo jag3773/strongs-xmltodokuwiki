@@ -1,12 +1,16 @@
 ====== H489: אַלְמֹן (ʼalmôn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H481  as in  H488 ;
+from H481 as in H488;
 
 ===== Meaning =====
 
-bereavement
+**bereavement**
 
 ===== Definitions =====
 

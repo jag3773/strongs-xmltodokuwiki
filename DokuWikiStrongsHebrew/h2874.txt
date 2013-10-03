@@ -1,12 +1,16 @@
 ====== H2874: טֶבַח (ṭebach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2873 ;
+from H2873;
 
 ===== Meaning =====
 
-properly, something  slaughtered ; hence, a  beast  (or  meat , as butchered); abstractly  butchery  (or concretely, a place of slaughter)
+properly, something **slaughtered**; hence, a **beast** (or **meat**, as butchered); abstractly **butchery** (or concretely, a place of slaughter)
 
 ===== Definitions =====
 

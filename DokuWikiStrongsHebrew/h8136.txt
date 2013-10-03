@@ -1,12 +1,16 @@
 ====== H8136: שִׁנְאָן (shinʼân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8132 ;
+from H8132;
 
 ===== Meaning =====
 
-change , i.e.  repetition
+**change**, i.e. **repetition**
 
 ===== Definitions =====
 

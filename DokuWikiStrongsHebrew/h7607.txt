@@ -1,12 +1,16 @@
 ====== H7607: שְׁאֵר (shᵉʼêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7604 ;
+from H7604;
 
 ===== Meaning =====
 
-flesh  (as  swelling  out), as living or for food; generally  food  of any kind; figuratively,  kindred  by blood
+**flesh** (as **swelling** out), as living or for food; generally **food** of any kind; figuratively, **kindred** by blood
 
 ===== Definitions =====
 

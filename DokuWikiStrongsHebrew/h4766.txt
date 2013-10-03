@@ -1,12 +1,16 @@
 ====== H4766: מַרְבֶה (marbeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7235 ;
+from H7235;
 
 ===== Meaning =====
 
-properly,  increasing ; as noun,  greatness , or (adverbially)  greatly
+properly, **increasing**; as noun, **greatness**, or (adverbially) **greatly**
 
 ===== Definitions =====
 

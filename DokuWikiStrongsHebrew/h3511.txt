@@ -1,12 +1,16 @@
 ====== H3511: כְּאֵב (kᵉʼêb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3510 ;
+from H3510;
 
 ===== Meaning =====
 
-suffering  (physical or mental),  adversity
+**suffering** (physical or mental), **adversity**
 
 ===== Definitions =====
 

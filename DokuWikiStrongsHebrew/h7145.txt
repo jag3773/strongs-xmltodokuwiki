@@ -1,12 +1,16 @@
 ====== H7145: קׇרְחִי (Qorchîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-patronymic from  H7141 ;
+patronymic from H7141;
 
 ===== Meaning =====
 
-a Korchite  (collectively) or descendants of Korach
+**a Korchite** (collectively) or descendants of Korach
 
 ===== Definitions =====
 

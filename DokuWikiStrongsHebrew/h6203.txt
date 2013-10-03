@@ -1,12 +1,16 @@
 ====== H6203: עֹרֶף (ʻôreph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6202 ;
+from H6202;
 
 ===== Meaning =====
 
-the  nape  or back of the neck (as  declining ); hence, the  back  generally (whether literal or figurative)
+the **nape** or back of the neck (as **declining**); hence, the **back** generally (whether literal or figurative)
 
 ===== Definitions =====
 

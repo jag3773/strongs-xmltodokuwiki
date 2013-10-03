@@ -1,12 +1,16 @@
 ====== H4905: מַשְׂכִּיל (maskîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7919 ;
+from H7919;
 
 ===== Meaning =====
 
-instructive , i.e. a  didactic  poem
+**instructive**, i.e. a **didactic** poem
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2982: יְבוּס (Yᵉbûwç) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H947 ; trodden, i.e. threshing-place;
+from H947; trodden, i.e. threshing-place;
 
 ===== Meaning =====
 
-Jebus , the original name of Jerusalem
+**Jebus**, the original name of Jerusalem
 
 ===== Definitions =====
 

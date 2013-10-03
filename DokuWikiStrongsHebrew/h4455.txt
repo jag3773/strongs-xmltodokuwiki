@@ -1,12 +1,16 @@
 ====== H4455: מַלְקוֹחַ (malqôwach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3947 ;
+from H3947;
 
 ===== Meaning =====
 
-transitively (in dual) the  jaws  (as taking food); intransitively,  spoil  [and captives] (as taken)
+transitively (in dual) the **jaws** (as taking food); intransitively, **spoil** [and captives] (as taken)
 
 ===== Definitions =====
 

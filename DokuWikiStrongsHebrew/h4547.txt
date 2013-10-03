@@ -1,12 +1,16 @@
 ====== H4547: מַסְלוּל (maçlûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5549 ;
+from H5549;
 
 ===== Meaning =====
 
-a  thoroughfare  (as turnpiked)
+a **thoroughfare** (as turnpiked)
 
 ===== Definitions =====
 

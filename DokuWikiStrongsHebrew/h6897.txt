@@ -1,12 +1,16 @@
 ====== H6897: קֹבָה (qôbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6895 ;
+from H6895;
 
 ===== Meaning =====
 
-the  abdomen  (as a cavity)
+the **abdomen** (as a cavity)
 
 ===== Definitions =====
 

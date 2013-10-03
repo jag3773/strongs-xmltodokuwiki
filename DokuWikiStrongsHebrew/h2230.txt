@@ -1,12 +1,16 @@
 ====== H2230: זֶרֶם (zerem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2229 ;
+from H2229;
 
 ===== Meaning =====
 
-a  gush  of water
+a **gush** of water
 
 ===== Definitions =====
 

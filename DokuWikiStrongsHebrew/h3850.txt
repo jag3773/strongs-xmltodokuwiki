@@ -1,12 +1,16 @@
 ====== H3850: לֹד (Lôd) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
 from an unused root of uncertain signification;
 
 ===== Meaning =====
 
-Lod , a place in Palestine
+**Lod**, a place in Palestine
 
 ===== Definitions =====
 

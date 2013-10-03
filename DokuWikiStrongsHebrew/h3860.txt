@@ -1,12 +1,16 @@
 ====== H3860: לָהֵן (lâhên) ======
 
+===== Part of Speech =====
+
+conj
+
 ===== Source =====
 
-from the prepositional prefix meaning   or   and  H2005 ;
+from the prepositional prefix meaning **to** or **for** and H2005;
 
 ===== Meaning =====
 
-to for properly  for if ; hence,  therefore
+properly **for if**; hence, **therefore**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5707: עֵד (ʻêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-contracted from  H5749 ;
+contracted from H5749;
 
 ===== Meaning =====
 
-concretely, a  witness ; abstractly,  testimony ; specifically, a  recorder , i.e.  prince
+concretely, a **witness**; abstractly, **testimony**; specifically, a **recorder**, i.e. **prince**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7933: שֶׁכֶן (sheken) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7931 ;
+from H7931;
 
 ===== Meaning =====
 
-a  residence
+a **residence**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6569: פֶּרֶשׁ (peresh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6567 ;
+from H6567;
 
 ===== Meaning =====
 
-excrement  (as  eliminated )
+**excrement** (as **eliminated**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7196: קִשֻּׁר (qishshur) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7194 ;
+from H7194;
 
 ===== Meaning =====
 
-an (ornamental)  girdle  (for women)
+an (ornamental) **girdle** (for women)
 
 ===== Definitions =====
 

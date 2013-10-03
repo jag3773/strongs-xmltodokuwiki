@@ -1,12 +1,16 @@
 ====== H1013: בֵּית־גָּדֵר (Bêyth-Gâdêr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H1447 ; house of (the) wall;
+from H1004 and H1447; house of (the) wall;
 
 ===== Meaning =====
 
-Beth-Gader , a place in Palestine
+**Beth-Gader**, a place in Palestine
 
 ===== Definitions =====
 

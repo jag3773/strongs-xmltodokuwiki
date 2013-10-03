@@ -1,12 +1,16 @@
 ====== H3442: יֵשׁוּעַ (Yêshûwaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-for  H3091 ;  ;
+for H3091; **he will save**;
 
 ===== Meaning =====
 
-he will save Jeshua , the name of ten Israelites, also of a place in Palestine
+**Jeshua**, the name of ten Israelites, also of a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H463: אֱלִיעָם (ʼĔlîyʻâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H5971 ; God of (the) people;
+from H410 and H5971; God of (the) people;
 
 ===== Meaning =====
 
-Eliam , an Israelite
+**Eliam**, an Israelite
 
 ===== Definitions =====
 

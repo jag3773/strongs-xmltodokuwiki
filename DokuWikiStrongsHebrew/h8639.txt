@@ -1,12 +1,16 @@
 ====== H8639: תַּרְדֵּמָה (tardêmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7290 ;
+from H7290;
 
 ===== Meaning =====
 
-a  lethargy  or (by implication)  trance
+a **lethargy** or (by implication) **trance**
 
 ===== Definitions =====
 

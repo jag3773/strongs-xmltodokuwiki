@@ -1,12 +1,16 @@
 ====== H2598: חֲנֻכָּה (chănukkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2596 ;
+from H2596;
 
 ===== Meaning =====
 
-initiation , i.e.  consecration
+**initiation**, i.e. **consecration**
 
 ===== Definitions =====
 

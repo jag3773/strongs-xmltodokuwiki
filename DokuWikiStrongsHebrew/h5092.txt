@@ -1,12 +1,16 @@
 ====== H5092: נְהִי (nᵉhîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5091 ;
+from H5091;
 
 ===== Meaning =====
 
-an  elegy
+an **elegy**
 
 ===== Definitions =====
 

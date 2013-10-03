@@ -1,12 +1,16 @@
 ====== H4800: מֶרְחָב (merchâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7337 ;
+from H7337;
 
 ===== Meaning =====
 
-enlargement , either literally (an  open space , usually in a good sense), or figuratively ( liberty )
+**enlargement**, either literally (an **open space**, usually in a good sense), or figuratively (**liberty**)
 
 ===== Definitions =====
 

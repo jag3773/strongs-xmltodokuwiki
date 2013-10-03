@@ -1,12 +1,16 @@
 ====== H4122: מַהֵר שָׁלָל חָשׁ בַּז (Mahêr Shâlâl Châsh Baz) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4118  and  H7998  and  H2363  and  H957 ;   (is he (the enemy) to the)  ,   (to the)  ;
+from H4118 and H7998 and H2363 and H957; **hasting** (is he (the enemy) to the) **booty**, **swift** (to the) **prey**;
 
 ===== Meaning =====
 
-hasting booty swift prey Maher-Shalal-Chash-Baz ; the symbolical name of the son of Isaiah
+**Maher-Shalal-Chash-Baz**; the symbolical name of the son of Isaiah
 
 ===== Definitions =====
 

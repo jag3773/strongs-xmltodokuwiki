@@ -1,12 +1,16 @@
 ====== H2221: זֵרוּעַ (zêrûwaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2232 ;
+from H2232;
 
 ===== Meaning =====
 
-something  sown , i.e. a  plant
+something **sown**, i.e. a **plant**
 
 ===== Definitions =====
 

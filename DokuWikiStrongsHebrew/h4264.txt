@@ -1,12 +1,16 @@
 ====== H4264: מַחֲנֶה (machăneh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2583 ;
+from H2583;
 
 ===== Meaning =====
 
-an  encampment  (of travellers or troops); hence, an  army , whether literal (of soldiers) or figurative (of dancers, angels, cattle, locusts, stars; or even the sacred courts)
+an **encampment** (of travellers or troops); hence, an **army**, whether literal (of soldiers) or figurative (of dancers, angels, cattle, locusts, stars; or even the sacred courts)
 
 ===== Definitions =====
 

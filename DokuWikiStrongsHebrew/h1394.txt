@@ -1,12 +1,16 @@
 ====== H1394: גִּבְעַת (Gibʻath) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H1375 ;  ;
+from the same as H1375; **hilliness**;
 
 ===== Meaning =====
 
-hilliness Gibath
+**Gibath**
 
 ===== Definitions =====
 

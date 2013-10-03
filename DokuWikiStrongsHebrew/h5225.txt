@@ -1,12 +1,16 @@
 ====== H5225: נָכוֹן (Nâkôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3559 ;  ;
+from H3559; **prepared**;
 
 ===== Meaning =====
 
-prepared Nakon , probably an Israelite
+**Nakon**, probably an Israelite
 
 ===== Definitions =====
 

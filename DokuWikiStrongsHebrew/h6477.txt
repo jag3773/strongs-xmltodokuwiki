@@ -1,12 +1,16 @@
 ====== H6477: פְּצִירָה (pᵉtsîyrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6484 ;
+from H6484;
 
 ===== Meaning =====
 
-bluntness
+**bluntness**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2542: חַמּוּק (chammûwq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2559 ;
+from H2559;
 
 ===== Meaning =====
 
-a  wrapping , i.e.  drawers
+a **wrapping**, i.e. **drawers**
 
 ===== Definitions =====
 

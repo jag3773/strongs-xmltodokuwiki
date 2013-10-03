@@ -1,12 +1,16 @@
 ====== H1244: בִּקֹּרֶת (biqqôreth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1239 ;
+from H1239;
 
 ===== Meaning =====
 
-properly,  examination , i.e. (by implication)  punishment
+properly, **examination**, i.e. (by implication) **punishment**
 
 ===== Definitions =====
 

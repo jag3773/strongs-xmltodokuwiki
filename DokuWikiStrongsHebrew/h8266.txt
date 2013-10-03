@@ -1,12 +1,16 @@
 ====== H8266: שָׁקַר (shâqar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  cheat , i.e.  be untrue  (usually in words)
+to **cheat**, i.e. **be untrue** (usually in words)
 
 ===== Definitions =====
 

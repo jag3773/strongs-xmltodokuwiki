@@ -1,12 +1,16 @@
 ====== H1060: בְּכוֹר (bᵉkôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1069 ;
+from H1069;
 
 ===== Meaning =====
 
-first-born ; hence,  chief
+**first-born**; hence, **chief**
 
 ===== Definitions =====
 

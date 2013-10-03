@@ -1,12 +1,16 @@
 ====== H8402: תִּבְנִי (Tibnîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8401 ;  ;
+from H8401; **strawy**;
 
 ===== Meaning =====
 
-strawy Tibni , an Israelite
+**Tibni**, an Israelite
 
 ===== Definitions =====
 

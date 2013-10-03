@@ -1,12 +1,16 @@
 ====== H2652: חׇפְנִי (Chophnîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2651 ; perhaps pugilist;
+from H2651; perhaps pugilist;
 
 ===== Meaning =====
 
-Chophni , an Israelite
+**Chophni**, an Israelite
 
 ===== Definitions =====
 

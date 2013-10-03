@@ -1,12 +1,16 @@
 ====== H8665: תַּשְׁבֵּץ (tashbêts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7660 ;
+from H7660;
 
 ===== Meaning =====
 
-checkered  stuff (as  reticulated )
+**checkered** stuff (as **reticulated**)
 
 ===== Definitions =====
 

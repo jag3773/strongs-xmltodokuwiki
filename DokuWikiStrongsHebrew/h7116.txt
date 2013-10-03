@@ -1,12 +1,16 @@
 ====== H7116: קָצֵר (qâtsêr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7114 ;
+from H7114;
 
 ===== Meaning =====
 
-short  (whether in size, number, life, strength or temper)
+**short** (whether in size, number, life, strength or temper)
 
 ===== Definitions =====
 

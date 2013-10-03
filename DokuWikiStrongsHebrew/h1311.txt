@@ -1,12 +1,16 @@
 ====== H1311: בָּשֵׁל (bâshêl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1310 ;
+from H1310;
 
 ===== Meaning =====
 
-boiled
+**boiled**
 
 ===== Definitions =====
 

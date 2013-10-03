@@ -1,12 +1,16 @@
 ====== H5514: סִינַי (Çîynay) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
 of uncertain derivation;
 
 ===== Meaning =====
 
-Sinai , mountain of Arabia
+**Sinai**, mountain of Arabia
 
 ===== Definitions =====
 

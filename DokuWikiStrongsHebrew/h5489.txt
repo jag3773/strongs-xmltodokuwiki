@@ -1,12 +1,16 @@
 ====== H5489: סוּף (Çûwph) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-for  H5488  (by ellipsis of  H3220 );
+for H5488 (by ellipsis of H3220);
 
 ===== Meaning =====
 
-the  Reed  (Sea)
+the **Reed** (Sea)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H983: בֶּטַח (beṭach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H982 ;
+from H982;
 
 ===== Meaning =====
 
-properly, a  place of refuge ; abstract,  safety , both the fact (security) and the feeling (trust); often (adverb with or without preposition)  safely
+properly, a **place of refuge**; abstract, **safety**, both the fact (security) and the feeling (trust); often (adverb with or without preposition) **safely**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6806: צַעַד (tsaʻad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6804 ;
+from H6804;
 
 ===== Meaning =====
 
-a  pace  or  regular step
+a **pace** or **regular step**
 
 ===== Definitions =====
 

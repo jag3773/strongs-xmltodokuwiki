@@ -1,12 +1,16 @@
 ====== H4425: מְלִילָה (mᵉlîylâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4448  (in the sense of cropping (compare  H4135 ));
+from H4448 (in the sense of cropping (compare H4135));
 
 ===== Meaning =====
 
-a  head of grain  (as cut off)
+a **head of grain** (as cut off)
 
 ===== Definitions =====
 

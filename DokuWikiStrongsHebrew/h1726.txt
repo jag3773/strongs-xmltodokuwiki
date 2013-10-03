@@ -1,12 +1,16 @@
 ====== H1726: דַּהֲהַר (dahăhar) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-by reduplication from  H1725 ;
+by reduplication from H1725;
 
 ===== Meaning =====
 
-a  gallop
+a **gallop**
 
 ===== Definitions =====
 

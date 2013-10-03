@@ -1,12 +1,16 @@
 ====== H3446: יִשְׂחָק (Yischâq) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7831 ; he will laugh;
+from H7831; he will laugh;
 
 ===== Meaning =====
 
-Jischak , the heir of Abraham
+**Jischak**, the heir of Abraham
 
 ===== Definitions =====
 

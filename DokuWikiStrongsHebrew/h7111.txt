@@ -1,12 +1,16 @@
 ====== H7111: קְצָפָה (qᵉtsâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7107 ;
+from H7107;
 
 ===== Meaning =====
 
-a  fragment
+a **fragment**
 
 ===== Definitions =====
 

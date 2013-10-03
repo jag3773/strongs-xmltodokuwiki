@@ -1,12 +1,16 @@
 ====== H6226: עָשֵׁן (ʻâshên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6225 ;
+from H6225;
 
 ===== Meaning =====
 
-smoky
+**smoky**
 
 ===== Definitions =====
 

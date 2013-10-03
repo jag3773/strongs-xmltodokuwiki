@@ -1,12 +1,16 @@
 ====== H1433: גֹּדֶל (gôdel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1431 ;
+from H1431;
 
 ===== Meaning =====
 
-magnitude  (literally or figuratively)
+**magnitude** (literally or figuratively)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7957: שַׁלְהֶבֶת (shalhebeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from the same as  H3851  with sibilant prefix;
+from the same as H3851 with sibilant prefix;
 
 ===== Meaning =====
 
-a  flare of fire
+a **flare of fire**
 
 ===== Definitions =====
 

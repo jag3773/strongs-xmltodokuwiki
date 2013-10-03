@@ -1,12 +1,16 @@
 ====== H4942: מִשְׁפָּת (mishpâth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8192 ;
+from H8192;
 
 ===== Meaning =====
 
-a  stall  for cattle (only dual)
+a **stall** for cattle (only dual)
 
 ===== Definitions =====
 

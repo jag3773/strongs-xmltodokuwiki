@@ -1,12 +1,16 @@
 ====== H5104: נָהָר (nâhâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5102 ;
+from H5102;
 
 ===== Meaning =====
 
-a  stream  (including the sea; expectation the Nile, Euphrates, etc.); figuratively,  prosperity
+a **stream** (including the sea; expectation the Nile, Euphrates, etc.); figuratively, **prosperity**
 
 ===== Definitions =====
 

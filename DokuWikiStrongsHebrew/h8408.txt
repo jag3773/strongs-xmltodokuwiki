@@ -1,12 +1,16 @@
 ====== H8408: תַּגְמוּל (tagmûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1580 ;
+from H1580;
 
 ===== Meaning =====
 
-a  bestowment
+a **bestowment**
 
 ===== Definitions =====
 

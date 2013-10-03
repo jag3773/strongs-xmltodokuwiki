@@ -1,12 +1,16 @@
 ====== H8424: תּוּגָה (tûwgâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3013 ;
+from H3013;
 
 ===== Meaning =====
 
-depression  (of spirits); concretely a  grief
+**depression** (of spirits); concretely a **grief**
 
 ===== Definitions =====
 

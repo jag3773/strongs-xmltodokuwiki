@@ -1,12 +1,16 @@
 ====== H5598: סִפַּי (Çippay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5592 ; bason-like;
+from H5592; bason-like;
 
 ===== Meaning =====
 
-Sippai , a Philistine
+**Sippai**, a Philistine
 
 ===== Definitions =====
 

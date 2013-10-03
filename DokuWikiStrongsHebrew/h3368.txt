@@ -1,12 +1,16 @@
 ====== H3368: יָקָר (yâqâr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3365 ;
+from H3365;
 
 ===== Meaning =====
 
-valuable  (objectively or subjectively)
+**valuable** (objectively or subjectively)
 
 ===== Definitions =====
 

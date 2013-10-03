@@ -1,12 +1,16 @@
 ====== H3401: יָרִיב (yârîyb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7378 ;
+from H7378;
 
 ===== Meaning =====
 
-literally  he will contend ; properly, adjective  contentious ; used as noun, an  adversary
+literally **he will contend**; properly, adjective **contentious**; used as noun, an **adversary**
 
 ===== Definitions =====
 

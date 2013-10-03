@@ -1,12 +1,16 @@
 ====== H4713: מִצְרִי (Mitsrîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H4714 ;
+from H4714;
 
 ===== Meaning =====
 
-a  Mitsrite , or inhabitant of Mitsrajim
+a **Mitsrite**, or inhabitant of Mitsrajim
 
 ===== Definitions =====
 

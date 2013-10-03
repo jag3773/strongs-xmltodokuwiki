@@ -1,12 +1,16 @@
 ====== H991: בֶּטֶן (Beṭen) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H990 ;
+the same as H990;
 
 ===== Meaning =====
 
-Beten . a place in Palestine
+**Beten**. a place in Palestine
 
 ===== Definitions =====
 

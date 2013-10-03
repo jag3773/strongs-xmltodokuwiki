@@ -1,12 +1,16 @@
 ====== H7628: שְׁבִי (shᵉbîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7618 ;
+from H7618;
 
 ===== Meaning =====
 
-exiled ;  captured ; as noun,  exile  (abstractly or concretely and collectively); by extension,  booty
+**exiled**; **captured**; as noun, **exile** (abstractly or concretely and collectively); by extension, **booty**
 
 ===== Definitions =====
 

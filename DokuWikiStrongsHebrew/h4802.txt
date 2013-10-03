@@ -1,12 +1,16 @@
 ====== H4802: מַרְחֶשֶׁת (marchesheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7370 ;
+from H7370;
 
 ===== Meaning =====
 
-a  stewpan
+a **stewpan**
 
 ===== Definitions =====
 

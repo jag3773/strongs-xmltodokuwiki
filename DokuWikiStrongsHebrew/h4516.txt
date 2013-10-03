@@ -1,12 +1,16 @@
 ====== H4516: מַנְעַם (manʻam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5276 ;
+from H5276;
 
 ===== Meaning =====
 
-a  delicacy
+a **delicacy**
 
 ===== Definitions =====
 

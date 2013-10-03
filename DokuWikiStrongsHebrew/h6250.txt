@@ -1,12 +1,16 @@
 ====== H6250: עֶשְׁתֹּנָה (ʻeshtônâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6245 ;
+from H6245;
 
 ===== Meaning =====
 
-thinking
+**thinking**
 
 ===== Definitions =====
 

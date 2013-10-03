@@ -1,12 +1,16 @@
 ====== H6760: צָלַע (tsâlaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; probably to curve; used only as denominative from  H6763 ,
+a primitive root; probably to curve; used only as denominative from H6763,
 
 ===== Meaning =====
 
-to  limp  (as if one-sided)
+to **limp** (as if one-sided)
 
 ===== Definitions =====
 

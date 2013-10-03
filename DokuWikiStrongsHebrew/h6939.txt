@@ -1,12 +1,16 @@
 ====== H6939: קִדְרוֹן (Qidrôwn) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H6937 ;  ;
+from H6937; **dusky place**;
 
 ===== Meaning =====
 
-dusky place Kidron , a brook near Jerusalem
+**Kidron**, a brook near Jerusalem
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2203: זֶפֶת (zepheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from an unused root (meaning to  );
+from an unused root (meaning to **liquify**);
 
 ===== Meaning =====
 
-liquify asphalt  (from its tendency to  soften  in the sun)
+**asphalt** (from its tendency to **soften** in the sun)
 
 ===== Definitions =====
 

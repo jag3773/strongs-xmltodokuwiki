@@ -1,12 +1,16 @@
 ====== H7305: רֶוַח (revach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7304 ;
+from H7304;
 
 ===== Meaning =====
 
-room , literally (an interval) or figuratively (deliverance)
+**room**, literally (an interval) or figuratively (deliverance)
 
 ===== Definitions =====
 

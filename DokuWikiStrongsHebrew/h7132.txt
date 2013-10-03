@@ -1,12 +1,16 @@
 ====== H7132: קְרָבָה (qᵉrâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7126 ;
+from H7126;
 
 ===== Meaning =====
 
-approach
+**approach**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1097: בְּלִי (bᵉlîy) ======
 
+===== Part of Speech =====
+
+np
+
 ===== Source =====
 
-from  H1086 ;
+from H1086;
 
 ===== Meaning =====
 
-properly,  failure , i.e.  nothing  or  destruction ; usually (with preposition)  without ,  not yet ,  because not ,  as long as , etc.
+properly, **failure**, i.e. **nothing** or **destruction**; usually (with preposition) **without**, **not yet**, **because not**, **as long as**, etc.
 
 ===== Definitions =====
 

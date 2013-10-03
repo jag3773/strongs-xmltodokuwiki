@@ -1,12 +1,16 @@
 ====== H4063: מֶדֶו (medev) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **stretch**;
 
 ===== Meaning =====
 
-stretch properly,  extent , i.e.  measure ; by implication, a  dress  (as measured)
+properly, **extent**, i.e. **measure**; by implication, a **dress** (as measured)
 
 ===== Definitions =====
 

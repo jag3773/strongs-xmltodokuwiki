@@ -1,12 +1,16 @@
 ====== H8617: תְּקוּמָה (tᵉqûwmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6965 ;
+from H6965;
 
 ===== Meaning =====
 
-resistfulness
+**resistfulness**
 
 ===== Definitions =====
 

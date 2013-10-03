@@ -1,12 +1,16 @@
 ====== H1008: בֵּית־אֵל (Bêyth-ʼÊl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H410 ; house of God;
+from H1004 and H410; house of God;
 
 ===== Meaning =====
 
-Beth-El , a place in Palestine
+**Beth-El**, a place in Palestine
 
 ===== Definitions =====
 

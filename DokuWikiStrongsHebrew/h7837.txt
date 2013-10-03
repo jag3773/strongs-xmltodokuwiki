@@ -1,12 +1,16 @@
 ====== H7837: שַׁחַר (shachar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7836 ;
+from H7836;
 
 ===== Meaning =====
 
-dawn  (literal, figurative or adverbial)
+**dawn** (literal, figurative or adverbial)
 
 ===== Definitions =====
 

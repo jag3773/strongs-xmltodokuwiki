@@ -1,12 +1,16 @@
 ====== H2487: חֲלִיפָה (chălîyphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2498 ;
+from H2498;
 
 ===== Meaning =====
 
-alternation
+**alternation**
 
 ===== Definitions =====
 

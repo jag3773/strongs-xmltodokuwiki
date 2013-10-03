@@ -1,12 +1,16 @@
 ====== H5334: נְצִיב (Nᵉtsîyb) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H5333 ;  ;
+the same as H5333; **station**;
 
 ===== Meaning =====
 
-station Netsib , a place in Palestine
+**Netsib**, a place in Palestine
 
 ===== Definitions =====
 

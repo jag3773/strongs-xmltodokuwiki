@@ -1,12 +1,16 @@
 ====== H2329: חוּג (chûwg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2328 ;
+from H2328;
 
 ===== Meaning =====
 
-a  circle
+a **circle**
 
 ===== Definitions =====
 

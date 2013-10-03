@@ -1,12 +1,16 @@
 ====== H38: אֲבִיָּם (ʼĂbîyâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1  and  H3220 ; father of (the) sea (i.e. seaman);
+from H1 and H3220; father of (the) sea (i.e. seaman);
 
 ===== Meaning =====
 
-Abijam  (or Abijah), a king of Judah
+**Abijam** (or Abijah), a king of Judah
 
 ===== Definitions =====
 

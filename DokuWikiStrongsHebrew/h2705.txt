@@ -1,12 +1,16 @@
 ====== H2705: חֲצַר שׁוּעָל (Chătsar Shûwʻâl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2691  and  H7776 ; village of (the) fox;
+from H2691 and H7776; village of (the) fox;
 
 ===== Meaning =====
 
-Chatsar-Shual , a place in Palestine
+**Chatsar-Shual**, a place in Palestine
 
 ===== Definitions =====
 

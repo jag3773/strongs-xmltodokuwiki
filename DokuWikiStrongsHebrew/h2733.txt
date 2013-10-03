@@ -1,12 +1,16 @@
 ====== H2733: חֲרֹדִי (Chărôdîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-patrial from a derivative of  H2729  (compare  H5878 );
+patrial from a derivative of H2729 (compare H5878);
 
 ===== Meaning =====
 
-a  Charodite , or inhabitant of Charod
+a **Charodite**, or inhabitant of Charod
 
 ===== Definitions =====
 

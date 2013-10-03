@@ -1,12 +1,16 @@
 ====== H8420: תָּו (tâv) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8427 ;
+from H8427;
 
 ===== Meaning =====
 
-a  mark ; by implication, a  signature
+a **mark**; by implication, a **signature**
 
 ===== Definitions =====
 

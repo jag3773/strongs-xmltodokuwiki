@@ -1,12 +1,16 @@
 ====== H6108: עֹצֶם (ʻôtsem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6105 ;
+from H6105;
 
 ===== Meaning =====
 
-power ; hence,  body
+**power**; hence, **body**
 
 ===== Definitions =====
 

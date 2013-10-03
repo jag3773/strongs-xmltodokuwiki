@@ -1,12 +1,16 @@
 ====== H5914: עֶכֶס (ʻekeç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5913 ;
+from H5913;
 
 ===== Meaning =====
 
-a  fetter ; hence, an  anklet
+a **fetter**; hence, an **anklet**
 
 ===== Definitions =====
 

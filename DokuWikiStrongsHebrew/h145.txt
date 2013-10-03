@@ -1,12 +1,16 @@
 ====== H145: אֶדֶר (ʼeder) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H142 ;
+from H142;
 
 ===== Meaning =====
 
-amplitude , i.e. (concrete) a  mantle ; also (figuratively)  splendor
+**amplitude**, i.e. (concrete) a **mantle**; also (figuratively) **splendor**
 
 ===== Definitions =====
 

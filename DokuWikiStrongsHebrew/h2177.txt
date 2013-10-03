@@ -1,12 +1,16 @@
 ====== H2177: זַן (zan) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2109 ;
+from H2109;
 
 ===== Meaning =====
 
-properly,  nourished  (or fully developed), i.e. a  form  or  sort
+properly, **nourished** (or fully developed), i.e. a **form** or **sort**
 
 ===== Definitions =====
 

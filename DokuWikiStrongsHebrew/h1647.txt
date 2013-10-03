@@ -1,12 +1,16 @@
 ====== H1647: גֵּרְשֹׁם (Gêrᵉshôm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H1648 ;
+for H1648;
 
 ===== Meaning =====
 
-Gereshom , the name of four Israelites
+**Gereshom**, the name of four Israelites
 
 ===== Definitions =====
 

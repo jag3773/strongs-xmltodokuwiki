@@ -1,12 +1,16 @@
 ====== H6824: צָפָה (tsâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6823 ;
+from H6823;
 
 ===== Meaning =====
 
-an  inundation  (as covering)
+an **inundation** (as covering)
 
 ===== Definitions =====
 

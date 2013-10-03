@@ -1,12 +1,16 @@
 ====== H8094: שְׁמָעָה (Shᵉmâʻâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H8093 ;
+for H8093;
 
 ===== Meaning =====
 
-Shemaah , an Israelite
+**Shemaah**, an Israelite
 
 ===== Definitions =====
 

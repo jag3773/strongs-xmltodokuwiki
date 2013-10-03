@@ -1,12 +1,16 @@
 ====== H4555: מִסְפָּחָה (miçpâchâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5596 ;
+from H5596;
 
 ===== Meaning =====
 
-a  veil  (as spread out)
+a **veil** (as spread out)
 
 ===== Definitions =====
 

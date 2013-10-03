@@ -1,12 +1,16 @@
 ====== H5561: סַם (çam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to   sweet;
+from an unused root meaning to **smell** sweet;
 
 ===== Meaning =====
 
-smell an  aroma
+an **aroma**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1754: דּוּר (dûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1752 ;
+from H1752;
 
 ===== Meaning =====
 
-a  circle ,  ball  or  pile
+a **circle**, **ball** or **pile**
 
 ===== Definitions =====
 

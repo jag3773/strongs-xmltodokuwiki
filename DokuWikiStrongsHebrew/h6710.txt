@@ -1,12 +1,16 @@
 ====== H6710: צַחְצָחָה (tsachtsâchâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6705 ;
+from H6705;
 
 ===== Meaning =====
 
-a  dry  place, i.e.  desert
+a **dry** place, i.e. **desert**
 
 ===== Definitions =====
 

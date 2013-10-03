@@ -1,12 +1,16 @@
 ====== H3189: יַחַת (Yachath) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3161 ; unity;
+from H3161; unity;
 
 ===== Meaning =====
 
-Jachath , the name of four Israelites
+**Jachath**, the name of four Israelites
 
 ===== Definitions =====
 

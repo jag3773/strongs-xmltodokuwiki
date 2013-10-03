@@ -1,12 +1,16 @@
 ====== H4946: מִשְׁקוֹל (mishqôwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8254 ;
+from H8254;
 
 ===== Meaning =====
 
-weight
+**weight**
 
 ===== Definitions =====
 

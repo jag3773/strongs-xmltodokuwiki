@@ -1,12 +1,16 @@
 ====== H2422: חָיֶה (châyeh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2421 ;
+from H2421;
 
 ===== Meaning =====
 
-vigorous
+**vigorous**
 
 ===== Definitions =====
 

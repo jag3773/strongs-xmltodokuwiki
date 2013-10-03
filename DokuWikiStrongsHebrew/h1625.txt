@@ -1,12 +1,16 @@
 ====== H1625: גֵּרָה (gêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1641 ;
+from H1641;
 
 ===== Meaning =====
 
-the  cud  (as scraping the throat)
+the **cud** (as scraping the throat)
 
 ===== Definitions =====
 

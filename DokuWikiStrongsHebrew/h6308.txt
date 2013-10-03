@@ -1,12 +1,16 @@
 ====== H6308: פָּדַע (pâdaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  retrieve
+to **retrieve**
 
 ===== Definitions =====
 

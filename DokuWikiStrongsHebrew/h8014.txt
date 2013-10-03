@@ -1,12 +1,16 @@
 ====== H8014: שַׂלְמַי (Salmay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8008 ;  ;
+from H8008; **clothed**;
 
 ===== Meaning =====
 
-clothed Salmai , an Israelite
+**Salmai**, an Israelite
 
 ===== Definitions =====
 

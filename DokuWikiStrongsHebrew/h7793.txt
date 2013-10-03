@@ -1,12 +1,16 @@
 ====== H7793: שׁוּר (Shûwr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H7791 ;
+the same as H7791;
 
 ===== Meaning =====
 
-Shur , a region of the Desert
+**Shur**, a region of the Desert
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4367: מַכְנַדְבַי (Maknadbay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4100  and  H5068  with a particle interposed; what (is) like (a) liberal (man) ?;
+from H4100 and H5068 with a particle interposed; what (is) like (a) liberal (man) ?;
 
 ===== Meaning =====
 
-Maknadbai , an Israelite
+**Maknadbai**, an Israelite
 
 ===== Definitions =====
 

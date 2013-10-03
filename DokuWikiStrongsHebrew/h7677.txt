@@ -1,12 +1,16 @@
 ====== H7677: שַׁבָּתוֹן (shabbâthôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7676 ;
+from H7676;
 
 ===== Meaning =====
 
-a  sabbatism  or special holiday
+a **sabbatism** or special holiday
 
 ===== Definitions =====
 

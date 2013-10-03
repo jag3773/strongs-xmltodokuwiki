@@ -1,12 +1,16 @@
 ====== H6295: פַּגְעִיאֵל (Pagʻîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6294  and  H410 ;  ;
+from H6294 and H410; **accident of God**;
 
 ===== Meaning =====
 
-accident of God Pagiel , an Israelite
+**Pagiel**, an Israelite
 
 ===== Definitions =====
 

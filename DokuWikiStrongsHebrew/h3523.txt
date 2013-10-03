@@ -1,12 +1,16 @@
 ====== H3523: כְּבִיר (kᵉbîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3527  in the original sense of plaiting;
+from H3527 in the original sense of plaiting;
 
 ===== Meaning =====
 
-a  matrass  (of intertwined materials)
+a **matrass** (of intertwined materials)
 
 ===== Definitions =====
 

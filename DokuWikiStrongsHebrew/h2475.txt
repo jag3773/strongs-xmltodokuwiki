@@ -1,12 +1,16 @@
 ====== H2475: חֲלוֹף (chălôwph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2498 ;
+from H2498;
 
 ===== Meaning =====
 
-properly,  surviving ; by implication (collectively)  orphans
+properly, **surviving**; by implication (collectively) **orphans**
 
 ===== Definitions =====
 

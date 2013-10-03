@@ -1,12 +1,16 @@
 ====== H1128: בֶּן־דֶּקֶר (Ben-Deqer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and a derivative of  H1856 ; son of piercing (or of a lance);
+from H1121 and a derivative of H1856; son of piercing (or of a lance);
 
 ===== Meaning =====
 
-Ben-Deker , an Israelite
+**Ben-Deker**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5807: עֱזוּז (ʻĕzûwz) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5810 ;
+from H5810;
 
 ===== Meaning =====
 
-forcibleness
+**forcibleness**
 
 ===== Definitions =====
 

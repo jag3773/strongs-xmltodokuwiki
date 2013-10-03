@@ -1,12 +1,16 @@
 ====== H4918: מְשֻׁלָּם (Mᵉshullâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7999 ;  ;
+from H7999; **allied**;
 
 ===== Meaning =====
 
-allied Meshullam , the name of seventeen Israelites
+**Meshullam**, the name of seventeen Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3682: כְּסוּת (kᵉçûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3680 ;
+from H3680;
 
 ===== Meaning =====
 
-a  cover  ( garment ); figuratively, a  veiling
+a **cover** (**garment**); figuratively, a **veiling**
 
 ===== Definitions =====
 

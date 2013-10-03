@@ -1,12 +1,16 @@
 ====== H4773: מַרְגֵּמָה (margêmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7275 ;
+from H7275;
 
 ===== Meaning =====
 
-a  stone-heap
+a **stone-heap**
 
 ===== Definitions =====
 

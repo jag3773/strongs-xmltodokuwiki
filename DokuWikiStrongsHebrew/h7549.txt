@@ -1,12 +1,16 @@
 ====== H7549: רָקִיעַ (râqîyaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7554 ;
+from H7554;
 
 ===== Meaning =====
 
-properly, an  expanse , i.e. the  firmament  or (apparently)  visible arch of the sky
+properly, an **expanse**, i.e. the **firmament** or (apparently) **visible arch of the sky**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8049: שַׁמְהוּת (Shamhûwth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H8048 ;  ;
+for H8048; **desolation**;
 
 ===== Meaning =====
 
-desolation Shamhuth , an Israelite
+**Shamhuth**, an Israelite
 
 ===== Definitions =====
 

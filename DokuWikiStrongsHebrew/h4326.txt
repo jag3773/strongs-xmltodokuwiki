@@ -1,12 +1,16 @@
 ====== H4326: מִיָּמִן (Mîyâmin) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-a form for  H4509 ;
+a form for H4509;
 
 ===== Meaning =====
 
-Mijamin , the name of three Israelites
+**Mijamin**, the name of three Israelites
 
 ===== Definitions =====
 

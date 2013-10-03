@@ -1,12 +1,16 @@
 ====== H4857: מַשְׁאָב (mashʼâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7579 ;
+from H7579;
 
 ===== Meaning =====
 
-a  trough for cattle to drink from
+a **trough for cattle to drink from**
 
 ===== Definitions =====
 

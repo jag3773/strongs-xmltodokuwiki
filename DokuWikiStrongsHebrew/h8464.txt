@@ -1,12 +1,16 @@
 ====== H8464: תַּחְמָס (tachmâç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2554 ;
+from H2554;
 
 ===== Meaning =====
 
-a  species of unclean bird  (from its violence), perhaps an  owl
+a **species of unclean bird** (from its violence), perhaps an **owl**
 
 ===== Definitions =====
 

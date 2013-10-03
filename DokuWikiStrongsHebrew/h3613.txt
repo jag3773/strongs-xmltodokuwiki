@@ -1,12 +1,16 @@
 ====== H3613: כָּלֵב אֶפְרָתָה (Kâlêb ʼEphrâthâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3612  and  H672 ;
+from H3612 and H672;
 
 ===== Meaning =====
 
-Caleb-Ephrathah , a place in Egypt (if the text is correct)
+**Caleb-Ephrathah**, a place in Egypt (if the text is correct)
 
 ===== Definitions =====
 

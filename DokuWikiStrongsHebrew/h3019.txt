@@ -1,12 +1,16 @@
 ====== H3019: יָגִיעַ (yâgîyaʻ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3021 ;
+from H3021;
 
 ===== Meaning =====
 
-tired
+**tired**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H769: אַרְנוֹן (ʼArnôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-or   ; from  H7442 ; a   stream;
+or ; from H7442; a **brawling** stream;
 
 ===== Meaning =====
 
-brawling the  Arnon , a river east of the Jordan, also its territory
+the **Arnon**, a river east of the Jordan, also its territory
 
 ===== Definitions =====
 

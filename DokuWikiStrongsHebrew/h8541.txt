@@ -1,12 +1,16 @@
 ====== H8541: תִּמָּהוֹן (timmâhôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8539 ;
+from H8539;
 
 ===== Meaning =====
 
-consternation
+**consternation**
 
 ===== Definitions =====
 

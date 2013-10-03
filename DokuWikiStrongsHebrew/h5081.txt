@@ -1,12 +1,16 @@
 ====== H5081: נָדִיב (nâdîyb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5068 ;
+from H5068;
 
 ===== Meaning =====
 
-properly,  voluntary , i.e. generous; hence,  magnanimous ; as noun, a  grandee  (sometimes a  tyrant )
+properly, **voluntary**, i.e. generous; hence, **magnanimous**; as noun, a **grandee** (sometimes a **tyrant**)
 
 ===== Definitions =====
 

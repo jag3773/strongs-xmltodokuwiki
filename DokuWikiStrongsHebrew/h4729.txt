@@ -1,12 +1,16 @@
 ====== H4729: מִקְטָר (miqṭâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6999 ;
+from H6999;
 
 ===== Meaning =====
 
-something to  fume  (incense) on i.e. a  hearth  place
+something to **fume** (incense) on i.e. a **hearth** place
 
 ===== Definitions =====
 

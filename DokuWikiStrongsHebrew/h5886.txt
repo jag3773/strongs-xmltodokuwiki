@@ -1,12 +1,16 @@
 ====== H5886: עֵין תַּנִּים (ʻÊyn Tannîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and the plural of  H8565 ; fountain of jackals;
+from H5869 and the plural of H8565; fountain of jackals;
 
 ===== Meaning =====
 
-En-Tannim , a pool near Jerusalem
+**En-Tannim**, a pool near Jerusalem
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7816: שְׁחוּת (shᵉchûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7812 ;
+from H7812;
 
 ===== Meaning =====
 
-pit
+**pit**
 
 ===== Definitions =====
 

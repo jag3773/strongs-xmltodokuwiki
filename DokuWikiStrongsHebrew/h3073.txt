@@ -1,12 +1,16 @@
 ====== H3073: יְהֹוָה שָׁלוֹם (Yᵉhôvâh shâlôwm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3068  and  H7965 ; Jehovah (is) peace;
+from H3068 and H7965; Jehovah (is) peace;
 
 ===== Meaning =====
 
-Jehovah-Shalom , a symbolical name of an altar in Palestine
+**Jehovah-Shalom**, a symbolical name of an altar in Palestine
 
 ===== Definitions =====
 

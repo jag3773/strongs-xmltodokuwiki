@@ -1,12 +1,16 @@
 ====== H1630: גְּרִזִים (Gᵉrizîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-plural of an unused noun from  H1629  (compare  H1511 ), cut up (i.e. rocky);
+plural of an unused noun from H1629 (compare H1511), cut up (i.e. rocky);
 
 ===== Meaning =====
 
-Gerizim , a mountain of Palestine
+**Gerizim**, a mountain of Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7276: רֶגֶם (Regem) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7275 ;  ;
+from H7275; **stoneheap**;
 
 ===== Meaning =====
 
-stoneheap Regem , an Israelite
+**Regem**, an Israelite
 
 ===== Definitions =====
 

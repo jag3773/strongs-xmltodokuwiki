@@ -1,12 +1,16 @@
 ====== H8056: שָׂמֵחַ (sâmêach) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8055 ;
+from H8055;
 
 ===== Meaning =====
 
-blithe  or  gleeful
+**blithe** or **gleeful**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2959: טָרַח (ṭârach) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  overburden
+to **overburden**
 
 ===== Definitions =====
 

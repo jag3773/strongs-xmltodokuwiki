@@ -1,12 +1,16 @@
 ====== H2700: חֲצַרְמָוֶת (Chătsarmâveth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2691  and  H4194 ; village of death;
+from H2691 and H4194; village of death;
 
 ===== Meaning =====
 
-Chatsarmaveth , a place in Arabia
+**Chatsarmaveth**, a place in Arabia
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7027: קִישׁ (Qîysh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6983 ; a  ;
+from H6983; a **bow**;
 
 ===== Meaning =====
 
-bow Kish , the name of five Israelites
+**Kish**, the name of five Israelites
 
 ===== Definitions =====
 

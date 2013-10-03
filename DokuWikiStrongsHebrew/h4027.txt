@@ -1,12 +1,16 @@
 ====== H4027: מִגְדַּל־אֵל (Migdal-ʼÊl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H4026  and  H410 ; tower of God;
+from H4026 and H410; tower of God;
 
 ===== Meaning =====
 
-Migdal-El , a place in Palestine
+**Migdal-El**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2663: חֲפָרַיִם (Chăphârayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual of  H2660 ; double pit;
+dual of H2660; double pit;
 
 ===== Meaning =====
 
-Chapharajim , a place in Palestine
+**Chapharajim**, a place in Palestine
 
 ===== Definitions =====
 

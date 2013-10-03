@@ -1,12 +1,16 @@
 ====== H5447: סֵבֶל (çêbel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5445 ;
+from H5445;
 
 ===== Meaning =====
 
-a  load  (literally or figuratively)
+a **load** (literally or figuratively)
 
 ===== Definitions =====
 

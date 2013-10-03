@@ -1,12 +1,16 @@
 ====== H1498: גָּזֵל (gâzêl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1497 ;
+from H1497;
 
 ===== Meaning =====
 
-robbery , or (concretely)  plunder
+**robbery**, or (concretely) **plunder**
 
 ===== Definitions =====
 

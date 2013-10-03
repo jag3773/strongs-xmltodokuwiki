@@ -1,12 +1,16 @@
 ====== H6995: קֹטֶן (qôṭen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6994 ;
+from H6994;
 
 ===== Meaning =====
 
-a  pettiness , i.e. the  little finger
+a **pettiness**, i.e. the **little finger**
 
 ===== Definitions =====
 

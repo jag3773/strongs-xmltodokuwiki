@@ -1,12 +1,16 @@
 ====== H1053: בֵּית שֶׁמֶשׁ (Bêyth Shemesh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H8121 ; house of (the) sun;
+from H1004 and H8121; house of (the) sun;
 
 ===== Meaning =====
 
-Beth-Shemesh , a place in Palestine
+**Beth-Shemesh**, a place in Palestine
 
 ===== Definitions =====
 

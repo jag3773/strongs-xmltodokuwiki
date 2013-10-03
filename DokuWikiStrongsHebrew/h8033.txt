@@ -1,12 +1,16 @@
 ====== H8033: שָׁם (shâm) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-a primitive particle (rather from the relative pronoun,  H834 );
+a primitive particle (rather from the relative pronoun, H834);
 
 ===== Meaning =====
 
-there  (transferring to time)  then ; often  thither , or  thence
+**there** (transferring to time) **then**; often **thither**, or **thence**
 
 ===== Definitions =====
 

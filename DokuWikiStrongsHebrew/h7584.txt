@@ -1,12 +1,16 @@
 ====== H7584: שַׁאֲוָה (shaʼăvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7582 ;
+from H7582;
 
 ===== Meaning =====
 
-a  tempest  (as rushing)
+a **tempest** (as rushing)
 
 ===== Definitions =====
 

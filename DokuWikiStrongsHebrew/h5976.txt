@@ -1,12 +1,16 @@
 ====== H5976: עָמַד (ʻâmad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-for  H4571 ;
+for H4571;
 
 ===== Meaning =====
 
-to shake
+**to shake**
 
 ===== Definitions =====
 

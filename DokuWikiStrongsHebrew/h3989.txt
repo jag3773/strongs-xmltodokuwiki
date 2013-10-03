@@ -1,12 +1,16 @@
 ====== H3989: מַאֲפֶה (maʼăpheh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H644 ;
+from H644;
 
 ===== Meaning =====
 
-something  baked , i.e. a  batch
+something **baked**, i.e. a **batch**
 
 ===== Definitions =====
 

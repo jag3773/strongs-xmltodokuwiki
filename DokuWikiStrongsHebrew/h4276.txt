@@ -1,12 +1,16 @@
 ====== H4276: מַחֲצִית (machătsîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2673 ;
+from H2673;
 
 ===== Meaning =====
 
-a  halving  or the  middle
+a **halving** or the **middle**
 
 ===== Definitions =====
 

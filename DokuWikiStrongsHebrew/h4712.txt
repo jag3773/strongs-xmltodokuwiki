@@ -1,12 +1,16 @@
 ====== H4712: מֵצַר (mêtsar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6869 ;
+from H6869;
 
 ===== Meaning =====
 
-something  tight , i.e. (figuratively)  trouble
+something **tight**, i.e. (figuratively) **trouble**
 
 ===== Definitions =====
 

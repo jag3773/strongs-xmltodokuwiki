@@ -1,12 +1,16 @@
 ====== H7569: רַתּוֹק (rattôwq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7576 ;
+from H7576;
 
 ===== Meaning =====
 
-a  chain
+a **chain**
 
 ===== Definitions =====
 

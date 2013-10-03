@@ -1,12 +1,16 @@
 ====== H263: אַחֲוָה (ʼachăvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) corresponding to  H262 ;
+(Aramaic) corresponding to H262;
 
 ===== Meaning =====
 
-solution  (of riddles)
+**solution** (of riddles)
 
 ===== Definitions =====
 

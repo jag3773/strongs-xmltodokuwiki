@@ -1,12 +1,16 @@
 ====== H8267: שֶׁקֶר (sheqer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8266 ;
+from H8266;
 
 ===== Meaning =====
 
-an  untruth ; by implication, a  sham  (often adverbial)
+an **untruth**; by implication, a **sham** (often adverbial)
 
 ===== Definitions =====
 

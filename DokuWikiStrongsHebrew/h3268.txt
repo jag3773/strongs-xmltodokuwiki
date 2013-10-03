@@ -1,12 +1,16 @@
 ====== H3268: יַעֲזִיאֵל (Yaʻăzîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3267  and  H410 ;  ;
+from H3267 and H410; **emboldened of God**;
 
 ===== Meaning =====
 
-emboldened of God Jaaziel , an Israelite
+**Jaaziel**, an Israelite
 
 ===== Definitions =====
 

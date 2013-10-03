@@ -1,12 +1,16 @@
 ====== H1586: גֹּמֶר (Gômer) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-f
+
 ===== Source =====
 
-from  H1584 ; completion;
+from H1584; completion;
 
 ===== Meaning =====
 
-Gomer , the name of a son of Japheth and of his descendants; also of a Hebrewess
+**Gomer**, the name of a son of Japheth and of his descendants; also of a Hebrewess
 
 ===== Definitions =====
 

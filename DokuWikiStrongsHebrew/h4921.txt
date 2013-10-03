@@ -1,12 +1,16 @@
 ====== H4921: מְשִׁלֵּמִית (Mᵉshillêmîyth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7999 ; reconciliation;
+from H7999; reconciliation;
 
 ===== Meaning =====
 
-Meshillemith , an Israelite
+**Meshillemith**, an Israelite
 
 ===== Definitions =====
 

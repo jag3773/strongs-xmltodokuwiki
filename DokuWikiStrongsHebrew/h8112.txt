@@ -1,12 +1,16 @@
 ====== H8112: שִׁמְרוֹן מְראוֹן (Shimrôwn Mᵉrʼôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H8110  and a derivative of  H4754 ; guard of lashing;
+from H8110 and a derivative of H4754; guard of lashing;
 
 ===== Meaning =====
 
-Shimron-Meron , a place in Palestine
+**Shimron-Meron**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6046: עָנֵם (ʻÂnêm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the dual of  H5869 ; two fountains;
+from the dual of H5869; two fountains;
 
 ===== Meaning =====
 
-Anem , a place in Palestine
+**Anem**, a place in Palestine
 
 ===== Definitions =====
 

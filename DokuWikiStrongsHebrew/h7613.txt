@@ -1,12 +1,16 @@
 ====== H7613: שְׂאֵת (sᵉʼêth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5375 ;
+from H5375;
 
 ===== Meaning =====
 
-an  elevation  or  leprous scab ; figuratively,  elation  or  cheerfulness ;  exaltation  in rank or character
+an **elevation** or **leprous scab**; figuratively, **elation** or **cheerfulness**; **exaltation** in rank or character
 
 ===== Definitions =====
 

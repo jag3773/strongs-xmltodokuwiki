@@ -1,12 +1,16 @@
 ====== H6441: פְּנִימָה (pᵉnîymâh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H6440  with directive enclitic;
+from H6440 with directive enclitic;
 
 ===== Meaning =====
 
-faceward , i.e.  indoors
+**faceward**, i.e. **indoors**
 
 ===== Definitions =====
 

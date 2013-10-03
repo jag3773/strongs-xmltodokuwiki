@@ -1,12 +1,16 @@
 ====== H1136: בֶּן־חֶסֶד (Ben-Cheçed) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and  H2617 ; son of kindness;
+from H1121 and H2617; son of kindness;
 
 ===== Meaning =====
 
-Ben-Chesed , an Israelite
+**Ben-Chesed**, an Israelite
 
 ===== Definitions =====
 

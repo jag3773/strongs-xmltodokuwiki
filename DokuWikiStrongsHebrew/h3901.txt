@@ -1,12 +1,16 @@
 ====== H3901: לָחֶם (lâchem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3898 ,
+from H3898,
 
 ===== Meaning =====
 
-battle
+**battle**
 
 ===== Definitions =====
 

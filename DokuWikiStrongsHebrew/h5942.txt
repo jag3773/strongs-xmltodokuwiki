@@ -1,12 +1,16 @@
 ====== H5942: עִלִּי (ʻillîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-high ; i.e.  comparative
+**high**; i.e. **comparative**
 
 ===== Definitions =====
 

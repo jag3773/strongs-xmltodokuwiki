@@ -1,12 +1,16 @@
 ====== H2328: חוּג (chûwg) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H2287 );
+a primitive root (compare H2287);
 
 ===== Meaning =====
 
-to  describe a circle
+to **describe a circle**
 
 ===== Definitions =====
 

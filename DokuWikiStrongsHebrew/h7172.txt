@@ -1,12 +1,16 @@
 ====== H7172: קַרְקַע (qarqaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7167 ;
+from H7167;
 
 ===== Meaning =====
 
-floor  (as if a pavement of pieces or  tesseræ ), of a building or the sea
+**floor** (as if a pavement of pieces or **tesseræ**), of a building or the sea
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8418: תַּהֲלֻכָה (tahălukâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1980 ;
+from H1980;
 
 ===== Meaning =====
 
-a  procession
+a **procession**
 
 ===== Definitions =====
 

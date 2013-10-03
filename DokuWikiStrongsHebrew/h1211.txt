@@ -1,12 +1,16 @@
 ====== H1211: בֶּצֶל (betsel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root apparently meaning to peel;
 
 ===== Meaning =====
 
-an  onion
+an **onion**
 
 ===== Definitions =====
 

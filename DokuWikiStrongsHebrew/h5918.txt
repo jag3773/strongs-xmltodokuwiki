@@ -1,12 +1,16 @@
 ====== H5918: עׇכְרָן (ʻOkrân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5916 ;  ;
+from H5916; **muddler**;
 
 ===== Meaning =====
 
-muddler Okran , an Israelite
+**Okran**, an Israelite
 
 ===== Definitions =====
 

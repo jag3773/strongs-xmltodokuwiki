@@ -1,12 +1,16 @@
 ====== H4861: מִשְׁאָל (Mishʼâl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7592 ;  ;
+from H7592; **request**;
 
 ===== Meaning =====
 
-request Mishal , a place in Palestine
+**Mishal**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2056: וָלָד (vâlâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H3206 ;
+for H3206;
 
 ===== Meaning =====
 
-a  boy
+a **boy**
 
 ===== Definitions =====
 

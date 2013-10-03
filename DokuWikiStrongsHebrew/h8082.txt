@@ -1,12 +1,16 @@
 ====== H8082: שָׁמֵן (shâmên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8080 ;
+from H8080;
 
 ===== Meaning =====
 
-greasy , i.e.  gross ; figuratively,  rich
+**greasy**, i.e. **gross**; figuratively, **rich**
 
 ===== Definitions =====
 

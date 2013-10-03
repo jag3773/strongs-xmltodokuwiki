@@ -1,12 +1,16 @@
 ====== H5799: עֲזָאזֵל (ʻăzâʼzêl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5795  and  H235 ;
+from H5795 and H235;
 
 ===== Meaning =====
 
-goat of departure ; the  scapegoat
+**goat of departure**; the **scapegoat**
 
 ===== Definitions =====
 

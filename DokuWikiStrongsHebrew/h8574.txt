@@ -1,12 +1,16 @@
 ====== H8574: תַּנּוּר (tannûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5216 ;
+from H5216;
 
 ===== Meaning =====
 
-a  fire-pot
+a **fire-pot**
 
 ===== Definitions =====
 

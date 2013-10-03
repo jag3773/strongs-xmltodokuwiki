@@ -1,12 +1,16 @@
 ====== H6747: צַלַּחַת (tsallachath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6743 ;
+from H6743;
 
 ===== Meaning =====
 
-something  advanced  or  deep , i.e. a  bowl ; figuratively, the  bosom
+something **advanced** or **deep**, i.e. a **bowl**; figuratively, the **bosom**
 
 ===== Definitions =====
 

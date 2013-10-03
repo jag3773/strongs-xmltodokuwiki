@@ -1,12 +1,16 @@
 ====== H1634: גֶּרֶם (gerem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1633 ;
+from H1633;
 
 ===== Meaning =====
 
-a  bone  (as the skeleton of the body); hence,  self , i.e. (figuratively)  very
+a **bone** (as the skeleton of the body); hence, **self**, i.e. (figuratively) **very**
 
 ===== Definitions =====
 

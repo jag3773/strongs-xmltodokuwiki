@@ -1,12 +1,16 @@
 ====== H7371: רַחַת (rachath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7306 ;
+from H7306;
 
 ===== Meaning =====
 
-a  winnowing -fork (as blowing the chaff away)
+a **winnowing**-fork (as blowing the chaff away)
 
 ===== Definitions =====
 

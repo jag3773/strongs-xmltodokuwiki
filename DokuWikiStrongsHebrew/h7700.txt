@@ -1,12 +1,16 @@
 ====== H7700: שֵׁד (shêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7736 ;
+from H7736;
 
 ===== Meaning =====
 
-a  dæmon  (as  malignant )
+a **dæmon** (as **malignant**)
 
 ===== Definitions =====
 

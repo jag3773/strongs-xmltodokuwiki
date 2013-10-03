@@ -1,12 +1,16 @@
 ====== H7687: שְׂגוּב (Sᵉgûwb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7682 ;  ;
+from H7682; **aloft**;
 
 ===== Meaning =====
 
-aloft Segub , the name of two Israelites
+**Segub**, the name of two Israelites
 
 ===== Definitions =====
 

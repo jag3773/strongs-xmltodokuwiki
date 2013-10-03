@@ -1,12 +1,16 @@
 ====== H4849: מִרְשַׁעַת (mirshaʻath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7561 ;
+from H7561;
 
 ===== Meaning =====
 
-a  female wicked doer
+a **female wicked doer**
 
 ===== Definitions =====
 

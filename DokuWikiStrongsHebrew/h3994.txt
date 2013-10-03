@@ -1,12 +1,16 @@
 ====== H3994: מְאֵרָה (mᵉʼêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H779 ;
+from H779;
 
 ===== Meaning =====
 
-an  execration
+an **execration**
 
 ===== Definitions =====
 

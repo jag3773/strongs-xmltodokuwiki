@@ -1,12 +1,16 @@
 ====== H4561: מֹסָר (môçâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3256 ;
+from H3256;
 
 ===== Meaning =====
 
-admonition
+**admonition**
 
 ===== Definitions =====
 

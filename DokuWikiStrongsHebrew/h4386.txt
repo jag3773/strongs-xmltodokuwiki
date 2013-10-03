@@ -1,12 +1,16 @@
 ====== H4386: מְכִתָּה (mᵉkittâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3807 ;
+from H3807;
 
 ===== Meaning =====
 
-a  fracture
+a **fracture**
 
 ===== Definitions =====
 

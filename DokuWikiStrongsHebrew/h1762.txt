@@ -1,12 +1,16 @@
 ====== H1762: דְּחִי (dᵉchîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1760 ;
+from H1760;
 
 ===== Meaning =====
 
-a  push , i.e. (by implication) a  fall
+a **push**, i.e. (by implication) a **fall**
 
 ===== Definitions =====
 

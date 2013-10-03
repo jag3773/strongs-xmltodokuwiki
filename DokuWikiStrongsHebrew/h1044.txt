@@ -1,12 +1,16 @@
 ====== H1044: בֵּית עֵקֶד (Bêyth ʻÊqed) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and a derivative of  H6123 ; house of (the) binding (for sheep-shearing);
+from H1004 and a derivative of H6123; house of (the) binding (for sheep-shearing);
 
 ===== Meaning =====
 
-Beth-Eked , a place in Palestine
+**Beth-Eked**, a place in Palestine
 
 ===== Definitions =====
 

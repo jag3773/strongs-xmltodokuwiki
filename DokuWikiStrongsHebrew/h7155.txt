@@ -1,12 +1,16 @@
 ====== H7155: קִרְיַת חֻצוֹת (Qiryath Chutsôwth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7151  and the feminine plural of  H2351 ;  ;
+from H7151 and the feminine plural of H2351; **city of streets**;
 
 ===== Meaning =====
 
-city of streets Kirjath-Chutsoth , a place in Moab
+**Kirjath-Chutsoth**, a place in Moab
 
 ===== Definitions =====
 

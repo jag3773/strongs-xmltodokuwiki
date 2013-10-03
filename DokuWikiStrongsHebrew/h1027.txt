@@ -1,12 +1,16 @@
 ====== H1027: בֵּית הָרָם (Bêyth hâ-Râm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H7311  with the article interposed; house of the height;
+from H1004 and H7311 with the article interposed; house of the height;
 
 ===== Meaning =====
 
-Beth-ha-Ram , a place East of the Jordan
+**Beth-ha-Ram**, a place East of the Jordan
 
 ===== Definitions =====
 

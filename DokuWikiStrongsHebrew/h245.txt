@@ -1,12 +1,16 @@
 ====== H245: אֲזַנְיָה (ʼĂzanyâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H238  and  H3050 ; heard by Jah;
+from H238 and H3050; heard by Jah;
 
 ===== Meaning =====
 
-Azanjah , an Israelite
+**Azanjah**, an Israelite
 
 ===== Definitions =====
 

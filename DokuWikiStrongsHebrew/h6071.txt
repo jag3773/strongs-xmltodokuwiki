@@ -1,12 +1,16 @@
 ====== H6071: עָסִיס (ʻâçîyç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6072 ;
+from H6072;
 
 ===== Meaning =====
 
-must  or fresh grape-juice (as just  trodden  out)
+**must** or fresh grape-juice (as just **trodden** out)
 
 ===== Definitions =====
 

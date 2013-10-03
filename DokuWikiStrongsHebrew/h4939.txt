@@ -1,12 +1,16 @@
 ====== H4939: מִשְׂפָּח (mispâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5596 ;
+from H5596;
 
 ===== Meaning =====
 
-slaughter
+**slaughter**
 
 ===== Definitions =====
 

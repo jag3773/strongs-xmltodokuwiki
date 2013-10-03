@@ -1,12 +1,16 @@
 ====== H3723: כָּפָר (kâphâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3722 ;
+from H3722;
 
 ===== Meaning =====
 
-a village  (as protected by walls)
+**a village** (as protected by walls)
 
 ===== Definitions =====
 

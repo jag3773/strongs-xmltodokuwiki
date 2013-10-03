@@ -1,12 +1,16 @@
 ====== H2182: זָנוֹחַ (Zânôwach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2186 ;  ;
+from H2186; **rejected**;
 
 ===== Meaning =====
 
-rejected Zanoach , the name of two places in Palestine
+**Zanoach**, the name of two places in Palestine
 
 ===== Definitions =====
 

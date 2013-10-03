@@ -1,12 +1,16 @@
 ====== H6400: פֶּלַח (pelach) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6398 ;
+from H6398;
 
 ===== Meaning =====
 
-a  slice
+a **slice**
 
 ===== Definitions =====
 

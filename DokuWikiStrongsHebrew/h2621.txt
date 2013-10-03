@@ -1,12 +1,16 @@
 ====== H2621: חֹסָה (Chôçâh) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H2620 ; hopeful;
+from H2620; hopeful;
 
 ===== Meaning =====
 
-Chosah , an Israelite; also a place in Palestine
+**Chosah**, an Israelite; also a place in Palestine
 
 ===== Definitions =====
 

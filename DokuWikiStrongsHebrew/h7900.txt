@@ -1,12 +1,16 @@
 ====== H7900: שֹׂךְ (sôk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5526  in the sense of  H7753 ;
+from H5526 in the sense of H7753;
 
 ===== Meaning =====
 
-a  booth  (as interlaced)
+a **booth** (as interlaced)
 
 ===== Definitions =====
 

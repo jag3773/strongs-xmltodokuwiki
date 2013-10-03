@@ -1,12 +1,16 @@
 ====== H7928: שֶׁכֶם (Shekem) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H7926 ;
+for H7926;
 
 ===== Meaning =====
 
-Shekem , the name of a Hivite and two Israelites
+**Shekem**, the name of a Hivite and two Israelites
 
 ===== Definitions =====
 

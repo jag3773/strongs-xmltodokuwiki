@@ -1,12 +1,16 @@
 ====== H876: בְּאֵר (Bᵉʼêr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H875 ;
+the same as H875;
 
 ===== Meaning =====
 
-Beer , a place in the Desert, also one in Palestine
+**Beer**, a place in the Desert, also one in Palestine
 
 ===== Definitions =====
 

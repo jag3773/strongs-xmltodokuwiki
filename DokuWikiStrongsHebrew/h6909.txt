@@ -1,12 +1,16 @@
 ====== H6909: קַבְצְאֵל (Qabtsᵉʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6908  and  H410 ; God has gathered;
+from H6908 and H410; God has gathered;
 
 ===== Meaning =====
 
-Kabtseel , a place in Palestine
+**Kabtseel**, a place in Palestine
 
 ===== Definitions =====
 

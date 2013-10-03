@@ -1,12 +1,16 @@
 ====== H6483: פִּצֵּץ (Pitstsêts) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from an unused root meaning to dissever;  ;
+from an unused root meaning to dissever; **dispersive**;
 
 ===== Meaning =====
 
-dispersive Pitstsets , a priest
+**Pitstsets**, a priest
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2014: הֲפֻגָה (hăphugâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6313 ;
+from H6313;
 
 ===== Meaning =====
 
-relaxation
+**relaxation**
 
 ===== Definitions =====
 

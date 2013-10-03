@@ -1,12 +1,16 @@
 ====== H3639: כְּלִמָּה (kᵉlimmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3637 ;
+from H3637;
 
 ===== Meaning =====
 
-disgrace
+**disgrace**
 
 ===== Definitions =====
 

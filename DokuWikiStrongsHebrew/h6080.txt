@@ -1,12 +1,16 @@
 ====== H6080: עָפַר (ʻâphar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-; a primitive root; meaning either to be gray or perhaps rather to pulverize; used only as denominative from  H6083 ,
+; a primitive root; meaning either to be gray or perhaps rather to pulverize; used only as denominative from H6083,
 
 ===== Meaning =====
 
-to  be dust
+to **be dust**
 
 ===== Definitions =====
 

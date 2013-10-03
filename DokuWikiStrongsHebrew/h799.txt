@@ -1,12 +1,16 @@
 ====== H799: אֶשְׁדָּת (ʼeshdâth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H784  and  H1881 ;
+from H784 and H1881;
 
 ===== Meaning =====
 
-a fire-law
+**a fire-law**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4646: מַפָּח (mappâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5301 ;
+from H5301;
 
 ===== Meaning =====
 
-a  breathing out  (of life), i.e.  expiring
+a **breathing out** (of life), i.e. **expiring**
 
 ===== Definitions =====
 

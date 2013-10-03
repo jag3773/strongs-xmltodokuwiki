@@ -1,12 +1,16 @@
 ====== H2089: זֶה (zeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(1 Samuel by permutation for  H7716 ;
+(1 Samuel by permutation for H7716;
 
 ===== Meaning =====
 
-a sheep
+**a sheep**
 
 ===== Definitions =====
 

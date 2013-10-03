@@ -1,12 +1,16 @@
 ====== H7903: שְׁכֹבֶת (shᵉkôbeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7901 ;
+from H7901;
 
 ===== Meaning =====
 
-a (sexual)  lying  with
+a (sexual) **lying** with
 
 ===== Definitions =====
 

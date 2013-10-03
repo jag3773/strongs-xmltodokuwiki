@@ -1,12 +1,16 @@
 ====== H5760: עֲוִיל (ʻăvîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5765 ;
+from H5765;
 
 ===== Meaning =====
 
-perverse  (morally)
+**perverse** (morally)
 
 ===== Definitions =====
 

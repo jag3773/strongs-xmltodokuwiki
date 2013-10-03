@@ -1,12 +1,16 @@
 ====== H734: אֹרַח (ʼôrach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H732 ;
+from H732;
 
 ===== Meaning =====
 
-a well-trodden  road  (literally or figuratively); also a  caravan
+a well-trodden **road** (literally or figuratively); also a **caravan**
 
 ===== Definitions =====
 

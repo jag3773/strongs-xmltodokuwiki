@@ -1,12 +1,16 @@
 ====== H8595: תַּעְתֻּעַ (taʻtuaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8591 ;
+from H8591;
 
 ===== Meaning =====
 
-a  fraud
+a **fraud**
 
 ===== Definitions =====
 

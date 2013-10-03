@@ -1,12 +1,16 @@
 ====== H8080: שָׁמַן (shâman) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  shine , i.e. (by analogy)  be  (causatively,  make )  oily  or  gross
+to **shine**, i.e. (by analogy) **be** (causatively, **make**) **oily** or **gross**
 
 ===== Definitions =====
 

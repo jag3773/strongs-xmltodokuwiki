@@ -1,12 +1,16 @@
 ====== H6014: עָמַר (ʻâmar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; specifically (as denominative from  H6016 )
+a primitive root; specifically (as denominative from H6016)
 
 ===== Meaning =====
 
-properly, apparently to  heap ; figuratively, to  chastise  (as if piling blows); to  gather grain
+properly, apparently to **heap**; figuratively, to **chastise** (as if piling blows); to **gather grain**
 
 ===== Definitions =====
 

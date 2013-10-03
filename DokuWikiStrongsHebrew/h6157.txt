@@ -1,12 +1,16 @@
 ====== H6157: עָרֹב (ʻârôb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6148 ;
+from H6148;
 
 ===== Meaning =====
 
-a  mosquito  (from its swarming)
+a **mosquito** (from its swarming)
 
 ===== Definitions =====
 

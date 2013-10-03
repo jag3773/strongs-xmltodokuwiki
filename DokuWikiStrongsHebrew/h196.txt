@@ -1,12 +1,16 @@
 ====== H196: אֱוִלִי (ʼĕvilîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H191 ;
+from H191;
 
 ===== Meaning =====
 
-silly ,  foolish ; hence (morally)  impious
+**silly**, **foolish**; hence (morally) **impious**
 
 ===== Definitions =====
 

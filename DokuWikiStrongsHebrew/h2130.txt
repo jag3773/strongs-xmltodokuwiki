@@ -1,12 +1,16 @@
 ====== H2130: זִיפִי (Zîyphîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-patrial from  H2128 ;
+patrial from H2128;
 
 ===== Meaning =====
 
-a  Ziphite  or inhabitant of Ziph
+a **Ziphite** or inhabitant of Ziph
 
 ===== Definitions =====
 

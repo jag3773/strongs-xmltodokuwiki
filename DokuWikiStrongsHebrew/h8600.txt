@@ -1,12 +1,16 @@
 ====== H8600: תְּפוֹצָה (tᵉphôwtsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6327 ;
+from H6327;
 
 ===== Meaning =====
 
-a  dispersal
+a **dispersal**
 
 ===== Definitions =====
 

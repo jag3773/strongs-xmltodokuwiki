@@ -1,12 +1,16 @@
 ====== H1111: בָּלָק (Bâlâq) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1110 ; waster;
+from H1110; waster;
 
 ===== Meaning =====
 
-Balak , a Moabitish king
+**Balak**, a Moabitish king
 
 ===== Definitions =====
 

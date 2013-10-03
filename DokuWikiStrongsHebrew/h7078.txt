@@ -1,12 +1,16 @@
 ====== H7078: קֶנֶץ (qenets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root probably meaning to  ;
+from an unused root probably meaning to **wrench**;
 
 ===== Meaning =====
 
-wrench perversion
+**perversion**
 
 ===== Definitions =====
 

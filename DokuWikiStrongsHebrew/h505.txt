@@ -1,12 +1,16 @@
 ====== H505: אֶלֶף (ʼeleph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-prop, the same as  H504 ;
+prop, the same as H504;
 
 ===== Meaning =====
 
-hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a  thousand
+hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a **thousand**
 
 ===== Definitions =====
 

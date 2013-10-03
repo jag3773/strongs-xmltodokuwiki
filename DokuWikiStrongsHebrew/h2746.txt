@@ -1,12 +1,16 @@
 ====== H2746: חַרְחֻר (charchur) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2787 ;
+from H2787;
 
 ===== Meaning =====
 
-fever  (as hot)
+**fever** (as hot)
 
 ===== Definitions =====
 

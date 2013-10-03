@@ -1,12 +1,16 @@
 ====== H3002: יָבֵשׁ (yâbêsh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3001 ;
+from H3001;
 
 ===== Meaning =====
 
-dry
+**dry**
 
 ===== Definitions =====
 

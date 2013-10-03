@@ -1,12 +1,16 @@
 ====== H4544: מִסְכֵּנֻת (miçkênuth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4542 ;
+from H4542;
 
 ===== Meaning =====
 
-indigence
+**indigence**
 
 ===== Definitions =====
 

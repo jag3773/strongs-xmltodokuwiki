@@ -1,12 +1,16 @@
 ====== H1781: דַּיָּן (dayân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1777 ;
+from H1777;
 
 ===== Meaning =====
 
-a  judge  or  advocate
+a **judge** or **advocate**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5479: סוֹטַי (Çôwṭay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7750 ;  ;
+from H7750; **roving**;
 
 ===== Meaning =====
 
-roving Sotai , one of the Nethinim
+**Sotai**, one of the Nethinim
 
 ===== Definitions =====
 

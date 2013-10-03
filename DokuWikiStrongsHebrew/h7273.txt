@@ -1,12 +1,16 @@
 ====== H7273: רַגְלִי (raglîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7272 ;
+from H7272;
 
 ===== Meaning =====
 
-a  footman  (soldier)
+a **footman** (soldier)
 
 ===== Definitions =====
 

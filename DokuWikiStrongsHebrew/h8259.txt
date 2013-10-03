@@ -1,12 +1,16 @@
 ====== H8259: שָׁקַף (shâqaph) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  lean out  (of a window), i.e. (by implication)  peep  or  gaze  (passively,  be a spectacle )
+properly, to **lean out** (of a window), i.e. (by implication) **peep** or **gaze** (passively, **be a spectacle**)
 
 ===== Definitions =====
 

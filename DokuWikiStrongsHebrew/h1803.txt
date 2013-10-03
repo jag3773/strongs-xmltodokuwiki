@@ -1,12 +1,16 @@
 ====== H1803: דַּלָּה (dallâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1802 ;
+from H1802;
 
 ===== Meaning =====
 
-properly, something  dangling , i.e. a  loose thread  or  hair ; figuratively,  indigent
+properly, something **dangling**, i.e. a **loose thread** or **hair**; figuratively, **indigent**
 
 ===== Definitions =====
 

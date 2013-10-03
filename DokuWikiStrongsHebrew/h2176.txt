@@ -1,12 +1,16 @@
 ====== H2176: זִמְרָת (zimrâth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2167 ;
+from H2167;
 
 ===== Meaning =====
 
-instrumental  music ; by implication,  praise
+instrumental **music**; by implication, **praise**
 
 ===== Definitions =====
 

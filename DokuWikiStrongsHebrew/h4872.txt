@@ -1,12 +1,16 @@
 ====== H4872: מֹשֶׁה (Môsheh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4871 ;   out (of the water), i.e.  ;
+from H4871; **drawing** out (of the water), i.e. **rescued**;
 
 ===== Meaning =====
 
-drawing rescued Mosheh , the Israelite lawgiver
+**Mosheh**, the Israelite lawgiver
 
 ===== Definitions =====
 

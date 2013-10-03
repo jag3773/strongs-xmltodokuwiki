@@ -1,12 +1,16 @@
 ====== H1461: גּוּב (gûwb) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  dig
+to **dig**
 
 ===== Definitions =====
 

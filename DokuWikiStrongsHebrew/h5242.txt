@@ -1,12 +1,16 @@
 ====== H5242: נְמוּאֵלִי (Nᵉmûwʼêlîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5241 ;
+from H5241;
 
 ===== Meaning =====
 
-a  Nemuelite , or descendant of Nemuel
+a **Nemuelite**, or descendant of Nemuel
 
 ===== Definitions =====
 

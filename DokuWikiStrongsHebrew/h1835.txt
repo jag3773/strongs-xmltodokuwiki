@@ -1,12 +1,16 @@
 ====== H1835: דָּן (Dân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1777 ;  ;
+from H1777; **judge**;
 
 ===== Meaning =====
 
-judge Dan , one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them
+**Dan**, one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them
 
 ===== Definitions =====
 

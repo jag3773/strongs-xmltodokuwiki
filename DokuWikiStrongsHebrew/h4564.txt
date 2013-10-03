@@ -1,12 +1,16 @@
 ====== H4564: מַסְתֵּר (maçtêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5641 ;
+from H5641;
 
 ===== Meaning =====
 
-properly, a  hider , i.e. (abstractly) a hiding, i.e.  aversion
+properly, a **hider**, i.e. (abstractly) a hiding, i.e. **aversion**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2612: חֹנֶף (chôneph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2610 ;
+from H2610;
 
 ===== Meaning =====
 
-moral  filth , i.e.  wickedness
+moral **filth**, i.e. **wickedness**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7542: רַקּוֹן (Raqqôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7534 ;  ;
+from H7534; **thinness**;
 
 ===== Meaning =====
 
-thinness Rakkon , a place in Palestine
+**Rakkon**, a place in Palestine
 
 ===== Definitions =====
 

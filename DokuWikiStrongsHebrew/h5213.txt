@@ -1,12 +1,16 @@
 ====== H5213: נִיצוֹץ (nîytsôwts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5340 ;
+from H5340;
 
 ===== Meaning =====
 
-a  spark
+a **spark**
 
 ===== Definitions =====
 

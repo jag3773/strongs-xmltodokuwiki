@@ -1,12 +1,16 @@
 ====== H6248: עַשְׁתּוּת (ʻashtûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6245 ;
+from H6245;
 
 ===== Meaning =====
 
-cogitation
+**cogitation**
 
 ===== Definitions =====
 

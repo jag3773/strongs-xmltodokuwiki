@@ -1,12 +1,16 @@
 ====== H7790: שׁוּר (shûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7889 ;
+from H7889;
 
 ===== Meaning =====
 
-a  foe  (as lying in wait)
+a **foe** (as lying in wait)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6054: עֲנָנִי (ʻĂnânîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6051 ;  ;
+from H6051; **cloudy**;
 
 ===== Meaning =====
 
-cloudy Anani , an Israelite
+**Anani**, an Israelite
 
 ===== Definitions =====
 

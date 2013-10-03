@@ -1,12 +1,16 @@
 ====== H2589: חַנּוֹת (channôwth) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H2603  (in the sense of prayer);
+from H2603 (in the sense of prayer);
 
 ===== Meaning =====
 
-supplication
+**supplication**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5302: נֹפַח (Nôphach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5301 ; a  ;
+from H5301; a **gust**;
 
 ===== Meaning =====
 
-gust Nophach , a place in Moab
+**Nophach**, a place in Moab
 
 ===== Definitions =====
 

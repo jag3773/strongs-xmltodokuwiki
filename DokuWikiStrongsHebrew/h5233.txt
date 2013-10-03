@@ -1,12 +1,16 @@
 ====== H5233: נֶכֶס (nekeç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **accumulate**;
 
 ===== Meaning =====
 
-accumulate treasure
+**treasure**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5040: נַבְלוּת (nablûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5036 ;
+from H5036;
 
 ===== Meaning =====
 
-properly,  disgrace , i.e. the (female)  pudenda
+properly, **disgrace**, i.e. the (female) **pudenda**
 
 ===== Definitions =====
 

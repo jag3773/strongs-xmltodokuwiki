@@ -1,12 +1,16 @@
 ====== H3579: כֹּזְבִי (Kôzᵉbîy) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H3576 ;  ;
+from H3576; **false**;
 
 ===== Meaning =====
 
-false Cozbi , a Midianitess
+**Cozbi**, a Midianitess
 
 ===== Definitions =====
 

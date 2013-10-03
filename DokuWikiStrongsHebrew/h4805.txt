@@ -1,12 +1,16 @@
 ====== H4805: מְרִי (mᵉrîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4784 ;
+from H4784;
 
 ===== Meaning =====
 
-bitterness , i.e. (figuratively)  rebellion ; concretely,  bitter , or  rebellious
+**bitterness**, i.e. (figuratively) **rebellion**; concretely, **bitter**, or **rebellious**
 
 ===== Definitions =====
 

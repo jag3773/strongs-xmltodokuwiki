@@ -1,12 +1,16 @@
 ====== H3973: מָאוֹס (mâʼôwç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3988 ;
+from H3988;
 
 ===== Meaning =====
 
-refuse
+**refuse**
 
 ===== Definitions =====
 

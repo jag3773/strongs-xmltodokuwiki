@@ -1,12 +1,16 @@
 ====== H7895: שִׁישַׁק (Shîyshaq) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-or   ; of Egyptian derivation;
+or ; of Egyptian derivation;
 
 ===== Meaning =====
 
-Shishak , an Egyptian king
+**Shishak**, an Egyptian king
 
 ===== Definitions =====
 

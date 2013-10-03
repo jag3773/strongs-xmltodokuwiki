@@ -1,12 +1,16 @@
 ====== H8249: שִׁקֻּו (shiqquv) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8248 ;
+from H8248;
 
 ===== Meaning =====
 
-(plural collective) a  draught
+(plural collective) a **draught**
 
 ===== Definitions =====
 

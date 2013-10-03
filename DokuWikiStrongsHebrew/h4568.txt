@@ -1,12 +1,16 @@
 ====== H4568: מַעֲבֶה (maʻăbeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5666 ;
+from H5666;
 
 ===== Meaning =====
 
-properly,  compact  (part of soil), i.e.  loam
+properly, **compact** (part of soil), i.e. **loam**
 
 ===== Definitions =====
 

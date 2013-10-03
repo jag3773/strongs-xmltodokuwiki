@@ -1,12 +1,16 @@
 ====== H5958: עֶלֶם (ʻelem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5956 ; (compare  H5959 )
+from H5956; (compare H5959)
 
 ===== Meaning =====
 
-properly, something  kept out of sight , i.e. a  lad
+properly, something **kept out of sight**, i.e. a **lad**
 
 ===== Definitions =====
 

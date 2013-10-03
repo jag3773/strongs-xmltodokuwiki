@@ -1,12 +1,16 @@
 ====== H4474: מִמְשָׁל (mimshâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4910 ;
+from H4910;
 
 ===== Meaning =====
 
-a  ruler  or (abstractly)  rule
+a **ruler** or (abstractly) **rule**
 
 ===== Definitions =====
 

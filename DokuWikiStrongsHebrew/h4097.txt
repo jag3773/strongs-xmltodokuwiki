@@ -1,12 +1,16 @@
 ====== H4097: מִדְרָשׁ (midrâsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1875 ;
+from H1875;
 
 ===== Meaning =====
 
-properly, an  investigation , i.e. (by implication) a  treatise  or  elaborate compilation
+properly, an **investigation**, i.e. (by implication) a **treatise** or **elaborate compilation**
 
 ===== Definitions =====
 

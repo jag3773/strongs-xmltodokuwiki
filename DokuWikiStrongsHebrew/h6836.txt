@@ -1,12 +1,16 @@
 ====== H6836: צְפִיָּה (tsᵉphîyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6822 ;
+from H6822;
 
 ===== Meaning =====
 
-watchfulness
+**watchfulness**
 
 ===== Definitions =====
 

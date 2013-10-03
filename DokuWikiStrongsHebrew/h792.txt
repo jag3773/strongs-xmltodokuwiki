@@ -1,12 +1,16 @@
 ====== H792: אֶשְׁבַּעַל (ʼEshbaʻal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H376  and  H1168 ; man of Baal;
+from H376 and H1168; man of Baal;
 
 ===== Meaning =====
 
-Eshbaal  (or Ishbosheth), a son of Saul
+**Eshbaal** (or Ishbosheth), a son of Saul
 
 ===== Definitions =====
 

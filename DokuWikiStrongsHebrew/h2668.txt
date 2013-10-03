@@ -1,12 +1,16 @@
 ====== H2668: חֻפְשָׁה (chuphshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2666 ;
+from H2666;
 
 ===== Meaning =====
 
-liberty  (from slavery)
+**liberty** (from slavery)
 
 ===== Definitions =====
 

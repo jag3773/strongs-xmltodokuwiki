@@ -1,12 +1,16 @@
 ====== H975: בַּחַן (bachan) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H974  (in the sense of keeping a  );
+from H974 (in the sense of keeping a **look-out**);
 
 ===== Meaning =====
 
-look-out a watch- tower
+a watch-**tower**
 
 ===== Definitions =====
 

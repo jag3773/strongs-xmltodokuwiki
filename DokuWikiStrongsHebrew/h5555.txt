@@ -1,12 +1,16 @@
 ====== H5555: סֶלַע הַמַּחְלְקוֹת (Çelaʻ ham-machlᵉqôwth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5553  and the plural of  H4256  with the article interposed; rock of the divisions;
+from H5553 and the plural of H4256 with the article interposed; rock of the divisions;
 
 ===== Meaning =====
 
-Sela-ham-Machlekoth , a place in Palestine
+**Sela-ham-Machlekoth**, a place in Palestine
 
 ===== Definitions =====
 

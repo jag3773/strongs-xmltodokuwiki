@@ -1,12 +1,16 @@
 ====== H751: אֶרֶךְ (ʼErek) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H748 ; length;
+from H748; length;
 
 ===== Meaning =====
 
-Erek , a place in Babylon
+**Erek**, a place in Babylon
 
 ===== Definitions =====
 

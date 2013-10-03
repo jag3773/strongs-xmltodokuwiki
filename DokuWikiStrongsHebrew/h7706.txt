@@ -1,12 +1,16 @@
 ====== H7706: שַׁדַּי (Shadday) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7703 ;
+from H7703;
 
 ===== Meaning =====
 
-the  Almighty
+the **Almighty**
 
 ===== Definitions =====
 

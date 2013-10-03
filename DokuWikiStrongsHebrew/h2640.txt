@@ -1,12 +1,16 @@
 ====== H2640: חֹסֶר (chôçer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2637 ;
+from H2637;
 
 ===== Meaning =====
 
-poverty
+**poverty**
 
 ===== Definitions =====
 

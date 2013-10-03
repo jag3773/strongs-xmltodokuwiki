@@ -1,12 +1,16 @@
 ====== H5604: סִפֻּן (çippun) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5603 ;
+from H5603;
 
 ===== Meaning =====
 
-a  wainscot
+a **wainscot**
 
 ===== Definitions =====
 

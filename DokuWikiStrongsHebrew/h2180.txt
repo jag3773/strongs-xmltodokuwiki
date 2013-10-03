@@ -1,12 +1,16 @@
 ====== H2180: זָנָב (zânâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2179  (in the original sense of  );
+from H2179 (in the original sense of **flapping**);
 
 ===== Meaning =====
 
-flapping the  tail  (literally or figuratively)
+the **tail** (literally or figuratively)
 
 ===== Definitions =====
 

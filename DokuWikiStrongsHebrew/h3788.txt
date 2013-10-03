@@ -1,12 +1,16 @@
 ====== H3788: כִּשְׁרוֹן (kishrôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3787 ;
+from H3787;
 
 ===== Meaning =====
 
-success ,  advantage
+**success**, **advantage**
 
 ===== Definitions =====
 

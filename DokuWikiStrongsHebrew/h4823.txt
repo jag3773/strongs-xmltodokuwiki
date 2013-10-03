@@ -1,12 +1,16 @@
 ====== H4823: מִרְמָס (mirmâç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7429 ;
+from H7429;
 
 ===== Meaning =====
 
-abasement  (the act or the thing)
+**abasement** (the act or the thing)
 
 ===== Definitions =====
 

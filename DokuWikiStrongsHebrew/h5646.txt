@@ -1,12 +1,16 @@
 ====== H5646: עָב (ʻâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from an unused root meaning to cover; properly, equivalent to  H5645 ; but used only as an architectural term,
+or ; from an unused root meaning to cover; properly, equivalent to H5645; but used only as an architectural term,
 
 ===== Meaning =====
 
-an  architrave  (as shading the pillars)
+an **architrave** (as shading the pillars)
 
 ===== Definitions =====
 

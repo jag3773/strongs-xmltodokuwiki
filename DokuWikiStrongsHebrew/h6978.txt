@@ -1,12 +1,16 @@
 ====== H6978: קַו־קַו (qav-qav) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6957  (in the sense of a  );
+from H6957 (in the sense of a **fastening**);
 
 ===== Meaning =====
 
-fastening stalwart
+**stalwart**
 
 ===== Definitions =====
 

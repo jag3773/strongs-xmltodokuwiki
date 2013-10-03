@@ -1,12 +1,16 @@
 ====== H129: אֲדָמִי (ʼĂdâmîy) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H127 ; earthy;
+from H127; earthy;
 
 ===== Meaning =====
 
-Adami , a place in Palestine
+**Adami**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3981: מַאֲמָץ (maʼămâts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H553 ;
+from H553;
 
 ===== Meaning =====
 
-strength , i.e. (plural)  resources
+**strength**, i.e. (plural) **resources**
 
 ===== Definitions =====
 

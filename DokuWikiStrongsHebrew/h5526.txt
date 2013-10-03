@@ -1,12 +1,16 @@
 ====== H5526: סָכַךְ (çâkak) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; (Exodus 33:22), a primitive root;
+or ; (Exodus 33:22), a primitive root;
 
 ===== Meaning =====
 
-properly, to  entwine  as a screen; by implication, to  fence  in,  cover  over, (figuratively)  protect
+properly, to **entwine** as a screen; by implication, to **fence** in, **cover** over, (figuratively) **protect**
 
 ===== Definitions =====
 

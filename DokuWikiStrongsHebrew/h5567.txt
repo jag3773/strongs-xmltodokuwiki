@@ -1,12 +1,16 @@
 ====== H5567: סָמַן (çâman) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  designate
+to **designate**
 
 ===== Definitions =====
 

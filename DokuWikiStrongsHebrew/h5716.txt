@@ -1,12 +1,16 @@
 ====== H5716: עֲדִי (ʻădîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5710  in the sense of  ;
+from H5710 in the sense of **trappings**;
 
 ===== Meaning =====
 
-trappings finery ; generally an  outfit ; specifically, a  headstall
+**finery**; generally an **outfit**; specifically, a **headstall**
 
 ===== Definitions =====
 

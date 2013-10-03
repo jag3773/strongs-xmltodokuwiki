@@ -1,12 +1,16 @@
 ====== H6199: עַרעָר (ʻarʻâr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6209 ;
+from H6209;
 
 ===== Meaning =====
 
-naked , i.e. (figuratively)  poor
+**naked**, i.e. (figuratively) **poor**
 
 ===== Definitions =====
 

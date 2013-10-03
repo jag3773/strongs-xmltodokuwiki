@@ -1,12 +1,16 @@
 ====== H339: אִי (ʼîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H183 ;
+from H183;
 
 ===== Meaning =====
 
-properly, a  habitable spot  (as desirable);  dry land , a  coast , an  island
+properly, a **habitable spot** (as desirable); **dry land**, a **coast**, an **island**
 
 ===== Definitions =====
 

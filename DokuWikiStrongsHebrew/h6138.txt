@@ -1,12 +1,16 @@
 ====== H6138: עֶקְרוֹן (ʻEqrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6131 ;  ;
+from H6131; **eradication**;
 
 ===== Meaning =====
 
-eradication Ekron , a place in Palestine
+**Ekron**, a place in Palestine
 
 ===== Definitions =====
 

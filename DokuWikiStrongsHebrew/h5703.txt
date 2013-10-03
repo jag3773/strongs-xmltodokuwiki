@@ -1,12 +1,16 @@
 ====== H5703: עַד (ʻad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5710 ;
+from H5710;
 
 ===== Meaning =====
 
-properly, a (peremptory)  terminus , i.e. (by implication)  duration , in the sense of  advance  or  perpetuity  (substantially as a noun, either with or without a preposition)
+properly, a (peremptory) **terminus**, i.e. (by implication) **duration**, in the sense of **advance** or **perpetuity** (substantially as a noun, either with or without a preposition)
 
 ===== Definitions =====
 

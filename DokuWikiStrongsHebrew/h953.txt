@@ -1,12 +1,16 @@
 ====== H953: בּוֹר (bôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H952  (in the sense of  H877 );
+from H952 (in the sense of H877);
 
 ===== Meaning =====
 
-a pit  hole  (especially one used as a cistern or a prison)
+a pit **hole** (especially one used as a cistern or a prison)
 
 ===== Definitions =====
 

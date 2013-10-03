@@ -1,12 +1,16 @@
 ====== H1102: בָּלַם (bâlam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  muzzle
+to **muzzle**
 
 ===== Definitions =====
 

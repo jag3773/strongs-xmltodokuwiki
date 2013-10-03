@@ -1,12 +1,16 @@
 ====== H4860: מַשָּׁאוֹן (mashshâʼôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5377 ;
+from H5377;
 
 ===== Meaning =====
 
-dissimulation
+**dissimulation**
 
 ===== Definitions =====
 

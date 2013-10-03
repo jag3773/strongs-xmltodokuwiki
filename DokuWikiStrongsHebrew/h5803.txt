@@ -1,12 +1,16 @@
 ====== H5803: עַזְגָּד (ʻAzgâd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5794  and  H1409 ;  ;
+from H5794 and H1409; **stern troop**;
 
 ===== Meaning =====
 
-stern troop Azgad , an Israelite
+**Azgad**, an Israelite
 
 ===== Definitions =====
 

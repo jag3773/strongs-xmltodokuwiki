@@ -1,12 +1,16 @@
 ====== H8502: תִּכְלָה (tiklâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3615 ;
+from H3615;
 
 ===== Meaning =====
 
-completeness
+**completeness**
 
 ===== Definitions =====
 

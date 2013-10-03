@@ -1,12 +1,16 @@
 ====== H6156: עָרֵב (ʻârêb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6149 ;
+from H6149;
 
 ===== Meaning =====
 
-pleasant
+**pleasant**
 
 ===== Definitions =====
 

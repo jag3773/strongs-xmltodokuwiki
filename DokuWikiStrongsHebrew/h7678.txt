@@ -1,12 +1,16 @@
 ====== H7678: שַׁבְּתַי (Shabbᵉthay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7676 ;  ;
+from H7676; **restful**;
 
 ===== Meaning =====
 
-restful Shabbethai , the name of three Israelites
+**Shabbethai**, the name of three Israelites
 
 ===== Definitions =====
 

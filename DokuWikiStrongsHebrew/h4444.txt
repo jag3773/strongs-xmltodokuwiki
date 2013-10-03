@@ -1,12 +1,16 @@
 ====== H4444: מַלְכִּישׁוּעַ (Malkîyshûwaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4428  and  H7769 ;  ;
+from H4428 and H7769; **king of wealth**;
 
 ===== Meaning =====
 
-king of wealth Malkishua , an Israelite
+**Malkishua**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5199: נְטֹפָה (Nᵉṭôphâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5197 ;  ;
+from H5197; **distillation**;
 
 ===== Meaning =====
 
-distillation Netophah , a place in Palestine
+**Netophah**, a place in Palestine
 
 ===== Definitions =====
 

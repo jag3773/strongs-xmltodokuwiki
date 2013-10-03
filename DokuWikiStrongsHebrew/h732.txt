@@ -1,12 +1,16 @@
 ====== H732: אָרַח (ʼârach) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  travel
+to **travel**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2646: חֻפָּה (chuppâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2645 ;
+from H2645;
 
 ===== Meaning =====
 
-a  canopy
+a **canopy**
 
 ===== Definitions =====
 

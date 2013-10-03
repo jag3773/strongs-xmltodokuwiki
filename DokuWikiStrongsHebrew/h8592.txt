@@ -1,12 +1,16 @@
 ====== H8592: תַּעֲצֻמָה (taʻătsumâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6105 ;
+from H6105;
 
 ===== Meaning =====
 
-might  (plural collective)
+**might** (plural collective)
 
 ===== Definitions =====
 

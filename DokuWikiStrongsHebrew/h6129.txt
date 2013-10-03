@@ -1,12 +1,16 @@
 ====== H6129: עֲקַלָּתוֹן (ʻăqallâthôwn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6127 ;
+from H6127;
 
 ===== Meaning =====
 
-tortuous
+**tortuous**
 
 ===== Definitions =====
 

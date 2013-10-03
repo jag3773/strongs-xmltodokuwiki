@@ -1,12 +1,16 @@
 ====== H1889: הֶאָח (heʼâch) ======
 
+===== Part of Speech =====
+
+inj
+
 ===== Source =====
 
-from  H1887  and  H253 ;
+from H1887 and H253;
 
 ===== Meaning =====
 
-aha!
+**aha!**
 
 ===== Definitions =====
 

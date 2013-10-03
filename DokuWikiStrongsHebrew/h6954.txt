@@ -1,12 +1,16 @@
 ====== H6954: קְהֵלָתָה (Qᵉhêlâthâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6950 ;  ;
+from H6950; **convocation**;
 
 ===== Meaning =====
 
-convocation Kehelathah , a place in the Desert
+**Kehelathah**, a place in the Desert
 
 ===== Definitions =====
 

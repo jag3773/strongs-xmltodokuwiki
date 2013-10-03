@@ -1,12 +1,16 @@
 ====== H7173: קַרְקַע (Qarqaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H7172 ;  ;
+the same as H7172; **ground-floor**;
 
 ===== Meaning =====
 
-ground-floor Karka  (with the article prefix), a place in Palestine
+**Karka** (with the article prefix), a place in Palestine
 
 ===== Definitions =====
 

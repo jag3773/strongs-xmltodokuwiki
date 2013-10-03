@@ -1,12 +1,16 @@
 ====== H5124: נוּמָה (nûwmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5123 ;
+from H5123;
 
 ===== Meaning =====
 
-sleepiness
+**sleepiness**
 
 ===== Definitions =====
 

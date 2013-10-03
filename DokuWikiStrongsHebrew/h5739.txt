@@ -1,12 +1,16 @@
 ====== H5739: עֵדֶר (ʻêder) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5737 ;
+from H5737;
 
 ===== Meaning =====
 
-an  arrangement , i.e.  muster  (of animals)
+an **arrangement**, i.e. **muster** (of animals)
 
 ===== Definitions =====
 

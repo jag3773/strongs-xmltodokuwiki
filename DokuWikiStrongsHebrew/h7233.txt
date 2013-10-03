@@ -1,12 +1,16 @@
 ====== H7233: רְבָבָה (rᵉbâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7231 ;
+from H7231;
 
 ===== Meaning =====
 
-abundance  (in number), i.e. (specifically) a  myriad  (whether definite or indefinite)
+**abundance** (in number), i.e. (specifically) a **myriad** (whether definite or indefinite)
 
 ===== Definitions =====
 

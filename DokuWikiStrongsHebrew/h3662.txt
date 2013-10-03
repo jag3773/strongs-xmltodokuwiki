@@ -1,12 +1,16 @@
 ====== H3662: כְּנָנִי (Kᵉnânîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3661 ; planted;
+from H3661; planted;
 
 ===== Meaning =====
 
-Kenani , an Israelite
+**Kenani**, an Israelite
 
 ===== Definitions =====
 

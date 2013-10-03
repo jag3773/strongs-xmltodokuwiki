@@ -1,12 +1,16 @@
 ====== H4408: מַלּוּחַ (mallûwach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4414 ;
+from H4414;
 
 ===== Meaning =====
 
-sea-purslain  (from its saltness)
+**sea-purslain** (from its saltness)
 
 ===== Definitions =====
 

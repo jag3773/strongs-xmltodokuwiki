@@ -1,12 +1,16 @@
 ====== H7245: רַבִּית (Rabbîyth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7231 ;  ;
+from H7231; **multitude**;
 
 ===== Meaning =====
 
-multitude Rabbith , a place in Palestine
+**Rabbith**, a place in Palestine
 
 ===== Definitions =====
 

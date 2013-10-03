@@ -1,12 +1,16 @@
 ====== H4498: מָנוֹס (mânôwç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5127 ;
+from H5127;
 
 ===== Meaning =====
 
-a  retreat  (literally or figuratively); abstractly, a  fleeing
+a **retreat** (literally or figuratively); abstractly, a **fleeing**
 
 ===== Definitions =====
 

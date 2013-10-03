@@ -1,12 +1,16 @@
 ====== H7684: שְׁגָגָה (shᵉgâgâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7683 ;
+from H7683;
 
 ===== Meaning =====
 
-a  mistake  or inadvertent  transgression
+a **mistake** or inadvertent **transgression**
 
 ===== Definitions =====
 

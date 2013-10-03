@@ -1,12 +1,16 @@
 ====== H5465: סַד (çad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to stop;
 
 ===== Meaning =====
 
-the  stocks
+the **stocks**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8306: שָׁרִיר (shârîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8324  in the original sense as in  H8270  (compare  H8326 );
+from H8324 in the original sense as in H8270 (compare H8326);
 
 ===== Meaning =====
 
-a  cord , i.e. (by analogy)  sinew
+a **cord**, i.e. (by analogy) **sinew**
 
 ===== Definitions =====
 

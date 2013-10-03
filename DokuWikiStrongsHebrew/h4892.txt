@@ -1,12 +1,16 @@
 ====== H4892: מַשְׁחֵת (mashchêth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H4889 ;
+for H4889;
 
 ===== Meaning =====
 
-destruction
+**destruction**
 
 ===== Definitions =====
 

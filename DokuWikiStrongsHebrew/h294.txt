@@ -1,12 +1,16 @@
 ====== H294: אֲחִיסָמָךְ (ʼĂchîyçâmâk) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H5564 ;  ;
+from H251 and H5564; **brother of support**;
 
 ===== Meaning =====
 
-brother of support Achisamak , an Israelite
+**Achisamak**, an Israelite
 
 ===== Definitions =====
 

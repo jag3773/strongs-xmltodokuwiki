@@ -1,12 +1,16 @@
 ====== H7047: קֶלֶס (qeleç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7046 ;
+from H7046;
 
 ===== Meaning =====
 
-a  laughing-stock
+a **laughing-stock**
 
 ===== Definitions =====
 

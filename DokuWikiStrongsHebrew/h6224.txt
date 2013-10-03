@@ -1,12 +1,16 @@
 ====== H6224: עֲשִׂירִי (ʻăsîyrîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6235 ;
+from H6235;
 
 ===== Meaning =====
 
-tenth ; by abbreviation,  tenth month  or (feminine)  part
+**tenth**; by abbreviation, **tenth month** or (feminine) **part**
 
 ===== Definitions =====
 

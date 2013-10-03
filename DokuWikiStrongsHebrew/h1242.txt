@@ -1,12 +1,16 @@
 ====== H1242: בֹּקֶר (bôqer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1239 ;
+from H1239;
 
 ===== Meaning =====
 
-properly,  dawn  (as the break of day); generally,  morning
+properly, **dawn** (as the break of day); generally, **morning**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H966: בֶּזֶק (Bezeq) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H965 ; lightning;
+from H965; lightning;
 
 ===== Meaning =====
 
-Bezek , a place in Palestine
+**Bezek**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7944: שַׁל (shal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7952  abbreviated form;
+from H7952 abbreviated form;
 
 ===== Meaning =====
 
-a  fault
+a **fault**
 
 ===== Definitions =====
 

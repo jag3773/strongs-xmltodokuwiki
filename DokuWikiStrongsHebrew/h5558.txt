@@ -1,12 +1,16 @@
 ====== H5558: סֶלֶף (çeleph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5557 ;
+from H5557;
 
 ===== Meaning =====
 
-distortion , i.e. (figuratively)  viciousness
+**distortion**, i.e. (figuratively) **viciousness**
 
 ===== Definitions =====
 

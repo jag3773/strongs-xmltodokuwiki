@@ -1,12 +1,16 @@
 ====== H2780: חָרֵף (Chârêph) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2778 ; reproachful;
+from H2778; reproachful;
 
 ===== Meaning =====
 
-Chareph , an Israelite
+**Chareph**, an Israelite
 
 ===== Definitions =====
 

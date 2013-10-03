@@ -1,8 +1,12 @@
 ====== H1399: גְּבַר (gᵉbar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1396 ; the same as  H1397 ;
+from H1396; the same as H1397;
 
 ===== Meaning =====
 

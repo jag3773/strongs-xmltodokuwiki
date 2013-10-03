@@ -1,12 +1,16 @@
 ====== H3418: יֶרֶק (yereq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3417  (in the sense of vacuity of color);
+from H3417 (in the sense of vacuity of color);
 
 ===== Meaning =====
 
-properly,  pallor , i.e. hence, the  yellowish green  of young and sickly vegetation; concretely,  verdure , i.e.  grass  or  vegetation
+properly, **pallor**, i.e. hence, the **yellowish green** of young and sickly vegetation; concretely, **verdure**, i.e. **grass** or **vegetation**
 
 ===== Definitions =====
 

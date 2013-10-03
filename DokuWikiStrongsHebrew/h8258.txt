@@ -1,12 +1,16 @@
 ====== H8258: שְׁקַעְרוּרָה (shᵉqaʻrûwrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8257 ;
+from H8257;
 
 ===== Meaning =====
 
-a  depression
+a **depression**
 
 ===== Definitions =====
 

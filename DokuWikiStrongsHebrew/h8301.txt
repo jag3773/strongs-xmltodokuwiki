@@ -1,12 +1,16 @@
 ====== H8301: שָׂרִיד (Sârîyd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H8300 ;
+the same as H8300;
 
 ===== Meaning =====
 
-Sarid , a place in Palestine
+**Sarid**, a place in Palestine
 
 ===== Definitions =====
 

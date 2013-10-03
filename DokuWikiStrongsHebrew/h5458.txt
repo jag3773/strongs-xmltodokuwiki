@@ -1,12 +1,16 @@
 ====== H5458: סְגוֹר (çᵉgôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5462 ;
+from H5462;
 
 ===== Meaning =====
 
-properly,  shut up , i.e. the  breast  (as enclosing the heart); also  gold  (as generally shut up safely)
+properly, **shut up**, i.e. the **breast** (as enclosing the heart); also **gold** (as generally shut up safely)
 
 ===== Definitions =====
 

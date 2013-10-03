@@ -1,12 +1,16 @@
 ====== H3193: יׇטְבָתָה (Yoṭbâthâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3192 ;
+from H3192;
 
 ===== Meaning =====
 
-Jotbathah , a place in the Desert
+**Jotbathah**, a place in the Desert
 
 ===== Definitions =====
 

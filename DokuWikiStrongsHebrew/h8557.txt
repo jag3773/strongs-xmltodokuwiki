@@ -1,12 +1,16 @@
 ====== H8557: תֶּמֶס (temeç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4529 ;
+from H4529;
 
 ===== Meaning =====
 
-liquefaction , i.e.  disappearance
+**liquefaction**, i.e. **disappearance**
 
 ===== Definitions =====
 

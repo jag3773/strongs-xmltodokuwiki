@@ -1,12 +1,16 @@
 ====== H7879: שִׂיחַ (sîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7878 ;
+from H7878;
 
 ===== Meaning =====
 
-a  contemplation ; by implication, an  utterance
+a **contemplation**; by implication, an **utterance**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8123: שִׁמְשׁוֹן (Shimshôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8121 ;  ;
+from H8121; **sunlight**;
 
 ===== Meaning =====
 
-sunlight Shimshon , an Israelite
+**Shimshon**, an Israelite
 
 ===== Definitions =====
 

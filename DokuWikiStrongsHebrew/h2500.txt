@@ -1,12 +1,16 @@
 ====== H2500: חֵלֶף (chêleph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2498 ;
+from H2498;
 
 ===== Meaning =====
 
-properly,  exchange ; hence (as preposition)  instead  of
+properly, **exchange**; hence (as preposition) **instead** of
 
 ===== Definitions =====
 

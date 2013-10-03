@@ -1,12 +1,16 @@
 ====== H4358: מִכְלוֹל (miklôwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3634 ;
+from H3634;
 
 ===== Meaning =====
 
-perfection  (i.e. concrete adverbial, splendidly)
+**perfection** (i.e. concrete adverbial, splendidly)
 
 ===== Definitions =====
 

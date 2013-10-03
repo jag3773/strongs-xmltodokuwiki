@@ -1,12 +1,16 @@
 ====== H5735: עֲדְעָדָה (ʻĂdʻâdâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5712 ; festival;
+from H5712; festival;
 
 ===== Meaning =====
 
-Adadah , a place in Palestine
+**Adadah**, a place in Palestine
 
 ===== Definitions =====
 

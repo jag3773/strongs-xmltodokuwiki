@@ -1,12 +1,16 @@
 ====== H2876: טַבָּח (ṭabbâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2873 ;
+from H2873;
 
 ===== Meaning =====
 
-properly, a  butcher ; hence, a  lifeguardsman  (because he was acting as an executioner); also a  cook  (usually slaughtering the animal for food)
+properly, a **butcher**; hence, a **lifeguardsman** (because he was acting as an executioner); also a **cook** (usually slaughtering the animal for food)
 
 ===== Definitions =====
 

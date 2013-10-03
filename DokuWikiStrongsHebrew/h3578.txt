@@ -1,12 +1,16 @@
 ====== H3578: כֹּזְבָא (Kôzᵉbâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3576 ; fallacious;
+from H3576; fallacious;
 
 ===== Meaning =====
 
-Cozeba , a place in Palestine
+**Cozeba**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6262: עַתַּי (ʻAttay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H6261 ;
+for H6261;
 
 ===== Meaning =====
 
-Attai , the name of three Israelites
+**Attai**, the name of three Israelites
 
 ===== Definitions =====
 

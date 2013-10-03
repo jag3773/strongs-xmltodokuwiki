@@ -1,12 +1,16 @@
 ====== H37: אֲבִיטָל (ʼĂbîyṭâl) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H1  and  H2919 ; father of dew (i.e. fresh);
+from H1 and H2919; father of dew (i.e. fresh);
 
 ===== Meaning =====
 
-Abital , a wife of King David
+**Abital**, a wife of King David
 
 ===== Definitions =====
 

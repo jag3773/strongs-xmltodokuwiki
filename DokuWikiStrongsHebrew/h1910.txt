@@ -1,12 +1,16 @@
 ====== H1910: הֲדַדְרִמּוֹן (Hădadrimmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1908  and  H7417 ;
+from H1908 and H7417;
 
 ===== Meaning =====
 
-Hadad-Rimmon , a place in Palestine
+**Hadad-Rimmon**, a place in Palestine
 
 ===== Definitions =====
 

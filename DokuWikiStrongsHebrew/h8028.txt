@@ -1,12 +1,16 @@
 ====== H8028: שֶׁלֶשׁ (Shelesh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8027 ;  ;
+from H8027; **triplet**;
 
 ===== Meaning =====
 
-triplet Shelesh , an Israelite
+**Shelesh**, an Israelite
 
 ===== Definitions =====
 

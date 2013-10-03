@@ -1,12 +1,16 @@
 ====== H7044: קָלָל (qâlâl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7043 ;
+from H7043;
 
 ===== Meaning =====
 
-brightened  (as if sharpened)
+**brightened** (as if sharpened)
 
 ===== Definitions =====
 

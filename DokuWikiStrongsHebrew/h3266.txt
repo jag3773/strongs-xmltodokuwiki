@@ -1,12 +1,16 @@
 ====== H3266: יְעוּשׁ (Yᵉʻûwsh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5789 ;  ;
+from H5789; **hasty**;
 
 ===== Meaning =====
 
-hasty Jeush , the name of an Edomite and of four Israelites
+**Jeush**, the name of an Edomite and of four Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6505: פֶּרֶד (pered) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6504 ;
+from H6504;
 
 ===== Meaning =====
 
-a  mule  (perhaps from his  lonely  habits)
+a **mule** (perhaps from his **lonely** habits)
 
 ===== Definitions =====
 

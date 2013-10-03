@@ -1,12 +1,16 @@
 ====== H2911: טְחוֹן (ṭᵉchôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2912 ;
+from H2912;
 
 ===== Meaning =====
 
-a  hand mill ; hence, a  millstone
+a **hand mill**; hence, a **millstone**
 
 ===== Definitions =====
 

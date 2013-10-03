@@ -1,12 +1,16 @@
 ====== H603: אֲנָקָה (ʼănâqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H602 ;
+from H602;
 
 ===== Meaning =====
 
-shrieking
+**shrieking**
 
 ===== Definitions =====
 

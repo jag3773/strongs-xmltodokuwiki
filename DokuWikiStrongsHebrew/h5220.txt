@@ -1,12 +1,16 @@
 ====== H5220: נֶכֶד (neked) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to propagate;
 
 ===== Meaning =====
 
-offspring
+**offspring**
 
 ===== Definitions =====
 

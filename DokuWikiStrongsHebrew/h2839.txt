@@ -1,12 +1,16 @@
 ====== H2839: חִשֻּׁק (chishshuq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2836 ;
+from H2836;
 
 ===== Meaning =====
 
-conjoined , i.e. a  wheel-spoke  or rod connecting the hub with the rim
+**conjoined**, i.e. a **wheel-spoke** or rod connecting the hub with the rim
 
 ===== Definitions =====
 

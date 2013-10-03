@@ -1,12 +1,16 @@
 ====== H2808: חֶשְׁבּוֹן (cheshbôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2803 ;
+from H2803;
 
 ===== Meaning =====
 
-properly,  contrivance ; by implication,  intelligence
+properly, **contrivance**; by implication, **intelligence**
 
 ===== Definitions =====
 

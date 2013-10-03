@@ -1,12 +1,16 @@
 ====== H8505: תָּכַן (tâkan) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  balance , i.e.  measure  out (by weight or dimension); figuratively to  arrange ,  equalize , through the idea of  levelling  (ment,  estimate ,  test )
+to **balance**, i.e. **measure** out (by weight or dimension); figuratively to **arrange**, **equalize**, through the idea of **levelling** (ment, **estimate**, **test**)
 
 ===== Definitions =====
 

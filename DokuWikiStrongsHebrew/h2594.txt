@@ -1,12 +1,16 @@
 ====== H2594: חֲנִינָה (chănîynâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2603 ;
+from H2603;
 
 ===== Meaning =====
 
-graciousness
+**graciousness**
 
 ===== Definitions =====
 

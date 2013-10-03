@@ -1,12 +1,16 @@
 ====== H6857: צְפַת (Tsᵉphath) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6822 ;  ;
+from H6822; **watch-tower**;
 
 ===== Meaning =====
 
-watch-tower Tsephath , a place in Palestine
+**Tsephath**, a place in Palestine
 
 ===== Definitions =====
 

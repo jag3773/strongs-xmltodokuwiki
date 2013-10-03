@@ -1,12 +1,16 @@
 ====== H4002: מַבּוּעַ (mabbûwaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5042 ;
+from H5042;
 
 ===== Meaning =====
 
-a  fountain
+a **fountain**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4497: מָנוֹן (mânôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5125 ;
+from H5125;
 
 ===== Meaning =====
 
-a  continuator , i.e.  heir
+a **continuator**, i.e. **heir**
 
 ===== Definitions =====
 

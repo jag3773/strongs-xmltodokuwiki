@@ -1,12 +1,16 @@
 ====== H4414: מָלַח (mâlach) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; also as denominative from  H4417
+a primitive root; also as denominative from H4417
 
 ===== Meaning =====
 
-properly, to  rub  to pieces or pulverize; intransitively, to  disappear  as dust; also to  salt  whether internally (to  season  with salt) or externally (to  rub  with salt)
+properly, to **rub** to pieces or pulverize; intransitively, to **disappear** as dust; also to **salt** whether internally (to **season** with salt) or externally (to **rub** with salt)
 
 ===== Definitions =====
 

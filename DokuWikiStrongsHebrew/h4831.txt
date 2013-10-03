@@ -1,12 +1,16 @@
 ====== H4831: מַרְעֲלָה (Marʻălâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7477 ; perhaps,  ;
+from H7477; perhaps, **earthquake**;
 
 ===== Meaning =====
 
-earthquake Maralah , a place in Palestine
+**Maralah**, a place in Palestine
 
 ===== Definitions =====
 

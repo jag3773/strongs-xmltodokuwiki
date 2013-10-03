@@ -1,12 +1,16 @@
 ====== H2538: חָמוּל (Châmûwl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2550 ;  ;
+from H2550; **pitied**;
 
 ===== Meaning =====
 
-pitied Chamul , an Israelite
+**Chamul**, an Israelite
 
 ===== Definitions =====
 

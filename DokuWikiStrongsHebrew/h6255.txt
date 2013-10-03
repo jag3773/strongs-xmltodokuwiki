@@ -1,12 +1,16 @@
 ====== H6255: עַשְׁתְּרֹת קַרְנַיִם (ʻAshtᵉrôth Qarnayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6252  and the dual of  H7161 ; Ashtaroth of (the) double horns (a symbol of the deity);
+from H6252 and the dual of H7161; Ashtaroth of (the) double horns (a symbol of the deity);
 
 ===== Meaning =====
 
-Ashteroth-Karnaim , a place East of the Jordan
+**Ashteroth-Karnaim**, a place East of the Jordan
 
 ===== Definitions =====
 

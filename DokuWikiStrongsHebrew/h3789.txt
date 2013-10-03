@@ -1,12 +1,16 @@
 ====== H3789: כָּתַב (kâthab) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  grave , by implication, to  write  (describe, inscribe, prescribe, subscribe)
+to **grave**, by implication, to **write** (describe, inscribe, prescribe, subscribe)
 
 ===== Definitions =====
 

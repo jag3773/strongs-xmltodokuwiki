@@ -1,12 +1,16 @@
 ====== H4540: מְסֻכָּה (mᵉçukkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5526 ;
+from H5526;
 
 ===== Meaning =====
 
-a  covering , i.e.  garniture
+a **covering**, i.e. **garniture**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7334: רָזִי (râzîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7329 ;
+from H7329;
 
 ===== Meaning =====
 
-thinness
+**thinness**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7525: רִצְיָא (Ritsyâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7521 ;  ;
+from H7521; **delight**;
 
 ===== Meaning =====
 
-delight Ritsjah , an Israelite
+**Ritsjah**, an Israelite
 
 ===== Definitions =====
 

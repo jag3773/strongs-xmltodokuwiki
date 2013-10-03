@@ -1,12 +1,16 @@
 ====== H7177: קַרְתָּה (Qartâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7176 ;  ;
+from H7176; **city**;
 
 ===== Meaning =====
 
-city Kartah , a place in Palestine
+**Kartah**, a place in Palestine
 
 ===== Definitions =====
 

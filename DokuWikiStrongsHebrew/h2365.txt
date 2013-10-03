@@ -1,12 +1,16 @@
 ====== H2365: חוּשַׁי (Chûwshay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2363 ;  ;
+from H2363; **hasty**;
 
 ===== Meaning =====
 
-hasty Chushai , an Israelite
+**Chushai**, an Israelite
 
 ===== Definitions =====
 

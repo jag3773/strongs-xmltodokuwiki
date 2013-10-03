@@ -1,12 +1,16 @@
 ====== H4228: מַחֲגֹרֶת (machăgôreth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2296 ;
+from H2296;
 
 ===== Meaning =====
 
-a  girdle
+a **girdle**
 
 ===== Definitions =====
 

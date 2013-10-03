@@ -1,12 +1,16 @@
 ====== H4820: מִרְמָה (mirmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7411  in the sense of  ;
+from H7411 in the sense of **deceiving**;
 
 ===== Meaning =====
 
-deceiving fraud
+**fraud**
 
 ===== Definitions =====
 

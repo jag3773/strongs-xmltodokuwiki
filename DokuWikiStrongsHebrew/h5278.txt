@@ -1,12 +1,16 @@
 ====== H5278: נֹעַם (nôʻam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5276 ;
+from H5276;
 
 ===== Meaning =====
 
-agreeableness , i.e.  delight ,  suitableness ,  splendor  or  grace
+**agreeableness**, i.e. **delight**, **suitableness**, **splendor** or **grace**
 
 ===== Definitions =====
 

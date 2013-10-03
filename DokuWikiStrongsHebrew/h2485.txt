@@ -1,12 +1,16 @@
 ====== H2485: חָלִיל (châlîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2490 ;
+from H2490;
 
 ===== Meaning =====
 
-a  flute  (as  perforated )
+a **flute** (as **perforated**)
 
 ===== Definitions =====
 

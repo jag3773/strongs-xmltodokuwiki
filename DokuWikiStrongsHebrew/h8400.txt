@@ -1,12 +1,16 @@
 ====== H8400: תְּבַּלֻּל (tᵉballul) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1101  in the original sense of flowing;
+from H1101 in the original sense of flowing;
 
 ===== Meaning =====
 
-a  cataract  (in the eye)
+a **cataract** (in the eye)
 
 ===== Definitions =====
 

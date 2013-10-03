@@ -1,12 +1,16 @@
 ====== H784: אֵשׁ (ʼêsh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
 a primitive word;
 
 ===== Meaning =====
 
-fire  (literally or figuratively)
+**fire** (literally or figuratively)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5741: עַדְרִיאֵל (ʻAdrîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5739  and  H410 ;  ;
+from H5739 and H410; **flock of God**;
 
 ===== Meaning =====
 
-flock of God Adriel , an Israelite
+**Adriel**, an Israelite
 
 ===== Definitions =====
 

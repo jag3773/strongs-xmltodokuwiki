@@ -1,12 +1,16 @@
 ====== H7518: רַץ (rats) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-contracted from  H7533 ;
+contracted from H7533;
 
 ===== Meaning =====
 
-a  fragment
+a **fragment**
 
 ===== Definitions =====
 

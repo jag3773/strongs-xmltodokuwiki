@@ -1,12 +1,16 @@
 ====== H3944: לָצוֹן (lâtsôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3887 ;
+from H3887;
 
 ===== Meaning =====
 
-derision
+**derision**
 
 ===== Definitions =====
 

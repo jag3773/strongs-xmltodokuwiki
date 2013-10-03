@@ -1,12 +1,16 @@
 ====== H6898: קֻבָּה (qubbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6895 ;
+from H6895;
 
 ===== Meaning =====
 
-a  pavilion  (as a domed  cavity )
+a **pavilion** (as a domed **cavity**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7391: רֹךְ (rôk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7401 ;
+from H7401;
 
 ===== Meaning =====
 
-softness  (figuratively)
+**softness** (figuratively)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2588: חָנוּת (chânûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2583 ;
+from H2583;
 
 ===== Meaning =====
 
-properly, a  vault  or  cell  (with an arch); by implication, a  prison
+properly, a **vault** or **cell** (with an arch); by implication, a **prison**
 
 ===== Definitions =====
 

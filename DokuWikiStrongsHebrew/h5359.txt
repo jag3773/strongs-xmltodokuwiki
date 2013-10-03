@@ -1,12 +1,16 @@
 ====== H5359: נָקָם (nâqâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5358 ;
+from H5358;
 
 ===== Meaning =====
 
-revenge
+**revenge**
 
 ===== Definitions =====
 

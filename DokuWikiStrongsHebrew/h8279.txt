@@ -1,12 +1,16 @@
 ====== H8279: שֶׂרֶד (sered) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8277 ;
+from H8277;
 
 ===== Meaning =====
 
-a (carpenter's)  scribing-awl  (for  pricking  or scratching measurements)
+a (carpenter's) **scribing-awl** (for **pricking** or scratching measurements)
 
 ===== Definitions =====
 

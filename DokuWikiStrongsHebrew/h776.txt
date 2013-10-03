@@ -1,12 +1,16 @@
 ====== H776: אֶרֶץ (ʼerets) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from an unused root probably meaning to  ;
+from an unused root probably meaning to **be firm**;
 
 ===== Meaning =====
 
-be firm the  earth  (at large, or partitively a  land )
+the **earth** (at large, or partitively a **land**)
 
 ===== Definitions =====
 

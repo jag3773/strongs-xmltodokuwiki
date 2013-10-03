@@ -1,12 +1,16 @@
 ====== H7565: רֶשֶׁף (resheph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8313 ;
+from H8313;
 
 ===== Meaning =====
 
-a  live coal ; by analogy  lightning ; figuratively, an  arrow , (as flashing through the air); specifically,  fever
+a **live coal**; by analogy **lightning**; figuratively, an **arrow**, (as flashing through the air); specifically, **fever**
 
 ===== Definitions =====
 

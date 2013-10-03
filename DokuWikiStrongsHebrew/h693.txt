@@ -1,12 +1,16 @@
 ====== H693: אָרַב (ʼârab) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  lurk
+to **lurk**
 
 ===== Definitions =====
 

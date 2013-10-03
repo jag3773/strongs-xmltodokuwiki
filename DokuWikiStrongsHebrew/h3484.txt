@@ -1,12 +1,16 @@
 ====== H3484: יְשֻׁרוּן (Yᵉshurûwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3474 ;  ;
+from H3474; **upright**;
 
 ===== Meaning =====
 
-upright Jeshurun , a symbolic name for Israel
+**Jeshurun**, a symbolic name for Israel
 
 ===== Definitions =====
 

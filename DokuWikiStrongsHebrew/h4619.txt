@@ -1,12 +1,16 @@
 ====== H4619: מַעַץ (Maʻats) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6095 ;  ;
+from H6095; **closure**;
 
 ===== Meaning =====
 
-closure Maats , an Israelite
+**Maats**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5719: עָדִין (ʻâdîyn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5727 ;
+from H5727;
 
 ===== Meaning =====
 
-voluptuous
+**voluptuous**
 
 ===== Definitions =====
 

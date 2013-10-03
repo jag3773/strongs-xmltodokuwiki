@@ -1,12 +1,16 @@
 ====== H2326: חוֹב (chôwb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2325 ;
+from H2325;
 
 ===== Meaning =====
 
-debt
+**debt**
 
 ===== Definitions =====
 

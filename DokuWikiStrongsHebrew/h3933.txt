@@ -1,12 +1,16 @@
 ====== H3933: לַעַג (laʻag) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3932 ;
+from H3932;
 
 ===== Meaning =====
 
-derision ,  scoffing
+**derision**, **scoffing**
 
 ===== Definitions =====
 

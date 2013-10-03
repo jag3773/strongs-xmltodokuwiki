@@ -1,12 +1,16 @@
 ====== H1996: הֲמוֹן גּוֹג (Hămôwn Gôwg) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1995  and  H1463 ;
+from H1995 and H1463;
 
 ===== Meaning =====
 
-the  multitude of Gog ; the fanciful name of an emblematic place in Palestine
+the **multitude of Gog**; the fanciful name of an emblematic place in Palestine
 
 ===== Definitions =====
 

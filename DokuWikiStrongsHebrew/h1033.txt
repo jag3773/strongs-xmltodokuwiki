@@ -1,12 +1,16 @@
 ====== H1033: בֵּית כַּר (Bêyth Kar) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H3733 ; house of pasture;
+from H1004 and H3733; house of pasture;
 
 ===== Meaning =====
 
-Beth-Car , a place in Palestine
+**Beth-Car**, a place in Palestine
 
 ===== Definitions =====
 

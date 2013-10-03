@@ -1,12 +1,16 @@
 ====== H2504: חָלָץ (châlâts) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2502  (in the sense of  ); only in the dual;
+from H2502 (in the sense of **strength**); only in the dual;
 
 ===== Meaning =====
 
-strength the  loins  (as the seat of vigor)
+the **loins** (as the seat of vigor)
 
 ===== Definitions =====
 

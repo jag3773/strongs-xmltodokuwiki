@@ -1,12 +1,16 @@
 ====== H2805: חֵשֶׁב (chêsheb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2803 ;
+from H2803;
 
 ===== Meaning =====
 
-a  belt  or strap (as being interlaced)
+a **belt** or strap (as being interlaced)
 
 ===== Definitions =====
 

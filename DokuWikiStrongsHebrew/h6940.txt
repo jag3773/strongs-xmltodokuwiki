@@ -1,12 +1,16 @@
 ====== H6940: קַדְרוּת (qadrûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6937 ;
+from H6937;
 
 ===== Meaning =====
 
-duskiness
+**duskiness**
 
 ===== Definitions =====
 

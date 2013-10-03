@@ -1,12 +1,16 @@
 ====== H2558: חֹמֶץ (chômets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2556 ;
+from H2556;
 
 ===== Meaning =====
 
-vinegar
+**vinegar**
 
 ===== Definitions =====
 

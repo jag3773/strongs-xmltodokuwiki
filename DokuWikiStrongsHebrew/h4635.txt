@@ -1,12 +1,16 @@
 ====== H4635: מַעֲרֶכֶת (maʻăreketh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6186 ;
+from H6186;
 
 ===== Meaning =====
 
-an  arrangement , i.e. (concretely) a  pile  (of loaves)
+an **arrangement**, i.e. (concretely) a **pile** (of loaves)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1506: גֶּזֶר (gezer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1504 ;
+from H1504;
 
 ===== Meaning =====
 
-something  cut off ; a  portion
+something **cut off**; a **portion**
 
 ===== Definitions =====
 

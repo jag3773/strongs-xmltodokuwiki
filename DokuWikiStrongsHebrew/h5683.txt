@@ -1,12 +1,16 @@
 ====== H5683: עֶבְרֹן (ʻEbrôn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5676 ; transitional;
+from H5676; transitional;
 
 ===== Meaning =====
 
-Ebron , a place in Palestine
+**Ebron**, a place in Palestine
 
 ===== Definitions =====
 

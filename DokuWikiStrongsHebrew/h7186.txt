@@ -1,12 +1,16 @@
 ====== H7186: קָשֶׁה (qâsheh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7185 ;
+from H7185;
 
 ===== Meaning =====
 
-severe  (in various applications)
+**severe** (in various applications)
 
 ===== Definitions =====
 

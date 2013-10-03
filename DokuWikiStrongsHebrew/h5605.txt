@@ -1,12 +1,16 @@
 ====== H5605: סָפַף (çâphaph) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; properly, to snatch away, i.e. terminate; but used only as denominative from  H5592  (in the sense of a vestibule),
+a primitive root; properly, to snatch away, i.e. terminate; but used only as denominative from H5592 (in the sense of a vestibule),
 
 ===== Meaning =====
 
-to  wait at the threshold
+to **wait at the threshold**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7117: קְצָת (qᵉtsâth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7096 ;
+from H7096;
 
 ===== Meaning =====
 
-a  termination  (literally or figuratively); also (by implication) a  portion ; adverbially (with prepositional prefix)  after
+a **termination** (literally or figuratively); also (by implication) a **portion**; adverbially (with prepositional prefix) **after**
 
 ===== Definitions =====
 

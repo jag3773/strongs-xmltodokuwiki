@@ -1,12 +1,16 @@
 ====== H1507: גֶּזֶר (Gezer) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H1506 ;
+the same as H1506;
 
 ===== Meaning =====
 
-Gezer , a place in Palestine
+**Gezer**, a place in Palestine
 
 ===== Definitions =====
 

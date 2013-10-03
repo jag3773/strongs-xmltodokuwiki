@@ -1,12 +1,16 @@
 ====== H2577: חֲמָתִי (Chămâthîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-patrial from  H2574 ;
+patrial from H2574;
 
 ===== Meaning =====
 
-a  Chamathite  or native of Chamath
+a **Chamathite** or native of Chamath
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4651: מַפָּל (mappâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5307 ;
+from H5307;
 
 ===== Meaning =====
 
-a  falling off , i.e.  chaff ; also something  pendulous , i.e. a  flap
+a **falling off**, i.e. **chaff**; also something **pendulous**, i.e. a **flap**
 
 ===== Definitions =====
 

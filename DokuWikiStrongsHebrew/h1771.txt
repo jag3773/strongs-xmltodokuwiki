@@ -1,12 +1,16 @@
 ====== H1771: דַּיָּג (dayâg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1770 ;
+from H1770;
 
 ===== Meaning =====
 
-a  fisherman
+a **fisherman**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1795: דַּכָּה (dakkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1794  like  H1793 ;
+from H1794 like H1793;
 
 ===== Meaning =====
 
-mutilated
+**mutilated**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3978: מַאֲכָל (maʼăkâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H398 ;
+from H398;
 
 ===== Meaning =====
 
-an  eatable  (includ. provender, flesh and fruit)
+an **eatable** (includ. provender, flesh and fruit)
 
 ===== Definitions =====
 

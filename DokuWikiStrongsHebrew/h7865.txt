@@ -1,12 +1,16 @@
 ====== H7865: שִׂיאֹן (Sîyʼôn) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H7863 ;  ;
+from H7863; **peak**;
 
 ===== Meaning =====
 
-peak Sion , the summit of Mount Hermon
+**Sion**, the summit of Mount Hermon
 
 ===== Definitions =====
 

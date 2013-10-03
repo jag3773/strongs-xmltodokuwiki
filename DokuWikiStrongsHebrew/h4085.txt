@@ -1,12 +1,16 @@
 ====== H4085: מְדֹכָה (mᵉdôkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1743 ;
+from H1743;
 
 ===== Meaning =====
 
-a  mortar
+a **mortar**
 
 ===== Definitions =====
 

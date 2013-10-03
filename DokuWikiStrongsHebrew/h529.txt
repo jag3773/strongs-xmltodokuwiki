@@ -1,12 +1,16 @@
 ====== H529: אֵמוּן (ʼêmûwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H539 ;
+from H539;
 
 ===== Meaning =====
 
-established , i.e. (figuratively)  trusty ; also (abstractly)  trustworthiness
+**established**, i.e. (figuratively) **trusty**; also (abstractly) **trustworthiness**
 
 ===== Definitions =====
 

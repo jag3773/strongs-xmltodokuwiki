@@ -1,12 +1,16 @@
 ====== H6495: פְּקַח־קוֹחַ (pᵉqach-qôwach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6491  redoubled;
+from H6491 redoubled;
 
 ===== Meaning =====
 
-opening  (of a dungeon), i.e.  jail-delivery  (figuratively,  salvation  for sin)
+**opening** (of a dungeon), i.e. **jail-delivery** (figuratively, **salvation** for sin)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H845: אַשְׂרִאֵלִי (ʼAsriʼêlîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patronymic from  H844 ;
+patronymic from H844;
 
 ===== Meaning =====
 
-an  Asrielite  (collectively) or descendant of Asriel
+an **Asrielite** (collectively) or descendant of Asriel
 
 ===== Definitions =====
 

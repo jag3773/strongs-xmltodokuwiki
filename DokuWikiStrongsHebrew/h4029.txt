@@ -1,12 +1,16 @@
 ====== H4029: מִגְדַּל־עֵדֶר (Migdal-ʻÊder) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H4026  and  H5739 ;  ;
+from H4026 and H5739; **tower of a flock**;
 
 ===== Meaning =====
 
-tower of a flock Migdal-Eder , a place in Palestine
+**Migdal-Eder**, a place in Palestine
 
 ===== Definitions =====
 

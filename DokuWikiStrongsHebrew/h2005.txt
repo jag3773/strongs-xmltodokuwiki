@@ -1,12 +1,16 @@
 ====== H2005: הֵן (hên) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
 a primitive particle;
 
 ===== Meaning =====
 
-lo! ; also (as expressing surprise)  if
+**lo!**; also (as expressing surprise) **if**
 
 ===== Definitions =====
 

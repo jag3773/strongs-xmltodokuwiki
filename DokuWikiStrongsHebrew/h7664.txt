@@ -1,12 +1,16 @@
 ====== H7664: שֵׂבֶר (sêber) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7663 ;
+from H7663;
 
 ===== Meaning =====
 
-expectation
+**expectation**
 
 ===== Definitions =====
 

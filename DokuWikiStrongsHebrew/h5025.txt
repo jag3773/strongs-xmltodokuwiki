@@ -1,12 +1,16 @@
 ====== H5025: נֹבַח (Nôbach) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H5024 ; a  ;
+from H5024; a **bark**;
 
 ===== Meaning =====
 
-bark Nobach , the name of an Israelite, and of a place East of the Jordan
+**Nobach**, the name of an Israelite, and of a place East of the Jordan
 
 ===== Definitions =====
 

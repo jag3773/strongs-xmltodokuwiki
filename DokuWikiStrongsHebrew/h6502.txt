@@ -1,12 +1,16 @@
 ====== H6502: פִּרְאָם (Pirʼâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6501 ;  ;
+from H6501; **wildly**;
 
 ===== Meaning =====
 
-wildly Piram , a Canaanite
+**Piram**, a Canaanite
 
 ===== Definitions =====
 

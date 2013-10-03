@@ -1,12 +1,16 @@
 ====== H5501: סְחִי (çᵉchîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5500 ;
+from H5500;
 
 ===== Meaning =====
 
-refuse  (as swept off)
+**refuse** (as swept off)
 
 ===== Definitions =====
 

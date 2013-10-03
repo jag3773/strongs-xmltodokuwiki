@@ -1,12 +1,16 @@
 ====== H7310: רְוָיָה (rᵉvâyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7301 ;
+from H7301;
 
 ===== Meaning =====
 
-satisfaction
+**satisfaction**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8230: שִׁפְעִי (Shiphʻîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8228 ;  ;
+from H8228; **copious**;
 
 ===== Meaning =====
 
-copious Shiphi , an Israelite
+**Shiphi**, an Israelite
 
 ===== Definitions =====
 

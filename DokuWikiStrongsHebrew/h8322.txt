@@ -1,12 +1,16 @@
 ====== H8322: שְׁרֵקָה (shᵉrêqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8319 ;
+from H8319;
 
 ===== Meaning =====
 
-a  derision
+a **derision**
 
 ===== Definitions =====
 

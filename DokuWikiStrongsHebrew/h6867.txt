@@ -1,12 +1,16 @@
 ====== H6867: צָרֶבֶת (tsârebeth) ======
 
+===== Part of Speech =====
+
+a n-f
+
 ===== Source =====
 
-from  H6866 ;
+from H6866;
 
 ===== Meaning =====
 
-conflagration  (of fire or disease)
+**conflagration** (of fire or disease)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3316: יִפְתָּח (Yiphtâch) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H6605 ;  ;
+from H6605; **he will open**;
 
 ===== Meaning =====
 
-he will open Jiphtach , an Israelite; also a place in Palestine
+**Jiphtach**, an Israelite; also a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1015: בֵּית דִּבְלָתַיִם (Bêyth Diblâthayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and the dual of  H1690 ; house of (the) two figcakes;
+from H1004 and the dual of H1690; house of (the) two figcakes;
 
 ===== Meaning =====
 
-Beth-Diblathajim , a place East of the Jordan
+**Beth-Diblathajim**, a place East of the Jordan
 
 ===== Definitions =====
 

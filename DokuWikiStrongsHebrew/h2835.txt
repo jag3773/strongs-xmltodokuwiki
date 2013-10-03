@@ -1,12 +1,16 @@
 ====== H2835: חָשִׂף (châsiph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2834 ;
+from H2834;
 
 ===== Meaning =====
 
-properly,  drawn off , i.e.  separated ; hence, a  small company  (as divided from the rest)
+properly, **drawn off**, i.e. **separated**; hence, a **small company** (as divided from the rest)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7989: שַׁלִּיט (shallîyṭ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7980 ;
+from H7980;
 
 ===== Meaning =====
 
-potent ; concretely, a  prince  or  warrior
+**potent**; concretely, a **prince** or **warrior**
 
 ===== Definitions =====
 

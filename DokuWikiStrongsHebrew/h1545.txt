@@ -1,12 +1,16 @@
 ====== H1545: גְּלוֹם (gᵉlôwm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1563 ;
+from H1563;
 
 ===== Meaning =====
 
-clothing  (as wrapped)
+**clothing** (as wrapped)
 
 ===== Definitions =====
 

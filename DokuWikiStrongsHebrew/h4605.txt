@@ -1,12 +1,16 @@
 ====== H4605: מַעַל (maʻal) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-properly,the  upper part , used only adverbially with prefix  upward ,  above ,  overhead ,  from the top , etc.
+properly,the **upper part**, used only adverbially with prefix **upward**, **above**, **overhead**, **from the top**, etc.
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3140: יוֹרַי (Yôwray) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3384 ; rainy;
+from H3384; rainy;
 
 ===== Meaning =====
 
-Jorai , an Israelite
+**Jorai**, an Israelite
 
 ===== Definitions =====
 

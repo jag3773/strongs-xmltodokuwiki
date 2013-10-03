@@ -1,12 +1,16 @@
 ====== H2395: חִזְקִי (Chizqîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2388 ; strong;
+from H2388; strong;
 
 ===== Meaning =====
 
-Chizki , an Israelite
+**Chizki**, an Israelite
 
 ===== Definitions =====
 

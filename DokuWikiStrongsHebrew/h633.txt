@@ -1,12 +1,16 @@
 ====== H633: אֱסָר (ʼĕçâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H632  in a legal sense;
+(Aramaic) corresponding to H632 in a legal sense;
 
 ===== Meaning =====
 
-an  interdict
+an **interdict**
 
 ===== Definitions =====
 

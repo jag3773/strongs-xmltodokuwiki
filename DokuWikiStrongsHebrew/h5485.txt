@@ -1,12 +1,16 @@
 ====== H5485: סוּסִי (Çûwçîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5483 ;  ;
+from H5483; **horse-like**;
 
 ===== Meaning =====
 
-horse-like Susi , an Israelite
+**Susi**, an Israelite
 
 ===== Definitions =====
 

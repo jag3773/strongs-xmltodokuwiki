@@ -1,12 +1,16 @@
 ====== H6929: קֵדְמָה (Qêdᵉmâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6923 ;  ;
+from H6923; **precedence**;
 
 ===== Meaning =====
 
-precedence Kedemah , a son of Ishmael
+**Kedemah**, a son of Ishmael
 
 ===== Definitions =====
 

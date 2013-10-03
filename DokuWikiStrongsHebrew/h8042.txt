@@ -1,12 +1,16 @@
 ====== H8042: שְׂמָאלִי (sᵉmâʼlîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8040 ;
+from H8040;
 
 ===== Meaning =====
 
-situated on the  left  side
+situated on the **left** side
 
 ===== Definitions =====
 

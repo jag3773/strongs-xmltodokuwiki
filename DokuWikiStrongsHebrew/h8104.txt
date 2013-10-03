@@ -1,12 +1,16 @@
 ====== H8104: שָׁמַר (shâmar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  hedge  about (as with thorns), i.e.  guard ; generally, to  protect ,  attend to , etc.
+properly, to **hedge** about (as with thorns), i.e. **guard**; generally, to **protect**, **attend to**, etc.
 
 ===== Definitions =====
 

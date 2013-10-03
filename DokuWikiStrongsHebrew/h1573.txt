@@ -1,12 +1,16 @@
 ====== H1573: גֹּמֶא (gômeʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1572 ;
+from H1572;
 
 ===== Meaning =====
 
-properly, an  absorbent , i.e. the  bulrush  (from its  porosity ); specifically the  papyrus
+properly, an **absorbent**, i.e. the **bulrush** (from its **porosity**); specifically the **papyrus**
 
 ===== Definitions =====
 

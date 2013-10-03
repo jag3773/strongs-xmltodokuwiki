@@ -1,12 +1,16 @@
 ====== H2789: חֶרֶשׂ (cheres) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-a collateral form mediating between  H2775  and  H2791 ;
+a collateral form mediating between H2775 and H2791;
 
 ===== Meaning =====
 
-a piece of  pottery
+a piece of **pottery**
 
 ===== Definitions =====
 

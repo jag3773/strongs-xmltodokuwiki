@@ -1,12 +1,16 @@
 ====== H8403: תַּבְנִית (tabnîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1129 ;
+from H1129;
 
 ===== Meaning =====
 
-structure ; by implication, a  model ,  resemblance
+**structure**; by implication, a **model**, **resemblance**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4908: מִשְׁכָּן (mishkân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7931 ;
+from H7931;
 
 ===== Meaning =====
 
-a  residence  (including a shepherd's  hut , the  lair  of animals, figuratively, the  grave ; also the  Temple ); specifically,  the Tabernacle  (properly, its wooden walls)
+a **residence** (including a shepherd's **hut**, the **lair** of animals, figuratively, the **grave**; also the **Temple**); specifically, **the Tabernacle** (properly, its wooden walls)
 
 ===== Definitions =====
 

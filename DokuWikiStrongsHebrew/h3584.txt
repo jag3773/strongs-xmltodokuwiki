@@ -1,12 +1,16 @@
 ====== H3584: כָּחַשׁ (kâchash) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be untrue , in word (to  lie ,  feign ,  disown ) or deed (to  disappoint ,  fail ,  cringe )
+to **be untrue**, in word (to **lie**, **feign**, **disown**) or deed (to **disappoint**, **fail**, **cringe**)
 
 ===== Definitions =====
 

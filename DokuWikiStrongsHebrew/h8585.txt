@@ -1,12 +1,16 @@
 ====== H8585: תְּעָלָה (tᵉʻâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-a  channel  (into which water is raised for irrigation); also a  bandage  or  plaster  (as placed  upon  a wound)
+a **channel** (into which water is raised for irrigation); also a **bandage** or **plaster** (as placed **upon** a wound)
 
 ===== Definitions =====
 

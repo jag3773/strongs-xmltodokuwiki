@@ -1,12 +1,16 @@
 ====== H2711: חֵקֶק (chêqeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2710 ;
+from H2710;
 
 ===== Meaning =====
 
-an  enactment , a  resolution
+an **enactment**, a **resolution**
 
 ===== Definitions =====
 

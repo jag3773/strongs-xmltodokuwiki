@@ -1,12 +1,16 @@
 ====== H3004: יַבָּשָׁה (yabbâshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3001 ;
+from H3001;
 
 ===== Meaning =====
 
-dry ground
+**dry ground**
 
 ===== Definitions =====
 

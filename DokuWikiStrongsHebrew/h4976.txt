@@ -1,12 +1,16 @@
 ====== H4976: מַתָּן (mattân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5414 ;
+from H5414;
 
 ===== Meaning =====
 
-a  present
+a **present**
 
 ===== Definitions =====
 

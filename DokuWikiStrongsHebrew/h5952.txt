@@ -1,12 +1,16 @@
 ====== H5952: עַלִּית (ʻallîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-a  second-story room
+a **second-story room**
 
 ===== Definitions =====
 

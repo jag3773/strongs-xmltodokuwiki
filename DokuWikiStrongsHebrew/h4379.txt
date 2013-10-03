@@ -1,12 +1,16 @@
 ====== H4379: מִכְרֶה (mikreh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3738 ;
+from H3738;
 
 ===== Meaning =====
 
-a  pit  (for salt)
+a **pit** (for salt)
 
 ===== Definitions =====
 

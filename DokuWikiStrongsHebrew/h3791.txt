@@ -1,12 +1,16 @@
 ====== H3791: כָּתָב (kâthâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3789 ;
+from H3789;
 
 ===== Meaning =====
 
-something  written , i.e. a  writing ,  record  or  book
+something **written**, i.e. a **writing**, **record** or **book**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3008: יִגְאָל (Yigʼâl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1350 ; avenger;
+from H1350; avenger;
 
 ===== Meaning =====
 
-Jigal , the name of three Israelites
+**Jigal**, the name of three Israelites
 
 ===== Definitions =====
 

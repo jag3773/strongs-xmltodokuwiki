@@ -1,12 +1,16 @@
 ====== H1084: בִּלְגַּי (Bilgay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1082 ; desistant;
+from H1082; desistant;
 
 ===== Meaning =====
 
-Bilgai , an Israelite
+**Bilgai**, an Israelite
 
 ===== Definitions =====
 

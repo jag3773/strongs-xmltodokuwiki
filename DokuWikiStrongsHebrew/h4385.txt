@@ -1,12 +1,16 @@
 ====== H4385: מִכְתָּב (miktâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3789 ;
+from H3789;
 
 ===== Meaning =====
 
-a thing  written , the characters, or a document (letter, copy, edict, poem)
+a thing **written**, the characters, or a document (letter, copy, edict, poem)
 
 ===== Definitions =====
 

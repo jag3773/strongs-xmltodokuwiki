@@ -1,12 +1,16 @@
 ====== H7230: רֹב (rôb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7231 ;
+from H7231;
 
 ===== Meaning =====
 
-abundance  (in any respect)
+**abundance** (in any respect)
 
 ===== Definitions =====
 

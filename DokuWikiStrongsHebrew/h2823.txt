@@ -1,12 +1,16 @@
 ====== H2823: חָשֹׁךְ (châshôk) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2821 ;
+from H2821;
 
 ===== Meaning =====
 
-dark  (figuratively, i.e. obscure)
+**dark** (figuratively, i.e. obscure)
 
 ===== Definitions =====
 

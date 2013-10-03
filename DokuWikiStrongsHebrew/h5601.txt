@@ -1,12 +1,16 @@
 ====== H5601: סַפִּיר (çappîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5608 ;
+from H5608;
 
 ===== Meaning =====
 
-a  gem  (perhaps used for  scratching  other substances), probably the  sapphire
+a **gem** (perhaps used for **scratching** other substances), probably the **sapphire**
 
 ===== Definitions =====
 

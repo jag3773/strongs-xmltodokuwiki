@@ -1,12 +1,16 @@
 ====== H2995: יַבְנְאֵל (Yabnᵉʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1129  and  H410 ; built of God;
+from H1129 and H410; built of God;
 
 ===== Meaning =====
 
-Jabneel , the name of two places in Palestine
+**Jabneel**, the name of two places in Palestine
 
 ===== Definitions =====
 

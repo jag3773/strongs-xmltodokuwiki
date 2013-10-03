@@ -1,12 +1,16 @@
 ====== H3839: לִבְנֶה (libneh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3835 ;
+from H3835;
 
 ===== Meaning =====
 
-some sort of whitish tree, perhaps the  storax
+some sort of whitish tree, perhaps the **storax**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4064: מַדְוֶה (madveh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1738 ;
+from H1738;
 
 ===== Meaning =====
 
-sickness
+**sickness**
 
 ===== Definitions =====
 

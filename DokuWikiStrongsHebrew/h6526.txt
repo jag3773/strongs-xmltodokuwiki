@@ -1,12 +1,16 @@
 ====== H6526: פִּרְחַח (pirchach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6524 ;
+from H6524;
 
 ===== Meaning =====
 
-progeny , i.e. a  brood
+**progeny**, i.e. a **brood**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4000: מָבוֹן (mâbôwn) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H995 ;
+from H995;
 
 ===== Meaning =====
 
-instructing
+**instructing**
 
 ===== Definitions =====
 

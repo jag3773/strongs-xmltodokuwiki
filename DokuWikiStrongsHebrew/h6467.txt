@@ -1,12 +1,16 @@
 ====== H6467: פֹּעַל (pôʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6466 ;
+from H6466;
 
 ===== Meaning =====
 
-an  act  or  work  (concretely)
+an **act** or **work** (concretely)
 
 ===== Definitions =====
 

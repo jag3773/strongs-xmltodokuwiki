@@ -1,12 +1,16 @@
 ====== H8337: שֵׁשׁ (shêsh) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-masculine   ; a primitive number; see  H7797
+masculine ; a primitive number; see H7797
 
 ===== Meaning =====
 
-six  (as an overplus	beyond five or the fingers of the hand); as ordinal  sixth
+**six** (as an overplus	beyond five or the fingers of the hand); as ordinal **sixth**
 
 ===== Definitions =====
 

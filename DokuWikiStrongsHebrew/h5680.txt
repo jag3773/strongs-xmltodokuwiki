@@ -1,12 +1,16 @@
 ====== H5680: עִבְרִי (ʻIbrîy) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-patronymic from  H5677 ;
+patronymic from H5677;
 
 ===== Meaning =====
 
-an  Eberite  (i.e. Hebrew) or descendant of Eber
+an **Eberite** (i.e. Hebrew) or descendant of Eber
 
 ===== Definitions =====
 

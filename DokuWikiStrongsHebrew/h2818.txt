@@ -1,12 +1,16 @@
 ====== H2818: חֲשַׁח (chăshach) ======
 
+===== Part of Speech =====
+
+v n-f
+
 ===== Source =====
 
-(Aramaic) a collateral root to one corresponding to  H2363  in the sense of readiness;
+(Aramaic) a collateral root to one corresponding to H2363 in the sense of readiness;
 
 ===== Meaning =====
 
-to  be necessary  (from the idea of convenience) or (transitively) to  need
+to **be necessary** (from the idea of convenience) or (transitively) to **need**
 
 ===== Definitions =====
 

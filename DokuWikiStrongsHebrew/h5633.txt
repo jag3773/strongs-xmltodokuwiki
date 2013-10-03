@@ -1,12 +1,16 @@
 ====== H5633: סֶרֶן (çeren) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root of uncertain meaning;
 
 ===== Meaning =====
 
-an  axle ; figuratively, a  peer
+an **axle**; figuratively, a **peer**
 
 ===== Definitions =====
 

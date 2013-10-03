@@ -1,12 +1,16 @@
 ====== H8357: שֵׁתָה (shêthâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7896 ;
+from H7896;
 
 ===== Meaning =====
 
-the  seat  (of the person)
+the **seat** (of the person)
 
 ===== Definitions =====
 

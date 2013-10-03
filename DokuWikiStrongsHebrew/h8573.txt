@@ -1,12 +1,16 @@
 ====== H8573: תְּנוּפָה (tᵉnûwphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5130 ;
+from H5130;
 
 ===== Meaning =====
 
-a  brandishing  (in threat); by implication,  tumult ; specifically, the official  undulation  of sacrificial offerings
+a **brandishing** (in threat); by implication, **tumult**; specifically, the official **undulation** of sacrificial offerings
 
 ===== Definitions =====
 

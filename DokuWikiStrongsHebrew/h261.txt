@@ -1,12 +1,16 @@
 ====== H261: אֵחוּד (ʼÊchûwd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H258 ; united;
+from H258; united;
 
 ===== Meaning =====
 
-Echud , the name of three Israelites
+**Echud**, the name of three Israelites
 
 ===== Definitions =====
 

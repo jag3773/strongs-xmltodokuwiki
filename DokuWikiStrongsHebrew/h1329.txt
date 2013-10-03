@@ -1,12 +1,16 @@
 ====== H1329: בְּתוּל (Bᵉthûwl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-for  H1328 ;
+for H1328;
 
 ===== Meaning =====
 
-Bethul  (i.e. Bethuel), a place in Palestine
+**Bethul** (i.e. Bethuel), a place in Palestine
 
 ===== Definitions =====
 

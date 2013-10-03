@@ -1,12 +1,16 @@
 ====== H7455: רֹעַ (rôaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7489 ;
+from H7489;
 
 ===== Meaning =====
 
-badness  (as  marring ), physically or morally
+**badness** (as **marring**), physically or morally
 
 ===== Definitions =====
 

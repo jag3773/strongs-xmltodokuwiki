@@ -1,12 +1,16 @@
 ====== H5795: עֵז (ʻêz) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5810 ;
+from H5810;
 
 ===== Meaning =====
 
-a  she-goat  (as strong), but masculine in plural (which also is used elliptically for goat's hair)
+a **she-goat** (as strong), but masculine in plural (which also is used elliptically for goat's hair)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1261: בָּרֹד (bârôd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1258 ;
+from H1258;
 
 ===== Meaning =====
 
-spotted  (as if with hail)
+**spotted** (as if with hail)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2142: זָכַר (zâkar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; also as denominative from  H2145
+a primitive root; also as denominative from H2145
 
 ===== Meaning =====
 
-properly, to  mark  (so as to be recognized), i.e. to  remember ; by implication, to  mention ; to  be male
+properly, to **mark** (so as to be recognized), i.e. to **remember**; by implication, to **mention**; to **be male**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5781: עוּק (ʻûwq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  pack
+to **pack**
 
 ===== Definitions =====
 

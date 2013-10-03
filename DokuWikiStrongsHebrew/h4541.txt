@@ -1,12 +1,16 @@
 ====== H4541: מַסֵּכָה (maççêkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5258 ;
+from H5258;
 
 ===== Meaning =====
 
-properly, a  pouring  over, i.e.  fusion  of metal (especially a  cast  image); by implication, a  libation , i.e.  league ; concretely a  coverlet  (as if  poured  out)
+properly, a **pouring** over, i.e. **fusion** of metal (especially a **cast** image); by implication, a **libation**, i.e. **league**; concretely a **coverlet** (as if **poured** out)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8525: תֶּלֶם (telem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **accumulate**;
 
 ===== Meaning =====
 
-accumulate a  bank  or  terrace
+a **bank** or **terrace**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1985: הִלֵּל (Hillêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1984 ; praising (namely God);
+from H1984; praising (namely God);
 
 ===== Meaning =====
 
-Hillel , an Israelite
+**Hillel**, an Israelite
 
 ===== Definitions =====
 

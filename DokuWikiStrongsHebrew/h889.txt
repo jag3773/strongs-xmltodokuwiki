@@ -1,12 +1,16 @@
 ====== H889: בְּאֹשׁ (bᵉʼôsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H877 ;
+from H877;
 
 ===== Meaning =====
 
-a  stench
+a **stench**
 
 ===== Definitions =====
 

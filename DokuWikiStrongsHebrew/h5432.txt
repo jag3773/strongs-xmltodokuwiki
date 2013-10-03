@@ -1,12 +1,16 @@
 ====== H5432: סַאסְּאָה (çaʼçᵉʼâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-for  H5429 ;
+for H5429;
 
 ===== Meaning =====
 
-measurement , i.e.  moderation
+**measurement**, i.e. **moderation**
 
 ===== Definitions =====
 

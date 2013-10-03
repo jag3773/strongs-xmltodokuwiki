@@ -1,12 +1,16 @@
 ====== H8297: שָׂרַי (Sâray) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H8269 ; dominative;
+from H8269; dominative;
 
 ===== Meaning =====
 
-Sarai , the wife of Abraham
+**Sarai**, the wife of Abraham
 
 ===== Definitions =====
 

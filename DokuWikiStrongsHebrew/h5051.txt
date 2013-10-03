@@ -1,12 +1,16 @@
 ====== H5051: נֹגַהּ (nôgahh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5050 ;
+from H5050;
 
 ===== Meaning =====
 
-brilliancy  (literally or figuratively)
+**brilliancy** (literally or figuratively)
 
 ===== Definitions =====
 

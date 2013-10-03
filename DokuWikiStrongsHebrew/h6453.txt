@@ -1,12 +1,16 @@
 ====== H6453: פֶּסַח (peçach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6452 ;
+from H6452;
 
 ===== Meaning =====
 
-a  pretermission , i.e.  exemption ; used only techically of the Jewish  Passover  (the festival or the victim)
+a **pretermission**, i.e. **exemption**; used only techically of the Jewish **Passover** (the festival or the victim)
 
 ===== Definitions =====
 

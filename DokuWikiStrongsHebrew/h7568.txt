@@ -1,12 +1,16 @@
 ====== H7568: רֶשֶׁת (resheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3423 ;
+from H3423;
 
 ===== Meaning =====
 
-a  net  (as  catching  animals)
+a **net** (as **catching** animals)
 
 ===== Definitions =====
 

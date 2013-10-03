@@ -1,12 +1,16 @@
 ====== H1520: גִּיחַ (Gîyach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1518 ; a fountain;
+from H1518; a fountain;
 
 ===== Meaning =====
 
-Giach , a place in Palestine
+**Giach**, a place in Palestine
 
 ===== Definitions =====
 

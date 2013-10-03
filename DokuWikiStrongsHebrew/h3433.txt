@@ -1,12 +1,16 @@
 ====== H3433: יָשֻׁבִי לֶחֶם (Yâshubîy Lechem) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7725  and  H3899 ; returner of bread;
+from H7725 and H3899; returner of bread;
 
 ===== Meaning =====
 
-Jashubi-Lechem , an Israelite
+**Jashubi-Lechem**, an Israelite
 
 ===== Definitions =====
 

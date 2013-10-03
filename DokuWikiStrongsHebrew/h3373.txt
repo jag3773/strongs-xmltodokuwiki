@@ -1,12 +1,16 @@
 ====== H3373: יָרֵא (yârêʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3372 ;
+from H3372;
 
 ===== Meaning =====
 
-fearing ; morally,  reverent
+**fearing**; morally, **reverent**
 
 ===== Definitions =====
 

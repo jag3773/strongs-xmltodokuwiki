@@ -1,12 +1,16 @@
 ====== H1022: בֵּית הַלַּחְמִי (Bêyth hal-Lachmîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H1035  with the article inserted;
+patrial from H1035 with the article inserted;
 
 ===== Meaning =====
 
-a  Beth-lechemite , or native of Bethlechem
+a **Beth-lechemite**, or native of Bethlechem
 
 ===== Definitions =====
 

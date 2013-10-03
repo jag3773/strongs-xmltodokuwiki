@@ -1,12 +1,16 @@
 ====== H907: בַּד (bad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H908 ;
+from H908;
 
 ===== Meaning =====
 
-a  brag  or  lie ; also a  liar
+a **brag** or **lie**; also a **liar**
 
 ===== Definitions =====
 

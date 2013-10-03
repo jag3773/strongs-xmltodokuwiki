@@ -1,12 +1,16 @@
 ====== H1133: בֶּן־חוּר (Ben-Chûwr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and  H2354 ; son of Chur;
+from H1121 and H2354; son of Chur;
 
 ===== Meaning =====
 
-Ben-Chur , an Israelite
+**Ben-Chur**, an Israelite
 
 ===== Definitions =====
 

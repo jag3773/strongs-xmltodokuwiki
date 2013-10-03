@@ -1,12 +1,16 @@
 ====== H7773: שֶׁוַע (shevaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H7768 ;
+from H7768;
 
 ===== Meaning =====
 
-a  halloo
+a **halloo**
 
 ===== Definitions =====
 

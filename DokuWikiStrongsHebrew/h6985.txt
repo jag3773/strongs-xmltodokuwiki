@@ -1,12 +1,16 @@
 ====== H6985: קַט (qaṭ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6990  in the sense of abbreviation;
+from H6990 in the sense of abbreviation;
 
 ===== Meaning =====
 
-a  little , i.e. (adverbially)  merely
+a **little**, i.e. (adverbially) **merely**
 
 ===== Definitions =====
 

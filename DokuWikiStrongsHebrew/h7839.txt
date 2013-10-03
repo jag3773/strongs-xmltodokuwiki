@@ -1,12 +1,16 @@
 ====== H7839: שַׁחֲרוּת (shachărûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7836 ;
+from H7836;
 
 ===== Meaning =====
 
-a  dawning , i.e. (figuratively)  juvenescence
+a **dawning**, i.e. (figuratively) **juvenescence**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7760: שׂוּם (sûwm) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; a primitive root;
+or ; a primitive root;
 
 ===== Meaning =====
 
-to  put  (used in a great variety of applications, literal, figurative, inferentially, and elliptically)
+to **put** (used in a great variety of applications, literal, figurative, inferentially, and elliptically)
 
 ===== Definitions =====
 

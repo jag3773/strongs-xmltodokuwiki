@@ -1,12 +1,16 @@
 ====== H6790: צִן (Tsin) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from an unused root meaning to prick; a  ;
+from an unused root meaning to prick; a **crag**;
 
 ===== Meaning =====
 
-crag Tsin , a part of the Desert
+**Tsin**, a part of the Desert
 
 ===== Definitions =====
 

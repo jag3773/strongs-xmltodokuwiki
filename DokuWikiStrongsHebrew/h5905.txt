@@ -1,12 +1,16 @@
 ====== H5905: עִיר שֶׁמֶשׁ (ʻÎyr Shemesh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5892  and  H8121 ;  ;
+from H5892 and H8121; **city of the sun**;
 
 ===== Meaning =====
 
-city of the sun Ir-Shemesh , a place in Palestine
+**Ir-Shemesh**, a place in Palestine
 
 ===== Definitions =====
 

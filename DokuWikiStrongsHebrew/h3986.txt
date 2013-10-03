@@ -1,12 +1,16 @@
 ====== H3986: מָאֵן (mâʼên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3985 ;
+from H3985;
 
 ===== Meaning =====
 
-unwilling
+**unwilling**
 
 ===== Definitions =====
 

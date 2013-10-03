@@ -1,12 +1,16 @@
 ====== H5451: סִבֹּלֶת (çibbôleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-for  H7641 ;
+for H7641;
 
 ===== Meaning =====
 
-an  ear of grain
+an **ear of grain**
 
 ===== Definitions =====
 

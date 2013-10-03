@@ -1,12 +1,16 @@
 ====== H7201: רָאָה (râʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7200 ;
+from H7200;
 
 ===== Meaning =====
 
-a  bird of prey  (probably the vulture, from its sharp sight)
+a **bird of prey** (probably the vulture, from its sharp sight)
 
 ===== Definitions =====
 

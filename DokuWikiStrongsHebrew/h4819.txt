@@ -1,12 +1,16 @@
 ====== H4819: מַרְכֹּלֶת (markôleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7402 ;
+from H7402;
 
 ===== Meaning =====
 
-a  mart
+a **mart**
 
 ===== Definitions =====
 

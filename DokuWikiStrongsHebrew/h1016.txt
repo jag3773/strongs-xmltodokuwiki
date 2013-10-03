@@ -1,12 +1,16 @@
 ====== H1016: בֵּית־דָּגוֹן (Bêyth-Dâgôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H1712 ; house of Dagon;
+from H1004 and H1712; house of Dagon;
 
 ===== Meaning =====
 
-Beth-Dagon , the name of two places in Palestine
+**Beth-Dagon**, the name of two places in Palestine
 
 ===== Definitions =====
 

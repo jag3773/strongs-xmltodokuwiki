@@ -1,12 +1,16 @@
 ====== H3420: יֵרָקוֹן (yêrâqôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3418 ;
+from H3418;
 
 ===== Meaning =====
 
-paleness , whether of persons (from fright), or of plants (from drought)
+**paleness**, whether of persons (from fright), or of plants (from drought)
 
 ===== Definitions =====
 

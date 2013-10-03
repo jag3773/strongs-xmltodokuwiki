@@ -1,12 +1,16 @@
 ====== H5417: נְתַנְאֵל (Nᵉthanʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5414  and  H410 ;  ;
+from H5414 and H410; **given of God**;
 
 ===== Meaning =====
 
-given of God Nethanel , the name of ten Israelites
+**Nethanel**, the name of ten Israelites
 
 ===== Definitions =====
 

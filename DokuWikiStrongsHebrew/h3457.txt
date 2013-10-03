@@ -1,12 +1,16 @@
 ====== H3457: יִשְׁמָא (Yishmâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3456 ; desolate;
+from H3456; desolate;
 
 ===== Meaning =====
 
-Jishma , an Israelite
+**Jishma**, an Israelite
 
 ===== Definitions =====
 

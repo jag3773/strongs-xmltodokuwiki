@@ -1,12 +1,16 @@
 ====== H3667: כְּנַעַן (Kᵉnaʻan) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc n-m
+
 ===== Source =====
 
-from  H3665 ; humiliated;
+from H3665; humiliated;
 
 ===== Meaning =====
 
-Kenaan , a son a Ham; also the country inhabited by him
+**Kenaan**, a son a Ham; also the country inhabited by him
 
 ===== Definitions =====
 

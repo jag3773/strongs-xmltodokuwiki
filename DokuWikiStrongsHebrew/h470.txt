@@ -1,12 +1,16 @@
 ====== H470: אֱלִיקָא (ʼĔlîyqâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H6958 ; God of rejection;
+from H410 and H6958; God of rejection;
 
 ===== Meaning =====
 
-Elika , an Israelite
+**Elika**, an Israelite
 
 ===== Definitions =====
 

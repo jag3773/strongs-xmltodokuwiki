@@ -1,12 +1,16 @@
 ====== H3234: יִמְנָע (Yimnâʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4513 ;  ;
+from H4513; **he will restrain**;
 
 ===== Meaning =====
 
-he will restrain Jimna , an Israelite
+**Jimna**, an Israelite
 
 ===== Definitions =====
 

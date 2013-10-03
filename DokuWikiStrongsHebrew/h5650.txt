@@ -1,12 +1,16 @@
 ====== H5650: עֶבֶד (ʻebed) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5647 ;
+from H5647;
 
 ===== Meaning =====
 
-a  servant
+a **servant**
 
 ===== Definitions =====
 

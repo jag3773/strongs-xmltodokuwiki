@@ -1,12 +1,16 @@
 ====== H4741: מַקְצֻעָה (maqtsuʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7106 ;
+from H7106;
 
 ===== Meaning =====
 
-a  scraper , i.e. a carving  chisel
+a **scraper**, i.e. a carving **chisel**
 
 ===== Definitions =====
 

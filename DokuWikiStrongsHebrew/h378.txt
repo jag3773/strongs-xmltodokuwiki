@@ -1,12 +1,16 @@
 ====== H378: אִישׁ־בֹּשֶׁת (ʼÎysh-Bôsheth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H376  and  H1322 ; man of shame;
+from H376 and H1322; man of shame;
 
 ===== Meaning =====
 
-Ish-Bosheth , a son of King Saul
+**Ish-Bosheth**, a son of King Saul
 
 ===== Definitions =====
 

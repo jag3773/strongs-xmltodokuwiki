@@ -1,12 +1,16 @@
 ====== H4614: מַעֲמָסָה (maʻămâçâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6006 ;
+from H6006;
 
 ===== Meaning =====
 
-burdensomeness
+**burdensomeness**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4022: מֶגֶד (meged) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root probably meaning to be eminent;
 
 ===== Meaning =====
 
-properly, a  distinguished thing ; hence something  valuable , as a product or fruit
+properly, a **distinguished thing**; hence something **valuable**, as a product or fruit
 
 ===== Definitions =====
 

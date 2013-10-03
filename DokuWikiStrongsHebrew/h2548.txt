@@ -1,12 +1,16 @@
 ====== H2548: חָמִיץ (châmîyts) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2556 ;
+from H2556;
 
 ===== Meaning =====
 
-seasoned , i.e.  salt  provender
+**seasoned**, i.e. **salt** provender
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6893: קָאַת (qâʼath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6958 ;
+from H6958;
 
 ===== Meaning =====
 
-probably the  pelican  (from vomiting)
+probably the **pelican** (from vomiting)
 
 ===== Definitions =====
 

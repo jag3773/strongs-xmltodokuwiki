@@ -1,12 +1,16 @@
 ====== H3967: מֵאָה (mêʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-or   ; properly, a primitive numeral
+or ; properly, a primitive numeral
 
 ===== Meaning =====
 
-a  hundred ; also as a multiplicative and a fraction
+a **hundred**; also as a multiplicative and a fraction
 
 ===== Definitions =====
 

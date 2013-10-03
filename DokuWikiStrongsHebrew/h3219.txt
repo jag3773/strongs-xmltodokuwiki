@@ -1,12 +1,16 @@
 ====== H3219: יַלְקוּט (yalqûwṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3950 ;
+from H3950;
 
 ===== Meaning =====
 
-a  travelling pouch  (as if for gleanings)
+a **travelling pouch** (as if for gleanings)
 
 ===== Definitions =====
 

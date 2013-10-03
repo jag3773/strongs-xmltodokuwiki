@@ -1,12 +1,16 @@
 ====== H5131: נוֹף (nôwph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5130 ;
+from H5130;
 
 ===== Meaning =====
 
-elevation
+**elevation**
 
 ===== Definitions =====
 

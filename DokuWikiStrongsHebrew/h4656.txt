@@ -1,12 +1,16 @@
 ====== H4656: מִפְלֶצֶת (miphletseth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6426 ;
+from H6426;
 
 ===== Meaning =====
 
-a  terror , i.e. an  idol
+a **terror**, i.e. an **idol**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5269: נֵעָה (Nêʻâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5128 ;  ;
+from H5128; **motion**;
 
 ===== Meaning =====
 
-motion Neah , a place in Palestine
+**Neah**, a place in Palestine
 
 ===== Definitions =====
 

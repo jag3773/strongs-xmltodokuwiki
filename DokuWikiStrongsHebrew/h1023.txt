@@ -1,12 +1,16 @@
 ====== H1023: בֵּית הַמֶּרְחָק (Bêyth ham-Merchâq) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H4801  with the article interposed; house of the breadth;
+from H1004 and H4801 with the article interposed; house of the breadth;
 
 ===== Meaning =====
 
-Beth-ham-Merchak , a place in Palestine
+**Beth-ham-Merchak**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H168: אֹהֶל (ʼôhel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H166 ;
+from H166;
 
 ===== Meaning =====
 
-a  tent  (as clearly conspicuous from a distance)
+a **tent** (as clearly conspicuous from a distance)
 
 ===== Definitions =====
 

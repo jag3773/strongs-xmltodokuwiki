@@ -1,12 +1,16 @@
 ====== H2381: חֲזִיאֵל (Chăzîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2372  and  H410 ; seen of God;
+from H2372 and H410; seen of God;
 
 ===== Meaning =====
 
-Chaziel , a Levite
+**Chaziel**, a Levite
 
 ===== Definitions =====
 

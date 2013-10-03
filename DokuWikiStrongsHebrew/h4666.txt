@@ -1,12 +1,16 @@
 ====== H4666: מִפְרָשׂ (miphrâs) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6566 ;
+from H6566;
 
 ===== Meaning =====
 
-an  expansion
+an **expansion**
 
 ===== Definitions =====
 

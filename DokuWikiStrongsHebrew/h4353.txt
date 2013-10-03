@@ -1,12 +1,16 @@
 ====== H4353: מָכִיר (Mâkîyr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4376 ;  ;
+from H4376; **salesman**;
 
 ===== Meaning =====
 
-salesman Makir , an Israelite
+**Makir**, an Israelite
 
 ===== Definitions =====
 

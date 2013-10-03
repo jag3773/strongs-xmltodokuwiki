@@ -1,12 +1,16 @@
 ====== H5383: נָשָׁה (nâshâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (rather identical with  H5382 , in the sense of  H5378 );
+a primitive root (rather identical with H5382, in the sense of H5378);
 
 ===== Meaning =====
 
-to  lend  or (by reciprocity)  borrow  on security or interest
+to **lend** or (by reciprocity) **borrow** on security or interest
 
 ===== Definitions =====
 

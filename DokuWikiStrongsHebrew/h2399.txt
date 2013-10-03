@@ -1,12 +1,16 @@
 ====== H2399: חֵטְא (chêṭᵉʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2398 ;
+from H2398;
 
 ===== Meaning =====
 
-a  crime  or its  penalty
+a **crime** or its **penalty**
 
 ===== Definitions =====
 

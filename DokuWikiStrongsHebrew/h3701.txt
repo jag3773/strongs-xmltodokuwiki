@@ -1,12 +1,16 @@
 ====== H3701: כֶּסֶף (keçeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3700 ;
+from H3700;
 
 ===== Meaning =====
 
-silver  (from its  pale  color); by implication,  money
+**silver** (from its **pale** color); by implication, **money**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7689: שַׂגִּיא (saggîyʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7679 ;
+from H7679;
 
 ===== Meaning =====
 
-(superlatively)  mighty
+(superlatively) **mighty**
 
 ===== Definitions =====
 

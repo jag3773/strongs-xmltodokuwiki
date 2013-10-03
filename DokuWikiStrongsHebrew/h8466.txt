@@ -1,12 +1,16 @@
 ====== H8466: תַּחֲנָה (tachănâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2583 ;
+from H2583;
 
 ===== Meaning =====
 
-(only plural collectively) an  encampment
+(only plural collectively) an **encampment**
 
 ===== Definitions =====
 

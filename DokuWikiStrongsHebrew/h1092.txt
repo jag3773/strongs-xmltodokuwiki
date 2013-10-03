@@ -1,12 +1,16 @@
 ====== H1092: בִּלְהָן (Bilhân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1089 ;  ;
+from H1089; **timid**;
 
 ===== Meaning =====
 
-timid Bilhan , the name of an Edomite and of an Israelite
+**Bilhan**, the name of an Edomite and of an Israelite
 
 ===== Definitions =====
 

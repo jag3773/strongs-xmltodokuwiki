@@ -1,12 +1,16 @@
 ====== H6904: קֹבֶל (qôbel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6901  in the sense of confronting (as standing opposite in order to receive);
+from H6901 in the sense of confronting (as standing opposite in order to receive);
 
 ===== Meaning =====
 
-a  battering-ram
+a **battering-ram**
 
 ===== Definitions =====
 

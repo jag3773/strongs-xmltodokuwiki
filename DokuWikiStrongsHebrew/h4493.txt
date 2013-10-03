@@ -1,12 +1,16 @@
 ====== H4493: מָנוֹד (mânôwd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5110
+from H5110
 
 ===== Meaning =====
 
-a  nodding  or  toss  (of the head in derision)
+a **nodding** or **toss** (of the head in derision)
 
 ===== Definitions =====
 

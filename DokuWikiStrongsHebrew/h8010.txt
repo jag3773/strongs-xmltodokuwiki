@@ -1,12 +1,16 @@
 ====== H8010: שְׁלֹמֹה (Shᵉlômôh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7965 ;  ;
+from H7965; **peaceful**;
 
 ===== Meaning =====
 
-peaceful Shelomah , David's successor
+**Shelomah**, David's successor
 
 ===== Definitions =====
 

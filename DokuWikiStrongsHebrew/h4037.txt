@@ -1,12 +1,16 @@
 ====== H4037: מַגְזֵרָה (magzêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1504 ;
+from H1504;
 
 ===== Meaning =====
 
-a  cutting implement , i.e. a  blade
+a **cutting implement**, i.e. a **blade**
 
 ===== Definitions =====
 

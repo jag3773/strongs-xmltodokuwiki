@@ -1,12 +1,16 @@
 ====== H6325: פּוּנֹן (Pûwnôn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6323 ;  ;
+from H6323; **perplexity**;
 
 ===== Meaning =====
 
-perplexity Punon , a place in the Desert
+**Punon**, a place in the Desert
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2510: חָלָק (Châlâq) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H2509 ; bare;
+the same as H2509; bare;
 
 ===== Meaning =====
 
-Chalak , a mountain of Idumaea
+**Chalak**, a mountain of Idumaea
 
 ===== Definitions =====
 

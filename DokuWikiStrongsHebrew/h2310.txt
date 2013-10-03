@@ -1,12 +1,16 @@
 ====== H2310: חָדֵל (châdêl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2308 ;
+from H2308;
 
 ===== Meaning =====
 
-vacant , i.e.  ceasing  or  destitute
+**vacant**, i.e. **ceasing** or **destitute**
 
 ===== Definitions =====
 

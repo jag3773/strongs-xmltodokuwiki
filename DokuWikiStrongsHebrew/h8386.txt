@@ -1,12 +1,16 @@
 ====== H8386: תַּאֲנִיָּה (taʼănîyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H578 ;
+from H578;
 
 ===== Meaning =====
 
-lamentation
+**lamentation**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1348: גֵּאוּת (gêʼûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1342 ;
+from H1342;
 
 ===== Meaning =====
 
-the same as  H1346
+the same as H1346
 
 ===== Definitions =====
 

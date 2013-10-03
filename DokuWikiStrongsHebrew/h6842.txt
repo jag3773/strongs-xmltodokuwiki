@@ -1,12 +1,16 @@
 ====== H6842: צָפִיר (tsâphîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6852 ;
+from H6852;
 
 ===== Meaning =====
 
-a  male goat  (as prancing)
+a **male goat** (as prancing)
 
 ===== Definitions =====
 

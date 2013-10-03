@@ -1,12 +1,16 @@
 ====== H6239: עֹשֶׁר (ʻôsher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6238 ;
+from H6238;
 
 ===== Meaning =====
 
-wealth
+**wealth**
 
 ===== Definitions =====
 

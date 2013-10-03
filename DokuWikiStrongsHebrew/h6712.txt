@@ -1,12 +1,16 @@
 ====== H6712: צְחֹק (tsᵉchôq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6711 ;
+from H6711;
 
 ===== Meaning =====
 
-laughter  (in pleasure or derision)
+**laughter** (in pleasure or derision)
 
 ===== Definitions =====
 

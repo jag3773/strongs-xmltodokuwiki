@@ -1,12 +1,16 @@
 ====== H2948: טֹפַח (ṭôphach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2946
+from H2946
 
 ===== Meaning =====
 
-(the same as  H2947 )
+(the same as H2947)
 
 ===== Definitions =====
 

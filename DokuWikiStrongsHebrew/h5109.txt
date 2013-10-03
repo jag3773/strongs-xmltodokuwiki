@@ -1,12 +1,16 @@
 ====== H5109: נוֹבַי (Nôwbay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5108 ;  ;
+from H5108; **fruitful**;
 
 ===== Meaning =====
 
-fruitful Nobai , an Israelite
+**Nobai**, an Israelite
 
 ===== Definitions =====
 

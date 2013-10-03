@@ -1,12 +1,16 @@
 ====== H5835: עֲזָרָה (ʻăzârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5826  in its original meaning of surrounding;
+from H5826 in its original meaning of surrounding;
 
 ===== Meaning =====
 
-an  inclosure ; also a  border
+an **inclosure**; also a **border**
 
 ===== Definitions =====
 

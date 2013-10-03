@@ -1,12 +1,16 @@
 ====== H6006: עָמַס (ʻâmaç) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; a primitive root;
+or ; a primitive root;
 
 ===== Meaning =====
 
-to  load , i.e.  impose  a burden (or figuratively, infliction)
+to **load**, i.e. **impose** a burden (or figuratively, infliction)
 
 ===== Definitions =====
 

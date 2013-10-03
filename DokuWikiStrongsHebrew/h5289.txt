@@ -1,12 +1,16 @@
 ====== H5289: נַעַר (naʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5287  in its derivative sense of  ;
+from H5287 in its derivative sense of **tossing about**;
 
 ===== Meaning =====
 
-tossing about a  wanderer
+a **wanderer**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8146: שָׂנִיא (sânîyʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8130 ;
+from H8130;
 
 ===== Meaning =====
 
-hated
+**hated**
 
 ===== Definitions =====
 

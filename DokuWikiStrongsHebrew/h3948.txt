@@ -1,12 +1,16 @@
 ====== H3948: לֶקַח (leqach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3947 ;
+from H3947;
 
 ===== Meaning =====
 
-properly, something  received , i.e. (mentally)  instruction  (whether on the part of the teacher or hearer); also (in an active and sinister sense)  inveiglement
+properly, something **received**, i.e. (mentally) **instruction** (whether on the part of the teacher or hearer); also (in an active and sinister sense) **inveiglement**
 
 ===== Definitions =====
 

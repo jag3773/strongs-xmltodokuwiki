@@ -1,12 +1,16 @@
 ====== H7740: שָׁוֵה (Shâvêh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7737 ;  ;
+from H7737; **plain**;
 
 ===== Meaning =====
 
-plain Shaveh , a place in Palestine
+**Shaveh**, a place in Palestine
 
 ===== Definitions =====
 

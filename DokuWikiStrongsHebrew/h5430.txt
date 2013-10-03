@@ -1,12 +1,16 @@
 ====== H5430: סְאוֹן (çᵉʼôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5431 ;
+from H5431;
 
 ===== Meaning =====
 
-perhaps a military  boot  (as a protection from  mud )
+perhaps a military **boot** (as a protection from **mud**)
 
 ===== Definitions =====
 

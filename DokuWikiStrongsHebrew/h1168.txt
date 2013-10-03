@@ -1,12 +1,16 @@
 ====== H1168: בַּעַל (Baʻal) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-the same as  H1167 ;
+the same as H1167;
 
 ===== Meaning =====
 
-Baal , a Phoenician deity
+**Baal**, a Phoenician deity
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H342: אֵיבָה (ʼêybâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H340 ;
+from H340;
 
 ===== Meaning =====
 
-hostility
+**hostility**
 
 ===== Definitions =====
 

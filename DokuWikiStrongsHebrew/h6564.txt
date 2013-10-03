@@ -1,12 +1,16 @@
 ====== H6564: פָּרָק (pârâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6561 ;
+from H6561;
 
 ===== Meaning =====
 
-soup  (as full of  crumbed  meat)
+**soup** (as full of **crumbed** meat)
 
 ===== Definitions =====
 

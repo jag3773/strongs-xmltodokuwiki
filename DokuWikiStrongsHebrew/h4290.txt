@@ -1,12 +1,16 @@
 ====== H4290: מַחְתֶּרֶת (machtereth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2864 ;
+from H2864;
 
 ===== Meaning =====
 
-a  burglary ; figuratively,  unexpected examination
+a **burglary**; figuratively, **unexpected examination**
 
 ===== Definitions =====
 

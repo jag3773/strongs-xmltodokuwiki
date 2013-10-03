@@ -1,12 +1,16 @@
 ====== H4502: מִנְּזָר (minnᵉzâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5144 ;
+from H5144;
 
 ===== Meaning =====
 
-a  prince
+a **prince**
 
 ===== Definitions =====
 

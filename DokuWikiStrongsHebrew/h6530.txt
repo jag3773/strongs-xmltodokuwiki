@@ -1,12 +1,16 @@
 ====== H6530: פְּרִיץ (pᵉrîyts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6555 ;
+from H6555;
 
 ===== Meaning =====
 
-violent , i.e. a  tyrant
+**violent**, i.e. a **tyrant**
 
 ===== Definitions =====
 

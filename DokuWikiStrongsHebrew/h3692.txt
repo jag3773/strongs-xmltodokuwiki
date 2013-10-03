@@ -1,12 +1,16 @@
 ====== H3692: כִּסְלוֹן (Kiçlôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3688 ; hopeful;
+from H3688; hopeful;
 
 ===== Meaning =====
 
-Kislon , an Israelite
+**Kislon**, an Israelite
 
 ===== Definitions =====
 

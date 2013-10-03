@@ -1,12 +1,16 @@
 ====== H1930: הוֹ (hôw) ======
 
+===== Part of Speech =====
+
+inj
+
 ===== Source =====
 
-by permutation from  H1929 ;
+by permutation from H1929;
 
 ===== Meaning =====
 
-oh!
+**oh!**
 
 ===== Definitions =====
 

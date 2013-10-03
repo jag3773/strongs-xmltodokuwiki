@@ -1,12 +1,16 @@
 ====== H323: אֲחַשְׁדַּרְפַּן (ʼăchashdarpan) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 of Persian derivation;
 
 ===== Meaning =====
 
-a  satrap  or  governor  of a main province (of Persia)
+a **satrap** or **governor** of a main province (of Persia)
 
 ===== Definitions =====
 

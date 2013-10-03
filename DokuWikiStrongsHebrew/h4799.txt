@@ -1,12 +1,16 @@
 ====== H4799: מָרַח (mârach) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  soften  by rubbing or pressure; hence (medicinally) to  apply  as an emollient
+properly, to **soften** by rubbing or pressure; hence (medicinally) to **apply** as an emollient
 
 ===== Definitions =====
 

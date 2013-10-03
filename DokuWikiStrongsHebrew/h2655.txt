@@ -1,12 +1,16 @@
 ====== H2655: חָפֵץ (châphêts) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2654 ;
+from H2654;
 
 ===== Meaning =====
 
-pleased with
+**pleased with**
 
 ===== Definitions =====
 

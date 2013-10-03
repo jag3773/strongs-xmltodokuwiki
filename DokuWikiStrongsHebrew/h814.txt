@@ -1,12 +1,16 @@
 ====== H814: אֶשְׁכָּר (ʼeshkâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H7939 ;
+for H7939;
 
 ===== Meaning =====
 
-a  gratuity
+a **gratuity**
 
 ===== Definitions =====
 

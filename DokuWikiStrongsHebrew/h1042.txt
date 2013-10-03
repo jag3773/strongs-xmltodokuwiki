@@ -1,12 +1,16 @@
 ====== H1042: בֵּית עֲנוֹת (Bêyth ʻĂnôwth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and a plural from  H6030 ; house of replies;
+from H1004 and a plural from H6030; house of replies;
 
 ===== Meaning =====
 
-Beth-Anoth , a place in Palestine
+**Beth-Anoth**, a place in Palestine
 
 ===== Definitions =====
 

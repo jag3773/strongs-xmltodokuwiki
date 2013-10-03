@@ -1,12 +1,16 @@
 ====== H3812: לֵאָה (Lêʼâh) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H3811 ; weary;
+from H3811; weary;
 
 ===== Meaning =====
 
-Leah , a wife of Jacob
+**Leah**, a wife of Jacob
 
 ===== Definitions =====
 

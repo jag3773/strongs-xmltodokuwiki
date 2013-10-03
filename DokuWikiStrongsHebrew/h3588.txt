@@ -1,12 +1,16 @@
 ====== H3588: כִּי (kîy) ======
 
+===== Part of Speech =====
+
+conj
+
 ===== Source =====
 
 a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;
 
 ===== Meaning =====
 
-(by implication) very widely used as a  relative conjunction  or adverb (as below); often largely modified by other particles annexed
+(by implication) very widely used as a **relative conjunction** or adverb (as below); often largely modified by other particles annexed
 
 ===== Definitions =====
 

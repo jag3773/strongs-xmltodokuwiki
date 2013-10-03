@@ -1,12 +1,16 @@
 ====== H8389: תֹּאַר (tôʼar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8388 ;
+from H8388;
 
 ===== Meaning =====
 
-outline , i.e.  figure  or  appearance
+**outline**, i.e. **figure** or **appearance**
 
 ===== Definitions =====
 

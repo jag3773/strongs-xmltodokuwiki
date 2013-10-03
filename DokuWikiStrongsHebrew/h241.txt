@@ -1,12 +1,16 @@
 ====== H241: אֹזֶן (ʼôzen) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H238 ;
+from H238;
 
 ===== Meaning =====
 
-broadness . i.e. (concrete) the  ear  (from its form in man)
+**broadness**. i.e. (concrete) the **ear** (from its form in man)
 
 ===== Definitions =====
 

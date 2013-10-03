@@ -1,12 +1,16 @@
 ====== H7962: שַׁלְוָה (shalvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7951 ;
+from H7951;
 
 ===== Meaning =====
 
-security  (genuine or false)
+**security** (genuine or false)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3998: מְבוּכָה (mᵉbûwkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H943 ;
+from H943;
 
 ===== Meaning =====
 
-perplexity
+**perplexity**
 
 ===== Definitions =====
 

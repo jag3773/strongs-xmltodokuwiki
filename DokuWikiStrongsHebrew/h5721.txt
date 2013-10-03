@@ -1,12 +1,16 @@
 ====== H5721: עֲדִינָא (ʻĂdîynâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5719 ;  ;
+from H5719; **effeminacy**;
 
 ===== Meaning =====
 
-effeminacy Adina , an Israelite
+**Adina**, an Israelite
 
 ===== Definitions =====
 

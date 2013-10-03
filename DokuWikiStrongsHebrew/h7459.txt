@@ -1,12 +1,16 @@
 ====== H7459: רְעָבוֹן (rᵉʻâbôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7456 ;
+from H7456;
 
 ===== Meaning =====
 
-famine
+**famine**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4855: מַשָּׁא (mashshâʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5383 ;
+from H5383;
 
 ===== Meaning =====
 
-a  loan ; by implication,  interest on a debt
+a **loan**; by implication, **interest on a debt**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2686: חָצַץ (châtsats) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H2673 ); also as denominative from  H2671
+a primitive root (compare H2673); also as denominative from H2671
 
 ===== Meaning =====
 
-properly, to  chop  into,  pierce  or  sever ; hence, to  curtail , to  distribute  (into ranks); to  shoot  an arrow
+properly, to **chop** into, **pierce** or **sever**; hence, to **curtail**, to **distribute** (into ranks); to **shoot** an arrow
 
 ===== Definitions =====
 

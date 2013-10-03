@@ -1,12 +1,16 @@
 ====== H3385: יְרוּאֵל (Yᵉrûwʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3384  and  H410 ; founded of God;
+from H3384 and H410; founded of God;
 
 ===== Meaning =====
 
-Jeruel , a place in Palestine
+**Jeruel**, a place in Palestine
 
 ===== Definitions =====
 

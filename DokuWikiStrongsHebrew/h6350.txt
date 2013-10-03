@@ -1,12 +1,16 @@
 ====== H6350: פַּחֲזוּת (pachăzûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6348 ;
+from H6348;
 
 ===== Meaning =====
 
-frivolity
+**frivolity**
 
 ===== Definitions =====
 

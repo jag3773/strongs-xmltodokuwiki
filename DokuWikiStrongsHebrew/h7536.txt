@@ -1,12 +1,16 @@
 ====== H7536: רֹק (rôq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7556 ;
+from H7556;
 
 ===== Meaning =====
 
-spittle
+**spittle**
 
 ===== Definitions =====
 

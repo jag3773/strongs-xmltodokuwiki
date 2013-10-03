@@ -1,12 +1,16 @@
 ====== H394: אַכְזָרִי (ʼakzârîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H393 ;
+from H393;
 
 ===== Meaning =====
 
-terrible
+**terrible**
 
 ===== Definitions =====
 

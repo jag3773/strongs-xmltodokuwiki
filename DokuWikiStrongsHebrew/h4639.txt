@@ -1,12 +1,16 @@
 ====== H4639: מַעֲשֶׂה (maʻăseh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6213 ;
+from H6213;
 
 ===== Meaning =====
 
-an  action  (good or bad); generally, a  transaction ; abstractly,  activity ; by implication, a  product  (specifically, a  poem ) or (generally)  property
+an **action** (good or bad); generally, a **transaction**; abstractly, **activity**; by implication, a **product** (specifically, a **poem**) or (generally) **property**
 
 ===== Definitions =====
 

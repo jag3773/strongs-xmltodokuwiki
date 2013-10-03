@@ -1,12 +1,16 @@
 ====== H4769: מַרְבֵּץ (marbêts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7257 ;
+from H7257;
 
 ===== Meaning =====
 
-a  reclining place , i.e.  fold  (for flocks)
+a **reclining place**, i.e. **fold** (for flocks)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3352: יָקוֹשׁ (yâqôwsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3369 ;
+from H3369;
 
 ===== Meaning =====
 
-properly,  entangling ; hence, a  snarer
+properly, **entangling**; hence, a **snarer**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H753: אֹרֶךְ (ʼôrek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H748 ;
+from H748;
 
 ===== Meaning =====
 
-length
+**length**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7855: שִׂטְנָה (siṭnâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7853 ;
+from H7853;
 
 ===== Meaning =====
 
-opposition  (by letter)
+**opposition** (by letter)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8121: שֶׁמֶשׁ (shemesh) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from an unused root meaning to be  ;
+from an unused root meaning to be **brilliant**;
 
 ===== Meaning =====
 
-brilliant the  sun ; by implication, the  east ; figuratively, a  ray , i.e. (architectural) a notched  battlement
+the **sun**; by implication, the **east**; figuratively, a **ray**, i.e. (architectural) a notched **battlement**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7550: רָקִיק (râqîyq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from,  H7556  in its original sense;
+from, H7556 in its original sense;
 
 ===== Meaning =====
 
-a thin  cake
+a thin **cake**
 
 ===== Definitions =====
 

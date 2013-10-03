@@ -1,12 +1,16 @@
 ====== H6082: עֹפֶר (ʻôpher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6080 ;
+from H6080;
 
 ===== Meaning =====
 
-a  fawn  (from the dusty color)
+a **fawn** (from the dusty color)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2325: חוּב (chûwb) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-also   ; a primitive root;
+also ; a primitive root;
 
 ===== Meaning =====
 
-properly, perhaps to  tie , i.e. (figuratively and reflexively) to  owe , or (by implication) to  forfeit
+properly, perhaps to **tie**, i.e. (figuratively and reflexively) to **owe**, or (by implication) to **forfeit**
 
 ===== Definitions =====
 

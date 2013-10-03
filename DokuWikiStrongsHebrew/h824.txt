@@ -1,12 +1,16 @@
 ====== H824: אֶשְׁעָן (ʼEshʻân) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H8172 ;  ;
+from H8172; **support**;
 
 ===== Meaning =====
 
-support Eshan , a place in Palestine
+**Eshan**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6528: פֶּרֶט (pereṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6527 ;
+from H6527;
 
 ===== Meaning =====
 
-a  stray  or  single berry
+a **stray** or **single berry**
 
 ===== Definitions =====
 

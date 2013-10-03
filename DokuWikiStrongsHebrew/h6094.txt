@@ -1,12 +1,16 @@
 ====== H6094: עַצֶּבֶת (ʻatstsebeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6087 ;
+from H6087;
 
 ===== Meaning =====
 
-a  idol ; also, a  pain  or  wound
+a **idol**; also, a **pain** or **wound**
 
 ===== Definitions =====
 

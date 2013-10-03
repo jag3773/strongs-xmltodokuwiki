@@ -1,12 +1,16 @@
 ====== H6496: פָּקִיד (pâqîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6485 ;
+from H6485;
 
 ===== Meaning =====
 
-a  superintendent  (civil, military or religious)
+a **superintendent** (civil, military or religious)
 
 ===== Definitions =====
 

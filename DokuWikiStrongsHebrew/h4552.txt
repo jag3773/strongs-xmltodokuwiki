@@ -1,12 +1,16 @@
 ====== H4552: מִסְעָד (miçʻâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-' from  H5582 ;
+' from H5582;
 
 ===== Meaning =====
 
-a  balustrade  (for stairs)
+a **balustrade** (for stairs)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5270: נֹעָה (Nôʻâh) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H5128 ;  ;
+from H5128; **movement**;
 
 ===== Meaning =====
 
-movement Noah , an Israelitess
+**Noah**, an Israelitess
 
 ===== Definitions =====
 

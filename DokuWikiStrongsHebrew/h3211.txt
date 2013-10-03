@@ -1,12 +1,16 @@
 ====== H3211: יָלִיד (yâlîyd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3205 ;
+from H3205;
 
 ===== Meaning =====
 
-born
+**born**
 
 ===== Definitions =====
 

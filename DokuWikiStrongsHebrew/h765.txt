@@ -1,12 +1,16 @@
 ====== H765: אֲרָן (ʼĂrân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7442 ;  ;
+from H7442; **stridulous**;
 
 ===== Meaning =====
 
-stridulous Aran , an Edomite
+**Aran**, an Edomite
 
 ===== Definitions =====
 

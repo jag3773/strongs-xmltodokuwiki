@@ -1,12 +1,16 @@
 ====== H8102: שֶׁמֶץ (shemets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to emit a sound;
 
 ===== Meaning =====
 
-an  inkling
+an **inkling**
 
 ===== Definitions =====
 

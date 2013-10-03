@@ -1,12 +1,16 @@
 ====== H6283: עֲתֶרֶת (ʻăthereth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6280 ;
+from H6280;
 
 ===== Meaning =====
 
-copiousness
+**copiousness**
 
 ===== Definitions =====
 

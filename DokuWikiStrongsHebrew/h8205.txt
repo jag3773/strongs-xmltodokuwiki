@@ -1,12 +1,16 @@
 ====== H8205: שְׁפִי (shᵉphîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8192 ;
+from H8192;
 
 ===== Meaning =====
 
-bareness ; concretely, a  bare  hill or plain
+**bareness**; concretely, a **bare** hill or plain
 
 ===== Definitions =====
 

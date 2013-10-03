@@ -1,12 +1,16 @@
 ====== H582: אֱנוֹשׁ (ʼĕnôwsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H605 ;
+from H605;
 
 ===== Meaning =====
 
-properly, a  mortal  (and thus differing from the more dignified  H120 ); hence, a  man  in general (singly or collectively)
+properly, a **mortal** (and thus differing from the more dignified H120); hence, a **man** in general (singly or collectively)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2555: חָמָס (châmâç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2554 ;
+from H2554;
 
 ===== Meaning =====
 
-violence ; by implication,  wrong ; by metonymy  unjust gain
+**violence**; by implication, **wrong**; by metonymy **unjust gain**
 
 ===== Definitions =====
 

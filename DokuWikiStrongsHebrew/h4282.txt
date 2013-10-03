@@ -1,12 +1,16 @@
 ====== H4282: מַחֲרֶשֶׁת (machăresheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2790 ;
+from H2790;
 
 ===== Meaning =====
 
-probably  a hoe
+probably **a hoe**
 
 ===== Definitions =====
 

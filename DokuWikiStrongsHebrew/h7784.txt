@@ -1,12 +1,16 @@
 ====== H7784: שׁוּק (shûwq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7783 ;
+from H7783;
 
 ===== Meaning =====
 
-a  street  (as  run  over)
+a **street** (as **run** over)
 
 ===== Definitions =====
 

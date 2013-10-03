@@ -1,12 +1,16 @@
 ====== H7395: רַכָּב (rakkâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7392 ;
+from H7392;
 
 ===== Meaning =====
 
-a  charioteer
+a **charioteer**
 
 ===== Definitions =====
 

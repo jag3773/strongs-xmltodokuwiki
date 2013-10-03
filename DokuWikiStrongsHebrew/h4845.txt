@@ -1,12 +1,16 @@
 ====== H4845: מְרֵרָה (mᵉrêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4843 ;
+from H4843;
 
 ===== Meaning =====
 
-bile  (from its bitterness)
+**bile** (from its bitterness)
 
 ===== Definitions =====
 

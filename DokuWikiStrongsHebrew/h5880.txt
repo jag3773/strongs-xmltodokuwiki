@@ -1,12 +1,16 @@
 ====== H5880: עֵין מִשְׁפָּט (ʻÊyn Mishpâṭ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and  H4941 ;  ;
+from H5869 and H4941; **fountain of judgment**;
 
 ===== Meaning =====
 
-fountain of judgment En-Mishpat , a place near Palestine
+**En-Mishpat**, a place near Palestine
 
 ===== Definitions =====
 

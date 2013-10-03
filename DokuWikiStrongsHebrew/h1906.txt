@@ -1,12 +1,16 @@
 ====== H1906: הֵד (hêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H1959 ;
+for H1959;
 
 ===== Meaning =====
 
-a  shout
+a **shout**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2309: חֶדֶל (chedel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2308 ;
+from H2308;
 
 ===== Meaning =====
 
-rest , i.e. the state of the  dead
+**rest**, i.e. the state of the **dead**
 
 ===== Definitions =====
 

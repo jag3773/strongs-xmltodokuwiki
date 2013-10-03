@@ -1,12 +1,16 @@
 ====== H6449: פִּסְגָּה (Piçgâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6448 ; a  ;
+from H6448; a **cleft**;
 
 ===== Meaning =====
 
-cleft Pisgah , a Mountain East of Jordan
+**Pisgah**, a Mountain East of Jordan
 
 ===== Definitions =====
 

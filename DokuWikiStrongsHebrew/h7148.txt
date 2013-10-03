@@ -1,12 +1,16 @@
 ====== H7148: קָרִיא (qârîyʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7121 ;
+from H7121;
 
 ===== Meaning =====
 
-called , i.e.  select
+**called**, i.e. **select**
 
 ===== Definitions =====
 

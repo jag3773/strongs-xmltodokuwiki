@@ -1,12 +1,16 @@
 ====== H2645: חָפָה (châphâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H2644 ,  H2653 );
+a primitive root (compare H2644, H2653);
 
 ===== Meaning =====
 
-to  cover ; by implication, to  veil , to  encase ,  protect
+to **cover**; by implication, to **veil**, to **encase**, **protect**
 
 ===== Definitions =====
 

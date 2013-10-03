@@ -1,12 +1,16 @@
 ====== H7390: רַךְ (rak) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7401 ;
+from H7401;
 
 ===== Meaning =====
 
-tender  (literally or figuratively); by implication,  weak
+**tender** (literally or figuratively); by implication, **weak**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3239: יָנוֹחַ (Yânôwach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3240 ;  ;
+from H3240; **quiet**;
 
 ===== Meaning =====
 
-quiet Janoach , a place in Palestine
+**Janoach**, a place in Palestine
 
 ===== Definitions =====
 

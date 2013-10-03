@@ -1,12 +1,16 @@
 ====== H6840: צָפִין (tsâphîyn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6845 ;
+from H6845;
 
 ===== Meaning =====
 
-a  treasure  (as hidden)
+a **treasure** (as hidden)
 
 ===== Definitions =====
 

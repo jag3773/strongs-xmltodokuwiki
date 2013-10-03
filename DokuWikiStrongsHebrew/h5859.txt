@@ -1,12 +1,16 @@
 ====== H5859: עִיּוֹן (ʻÎyôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5856 ;  ;
+from H5856; **ruin**;
 
 ===== Meaning =====
 
-ruin Ijon , a place in Palestine
+**Ijon**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3585: כַּחַשׁ (kachash) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3584 ;
+from H3584;
 
 ===== Meaning =====
 
-literally a  failure of flesh , i.e.  emaciation ; figuratively,  hypocrisy
+literally a **failure of flesh**, i.e. **emaciation**; figuratively, **hypocrisy**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7388: רִיר (rîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7325 ;
+from H7325;
 
 ===== Meaning =====
 
-saliva ; by resemblance,  broth
+**saliva**; by resemblance, **broth**
 
 ===== Definitions =====
 

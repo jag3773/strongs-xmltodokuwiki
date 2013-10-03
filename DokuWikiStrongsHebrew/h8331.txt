@@ -1,12 +1,16 @@
 ====== H8331: שַׁרְשָׁה (sharshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8327 ;
+from H8327;
 
 ===== Meaning =====
 
-a chain  (as rooted, i.e. linked)
+**a chain** (as rooted, i.e. linked)
 
 ===== Definitions =====
 

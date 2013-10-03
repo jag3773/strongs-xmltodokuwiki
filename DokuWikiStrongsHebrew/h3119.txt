@@ -1,12 +1,16 @@
 ====== H3119: יוֹמָם (yôwmâm) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H3117 ;
+from H3117;
 
 ===== Meaning =====
 
-daily
+**daily**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6738: צֵל (tsêl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6751 ;
+from H6751;
 
 ===== Meaning =====
 
-shade , whether literal or figurative
+**shade**, whether literal or figurative
 
 ===== Definitions =====
 

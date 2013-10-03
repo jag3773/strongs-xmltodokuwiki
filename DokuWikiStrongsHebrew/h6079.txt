@@ -1,12 +1,16 @@
 ====== H6079: עַפְעַף (ʻaphʻaph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5774 ;
+from H5774;
 
 ===== Meaning =====
 
-an  eyelash  (as fluttering); figuratively,  morning ray
+an **eyelash** (as fluttering); figuratively, **morning ray**
 
 ===== Definitions =====
 

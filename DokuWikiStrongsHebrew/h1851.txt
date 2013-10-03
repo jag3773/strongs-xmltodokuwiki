@@ -1,12 +1,16 @@
 ====== H1851: דַּק (daq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1854 ;
+from H1854;
 
 ===== Meaning =====
 
-crushed , i.e. (by implication)  small  or  thin
+**crushed**, i.e. (by implication) **small** or **thin**
 
 ===== Definitions =====
 

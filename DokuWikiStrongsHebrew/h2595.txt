@@ -1,12 +1,16 @@
 ====== H2595: חֲנִית (chănîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2583 ;
+from H2583;
 
 ===== Meaning =====
 
-a  lance  (for  thrusting , like  pitching  a tent)
+a **lance** (for **thrusting**, like **pitching** a tent)
 
 ===== Definitions =====
 

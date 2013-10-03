@@ -1,12 +1,16 @@
 ====== H7916: שָׂכִיר (sâkîyr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7936 ;
+from H7936;
 
 ===== Meaning =====
 
-a man  at wages 	by the day or year
+a man **at wages**	by the day or year
 
 ===== Definitions =====
 

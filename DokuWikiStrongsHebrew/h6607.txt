@@ -1,12 +1,16 @@
 ====== H6607: פֶּתַח (pethach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6605 ;
+from H6605;
 
 ===== Meaning =====
 
-an  opening  (literally), i.e.  door  (gate) or  entrance way
+an **opening** (literally), i.e. **door** (gate) or **entrance way**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5738: עֶדֶר (ʻEder) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5737 ; an   (i.e. drove);
+from H5737; an **arrangement** (i.e. drove);
 
 ===== Meaning =====
 
-arrangement Eder , an Israelite
+**Eder**, an Israelite
 
 ===== Definitions =====
 

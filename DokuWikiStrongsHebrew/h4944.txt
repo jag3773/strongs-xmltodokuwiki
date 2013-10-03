@@ -1,12 +1,16 @@
 ====== H4944: מַשָּׁק (mashshâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8264 ;
+from H8264;
 
 ===== Meaning =====
 
-a  traversing , i.e.  rapid motion
+a **traversing**, i.e. **rapid motion**
 
 ===== Definitions =====
 

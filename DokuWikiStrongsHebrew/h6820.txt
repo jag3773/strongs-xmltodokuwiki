@@ -1,12 +1,16 @@
 ====== H6820: צֹעַר (Tsôʻar) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6819 ;  ;
+from H6819; **little**;
 
 ===== Meaning =====
 
-little Tsoar , a place East of the Jordan
+**Tsoar**, a place East of the Jordan
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8572: תְּנוּמָה (tᵉnûwmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5123 ;
+from H5123;
 
 ===== Meaning =====
 
-drowsiness , i.e.  sleep
+**drowsiness**, i.e. **sleep**
 
 ===== Definitions =====
 

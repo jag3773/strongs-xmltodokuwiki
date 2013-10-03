@@ -1,12 +1,16 @@
 ====== H6883: צָרַעַת (tsâraʻath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6879 ;
+from H6879;
 
 ===== Meaning =====
 
-leprosy
+**leprosy**
 
 ===== Definitions =====
 

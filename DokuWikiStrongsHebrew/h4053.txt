@@ -1,12 +1,16 @@
 ====== H4053: מִגְרָפָה (migrâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1640 ;
+from H1640;
 
 ===== Meaning =====
 
-something  thrown off  (by the spade), i.e. a  clod
+something **thrown off** (by the spade), i.e. a **clod**
 
 ===== Definitions =====
 

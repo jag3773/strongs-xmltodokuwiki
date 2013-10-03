@@ -1,12 +1,16 @@
 ====== H2527: חֹם (chôm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2552 ;
+from H2552;
 
 ===== Meaning =====
 
-heat
+**heat**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7561: רָשַׁע (râshaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be  (causatively,  do  or  declare )  wrong ; by implication, to  disturb ,  violate
+to **be** (causatively, **do** or **declare**) **wrong**; by implication, to **disturb**, **violate**
 
 ===== Definitions =====
 

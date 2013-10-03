@@ -1,12 +1,16 @@
 ====== H650: אָפִיק (ʼâphîyq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H622 ;
+from H622;
 
 ===== Meaning =====
 
-properly,  containing , i.e. a  tube ; also a  bed  or  valley  of a stream; also a  strong  thing or a  hero
+properly, **containing**, i.e. a **tube**; also a **bed** or **valley** of a stream; also a **strong** thing or a **hero**
 
 ===== Definitions =====
 

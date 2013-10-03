@@ -1,12 +1,16 @@
 ====== H6615: פְּתַיּוּת (pᵉthayûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6612 ;
+from H6612;
 
 ===== Meaning =====
 
-silliness  (i.e. seducibility)
+**silliness** (i.e. seducibility)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7546: רַקָּח (raqqâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7543 ;
+from H7543;
 
 ===== Meaning =====
 
-a  male perfumer
+a **male perfumer**
 
 ===== Definitions =====
 

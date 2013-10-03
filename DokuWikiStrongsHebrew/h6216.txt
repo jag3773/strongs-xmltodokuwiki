@@ -1,12 +1,16 @@
 ====== H6216: עָשׁוֹק (ʻâshôwq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6231 ;
+from H6231;
 
 ===== Meaning =====
 
-oppressive  (as noun, a  tyrant )
+**oppressive** (as noun, a **tyrant**)
 
 ===== Definitions =====
 

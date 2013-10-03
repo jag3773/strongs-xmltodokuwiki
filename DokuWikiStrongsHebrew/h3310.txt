@@ -1,12 +1,16 @@
 ====== H3310: יַפְלֵט (Yaphlêṭ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6403 ;  ;
+from H6403; **he will deliver**;
 
 ===== Meaning =====
 
-he will deliver Japhlet , an Israelite
+**Japhlet**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5290: נֹעַר (nôʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5287 ; (compare  H5288 )
+from H5287; (compare H5288)
 
 ===== Meaning =====
 
-(abstractly)  boyhood
+(abstractly) **boyhood**
 
 ===== Definitions =====
 

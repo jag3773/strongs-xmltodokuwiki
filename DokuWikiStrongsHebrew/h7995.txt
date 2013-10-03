@@ -1,12 +1,16 @@
 ====== H7995: שַׁלֶּכֶת (shalleketh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7993 ;
+from H7993;
 
 ===== Meaning =====
 
-a  felling  (of trees)
+a **felling** (of trees)
 
 ===== Definitions =====
 

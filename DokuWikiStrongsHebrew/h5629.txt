@@ -1,12 +1,16 @@
 ====== H5629: סֶרַח (çerach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5628 ;
+from H5628;
 
 ===== Meaning =====
 
-a  redundancy
+a **redundancy**
 
 ===== Definitions =====
 

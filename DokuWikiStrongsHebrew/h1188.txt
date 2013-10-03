@@ -1,12 +1,16 @@
 ====== H1188: בַּעַל פְּרָצִים (Baʻal Pᵉrâtsîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1167  and the plural of  H6556 ; possessor of breaches;
+from H1167 and the plural of H6556; possessor of breaches;
 
 ===== Meaning =====
 
-Baal-Peratsim , a place in Palestine
+**Baal-Peratsim**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6414: פָּלִיל (pâlîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6419 ;
+from H6419;
 
 ===== Meaning =====
 
-a  magistrate
+a **magistrate**
 
 ===== Definitions =====
 

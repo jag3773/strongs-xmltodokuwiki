@@ -1,12 +1,16 @@
 ====== H6877: צְרִיחַ (tsᵉrîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6873  in the sense of clearness of vision;
+from H6873 in the sense of clearness of vision;
 
 ===== Meaning =====
 
-a  citadel
+a **citadel**
 
 ===== Definitions =====
 

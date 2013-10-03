@@ -1,12 +1,16 @@
 ====== H5316: נֶפֶת (nepheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-for  H5299 ;
+for H5299;
 
 ===== Meaning =====
 
-a  height
+a **height**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3845: לִבְנִי (Libnîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3835 ;  ;
+from H3835; **white**;
 
 ===== Meaning =====
 
-white Libni , an Israelite
+**Libni**, an Israelite
 
 ===== Definitions =====
 

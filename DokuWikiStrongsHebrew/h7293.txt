@@ -1,12 +1,16 @@
 ====== H7293: רַהַב (rahab) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7292 ,
+from H7292,
 
 ===== Meaning =====
 
-bluster ( -er )
+**bluster**(**-er**)
 
 ===== Definitions =====
 

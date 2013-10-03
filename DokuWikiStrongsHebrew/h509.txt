@@ -1,12 +1,16 @@
 ====== H509: אָלַץ (ʼâlats) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  press
+to **press**
 
 ===== Definitions =====
 

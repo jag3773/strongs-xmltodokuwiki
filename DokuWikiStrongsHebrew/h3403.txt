@@ -1,12 +1,16 @@
 ====== H3403: יְרִיבַי (Yᵉrîybay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3401 ;  ;
+from H3401; **contentious**;
 
 ===== Meaning =====
 
-contentious Jeribai , an Israelite
+**Jeribai**, an Israelite
 
 ===== Definitions =====
 

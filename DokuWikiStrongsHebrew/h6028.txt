@@ -1,12 +1,16 @@
 ====== H6028: עָנֹג (ʻânôg) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6026 ;
+from H6026;
 
 ===== Meaning =====
 
-luxurious
+**luxurious**
 
 ===== Definitions =====
 

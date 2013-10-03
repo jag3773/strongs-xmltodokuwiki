@@ -1,12 +1,16 @@
 ====== H2165: זְמָן (zᵉmân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2163 ;
+from H2163;
 
 ===== Meaning =====
 
-an  appointed occasion
+an **appointed occasion**
 
 ===== Definitions =====
 

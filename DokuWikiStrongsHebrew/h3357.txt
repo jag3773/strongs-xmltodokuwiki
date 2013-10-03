@@ -1,12 +1,16 @@
 ====== H3357: יַקִּיר (yaqqîyr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3365 ;
+from H3365;
 
 ===== Meaning =====
 
-precious
+**precious**
 
 ===== Definitions =====
 

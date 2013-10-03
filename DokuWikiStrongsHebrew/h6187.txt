@@ -1,12 +1,16 @@
 ====== H6187: עֵרֶךְ (ʻêrek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6186 ;
+from H6186;
 
 ===== Meaning =====
 
-a  pile ,  equipment ,  estimate
+a **pile**, **equipment**, **estimate**
 
 ===== Definitions =====
 

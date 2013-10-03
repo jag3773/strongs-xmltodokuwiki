@@ -1,12 +1,16 @@
 ====== H5560: סֹלֶת (çôleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **strip**;
 
 ===== Meaning =====
 
-strip flour  (as chipped off)
+**flour** (as chipped off)
 
 ===== Definitions =====
 

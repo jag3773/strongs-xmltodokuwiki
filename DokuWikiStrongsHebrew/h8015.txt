@@ -1,12 +1,16 @@
 ====== H8015: שְׁלֹמִי (Shᵉlômîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7965 ;  ;
+from H7965; **peaceable**;
 
 ===== Meaning =====
 
-peaceable Shelomi , an Israelite
+**Shelomi**, an Israelite
 
 ===== Definitions =====
 

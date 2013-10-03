@@ -1,12 +1,16 @@
 ====== H7594: שְׁאָל (Shᵉʼâl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7592 ;  ;
+from H7592; **request**;
 
 ===== Meaning =====
 
-request Sheal , an Israelite
+**Sheal**, an Israelite
 
 ===== Definitions =====
 

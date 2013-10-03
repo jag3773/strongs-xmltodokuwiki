@@ -1,12 +1,16 @@
 ====== H5450: סְבָלָה (çᵉbâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5447 ;
+from H5447;
 
 ===== Meaning =====
 
-porterage
+**porterage**
 
 ===== Definitions =====
 

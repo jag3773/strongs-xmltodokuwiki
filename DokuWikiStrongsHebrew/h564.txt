@@ -1,12 +1,16 @@
 ====== H564: אִמֵּר (ʼImmêr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H559 ; talkative;
+from H559; talkative;
 
 ===== Meaning =====
 
-Immer , the name of five Israelites
+**Immer**, the name of five Israelites
 
 ===== Definitions =====
 

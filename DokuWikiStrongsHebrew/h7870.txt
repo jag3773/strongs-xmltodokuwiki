@@ -1,12 +1,16 @@
 ====== H7870: שִׁיבָה (shîybâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-by permutation from  H7725 ;
+by permutation from H7725;
 
 ===== Meaning =====
 
-a  return  (of property)
+a **return** (of property)
 
 ===== Definitions =====
 

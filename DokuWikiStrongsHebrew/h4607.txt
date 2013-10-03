@@ -1,12 +1,16 @@
 ====== H4607: מֹעַל (môʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-a  raising  (of the hands)
+a **raising** (of the hands)
 
 ===== Definitions =====
 

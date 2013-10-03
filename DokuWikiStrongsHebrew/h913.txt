@@ -1,12 +1,16 @@
 ====== H913: בְּדִיל (bᵉdîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H914 ;
+from H914;
 
 ===== Meaning =====
 
-alloy  (because  removed  by smelting); by analogy,  tin
+**alloy** (because **removed** by smelting); by analogy, **tin**
 
 ===== Definitions =====
 

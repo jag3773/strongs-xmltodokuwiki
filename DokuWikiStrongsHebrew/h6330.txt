@@ -1,12 +1,16 @@
 ====== H6330: פּוּקָה (pûwqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6328 ;
+from H6328;
 
 ===== Meaning =====
 
-a  stumbling-block
+a **stumbling-block**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H59: אָבֵל (ʼÂbêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H58 ; a meadow;
+from H58; a meadow;
 
 ===== Meaning =====
 
-Abel , the name of two places in Palestine.
+**Abel**, the name of two places in Palestine.
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3315: יֶפֶת (Yepheth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6601 ;  ;
+from H6601; **expansion**;
 
 ===== Meaning =====
 
-expansion Jepheth , a son of Noah; also his posterity
+**Jepheth**, a son of Noah; also his posterity
 
 ===== Definitions =====
 

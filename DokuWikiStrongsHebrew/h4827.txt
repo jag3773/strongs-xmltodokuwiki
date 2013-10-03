@@ -1,12 +1,16 @@
 ====== H4827: מֵרַע (mêraʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7489 ;
+from H7489;
 
 ===== Meaning =====
 
-used as (abstract) noun,  wickedness
+used as (abstract) noun, **wickedness**
 
 ===== Definitions =====
 

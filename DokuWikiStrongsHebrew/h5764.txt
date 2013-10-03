@@ -1,12 +1,16 @@
 ====== H5764: עוּל (ʻûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5763 ;
+from H5763;
 
 ===== Meaning =====
 
-a  babe
+a **babe**
 
 ===== Definitions =====
 

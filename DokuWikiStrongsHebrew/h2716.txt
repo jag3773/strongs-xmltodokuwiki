@@ -1,12 +1,16 @@
 ====== H2716: חֶרֶא (chereʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused (and vulgar) root probably meaning to   the bowels;
+from an unused (and vulgar) root probably meaning to **evacuate** the bowels;
 
 ===== Meaning =====
 
-evacuate excrement
+**excrement**
 
 ===== Definitions =====
 

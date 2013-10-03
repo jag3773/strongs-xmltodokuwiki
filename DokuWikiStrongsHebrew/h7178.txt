@@ -1,12 +1,16 @@
 ====== H7178: קַרְתָּן (Qartân) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7176 ; city-plot;
+from H7176; city-plot;
 
 ===== Meaning =====
 
-Kartan , a place in Palestine
+**Kartan**, a place in Palestine
 
 ===== Definitions =====
 

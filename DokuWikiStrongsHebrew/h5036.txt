@@ -1,12 +1,16 @@
 ====== H5036: נָבָל (nâbâl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5034 ;
+from H5034;
 
 ===== Meaning =====
 
-stupid ;  wicked  (especially  impious )
+**stupid**; **wicked** (especially **impious**)
 
 ===== Definitions =====
 

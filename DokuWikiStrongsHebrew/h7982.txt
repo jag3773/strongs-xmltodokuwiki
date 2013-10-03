@@ -1,12 +1,16 @@
 ====== H7982: שֶׁלֶט (sheleṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7980 ;
+from H7980;
 
 ===== Meaning =====
 
-probably a  shield  (as  controlling , i.e. protecting the person)
+probably a **shield** (as **controlling**, i.e. protecting the person)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1822: דֻּמָּה (dummâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1820 ;
+from H1820;
 
 ===== Meaning =====
 
-desolation ; concretely,  desolate
+**desolation**; concretely, **desolate**
 
 ===== Definitions =====
 

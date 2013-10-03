@@ -1,12 +1,16 @@
 ====== H3032: יָדַד (yâdad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; (compare  H3034 )
+a primitive root; (compare H3034)
 
 ===== Meaning =====
 
-properly, to  handle , i.e. to  throw , e.g.  lots
+properly, to **handle**, i.e. to **throw**, e.g. **lots**
 
 ===== Definitions =====
 

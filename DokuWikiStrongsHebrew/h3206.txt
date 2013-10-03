@@ -1,12 +1,16 @@
 ====== H3206: יֶלֶד (yeled) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3205 ;
+from H3205;
 
 ===== Meaning =====
 
-something born , i.e. a  lad  or  offspring
+**something born**, i.e. a **lad** or **offspring**
 
 ===== Definitions =====
 

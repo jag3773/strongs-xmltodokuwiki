@@ -1,12 +1,16 @@
 ====== H2096: זֹהַר (zôhar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2094 ;
+from H2094;
 
 ===== Meaning =====
 
-brilliancy
+**brilliancy**
 
 ===== Definitions =====
 

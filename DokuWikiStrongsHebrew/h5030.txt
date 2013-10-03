@@ -1,12 +1,16 @@
 ====== H5030: נָבִיא (nâbîyʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5012 ;
+from H5012;
 
 ===== Meaning =====
 
-a  prophet  or (generally)  inspired man
+a **prophet** or (generally) **inspired man**
 
 ===== Definitions =====
 

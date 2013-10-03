@@ -1,8 +1,12 @@
 ====== H895: בַּבֶל (Babel) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-(Aramaic) corresponding to  H894
+(Aramaic) corresponding to H894
 
 ===== Meaning =====
 

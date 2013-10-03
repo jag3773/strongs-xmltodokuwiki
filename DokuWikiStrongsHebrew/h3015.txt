@@ -1,12 +1,16 @@
 ====== H3015: יָגוֹן (yâgôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3013 ;
+from H3013;
 
 ===== Meaning =====
 
-affliction
+**affliction**
 
 ===== Definitions =====
 

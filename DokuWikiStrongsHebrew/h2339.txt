@@ -1,12 +1,16 @@
 ====== H2339: חוּט (chûwṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root probably meaning to sew;
 
 ===== Meaning =====
 
-a  string ; by implication, a  measuring tape
+a **string**; by implication, a **measuring tape**
 
 ===== Definitions =====
 

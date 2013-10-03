@@ -1,12 +1,16 @@
 ====== H1550: גָּלִיל (gâlîyl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1556 ;
+from H1556;
 
 ===== Meaning =====
 
-a  valve of a folding door  (as turning); also a  ring  (as round)
+a **valve of a folding door** (as turning); also a **ring** (as round)
 
 ===== Definitions =====
 

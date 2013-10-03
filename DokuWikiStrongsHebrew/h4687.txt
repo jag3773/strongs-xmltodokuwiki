@@ -1,12 +1,16 @@
 ====== H4687: מִצְוָה (mitsvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6680 ;
+from H6680;
 
 ===== Meaning =====
 
-a  command , whether human or divine (collectively, the  Law )
+a **command**, whether human or divine (collectively, the **Law**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7110: קֶצֶף (qetseph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7107 ;
+from H7107;
 
 ===== Meaning =====
 
-a  splinter  (as chipped off); figuratively,  rage  or  strife
+a **splinter** (as chipped off); figuratively, **rage** or **strife**
 
 ===== Definitions =====
 

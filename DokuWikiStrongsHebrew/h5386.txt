@@ -1,12 +1,16 @@
 ====== H5386: נְשִׁי (nᵉshîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5383 ;
+from H5383;
 
 ===== Meaning =====
 
-a  debt
+a **debt**
 
 ===== Definitions =====
 

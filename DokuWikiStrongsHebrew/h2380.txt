@@ -1,12 +1,16 @@
 ====== H2380: חָזוּת (châzûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2372 ;
+from H2372;
 
 ===== Meaning =====
 
-a  look ; hence (figuratively) striking  appearance ,  revelation , or (by implication)  compact
+a **look**; hence (figuratively) striking **appearance**, **revelation**, or (by implication) **compact**
 
 ===== Definitions =====
 

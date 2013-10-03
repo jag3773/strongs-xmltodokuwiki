@@ -1,12 +1,16 @@
 ====== H555: אֹמֶץ (ʼômets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H553 ;
+from H553;
 
 ===== Meaning =====
 
-strength
+**strength**
 
 ===== Definitions =====
 

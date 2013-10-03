@@ -1,12 +1,16 @@
 ====== H7959: שֶׁלֶו (shelev) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7951 ;
+from H7951;
 
 ===== Meaning =====
 
-security
+**security**
 
 ===== Definitions =====
 

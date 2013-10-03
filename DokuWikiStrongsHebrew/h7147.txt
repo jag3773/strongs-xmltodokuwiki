@@ -1,12 +1,16 @@
 ====== H7147: קְרִי (qᵉrîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7136 ;
+from H7136;
 
 ===== Meaning =====
 
-hostile encounter
+**hostile encounter**
 
 ===== Definitions =====
 

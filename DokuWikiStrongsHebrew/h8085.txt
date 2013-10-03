@@ -1,12 +1,16 @@
 ====== H8085: שָׁמַע (shâmaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  hear  intelligently (often with implication of attention, obedience, etc.; causatively, to  tell , etc.)
+to **hear** intelligently (often with implication of attention, obedience, etc.; causatively, to **tell**, etc.)
 
 ===== Definitions =====
 

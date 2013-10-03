@@ -1,12 +1,16 @@
 ====== H8220: שִׁפְלוּת (shiphlûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8213 ;
+from H8213;
 
 ===== Meaning =====
 
-remissness
+**remissness**
 
 ===== Definitions =====
 

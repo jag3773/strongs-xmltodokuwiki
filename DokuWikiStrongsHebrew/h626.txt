@@ -1,12 +1,16 @@
 ====== H626: אֲסֵפָה (ʼăçêphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H622 ;
+from H622;
 
 ===== Meaning =====
 
-a  collection  of people (only adverbial)
+a **collection** of people (only adverbial)
 
 ===== Definitions =====
 

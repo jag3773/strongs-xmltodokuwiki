@@ -1,12 +1,16 @@
 ====== H4817: מֶרְכָּב (merkâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7392 ;
+from H7392;
 
 ===== Meaning =====
 
-a  chariot ; also a  seat  (in a vehicle)
+a **chariot**; also a **seat** (in a vehicle)
 
 ===== Definitions =====
 

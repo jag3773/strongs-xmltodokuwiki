@@ -1,12 +1,16 @@
 ====== H2239: זֶרֶת (zereth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2219 ;
+from H2219;
 
 ===== Meaning =====
 
-the  spread  of the fingers, i.e. a  span
+the **spread** of the fingers, i.e. a **span**
 
 ===== Definitions =====
 

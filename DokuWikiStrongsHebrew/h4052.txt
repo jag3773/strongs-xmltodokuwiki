@@ -1,12 +1,16 @@
 ====== H4052: מִגְרָעָה (migrâʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1639 ;
+from H1639;
 
 ===== Meaning =====
 
-a  ledge  or  offset
+a **ledge** or **offset**
 
 ===== Definitions =====
 

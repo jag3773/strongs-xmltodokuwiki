@@ -1,12 +1,16 @@
 ====== H5636: סַרְפָּד (çarpâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5635 ;
+from H5635;
 
 ===== Meaning =====
 
-a  nettle  (as stinging like a  burn )
+a **nettle** (as stinging like a **burn**)
 
 ===== Definitions =====
 

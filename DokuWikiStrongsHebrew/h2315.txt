@@ -1,12 +1,16 @@
 ====== H2315: חֶדֶר (cheder) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2314 ;
+from H2314;
 
 ===== Meaning =====
 
-an  apartment  (usually literal)
+an **apartment** (usually literal)
 
 ===== Definitions =====
 

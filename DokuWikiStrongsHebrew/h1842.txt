@@ -1,12 +1,16 @@
 ====== H1842: דָּן יַעַן (Dân Yaʻan) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1835  and (apparently)  H3282 ; judge of purpose;
+from H1835 and (apparently) H3282; judge of purpose;
 
 ===== Meaning =====
 
-Dan-Jaan , a place in Palestine
+**Dan-Jaan**, a place in Palestine
 
 ===== Definitions =====
 

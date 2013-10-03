@@ -1,12 +1,16 @@
 ====== H2093: זַהַם (Zaham) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2092 ; loathing;
+from H2092; loathing;
 
 ===== Meaning =====
 
-Zaham , an Israelite
+**Zaham**, an Israelite
 
 ===== Definitions =====
 

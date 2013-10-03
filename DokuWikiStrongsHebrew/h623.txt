@@ -1,12 +1,16 @@
 ====== H623: אָסָף (ʼÂçâph) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H622 ;  ;
+from H622; **collector**;
 
 ===== Meaning =====
 
-collector Asaph , the name of three Israelites, and of the family of the first
+**Asaph**, the name of three Israelites, and of the family of the first
 
 ===== Definitions =====
 

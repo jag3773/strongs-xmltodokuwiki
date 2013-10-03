@@ -1,12 +1,16 @@
 ====== H8605: תְּפִלָּה (tᵉphillâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6419 ;
+from H6419;
 
 ===== Meaning =====
 
-intercession ,  supplication ; by implication, a  hymn
+**intercession**, **supplication**; by implication, a **hymn**
 
 ===== Definitions =====
 

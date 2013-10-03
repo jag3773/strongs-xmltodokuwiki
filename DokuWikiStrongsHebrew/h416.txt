@@ -1,12 +1,16 @@
 ====== H416: אֵל בֵּית־אֵל (ʼÊl Bêyth-ʼÊl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H410  and  H1008 ; the God of Bethel;
+from H410 and H1008; the God of Bethel;
 
 ===== Meaning =====
 
-El-Bethel , the title given to a consecrated spot by Jacob
+**El-Bethel**, the title given to a consecrated spot by Jacob
 
 ===== Definitions =====
 

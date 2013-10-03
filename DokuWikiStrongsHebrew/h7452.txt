@@ -1,12 +1,16 @@
 ====== H7452: רֵעַ (rêaʻ) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H7321 ;
+from H7321;
 
 ===== Meaning =====
 
-a  crash  (of thunder),  noise  (of war),  shout  (of joy)
+a **crash** (of thunder), **noise** (of war), **shout** (of joy)
 
 ===== Definitions =====
 

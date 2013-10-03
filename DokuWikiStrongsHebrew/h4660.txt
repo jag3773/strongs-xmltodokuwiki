@@ -1,12 +1,16 @@
 ====== H4660: מַפָּץ (mappâts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5310 ;
+from H5310;
 
 ===== Meaning =====
 
-a  smiting to pieces
+a **smiting to pieces**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1237: בִּקְעָה (biqʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1234 ;
+from H1234;
 
 ===== Meaning =====
 
-properly, a  split , i.e. a wide level valley between mountains
+properly, a **split**, i.e. a wide level valley between mountains
 
 ===== Definitions =====
 

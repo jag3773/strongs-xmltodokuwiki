@@ -1,12 +1,16 @@
 ====== H4348: מִכְוָה (mikvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3554 ;
+from H3554;
 
 ===== Meaning =====
 
-a  burn
+a **burn**
 
 ===== Definitions =====
 

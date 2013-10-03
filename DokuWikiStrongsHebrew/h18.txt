@@ -1,12 +1,16 @@
 ====== H18: אֵבוּס (ʼêbûwç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H75 ;
+from H75;
 
 ===== Meaning =====
 
-a  manger  or  stall
+a **manger** or **stall**
 
 ===== Definitions =====
 

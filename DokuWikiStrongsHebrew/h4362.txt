@@ -1,12 +1,16 @@
 ====== H4362: מִכְמַן (mikman) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from the same as  H3646  in the sense of hiding;
+from the same as H3646 in the sense of hiding;
 
 ===== Meaning =====
 
-treasure  (as hidden)
+**treasure** (as hidden)
 
 ===== Definitions =====
 

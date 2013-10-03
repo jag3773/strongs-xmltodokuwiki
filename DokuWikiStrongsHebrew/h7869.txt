@@ -1,12 +1,16 @@
 ====== H7869: שֵׂיב (sêyb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7867 ;
+from H7867;
 
 ===== Meaning =====
 
-old age
+**old age**
 
 ===== Definitions =====
 

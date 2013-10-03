@@ -1,12 +1,16 @@
 ====== H262: אַחְוָה (ʼachvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2331  (in the sense of  H2324 );
+from H2331 (in the sense of H2324);
 
 ===== Meaning =====
 
-an  utterance
+an **utterance**
 
 ===== Definitions =====
 

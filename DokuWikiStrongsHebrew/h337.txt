@@ -1,12 +1,16 @@
 ====== H337: אִי (ʼîy) ======
 
+===== Part of Speech =====
+
+inj
+
 ===== Source =====
 
-short from  H188 ;
+short from H188;
 
 ===== Meaning =====
 
-alas!
+**alas!**
 
 ===== Definitions =====
 

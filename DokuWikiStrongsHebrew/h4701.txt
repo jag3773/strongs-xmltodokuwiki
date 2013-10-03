@@ -1,12 +1,16 @@
 ====== H4701: מִצְנֶפֶת (mitsnepheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6801 ;
+from H6801;
 
 ===== Meaning =====
 
-a  tiara , i.e. official  turban  (of a king or high priest)
+a **tiara**, i.e. official **turban** (of a king or high priest)
 
 ===== Definitions =====
 

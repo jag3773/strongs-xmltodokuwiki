@@ -1,12 +1,16 @@
 ====== H5875: עֵין הַקּוֹרֵא (ʻÊyn haq-Qôwrêʼ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and the active participle of  H7121 ; fountain of One calling;
+from H5869 and the active participle of H7121; fountain of One calling;
 
 ===== Meaning =====
 
-En-hak-Kore , a place near Palestine
+**En-hak-Kore**, a place near Palestine
 
 ===== Definitions =====
 

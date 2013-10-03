@@ -1,12 +1,16 @@
 ====== H2147: זִכְרִי (Zikrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2142 ; memorable;
+from H2142; memorable;
 
 ===== Meaning =====
 
-Zicri , the name of twelve Israelites
+**Zicri**, the name of twelve Israelites
 
 ===== Definitions =====
 

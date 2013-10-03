@@ -1,12 +1,16 @@
 ====== H835: אֶשֶׁר (ʼesher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H833 ;
+from H833;
 
 ===== Meaning =====
 
-happiness ; only in masculine plural construction as interjection, how  happy!
+**happiness**; only in masculine plural construction as interjection, how **happy!**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H302: אֲחִיתֹפֶל (ʼĂchîythôphel) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H8602 ; brother of folly;
+from H251 and H8602; brother of folly;
 
 ===== Meaning =====
 
-Achithophel , an Israelite
+**Achithophel**, an Israelite
 
 ===== Definitions =====
 

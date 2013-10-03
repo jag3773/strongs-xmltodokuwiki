@@ -1,12 +1,16 @@
 ====== H1192: בַּעֲלַת בְּאֵר (Baʻălath Bᵉʼêr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1172  and  H875 ; mistress of a well;
+from H1172 and H875; mistress of a well;
 
 ===== Meaning =====
 
-Baalath-Beer , a place in Palestine
+**Baalath-Beer**, a place in Palestine
 
 ===== Definitions =====
 

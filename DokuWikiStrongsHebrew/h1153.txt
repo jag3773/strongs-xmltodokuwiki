@@ -1,12 +1,16 @@
 ====== H1153: בְּסַי (Bᵉçay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H947 ; domineering;
+from H947; domineering;
 
 ===== Meaning =====
 
-Besai , one of the Nethinim
+**Besai**, one of the Nethinim
 
 ===== Definitions =====
 

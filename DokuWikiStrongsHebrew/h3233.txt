@@ -1,12 +1,16 @@
 ====== H3233: יְמָנִי (yᵉmânîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3231 ;
+from H3231;
 
 ===== Meaning =====
 
-right  (i.e. at the right hand)
+**right** (i.e. at the right hand)
 
 ===== Definitions =====
 

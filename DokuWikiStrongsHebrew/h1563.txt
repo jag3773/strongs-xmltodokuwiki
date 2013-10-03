@@ -1,12 +1,16 @@
 ====== H1563: גָּלַם (gâlam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  fold
+to **fold**
 
 ===== Definitions =====
 

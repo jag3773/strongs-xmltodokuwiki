@@ -1,12 +1,16 @@
 ====== H4331: מֵישָׁא (Mêyshâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4185 ;  ;
+from H4185; **departure**;
 
 ===== Meaning =====
 
-departure Mesha , a place in Arabia; also an Israelite
+**Mesha**, a place in Arabia; also an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7987: שְׁלִי (shᵉlîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7951 ;
+from H7951;
 
 ===== Meaning =====
 
-privacy
+**privacy**
 
 ===== Definitions =====
 

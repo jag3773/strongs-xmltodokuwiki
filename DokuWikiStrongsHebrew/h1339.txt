@@ -1,12 +1,16 @@
 ====== H1339: בַּת־שֶׁבַע (Bath-Shebaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H1323  and  H7651  (in the sense of  H7650 ); daughter of an oath;
+from H1323 and H7651 (in the sense of H7650); daughter of an oath;
 
 ===== Meaning =====
 
-Bath-Sheba , the mother of Solomon
+**Bath-Sheba**, the mother of Solomon
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2638: חָסֵר (châçêr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2637 ;
+from H2637;
 
 ===== Meaning =====
 
-lacking ; hence,  without
+**lacking**; hence, **without**
 
 ===== Definitions =====
 

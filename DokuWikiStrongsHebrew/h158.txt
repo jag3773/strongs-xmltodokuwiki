@@ -1,12 +1,16 @@
 ====== H158: אַהַב (ʼahab) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H157 ;
+from H157;
 
 ===== Meaning =====
 
-affection  (in a good or a bad sense)
+**affection** (in a good or a bad sense)
 
 ===== Definitions =====
 

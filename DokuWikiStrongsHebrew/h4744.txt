@@ -1,12 +1,16 @@
 ====== H4744: מִקְרָא (miqrâʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7121 ;
+from H7121;
 
 ===== Meaning =====
 
-something  called  out, i.e. a public  meeting  (the act, the persons, or the place); also a  rehearsal
+something **called** out, i.e. a public **meeting** (the act, the persons, or the place); also a **rehearsal**
 
 ===== Definitions =====
 

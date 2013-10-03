@@ -1,12 +1,16 @@
 ====== H5175: נָחָשׁ (nâchâsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5172 ;
+from H5172;
 
 ===== Meaning =====
 
-a  snake  (from its hiss)
+a **snake** (from its hiss)
 
 ===== Definitions =====
 

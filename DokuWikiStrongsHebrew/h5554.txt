@@ -1,12 +1,16 @@
 ====== H5554: סֶלַע (Çelaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H5553 ;
+the same as H5553;
 
 ===== Meaning =====
 
-Sela , the rock-city of Idumaea
+**Sela**, the rock-city of Idumaea
 
 ===== Definitions =====
 

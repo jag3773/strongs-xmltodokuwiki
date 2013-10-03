@@ -1,12 +1,16 @@
 ====== H7130: קֶרֶב (qereb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7126 ;
+from H7126;
 
 ===== Meaning =====
 
-properly, the  nearest  part, i.e. the  center , whether literal, figurative or adverbial (especially with preposition)
+properly, the **nearest** part, i.e. the **center**, whether literal, figurative or adverbial (especially with preposition)
 
 ===== Definitions =====
 

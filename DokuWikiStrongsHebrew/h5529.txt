@@ -1,12 +1,16 @@
 ====== H5529: סֶכֶל (çekel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5528 ;
+from H5528;
 
 ===== Meaning =====
 
-silliness ; concretely and collectively,  dolts
+**silliness**; concretely and collectively, **dolts**
 
 ===== Definitions =====
 

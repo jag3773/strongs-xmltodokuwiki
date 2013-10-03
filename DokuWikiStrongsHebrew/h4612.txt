@@ -1,12 +1,16 @@
 ====== H4612: מַעֲמָד (maʻămâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5975 ;
+from H5975;
 
 ===== Meaning =====
 
-(figuratively) a  position
+(figuratively) a **position**
 
 ===== Definitions =====
 

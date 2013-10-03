@@ -1,12 +1,16 @@
 ====== H2661: חֲפֹר (chăphôr) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2658 ; a  ; only in connection with  H6512 , which ought rather to be joined as one word, thus   ; by reduplication from  H2658 ;
+from H2658; a **hole**; only in connection with H6512, which ought rather to be joined as one word, thus ; by reduplication from H2658;
 
 ===== Meaning =====
 
-hole a  burrower , i.e. probably a  rat
+a **burrower**, i.e. probably a **rat**
 
 ===== Definitions =====
 

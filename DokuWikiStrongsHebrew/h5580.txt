@@ -1,12 +1,16 @@
 ====== H5580: סָס (çâç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from the same as  H5483 ;
+from the same as H5483;
 
 ===== Meaning =====
 
-a  moth  (from the  agility  of the fly)
+a **moth** (from the **agility** of the fly)
 
 ===== Definitions =====
 

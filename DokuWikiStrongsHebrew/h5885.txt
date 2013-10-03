@@ -1,12 +1,16 @@
 ====== H5885: עֵין שֶׁמֶשׁ (ʻÊyn Shemesh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and  H8121 ;  ;
+from H5869 and H8121; **fountain of the sun**;
 
 ===== Meaning =====
 
-fountain of the sun En-Shemesh , a place in Palestine
+**En-Shemesh**, a place in Palestine
 
 ===== Definitions =====
 

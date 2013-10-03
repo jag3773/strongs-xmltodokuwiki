@@ -1,12 +1,16 @@
 ====== H1714: דֶּגֶל (degel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1713 ;
+from H1713;
 
 ===== Meaning =====
 
-a  flag
+a **flag**
 
 ===== Definitions =====
 

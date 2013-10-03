@@ -1,12 +1,16 @@
 ====== H4372: מִכְסֶה (mikçeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3680 ;
+from H3680;
 
 ===== Meaning =====
 
-a  covering , i.e.  weatherboarding
+a **covering**, i.e. **weatherboarding**
 
 ===== Definitions =====
 

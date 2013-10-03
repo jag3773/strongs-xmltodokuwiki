@@ -1,12 +1,16 @@
 ====== H1056: בָּכָא (Bâkâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1058 , weeping;
+from H1058, weeping;
 
 ===== Meaning =====
 
-Baca , a valley in Palestine
+**Baca**, a valley in Palestine
 
 ===== Definitions =====
 

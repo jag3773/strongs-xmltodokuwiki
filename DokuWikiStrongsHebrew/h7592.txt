@@ -1,12 +1,16 @@
 ====== H7592: שָׁאַל (shâʼal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; a primitive root;
+or ; a primitive root;
 
 ===== Meaning =====
 
-to  inquire ; by implication, to  request ; by extension, to  demand
+to **inquire**; by implication, to **request**; by extension, to **demand**
 
 ===== Definitions =====
 

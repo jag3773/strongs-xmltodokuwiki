@@ -1,12 +1,16 @@
 ====== H3016: יָגוֹר (yâgôwr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3025 ;
+from H3025;
 
 ===== Meaning =====
 
-fearful
+**fearful**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2038: הַרְמוֹן (harmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H2036 ;
+from the same as H2036;
 
 ===== Meaning =====
 
-a  castle  (from its height)
+a **castle** (from its height)
 
 ===== Definitions =====
 

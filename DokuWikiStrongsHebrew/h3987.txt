@@ -1,12 +1,16 @@
 ====== H3987: מֵאֵן (mêʼên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3985 ;
+from H3985;
 
 ===== Meaning =====
 
-refractory
+**refractory**
 
 ===== Definitions =====
 

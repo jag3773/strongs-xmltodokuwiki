@@ -1,12 +1,16 @@
 ====== H4337: מֵישָׁע (Mêyshâʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3467 ; safety;
+from H3467; safety;
 
 ===== Meaning =====
 
-Mesha , an Israelite
+**Mesha**, an Israelite
 
 ===== Definitions =====
 

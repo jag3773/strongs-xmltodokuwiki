@@ -1,12 +1,16 @@
 ====== H5088: נֶדֶר (neder) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from  H5087 ;
+or ; from H5087;
 
 ===== Meaning =====
 
-a  promise  (to God); also (concretely) a  thing promised
+a **promise** (to God); also (concretely) a **thing promised**
 
 ===== Definitions =====
 

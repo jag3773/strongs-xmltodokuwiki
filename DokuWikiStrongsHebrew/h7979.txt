@@ -1,12 +1,16 @@
 ====== H7979: שֻׁלְחָן (shulchân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7971 ;
+from H7971;
 
 ===== Meaning =====
 
-a  table  (as  spread  out); by implication, a  meal
+a **table** (as **spread** out); by implication, a **meal**
 
 ===== Definitions =====
 

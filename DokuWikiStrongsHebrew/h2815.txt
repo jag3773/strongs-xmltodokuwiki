@@ -1,12 +1,16 @@
 ====== H2815: חַשּׁוּב (Chashshûwb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2803 ; intelligent;
+from H2803; intelligent;
 
 ===== Meaning =====
 
-Chashshub , the name of two or three Israelites
+**Chashshub**, the name of two or three Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7341: רֹחַב (rôchab) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7337 ;
+from H7337;
 
 ===== Meaning =====
 
-width  (literally or figuratively)
+**width** (literally or figuratively)
 
 ===== Definitions =====
 

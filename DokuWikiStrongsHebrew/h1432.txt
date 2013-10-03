@@ -1,12 +1,16 @@
 ====== H1432: גָּדֵל (gâdêl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1431 ;
+from H1431;
 
 ===== Meaning =====
 
-large  (literally or figuratively)
+**large** (literally or figuratively)
 
 ===== Definitions =====
 

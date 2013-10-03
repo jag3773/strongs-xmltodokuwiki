@@ -1,12 +1,16 @@
 ====== H5339: נִצָּן (nitstsân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5322 ;
+from H5322;
 
 ===== Meaning =====
 
-a  blossom
+a **blossom**
 
 ===== Definitions =====
 

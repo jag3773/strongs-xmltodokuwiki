@@ -1,12 +1,16 @@
 ====== H7005: קַטָּת (Qaṭṭâth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6996 ;  ;
+from H6996; **littleness**;
 
 ===== Meaning =====
 
-littleness Kattath , a place in Palestine
+**Kattath**, a place in Palestine
 
 ===== Definitions =====
 

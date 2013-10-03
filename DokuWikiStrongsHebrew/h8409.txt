@@ -1,12 +1,16 @@
 ====== H8409: תִּגְרָה (tigrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1624 ;
+from H1624;
 
 ===== Meaning =====
 
-strife , i.e.  infliction
+**strife**, i.e. **infliction**
 
 ===== Definitions =====
 

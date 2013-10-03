@@ -1,12 +1,16 @@
 ====== H6886: צָרְפַת (Tsârᵉphath) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6884 ;  ;
+from H6884; **refinement**;
 
 ===== Meaning =====
 
-refinement Tsarephath , a place in Palestine
+**Tsarephath**, a place in Palestine
 
 ===== Definitions =====
 

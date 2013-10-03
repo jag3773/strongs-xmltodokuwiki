@@ -1,12 +1,16 @@
 ====== H4050: מְגֵרָה (mᵉgêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1641 ;
+from H1641;
 
 ===== Meaning =====
 
-a  saw
+a **saw**
 
 ===== Definitions =====
 

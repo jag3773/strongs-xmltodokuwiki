@@ -1,12 +1,16 @@
 ====== H1631: גַּרְזֶן (garzen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1629 ;
+from H1629;
 
 ===== Meaning =====
 
-an  axe
+an **axe**
 
 ===== Definitions =====
 

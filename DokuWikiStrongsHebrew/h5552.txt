@@ -1,12 +1,16 @@
 ====== H5552: סַלְסִלָּה (çalçillâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5541 ;
+from H5541;
 
 ===== Meaning =====
 
-a  twig  (as pendulous)
+a **twig** (as pendulous)
 
 ===== Definitions =====
 

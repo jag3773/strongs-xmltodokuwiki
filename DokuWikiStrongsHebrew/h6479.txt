@@ -1,12 +1,16 @@
 ====== H6479: פְּצָלָה (pᵉtsâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6478 ;
+from H6478;
 
 ===== Meaning =====
 
-a  peeling
+a **peeling**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7042: קְלִיטָא (Qᵉlîyṭâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7038 ;  ;
+from H7038; **maiming**;
 
 ===== Meaning =====
 
-maiming Kelita , the name of three Israelites
+**Kelita**, the name of three Israelites
 
 ===== Definitions =====
 

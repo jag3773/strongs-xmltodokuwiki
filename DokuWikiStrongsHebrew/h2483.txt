@@ -1,12 +1,16 @@
 ====== H2483: חֳלִי (chŏlîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2470 ;
+from H2470;
 
 ===== Meaning =====
 
-malady ,  anxiety ,  calamity
+**malady**, **anxiety**, **calamity**
 
 ===== Definitions =====
 

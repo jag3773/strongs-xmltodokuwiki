@@ -1,12 +1,16 @@
 ====== H4531: מַסָּה (maççâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5254 ;
+from H5254;
 
 ===== Meaning =====
 
-a  testing , of men (judicial) or of God (querulous)
+a **testing**, of men (judicial) or of God (querulous)
 
 ===== Definitions =====
 

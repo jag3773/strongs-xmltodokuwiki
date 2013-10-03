@@ -1,12 +1,16 @@
 ====== H2768: חֶרְמוֹן (Chermôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2763 ;  ;
+from H2763; **abrupt**;
 
 ===== Meaning =====
 
-abrupt Chermon , a mount of Palestine
+**Chermon**, a mount of Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2642: חֶסְרוֹן (cheçrôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2637 ;
+from H2637;
 
 ===== Meaning =====
 
-deficiency
+**deficiency**
 
 ===== Definitions =====
 

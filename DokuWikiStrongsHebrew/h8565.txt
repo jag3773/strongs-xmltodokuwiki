@@ -1,12 +1,16 @@
 ====== H8565: תַּן (tan) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root probably meaning to  ;
+from an unused root probably meaning to **elongate**;
 
 ===== Meaning =====
 
-elongate a  monster  (as preternaturally formed), i.e. a  sea-serpent  (or other huge marine animal); also a  jackal  (or other hideous land animal)
+a **monster** (as preternaturally formed), i.e. a **sea-serpent** (or other huge marine animal); also a **jackal** (or other hideous land animal)
 
 ===== Definitions =====
 

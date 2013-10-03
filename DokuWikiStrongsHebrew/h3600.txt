@@ -1,12 +1,16 @@
 ====== H3600: כִּיר (kîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-a form for  H3564  (only in the dual);
+a form for H3564 (only in the dual);
 
 ===== Meaning =====
 
-a  cooking range  (consisting of two parallel stones, across which the boiler is set)
+a **cooking range** (consisting of two parallel stones, across which the boiler is set)
 
 ===== Definitions =====
 

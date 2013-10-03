@@ -1,12 +1,16 @@
 ====== H7179: קַשׁ (qash) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7197 ;
+from H7197;
 
 ===== Meaning =====
 
-straw  (as  dry )
+**straw** (as **dry**)
 
 ===== Definitions =====
 

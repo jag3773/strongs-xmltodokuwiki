@@ -1,12 +1,16 @@
 ====== H217: אוּר (ʼûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H215 ;
+from H215;
 
 ===== Meaning =====
 
-flame ; hence (in the plural)  the East  (as being the region of light)
+**flame**; hence (in the plural) **the East** (as being the region of light)
 
 ===== Definitions =====
 

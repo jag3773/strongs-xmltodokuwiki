@@ -1,12 +1,16 @@
 ====== H391: אַכְזָב (ʼakzâb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3576 ;
+from H3576;
 
 ===== Meaning =====
 
-falsehood ; by implication  treachery
+**falsehood**; by implication **treachery**
 
 ===== Definitions =====
 

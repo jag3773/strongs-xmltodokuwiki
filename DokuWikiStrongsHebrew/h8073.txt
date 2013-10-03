@@ -1,12 +1,16 @@
 ====== H8073: שַׁמְלַי (Shamlay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H8014 ;
+for H8014;
 
 ===== Meaning =====
 
-Shamlai , one of the Nethinim
+**Shamlai**, one of the Nethinim
 
 ===== Definitions =====
 

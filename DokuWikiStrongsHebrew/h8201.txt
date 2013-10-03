@@ -1,12 +1,16 @@
 ====== H8201: שֶׁפֶט (shepheṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8199 ;
+from H8199;
 
 ===== Meaning =====
 
-a  sentence , i.e.  infliction
+a **sentence**, i.e. **infliction**
 
 ===== Definitions =====
 

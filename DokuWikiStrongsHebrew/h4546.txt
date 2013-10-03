@@ -1,12 +1,16 @@
 ====== H4546: מְסִלָּה (mᵉçillâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5549 ;
+from H5549;
 
 ===== Meaning =====
 
-a  thoroughfare  (as  turnpiked ), literally or figuratively; specifically a  viaduct , a  staircase
+a **thoroughfare** (as **turnpiked**), literally or figuratively; specifically a **viaduct**, a **staircase**
 
 ===== Definitions =====
 

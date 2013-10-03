@@ -1,12 +1,16 @@
 ====== H5346: נֶקֶב (Neqeb) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H5345 ;  ;
+the same as H5345; **dell**;
 
 ===== Meaning =====
 
-dell Nekeb , a place in Palestine
+**Nekeb**, a place in Palestine
 
 ===== Definitions =====
 

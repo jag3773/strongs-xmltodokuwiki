@@ -1,12 +1,16 @@
 ====== H4500: מָנוֹר (mânôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5214 ;
+from H5214;
 
 ===== Meaning =====
 
-a  yoke  (properly, for plowing), i.e. the  frame of a loom
+a **yoke** (properly, for plowing), i.e. the **frame of a loom**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6406: פַּלְטִי (Palṭîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6403 ;  ;
+from H6403; **delivered**;
 
 ===== Meaning =====
 
-delivered Palti , the name of two Israelites
+**Palti**, the name of two Israelites
 
 ===== Definitions =====
 

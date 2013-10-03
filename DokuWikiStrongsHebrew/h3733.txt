@@ -1,12 +1,16 @@
 ====== H3733: כַּר (kar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3769  in the sense of plumpness;
+from H3769 in the sense of plumpness;
 
 ===== Meaning =====
 
-a  ram  (as full-grown and fat), including a  battering-ram  (as butting); hence, a  meadow  (as for sheep); also a  pad  or  camel's saddle  (as puffed out)
+a **ram** (as full-grown and fat), including a **battering-ram** (as butting); hence, a **meadow** (as for sheep); also a **pad** or **camel's saddle** (as puffed out)
 
 ===== Definitions =====
 

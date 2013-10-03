@@ -1,12 +1,16 @@
 ====== H4739: מָקַץ (Mâqats) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7112 ;  ;
+from H7112; **end**;
 
 ===== Meaning =====
 
-end Makats , a place in Palestine
+**Makats**, a place in Palestine
 
 ===== Definitions =====
 

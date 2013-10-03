@@ -1,12 +1,16 @@
 ====== H1137: בָּנִי (Bânîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1129 ; built;
+from H1129; built;
 
 ===== Meaning =====
 
-Bani , the name of five Israelites
+**Bani**, the name of five Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2639: חֶסֶר (cheçer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2637 ;
+from H2637;
 
 ===== Meaning =====
 
-lack ; hence,  destitution
+**lack**; hence, **destitution**
 
 ===== Definitions =====
 

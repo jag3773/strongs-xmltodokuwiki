@@ -1,12 +1,16 @@
 ====== H8105: שֶׁמֶר (shemer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8104 ;
+from H8104;
 
 ===== Meaning =====
 
-something  preserved , i.e. the  settlings  (plural only) of wine
+something **preserved**, i.e. the **settlings** (plural only) of wine
 
 ===== Definitions =====
 

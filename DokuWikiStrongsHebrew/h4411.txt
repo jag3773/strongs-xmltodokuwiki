@@ -1,12 +1,16 @@
 ====== H4411: מָלוֹן (mâlôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3885 ;
+from H3885;
 
 ===== Meaning =====
 
-a  lodgment , i.e.  caravanserai  or  encampment
+a **lodgment**, i.e. **caravanserai** or **encampment**
 
 ===== Definitions =====
 

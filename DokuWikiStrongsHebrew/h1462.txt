@@ -1,12 +1,16 @@
 ====== H1462: גּוֹב (gôwb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1461 ;
+from H1461;
 
 ===== Meaning =====
 
-the  locust  (from its grubbing as a larvae)
+the **locust** (from its grubbing as a larvae)
 
 ===== Definitions =====
 

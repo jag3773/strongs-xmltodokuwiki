@@ -1,12 +1,16 @@
 ====== H2455: חֹל (chôl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2490 ;
+from H2490;
 
 ===== Meaning =====
 
-properly,  exposed ; hence,  profane
+properly, **exposed**; hence, **profane**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5315: נֶפֶשׁ (nephesh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5314 ;
+from H5314;
 
 ===== Meaning =====
 
-properly, a  breathing creature , i.e.  animal  of (abstractly)  vitality ; used very widely in a literal, accommodated or figurative sense (bodily or mental)
+properly, a **breathing creature**, i.e. **animal** of (abstractly) **vitality**; used very widely in a literal, accommodated or figurative sense (bodily or mental)
 
 ===== Definitions =====
 

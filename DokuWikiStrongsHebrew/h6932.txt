@@ -1,12 +1,16 @@
 ====== H6932: קְדֵמוֹת (Qᵉdêmôwth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6923 ; beginnings;
+from H6923; beginnings;
 
 ===== Meaning =====
 
-Kedemoth , a place in eastern Palestine
+**Kedemoth**, a place in eastern Palestine
 
 ===== Definitions =====
 

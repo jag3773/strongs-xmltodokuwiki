@@ -1,12 +1,16 @@
 ====== H2017: הֹפֶךְ (hôphek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2015 ;
+from H2015;
 
 ===== Meaning =====
 
-an  upset , i.e. (abstract)  perversity
+an **upset**, i.e. (abstract) **perversity**
 
 ===== Definitions =====
 

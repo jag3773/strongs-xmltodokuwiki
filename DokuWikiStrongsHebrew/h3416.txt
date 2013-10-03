@@ -1,12 +1,16 @@
 ====== H3416: יִרְפְּאֵל (Yirpᵉʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7495  and  H410 ;  ;
+from H7495 and H410; **God will heal**;
 
 ===== Meaning =====
 
-God will heal Jirpeel , a place in Palestine
+**Jirpeel**, a place in Palestine
 
 ===== Definitions =====
 

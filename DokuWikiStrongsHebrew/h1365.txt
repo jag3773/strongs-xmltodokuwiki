@@ -1,12 +1,16 @@
 ====== H1365: גַּבְהוּת (gabhûwth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1361 ;
+from H1361;
 
 ===== Meaning =====
 
-pride
+**pride**
 
 ===== Definitions =====
 

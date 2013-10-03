@@ -1,12 +1,16 @@
 ====== H4925: מִשְׁמַנָּה (Mishmannâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8080 ;  ;
+from H8080; **fatness**;
 
 ===== Meaning =====
 
-fatness Mashmannah , an Israelite
+**Mashmannah**, an Israelite
 
 ===== Definitions =====
 

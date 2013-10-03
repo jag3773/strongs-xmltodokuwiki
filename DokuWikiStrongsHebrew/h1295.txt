@@ -1,12 +1,16 @@
 ====== H1295: בְּרֵכָה (bᵉrêkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1288 ;
+from H1288;
 
 ===== Meaning =====
 
-a  reservoir  (at which camels  kneel  as a resting-place)
+a **reservoir** (at which camels **kneel** as a resting-place)
 
 ===== Definitions =====
 

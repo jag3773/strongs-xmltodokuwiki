@@ -1,12 +1,16 @@
 ====== H8066: שְׁמִינִי (shᵉmîynîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8083 ;
+from H8083;
 
 ===== Meaning =====
 
-eight
+**eight**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3176: יָחַל (yâchal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  wait ; by implication, to  be patient ,  hope
+to **wait**; by implication, to **be patient**, **hope**
 
 ===== Definitions =====
 

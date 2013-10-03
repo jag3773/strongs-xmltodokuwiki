@@ -1,12 +1,16 @@
 ====== H7428: רִמֹּן פֶּרֶץ (Rimmôn Perets) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7416  and  H6556 ;  ;
+from H7416 and H6556; **pomegranate of the breach**;
 
 ===== Meaning =====
 
-pomegranate of the breach Rimmon-Perets , a place in the Desert
+**Rimmon-Perets**, a place in the Desert
 
 ===== Definitions =====
 

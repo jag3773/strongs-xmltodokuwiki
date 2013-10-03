@@ -1,12 +1,16 @@
 ====== H8320: שָׂרֻק (sâruq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8319 ;
+from H8319;
 
 ===== Meaning =====
 
-bright red  (as  piercing  to the sight), i.e.  bay
+**bright red** (as **piercing** to the sight), i.e. **bay**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8045: שָׁמַד (shâmad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  desolate
+to **desolate**
 
 ===== Definitions =====
 

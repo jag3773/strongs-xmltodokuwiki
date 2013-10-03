@@ -1,12 +1,16 @@
 ====== H7227: רַב (rab) ======
 
+===== Part of Speech =====
+
+a n-m
+
 ===== Source =====
 
-by contracted from  H7231 ;
+by contracted from H7231;
 
 ===== Meaning =====
 
-abundant  (in quantity, size, age, number, rank, quality)
+**abundant** (in quantity, size, age, number, rank, quality)
 
 ===== Definitions =====
 

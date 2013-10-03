@@ -1,12 +1,16 @@
 ====== H8487: תֵּימָן (Têymân) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-or   ; the same as  H8486 ;
+or ; the same as H8486;
 
 ===== Meaning =====
 
-Teman , the name of two Edomites, and of the region and descendant of one of them
+**Teman**, the name of two Edomites, and of the region and descendant of one of them
 
 ===== Definitions =====
 

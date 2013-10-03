@@ -1,12 +1,16 @@
 ====== H3561: כַּוָּן (kavvân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3559 ;
+from H3559;
 
 ===== Meaning =====
 
-something  prepared , i.e. a  sacrificial wafer
+something **prepared**, i.e. a **sacrificial wafer**
 
 ===== Definitions =====
 

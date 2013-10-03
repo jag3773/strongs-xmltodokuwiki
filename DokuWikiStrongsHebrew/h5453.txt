@@ -1,12 +1,16 @@
 ====== H5453: סִבְרַיִם (Çibrayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual from a root corresponding to  H5452 ;  ;
+dual from a root corresponding to H5452; **double hope**;
 
 ===== Meaning =====
 
-double hope Sibrajim , a place in Syria
+**Sibrajim**, a place in Syria
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H986: בִּטָּחוֹן (biṭṭâchôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H982 ;
+from H982;
 
 ===== Meaning =====
 
-trust
+**trust**
 
 ===== Definitions =====
 

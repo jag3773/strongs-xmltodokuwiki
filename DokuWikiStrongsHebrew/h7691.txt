@@ -1,12 +1,16 @@
 ====== H7691: שְׁגִיאָה (shᵉgîyʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7686 ;
+from H7686;
 
 ===== Meaning =====
 
-a  moral mistake
+a **moral mistake**
 
 ===== Definitions =====
 

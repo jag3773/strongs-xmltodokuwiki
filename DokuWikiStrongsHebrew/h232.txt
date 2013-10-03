@@ -1,12 +1,16 @@
 ====== H232: אֵזוֹר (ʼêzôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H246 ;
+from H246;
 
 ===== Meaning =====
 
-something  girt ; a  belt , also a  band
+something **girt**; a **belt**, also a **band**
 
 ===== Definitions =====
 

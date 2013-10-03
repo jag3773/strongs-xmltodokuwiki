@@ -1,12 +1,16 @@
 ====== H2214: זָרָא (zârâʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2114  (in the sense of  ) (compare  H2219 );
+from H2114 (in the sense of **estrangement**) (compare H2219);
 
 ===== Meaning =====
 
-estrangement disgust
+**disgust**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6542: פַּרְסִי (Parçîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H6539 ;
+patrial from H6539;
 
 ===== Meaning =====
 
-a  Parsite  (i.e. Persian), or inhabitant of Peres
+a **Parsite** (i.e. Persian), or inhabitant of Peres
 
 ===== Definitions =====
 

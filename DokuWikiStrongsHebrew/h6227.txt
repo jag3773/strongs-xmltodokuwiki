@@ -1,12 +1,16 @@
 ====== H6227: עָשָׁן (ʻâshân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6225 ;
+from H6225;
 
 ===== Meaning =====
 
-smoke , literally or figuratively ( vapor ,  dust ,  anger )
+**smoke**, literally or figuratively (**vapor**, **dust**, **anger**)
 
 ===== Definitions =====
 

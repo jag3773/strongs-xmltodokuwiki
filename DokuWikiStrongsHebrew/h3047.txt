@@ -1,12 +1,16 @@
 ====== H3047: יָדָע (Yâdâʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3045 ; knowing;
+from H3045; knowing;
 
 ===== Meaning =====
 
-Jada , an Israelite
+**Jada**, an Israelite
 
 ===== Definitions =====
 

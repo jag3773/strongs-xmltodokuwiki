@@ -1,12 +1,16 @@
 ====== H654: אֶפְלָל (ʼEphlâl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6419 ;  ;
+from H6419; **judge**;
 
 ===== Meaning =====
 
-judge Ephlal , an Israelite
+**Ephlal**, an Israelite
 
 ===== Definitions =====
 

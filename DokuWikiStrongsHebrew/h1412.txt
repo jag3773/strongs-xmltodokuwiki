@@ -1,12 +1,16 @@
 ====== H1412: גֻּדְגֹּדָה (Gudgôdâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-by reduplication from  H1413  (in the sense of cutting)  ;
+by reduplication from H1413 (in the sense of cutting) **cleft**;
 
 ===== Meaning =====
 
-cleft Gudgodah , a place in the Desert
+**Gudgodah**, a place in the Desert
 
 ===== Definitions =====
 

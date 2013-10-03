@@ -1,12 +1,16 @@
 ====== H2482: חֲלִי (Chălîy) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H2481 ;
+the same as H2481;
 
 ===== Meaning =====
 
-Chali , a place in Palestine
+**Chali**, a place in Palestine
 
 ===== Definitions =====
 

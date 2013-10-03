@@ -1,12 +1,16 @@
 ====== H7807: שַׁח (shach) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7817 ;
+from H7817;
 
 ===== Meaning =====
 
-sunk , i.e.  downcast
+**sunk**, i.e. **downcast**
 
 ===== Definitions =====
 

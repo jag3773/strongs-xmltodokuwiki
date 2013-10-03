@@ -1,12 +1,16 @@
 ====== H8119: שִׁמְרָת (Shimrâth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8104 ;  ;
+from H8104; **guardship**;
 
 ===== Meaning =====
 
-guardship Shimrath , an Israelite
+**Shimrath**, an Israelite
 
 ===== Definitions =====
 

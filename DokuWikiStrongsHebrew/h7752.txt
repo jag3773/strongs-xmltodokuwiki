@@ -1,12 +1,16 @@
 ====== H7752: שׁוֹט (shôwṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7751 ;
+from H7751;
 
 ===== Meaning =====
 
-a  lash  (literally or figuratively)
+a **lash** (literally or figuratively)
 
 ===== Definitions =====
 

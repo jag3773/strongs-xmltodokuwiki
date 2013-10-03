@@ -1,12 +1,16 @@
 ====== H2861: חֲתֻנָּה (chăthunnâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2859 ;
+from H2859;
 
 ===== Meaning =====
 
-a  wedding
+a **wedding**
 
 ===== Definitions =====
 

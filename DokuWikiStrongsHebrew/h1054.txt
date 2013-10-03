@@ -1,12 +1,16 @@
 ====== H1054: בֵּית תַּפּוּחַ (Bêyth Tappûwach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H8598 ; house of (the) apple;
+from H1004 and H8598; house of (the) apple;
 
 ===== Meaning =====
 
-Beth-Tappuach , a place in Palestine
+**Beth-Tappuach**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6125: עָקָה (ʻâqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5781 ;
+from H5781;
 
 ===== Meaning =====
 
-constraint
+**constraint**
 
 ===== Definitions =====
 

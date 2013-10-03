@@ -1,12 +1,16 @@
 ====== H6102: עָצֵל (ʻâtsêl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6101 ;
+from H6101;
 
 ===== Meaning =====
 
-indolent
+**indolent**
 
 ===== Definitions =====
 

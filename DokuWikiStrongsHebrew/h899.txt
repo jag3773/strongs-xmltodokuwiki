@@ -1,12 +1,16 @@
 ====== H899: בֶּגֶד (beged) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H898 ;
+from H898;
 
 ===== Meaning =====
 
-a  covering , i.e.  clothing ; also  treachery  or  pillage
+a **covering**, i.e. **clothing**; also **treachery** or **pillage**
 
 ===== Definitions =====
 

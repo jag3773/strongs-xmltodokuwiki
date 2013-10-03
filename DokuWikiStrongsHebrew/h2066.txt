@@ -1,12 +1,16 @@
 ====== H2066: זָבָד (Zâbâd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2064 ; giver;
+from H2064; giver;
 
 ===== Meaning =====
 
-Zabad , the name of seven Israelites
+**Zabad**, the name of seven Israelites
 
 ===== Definitions =====
 

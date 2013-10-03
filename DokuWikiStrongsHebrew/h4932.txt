@@ -1,12 +1,16 @@
 ====== H4932: מִשְׁנֶה (mishneh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8138 ;
+from H8138;
 
 ===== Meaning =====
 
-properly, a  repetition , i.e. a  duplicate  ( copy  of a document), or a  double  (in amount); by implication, a  second  (in order, rank, age, quality or location)
+properly, a **repetition**, i.e. a **duplicate** (**copy** of a document), or a **double** (in amount); by implication, a **second** (in order, rank, age, quality or location)
 
 ===== Definitions =====
 

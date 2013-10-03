@@ -1,12 +1,16 @@
 ====== H8381: תַּאֲלָה (taʼălâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H422 ;
+from H422;
 
 ===== Meaning =====
 
-an  imprecation
+an **imprecation**
 
 ===== Definitions =====
 

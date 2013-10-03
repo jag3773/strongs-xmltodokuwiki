@@ -1,12 +1,16 @@
 ====== H5147: נַחְבִּי (Nachbîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2247 ;  ;
+from H2247; **occult**;
 
 ===== Meaning =====
 
-occult Nachbi , an Israelite
+**Nachbi**, an Israelite
 
 ===== Definitions =====
 

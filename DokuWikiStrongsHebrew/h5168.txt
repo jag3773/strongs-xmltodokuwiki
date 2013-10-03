@@ -1,12 +1,16 @@
 ====== H5168: נַחְנוּ (nachnûw) ======
 
+===== Part of Speech =====
+
+p
+
 ===== Source =====
 
-for  H587 ;
+for H587;
 
 ===== Meaning =====
 
-we
+**we**
 
 ===== Definitions =====
 

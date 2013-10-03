@@ -1,12 +1,16 @@
 ====== H7472: רֵעִי (Rêʻîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7453 ;  ;
+from H7453; **social**;
 
 ===== Meaning =====
 
-social Rei , an Israelite
+**Rei**, an Israelite
 
 ===== Definitions =====
 

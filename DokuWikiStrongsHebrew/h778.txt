@@ -1,12 +1,16 @@
 ====== H778: אֲרַק (ʼăraq) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) by transmutation for  H772 ;
+(Aramaic) by transmutation for H772;
 
 ===== Meaning =====
 
-the  earth
+the **earth**
 
 ===== Definitions =====
 

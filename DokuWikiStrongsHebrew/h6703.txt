@@ -1,12 +1,16 @@
 ====== H6703: צַח (tsach) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6705 ;
+from H6705;
 
 ===== Meaning =====
 
-dazzling , i.e.  sunny ,  bright , (figuratively)  evident
+**dazzling**, i.e. **sunny**, **bright**, (figuratively) **evident**
 
 ===== Definitions =====
 

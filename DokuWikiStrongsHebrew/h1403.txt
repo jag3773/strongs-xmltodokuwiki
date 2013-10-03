@@ -1,12 +1,16 @@
 ====== H1403: גַּבְרִיאֵל (Gabrîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1397  and  H410 ; man of God;
+from H1397 and H410; man of God;
 
 ===== Meaning =====
 
-Gabriel , an archangel
+**Gabriel**, an archangel
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H403: אָכֵן (ʼâkên) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H3559  (compare  H3651 );
+from H3559 (compare H3651);
 
 ===== Meaning =====
 
-firmly ; figuratively,  surely ; also (adversative)  but
+**firmly**; figuratively, **surely**; also (adversative) **but**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2991: יִבְלְעָם (Yiblᵉʻâm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1104  and  H5971 ; devouring people;
+from H1104 and H5971; devouring people;
 
 ===== Meaning =====
 
-Jibleam , a place in Palestine
+**Jibleam**, a place in Palestine
 
 ===== Definitions =====
 

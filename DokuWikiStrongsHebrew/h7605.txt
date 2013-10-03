@@ -1,12 +1,16 @@
 ====== H7605: שְׁאָר (shᵉʼâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7604 ;
+from H7604;
 
 ===== Meaning =====
 
-a  remainder
+a **remainder**
 
 ===== Definitions =====
 

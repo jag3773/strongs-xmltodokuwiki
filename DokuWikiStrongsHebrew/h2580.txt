@@ -1,12 +1,16 @@
 ====== H2580: חֵן (chên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2603 ;
+from H2603;
 
 ===== Meaning =====
 
-graciousness , i.e. subjective ( kindness ,  favor ) or objective ( beauty )
+**graciousness**, i.e. subjective (**kindness**, **favor**) or objective (**beauty**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H972: בָּחִיר (bâchîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H977 ;
+from H977;
 
 ===== Meaning =====
 
-select
+**select**
 
 ===== Definitions =====
 

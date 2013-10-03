@@ -1,12 +1,16 @@
 ====== H4302: מַטָּע (maṭṭâʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5193 ;
+from H5193;
 
 ===== Meaning =====
 
-something  planted , i.e. the place (a  garden  or vineyard), or the thing (a  plant , figuratively or men); by implication, the act,  planting
+something **planted**, i.e. the place (a **garden** or vineyard), or the thing (a **plant**, figuratively or men); by implication, the act, **planting**
 
 ===== Definitions =====
 

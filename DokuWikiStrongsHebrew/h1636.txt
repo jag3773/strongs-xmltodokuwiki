@@ -1,12 +1,16 @@
 ====== H1636: גַּרְמִי (Garmîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1634 ;
+from H1634;
 
 ===== Meaning =====
 
-bony , i.e.  strong
+**bony**, i.e. **strong**
 
 ===== Definitions =====
 

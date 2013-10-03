@@ -1,12 +1,16 @@
 ====== H1670: דְּאָבָה (dᵉʼâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1669 ;
+from H1669;
 
 ===== Meaning =====
 
-properly,  pining ; by analogy,  fear
+properly, **pining**; by analogy, **fear**
 
 ===== Definitions =====
 

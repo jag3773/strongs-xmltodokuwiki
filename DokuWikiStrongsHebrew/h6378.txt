@@ -1,12 +1,16 @@
 ====== H6378: פַּךְ (pak) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6379 ;
+from H6379;
 
 ===== Meaning =====
 
-a  flask  (from which a liquid may flow)
+a **flask** (from which a liquid may flow)
 
 ===== Definitions =====
 

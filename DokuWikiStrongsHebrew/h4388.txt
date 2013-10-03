@@ -1,12 +1,16 @@
 ====== H4388: מַכְתֵּשׁ (maktêsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3806 ;
+from H3806;
 
 ===== Meaning =====
 
-a  mortar ; by analogy, a  socket  (of a tooth)
+a **mortar**; by analogy, a **socket** (of a tooth)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H221: אוּרִי (ʼÛwrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H217 ;  ;
+from H217; **fiery**;
 
 ===== Meaning =====
 
-fiery Uri , the name of three Israelites
+**Uri**, the name of three Israelites
 
 ===== Definitions =====
 

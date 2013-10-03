@@ -1,12 +1,16 @@
 ====== H5438: סִבָּה (çibbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5437 ;
+from H5437;
 
 ===== Meaning =====
 
-a (providential)  turn  (of affairs)
+a (providential) **turn** (of affairs)
 
 ===== Definitions =====
 

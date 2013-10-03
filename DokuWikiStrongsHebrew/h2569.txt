@@ -1,12 +1,16 @@
 ====== H2569: חֹמֶשׁ (chômesh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2567 ;
+from H2567;
 
 ===== Meaning =====
 
-a  fifth tax
+a **fifth tax**
 
 ===== Definitions =====
 

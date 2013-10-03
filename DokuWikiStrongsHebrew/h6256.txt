@@ -1,12 +1,16 @@
 ====== H6256: עֵת (ʻêth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5703 ;
+from H5703;
 
 ===== Meaning =====
 
-time , especially (adverb with preposition)  now ,  when , etc.
+**time**, especially (adverb with preposition) **now**, **when**, etc.
 
 ===== Definitions =====
 

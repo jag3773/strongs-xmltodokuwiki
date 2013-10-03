@@ -1,12 +1,16 @@
 ====== H7323: רוּץ (rûwts) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  run  (for whatever reason, especially to  rush )
+to **run** (for whatever reason, especially to **rush**)
 
 ===== Definitions =====
 

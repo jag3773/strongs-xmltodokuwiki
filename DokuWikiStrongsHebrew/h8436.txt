@@ -1,12 +1,16 @@
 ====== H8436: תּוּלוֹן (Tûwlôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8524 ;  ;
+from H8524; **suspension**;
 
 ===== Meaning =====
 
-suspension Tulon , an Israelite
+**Tulon**, an Israelite
 
 ===== Definitions =====
 

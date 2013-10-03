@@ -1,12 +1,16 @@
 ====== H2506: חֵלֶק (chêleq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2505 ;
+from H2505;
 
 ===== Meaning =====
 
-properly,  smoothness  (of the tongue); also an  allotment
+properly, **smoothness** (of the tongue); also an **allotment**
 
 ===== Definitions =====
 

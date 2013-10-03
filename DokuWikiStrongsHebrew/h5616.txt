@@ -1,12 +1,16 @@
 ====== H5616: סְפַרְוִי (Çᵉpharvîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H5617 ;
+patrial from H5617;
 
 ===== Meaning =====
 
-a  Sepharvite  or inhabitant of Sepharvain
+a **Sepharvite** or inhabitant of Sepharvain
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3175: יָחִיל (yâchîyl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3176 ;
+from H3176;
 
 ===== Meaning =====
 
-expectant
+**expectant**
 
 ===== Definitions =====
 

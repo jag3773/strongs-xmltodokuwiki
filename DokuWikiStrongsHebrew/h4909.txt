@@ -1,12 +1,16 @@
 ====== H4909: מַשְׂכֹּרֶת (maskôreth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7936 ;
+from H7936;
 
 ===== Meaning =====
 
-wages  or a  reward
+**wages** or a **reward**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4620: מַעֲצֵבָה (maʻătsêbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6087 ;
+from H6087;
 
 ===== Meaning =====
 
-anguish
+**anguish**
 
 ===== Definitions =====
 

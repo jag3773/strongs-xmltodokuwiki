@@ -1,12 +1,16 @@
 ====== H2008: הֵנָּה (hênnâh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H2004 ;
+from H2004;
 
 ===== Meaning =====
 
-hither  or  thither  (but used both of place and time)
+**hither** or **thither** (but used both of place and time)
 
 ===== Definitions =====
 

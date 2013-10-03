@@ -1,12 +1,16 @@
 ====== H2625: חָסִיל (châçîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2628 ;
+from H2628;
 
 ===== Meaning =====
 
-the  ravager , i.e. a  locust
+the **ravager**, i.e. a **locust**
 
 ===== Definitions =====
 

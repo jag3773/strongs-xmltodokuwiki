@@ -1,12 +1,16 @@
 ====== H3693: כְּסָלוֹן (Kᵉçâlôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3688 ;  ;
+from H3688; **fertile**;
 
 ===== Meaning =====
 
-fertile Kesalon , a place in Palestine
+**Kesalon**, a place in Palestine
 
 ===== Definitions =====
 

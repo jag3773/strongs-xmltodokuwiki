@@ -1,12 +1,16 @@
 ====== H5653: עַבְדָּא (ʻAbdâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5647 ;  ;
+from H5647; **work**;
 
 ===== Meaning =====
 
-work Abda , the name of two Israelites
+**Abda**, the name of two Israelites
 
 ===== Definitions =====
 

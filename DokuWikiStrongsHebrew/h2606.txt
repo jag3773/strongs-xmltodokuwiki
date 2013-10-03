@@ -1,12 +1,16 @@
 ====== H2606: חֲנַנְאֵל (Chănanʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2603  and  H410 ; God has favored;
+from H2603 and H410; God has favored;
 
 ===== Meaning =====
 
-Chananel , probably an Israelite, from whom a tower of Jerusalem was named
+**Chananel**, probably an Israelite, from whom a tower of Jerusalem was named
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6337: פָּז (pâz) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6338 ;
+from H6338;
 
 ===== Meaning =====
 
-pure  (gold); hence,  gold  itself (as refined)
+**pure** (gold); hence, **gold** itself (as refined)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4278: מֶחְקָר (mechqâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2713 ;
+from H2713;
 
 ===== Meaning =====
 
-properly,  scrutinized , i.e. (by implication) a  recess
+properly, **scrutinized**, i.e. (by implication) a **recess**
 
 ===== Definitions =====
 

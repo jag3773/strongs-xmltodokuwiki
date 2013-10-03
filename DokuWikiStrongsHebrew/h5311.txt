@@ -1,12 +1,16 @@
 ====== H5311: נֶפֶץ (nephets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5310 ;
+from H5310;
 
 ===== Meaning =====
 
-a  storm  (as dispersing)
+a **storm** (as dispersing)
 
 ===== Definitions =====
 

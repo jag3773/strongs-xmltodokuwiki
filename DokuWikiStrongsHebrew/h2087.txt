@@ -1,12 +1,16 @@
 ====== H2087: זָדוֹן (zâdôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2102 ;
+from H2102;
 
 ===== Meaning =====
 
-arrogance
+**arrogance**
 
 ===== Definitions =====
 

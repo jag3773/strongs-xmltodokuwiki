@@ -1,12 +1,16 @@
 ====== H5435: סֹבֶא (çôbeʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5433 ;
+from H5433;
 
 ===== Meaning =====
 
-potation , concretely ( wine ), or abstractly ( carousal )
+**potation**, concretely (**wine**), or abstractly (**carousal**)
 
 ===== Definitions =====
 

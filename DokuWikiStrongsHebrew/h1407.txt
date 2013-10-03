@@ -1,12 +1,16 @@
 ====== H1407: גַּד (gad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1413  (in the sense of  );
+from H1413 (in the sense of **cutting**);
 
 ===== Meaning =====
 
-cutting coriander  seed (from its furrows)
+**coriander** seed (from its furrows)
 
 ===== Definitions =====
 

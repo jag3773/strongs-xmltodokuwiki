@@ -1,12 +1,16 @@
 ====== H3049: יִדְּעֹנִי (yiddᵉʻônîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3045 ;
+from H3045;
 
 ===== Meaning =====
 
-properly, a  knowing  one; specifically, a  conjurer ; (by impl) a  ghost
+properly, a **knowing** one; specifically, a **conjurer**; (by impl) a **ghost**
 
 ===== Definitions =====
 

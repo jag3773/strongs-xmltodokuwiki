@@ -1,12 +1,16 @@
 ====== H1257: בַּרְבֻּר (barbur) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-by reduplication from  H1250 ;
+by reduplication from H1250;
 
 ===== Meaning =====
 
-a  fowl  (as fattened on grain)
+a **fowl** (as fattened on grain)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2344: חוֹל (chôwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2342 ;
+from H2342;
 
 ===== Meaning =====
 
-sand  (as round or whirling particles)
+**sand** (as round or whirling particles)
 
 ===== Definitions =====
 

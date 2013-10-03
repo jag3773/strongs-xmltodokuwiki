@@ -1,12 +1,16 @@
 ====== H1645: גֶּרֶשׁ (geresh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1644 ;
+from H1644;
 
 ===== Meaning =====
 
-produce  (as if expelled)
+**produce** (as if expelled)
 
 ===== Definitions =====
 

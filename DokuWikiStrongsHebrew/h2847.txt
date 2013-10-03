@@ -1,12 +1,16 @@
 ====== H2847: חִתָּה (chittâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2865 ;
+from H2865;
 
 ===== Meaning =====
 
-fear
+**fear**
 
 ===== Definitions =====
 

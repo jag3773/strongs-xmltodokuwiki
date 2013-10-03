@@ -1,12 +1,16 @@
 ====== H6008: עַמְעָד (ʻAmʻâd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5971  and  H5703 ;  ;
+from H5971 and H5703; **people of time**;
 
 ===== Meaning =====
 
-people of time Amad , a place in Palestine
+**Amad**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7729: שׁוּבָה (shûwbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7725 ;
+from H7725;
 
 ===== Meaning =====
 
-a  return
+a **return**
 
 ===== Definitions =====
 

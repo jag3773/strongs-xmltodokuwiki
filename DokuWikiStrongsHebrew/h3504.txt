@@ -1,12 +1,16 @@
 ====== H3504: יִתְרוֹן (yithrôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3498 ;
+from H3498;
 
 ===== Meaning =====
 
-preeminence ,  gain
+**preeminence**, **gain**
 
 ===== Definitions =====
 

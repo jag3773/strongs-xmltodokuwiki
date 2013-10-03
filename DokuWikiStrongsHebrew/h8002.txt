@@ -1,12 +1,16 @@
 ====== H8002: שֶׁלֶם (shelem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7999 ;
+from H7999;
 
 ===== Meaning =====
 
-properly,  requital , i.e. a (voluntary) sacrifice in  thanks
+properly, **requital**, i.e. a (voluntary) sacrifice in **thanks**
 
 ===== Definitions =====
 

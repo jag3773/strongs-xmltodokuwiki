@@ -1,12 +1,16 @@
 ====== H3976: מֹאזֵן (môʼzên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H239 ;
+from H239;
 
 ===== Meaning =====
 
-(only in the dual) a pair of  scales
+(only in the dual) a pair of **scales**
 
 ===== Definitions =====
 

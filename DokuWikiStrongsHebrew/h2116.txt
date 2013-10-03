@@ -1,12 +1,16 @@
 ====== H2116: זוּרֶה (zûwreh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2115 ;
+from H2115;
 
 ===== Meaning =====
 
-trodden  on
+**trodden** on
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8328: שֶׁרֶשׁ (sheresh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8327 ;
+from H8327;
 
 ===== Meaning =====
 
-a  root  (literally or figuratively)
+a **root** (literally or figuratively)
 
 ===== Definitions =====
 

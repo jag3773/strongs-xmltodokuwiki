@@ -1,12 +1,16 @@
 ====== H6951: קָהָל (qâhâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6950 ;
+from H6950;
 
 ===== Meaning =====
 
-assemblage  (usually concretely)
+**assemblage** (usually concretely)
 
 ===== Definitions =====
 

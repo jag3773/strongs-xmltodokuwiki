@@ -1,12 +1,16 @@
 ====== H3231: יָמַן (yâman) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; to   (physically)   (i.e. firm); but used only as denominative from  H3225  and transitive,
+a primitive root; to **be** (physically) **right** (i.e. firm); but used only as denominative from H3225 and transitive,
 
 ===== Meaning =====
 
-be right to  be right-handed  or  take the right-hand  side
+to **be right-handed** or **take the right-hand** side
 
 ===== Definitions =====
 

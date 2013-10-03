@@ -1,12 +1,16 @@
 ====== H7331: רְזוֹן (Rᵉzôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7336 ;  ;
+from H7336; **prince**;
 
 ===== Meaning =====
 
-prince Rezon , a Syrian
+**Rezon**, a Syrian
 
 ===== Definitions =====
 

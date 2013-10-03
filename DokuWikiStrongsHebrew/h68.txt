@@ -1,12 +1,16 @@
 ====== H68: אֶבֶן (ʼeben) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from the root of  H1129  through the meaning to  ;
+from the root of H1129 through the meaning to **build**;
 
 ===== Meaning =====
 
-build a  stone
+a **stone**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4924: מַשְׁמָן (mashmân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8080 ;
+from H8080;
 
 ===== Meaning =====
 
-fat , i.e. (literally and abstractly)  fatness ; but usually (figuratively and concretely) a  rich  dish, a  fertile  field, a  robust  man
+**fat**, i.e. (literally and abstractly) **fatness**; but usually (figuratively and concretely) a **rich** dish, a **fertile** field, a **robust** man
 
 ===== Definitions =====
 

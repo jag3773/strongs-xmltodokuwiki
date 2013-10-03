@@ -1,12 +1,16 @@
 ====== H4471: מַמְרֵא (Mamrêʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H4754 (in the sense of vigor); lusty;
+from H4754(in the sense of vigor); lusty;
 
 ===== Meaning =====
 
-Mamre , an Amorite
+**Mamre**, an Amorite
 
 ===== Definitions =====
 

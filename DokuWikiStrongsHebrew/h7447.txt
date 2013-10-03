@@ -1,12 +1,16 @@
 ====== H7447: רָסִיס (râçîyç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7450 ;
+from H7450;
 
 ===== Meaning =====
 
-properly,  dripping  to pieces, i.e. a  ruin ; also a dew- drop
+properly, **dripping** to pieces, i.e. a **ruin**; also a dew-**drop**
 
 ===== Definitions =====
 

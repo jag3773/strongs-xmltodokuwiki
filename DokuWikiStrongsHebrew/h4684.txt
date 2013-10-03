@@ -1,12 +1,16 @@
 ====== H4684: מַצְהָלָה (matshâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6670 ;
+from H6670;
 
 ===== Meaning =====
 
-a  whinnying  (through impatience for battle or lust)
+a **whinnying** (through impatience for battle or lust)
 
 ===== Definitions =====
 

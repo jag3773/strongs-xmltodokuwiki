@@ -1,12 +1,16 @@
 ====== H6538: פֶּרֶס (pereç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6536 ;
+from H6536;
 
 ===== Meaning =====
 
-a  claw ; also a  kind of eagle
+a **claw**; also a **kind of eagle**
 
 ===== Definitions =====
 

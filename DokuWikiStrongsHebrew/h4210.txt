@@ -1,12 +1,16 @@
 ====== H4210: מִזְמוֹר (mizmôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2167 ;
+from H2167;
 
 ===== Meaning =====
 
-properly, instrumental  music ; by implication, a  poem  set to notes
+properly, instrumental **music**; by implication, a **poem** set to notes
 
 ===== Definitions =====
 

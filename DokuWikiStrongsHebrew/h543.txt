@@ -1,12 +1,16 @@
 ====== H543: אָמֵן (ʼâmên) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H539 ;
+from H539;
 
 ===== Meaning =====
 
-sure ; abstract,  faithfulness ; adverb,  truly
+**sure**; abstract, **faithfulness**; adverb, **truly**
 
 ===== Definitions =====
 

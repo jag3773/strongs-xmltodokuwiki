@@ -1,12 +1,16 @@
 ====== H2574: חֲמָת (Chămâth) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
-from the same as  H2346 ;  ;
+from the same as H2346; **walled**;
 
 ===== Meaning =====
 
-walled Chamath , a place in Syria
+**Chamath**, a place in Syria
 
 ===== Definitions =====
 

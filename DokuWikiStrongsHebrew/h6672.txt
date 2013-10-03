@@ -1,12 +1,16 @@
 ====== H6672: צֹהַר (tsôhar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6671 ;
+from H6671;
 
 ===== Meaning =====
 
-a  light  (i.e.  window ); dual  double light , i.e.  noon
+a **light** (i.e. **window**); dual **double light**, i.e. **noon**
 
 ===== Definitions =====
 

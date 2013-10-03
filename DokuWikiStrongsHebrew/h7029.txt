@@ -1,12 +1,16 @@
 ====== H7029: קִישִׁי (Qîyshîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6983 ; bowed;
+from H6983; bowed;
 
 ===== Meaning =====
 
-Kishi , an Israelite
+**Kishi**, an Israelite
 
 ===== Definitions =====
 

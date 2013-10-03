@@ -1,12 +1,16 @@
 ====== H4045: מִגְעֶרֶת (migʻereth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1605 ;
+from H1605;
 
 ===== Meaning =====
 
-reproof  (i.e. curse)
+**reproof** (i.e. curse)
 
 ===== Definitions =====
 

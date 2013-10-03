@@ -1,12 +1,16 @@
 ====== H969: בָּחוֹן (bâchôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H974 ;
+from H974;
 
 ===== Meaning =====
 
-an  assayer  or  metals
+an **assayer** or **metals**
 
 ===== Definitions =====
 

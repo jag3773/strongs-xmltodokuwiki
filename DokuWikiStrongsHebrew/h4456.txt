@@ -1,12 +1,16 @@
 ====== H4456: מַלְקוֹשׁ (malqôwsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3953 ; (compare  H3954 )
+from H3953; (compare H3954)
 
 ===== Meaning =====
 
-the  spring rain ; figuratively,  eloquence
+the **spring rain**; figuratively, **eloquence**
 
 ===== Definitions =====
 

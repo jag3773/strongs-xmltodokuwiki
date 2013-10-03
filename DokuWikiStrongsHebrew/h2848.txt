@@ -1,12 +1,16 @@
 ====== H2848: חִתּוּל (chittûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2853 ;
+from H2853;
 
 ===== Meaning =====
 
-swathed , i.e. a  bandage
+**swathed**, i.e. a **bandage**
 
 ===== Definitions =====
 

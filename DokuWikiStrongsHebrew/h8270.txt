@@ -1,12 +1,16 @@
 ====== H8270: שֹׁר (shôr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8324 ; (compare  H8306 )
+from H8324; (compare H8306)
 
 ===== Meaning =====
 
-a  string  (as twisted ), i.e. (specifically) the  umbilical cord  (also figuratively, as the centre of strength)
+a **string** (as twisted ), i.e. (specifically) the **umbilical cord** (also figuratively, as the centre of strength)
 
 ===== Definitions =====
 

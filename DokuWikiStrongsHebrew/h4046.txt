@@ -1,12 +1,16 @@
 ====== H4046: מַגֵּפָה (maggêphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5062 ;
+from H5062;
 
 ===== Meaning =====
 
-a  pestilence ; by analogy,  defeat
+a **pestilence**; by analogy, **defeat**
 
 ===== Definitions =====
 

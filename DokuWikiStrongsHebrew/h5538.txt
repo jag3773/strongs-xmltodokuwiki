@@ -1,12 +1,16 @@
 ====== H5538: סִלָּא (Çillâʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5549 ; an  ;
+from H5549; an **embankment**;
 
 ===== Meaning =====
 
-embankment Silla , a place in Jerusalem
+**Silla**, a place in Jerusalem
 
 ===== Definitions =====
 

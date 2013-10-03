@@ -1,12 +1,16 @@
 ====== H8503: תַּכְלִית (taklîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3615 ;
+from H3615;
 
 ===== Meaning =====
 
-completion ; by implication, an  extremity
+**completion**; by implication, an **extremity**
 
 ===== Definitions =====
 

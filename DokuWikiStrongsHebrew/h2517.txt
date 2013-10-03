@@ -1,12 +1,16 @@
 ====== H2517: חֶלְקַי (Chelqay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2505 ; apportioned;
+from H2505; apportioned;
 
 ===== Meaning =====
 
-Chelkai , an Israelite
+**Chelkai**, an Israelite
 
 ===== Definitions =====
 

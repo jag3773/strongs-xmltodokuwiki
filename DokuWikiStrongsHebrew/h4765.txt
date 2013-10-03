@@ -1,12 +1,16 @@
 ====== H4765: מַרְבַד (marbad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7234 ;
+from H7234;
 
 ===== Meaning =====
 
-a  coverlet
+a **coverlet**
 
 ===== Definitions =====
 

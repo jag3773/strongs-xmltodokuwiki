@@ -1,12 +1,16 @@
 ====== H7358: רֶחֶם (rechem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7355 ; (compare  H7356 )
+from H7355; (compare H7356)
 
 ===== Meaning =====
 
-the  womb
+the **womb**
 
 ===== Definitions =====
 

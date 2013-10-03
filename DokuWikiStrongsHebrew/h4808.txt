@@ -1,12 +1,16 @@
 ====== H4808: מְרִיבָה (mᵉrîybâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7378 ;
+from H7378;
 
 ===== Meaning =====
 
-quarrel
+**quarrel**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7296: רֹהָב (rôhâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7292 ;
+from H7292;
 
 ===== Meaning =====
 
-pride
+**pride**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4155: מוּעָף (mûwʻâph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5774 ;
+from H5774;
 
 ===== Meaning =====
 
-properly,  covered , i.e.  dark ; abstractly,  obscurity , i.e.  distress
+properly, **covered**, i.e. **dark**; abstractly, **obscurity**, i.e. **distress**
 
 ===== Definitions =====
 

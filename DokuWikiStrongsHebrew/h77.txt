@@ -1,12 +1,16 @@
 ====== H77: אֶבֶץ (ʼEbets) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
 from an unused root probably meaning to gleam; conspicuous;
 
 ===== Meaning =====
 
-Ebets , a place in Palestine
+**Ebets**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H566: אִמְרִי (ʼImrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H564 ;
+from H564;
 
 ===== Meaning =====
 
-Imri , the name of two Israelites
+**Imri**, the name of two Israelites
 
 ===== Definitions =====
 

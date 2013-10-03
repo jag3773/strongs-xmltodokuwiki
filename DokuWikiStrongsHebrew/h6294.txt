@@ -1,12 +1,16 @@
 ====== H6294: פֶּגַע (pegaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6293 ;
+from H6293;
 
 ===== Meaning =====
 
-impact  (casual)
+**impact** (casual)
 
 ===== Definitions =====
 

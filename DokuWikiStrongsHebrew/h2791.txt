@@ -1,12 +1,16 @@
 ====== H2791: חֶרֶשׁ (cheresh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H2790 ;
+from H2790;
 
 ===== Meaning =====
 
-magical craft ; also  silence
+**magical craft**; also **silence**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4378: מַכָּר (makkâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5234 ;
+from H5234;
 
 ===== Meaning =====
 
-an  acquaintance
+an **acquaintance**
 
 ===== Definitions =====
 

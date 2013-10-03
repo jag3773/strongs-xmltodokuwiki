@@ -1,12 +1,16 @@
 ====== H6287: פְּאֵר (pᵉʼêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6286 ;
+from H6286;
 
 ===== Meaning =====
 
-an  embellishment , i.e. fancy  head-dress
+an **embellishment**, i.e. fancy **head-dress**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5671: עַבְטִיט (ʻabṭîyṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5670 ;
+from H5670;
 
 ===== Meaning =====
 
-something  pledged , i.e. (collectively)  pawned goods
+something **pledged**, i.e. (collectively) **pawned goods**
 
 ===== Definitions =====
 

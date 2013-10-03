@@ -1,12 +1,16 @@
 ====== H1715: דָּגָן (dâgân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1711 ;
+from H1711;
 
 ===== Meaning =====
 
-properly,  increase , i.e.  grain
+properly, **increase**, i.e. **grain**
 
 ===== Definitions =====
 

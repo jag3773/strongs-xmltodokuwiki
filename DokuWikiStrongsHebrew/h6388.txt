@@ -1,12 +1,16 @@
 ====== H6388: פֶּלֶג (peleg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6385 ;
+from H6385;
 
 ===== Meaning =====
 
-a  rill  (i.e. small channel of water, as in irrigation)
+a **rill** (i.e. small channel of water, as in irrigation)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6474: פַּעֲרַי (Paʻăray) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6473 ;  ;
+from H6473; **yawning**;
 
 ===== Meaning =====
 
-yawning Paarai , an Israelite
+**Paarai**, an Israelite
 
 ===== Definitions =====
 

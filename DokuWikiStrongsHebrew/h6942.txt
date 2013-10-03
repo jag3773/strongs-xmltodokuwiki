@@ -1,12 +1,16 @@
 ====== H6942: קָדַשׁ (qâdash) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be  (causatively,  make ,  pronounce  or  observe  as)  clean  (ceremonially or morally)
+to **be** (causatively, **make**, **pronounce** or **observe** as) **clean** (ceremonially or morally)
 
 ===== Definitions =====
 

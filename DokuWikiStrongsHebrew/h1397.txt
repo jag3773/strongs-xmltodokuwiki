@@ -1,12 +1,16 @@
 ====== H1397: גֶּבֶר (geber) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1396 ;
+from H1396;
 
 ===== Meaning =====
 
-properly, a  valiant  man or  warrior ; generally, a  person  simply
+properly, a **valiant** man or **warrior**; generally, a **person** simply
 
 ===== Definitions =====
 

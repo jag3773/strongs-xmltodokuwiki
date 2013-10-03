@@ -1,12 +1,16 @@
 ====== H894: בָּבֶל (Bâbel) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1101 ; confusion;
+from H1101; confusion;
 
 ===== Meaning =====
 
-Babel  (i.e. Babylon), including  Babylonia  and the  Babylonian empire
+**Babel** (i.e. Babylon), including **Babylonia** and the **Babylonian empire**
 
 ===== Definitions =====
 

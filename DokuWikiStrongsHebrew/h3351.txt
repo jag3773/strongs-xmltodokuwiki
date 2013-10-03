@@ -1,12 +1,16 @@
 ====== H3351: יְקוּם (yᵉqûwm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6965 ;
+from H6965;
 
 ===== Meaning =====
 
-properly,  standing  (extant), i.e. by implication, a  living thing
+properly, **standing** (extant), i.e. by implication, a **living thing**
 
 ===== Definitions =====
 

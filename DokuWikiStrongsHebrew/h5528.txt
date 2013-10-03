@@ -1,12 +1,16 @@
 ====== H5528: סָכַל (çâkal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-for  H3688 ;
+for H3688;
 
 ===== Meaning =====
 
-to  be silly
+to **be silly**
 
 ===== Definitions =====
 

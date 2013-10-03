@@ -1,12 +1,16 @@
 ====== H2121: זֵידוֹן (zêydôwn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2102 ;
+from H2102;
 
 ===== Meaning =====
 
-boiling of water , i.e.  wave
+**boiling of water**, i.e. **wave**
 
 ===== Definitions =====
 

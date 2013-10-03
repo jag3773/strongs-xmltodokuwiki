@@ -1,12 +1,16 @@
 ====== H5986: עָמוֹס (ʻÂmôwç) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6006 ;  ;
+from H6006; **burdensome**;
 
 ===== Meaning =====
 
-burdensome Amos , an Israelite prophet
+**Amos**, an Israelite prophet
 
 ===== Definitions =====
 

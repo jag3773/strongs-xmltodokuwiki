@@ -1,12 +1,16 @@
 ====== H6124: עָקֹד (ʻâqôd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6123 ;
+from H6123;
 
 ===== Meaning =====
 
-striped  (with bands)
+**striped** (with bands)
 
 ===== Definitions =====
 

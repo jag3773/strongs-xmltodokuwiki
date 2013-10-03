@@ -1,12 +1,16 @@
 ====== H4296: מִטָּה (miṭṭâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5186 ;
+from H5186;
 
 ===== Meaning =====
 
-a  bed  (as extended) for sleeping or eating; by analogy, a  sofa ,  litter  or  bier
+a **bed** (as extended) for sleeping or eating; by analogy, a **sofa**, **litter** or **bier**
 
 ===== Definitions =====
 

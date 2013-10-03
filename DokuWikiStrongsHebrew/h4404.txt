@@ -1,12 +1,16 @@
 ====== H4404: מַלְבֵּן (malbên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3835  (denominative);
+from H3835 (denominative);
 
 ===== Meaning =====
 
-a brickkiln
+**a brickkiln**
 
 ===== Definitions =====
 

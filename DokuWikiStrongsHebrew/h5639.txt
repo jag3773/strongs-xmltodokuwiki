@@ -1,12 +1,16 @@
 ====== H5639: סְתוּר (Çᵉthûwr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5641 ;  ;
+from H5641; **hidden**;
 
 ===== Meaning =====
 
-hidden Sethur , an Israelite
+**Sethur**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8553: תִּמְנָה (Timnâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H4487 ; a portion assigned;
+from H4487; a portion assigned;
 
 ===== Meaning =====
 
-Timnah , the name of two places in Palestine
+**Timnah**, the name of two places in Palestine
 
 ===== Definitions =====
 

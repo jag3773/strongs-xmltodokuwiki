@@ -1,12 +1,16 @@
 ====== H2802: חֶרֶת (Chereth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2801  (but equivalent to  H2793 ); forest;
+from H2801 (but equivalent to H2793); forest;
 
 ===== Meaning =====
 
-Chereth , a thicket in Palestine
+**Chereth**, a thicket in Palestine
 
 ===== Definitions =====
 

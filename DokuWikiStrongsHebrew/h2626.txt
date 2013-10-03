@@ -1,12 +1,16 @@
 ====== H2626: חֲסִין (chăçîyn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2630 ;
+from H2630;
 
 ===== Meaning =====
 
-properly,  firm , i.e. (by implication)  mighty
+properly, **firm**, i.e. (by implication) **mighty**
 
 ===== Definitions =====
 

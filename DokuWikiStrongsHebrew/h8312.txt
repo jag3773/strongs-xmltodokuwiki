@@ -1,12 +1,16 @@
 ====== H8312: שַׂרְעַף (sarʻaph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H5587 ;
+for H5587;
 
 ===== Meaning =====
 
-cogitation
+**cogitation**
 
 ===== Definitions =====
 

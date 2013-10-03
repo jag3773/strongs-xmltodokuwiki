@@ -1,12 +1,16 @@
 ====== H7062: קֹמֶץ (qômets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7061 ;
+from H7061;
 
 ===== Meaning =====
 
-a  grasp , i.e.  handful
+a **grasp**, i.e. **handful**
 
 ===== Definitions =====
 

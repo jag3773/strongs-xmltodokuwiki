@@ -1,12 +1,16 @@
 ====== H5424: נֶתֶק (netheq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5423 ;
+from H5423;
 
 ===== Meaning =====
 
-scurf
+**scurf**
 
 ===== Definitions =====
 

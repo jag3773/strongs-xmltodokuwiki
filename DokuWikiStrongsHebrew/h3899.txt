@@ -1,12 +1,16 @@
 ====== H3899: לֶחֶם (lechem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3898 ; See also  H1036
+from H3898; See also H1036
 
 ===== Meaning =====
 
-food  (for man or beast), especially  bread , or  grain  (for making it)
+**food** (for man or beast), especially **bread**, or **grain** (for making it)
 
 ===== Definitions =====
 

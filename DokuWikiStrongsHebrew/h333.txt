@@ -1,12 +1,16 @@
 ====== H333: אָטֵר (ʼÂṭêr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H332 ; maimed;
+from H332; maimed;
 
 ===== Meaning =====
 
-Ater , the name of three Israelites
+**Ater**, the name of three Israelites
 
 ===== Definitions =====
 

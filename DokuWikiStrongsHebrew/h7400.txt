@@ -1,12 +1,16 @@
 ====== H7400: רָכִיל (râkîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7402
+from H7402
 
 ===== Meaning =====
 
-a  scandal-monger  (as travelling about)
+a **scandal-monger** (as travelling about)
 
 ===== Definitions =====
 

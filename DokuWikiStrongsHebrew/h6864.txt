@@ -1,12 +1,16 @@
 ====== H6864: צֹר (tsôr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6696 ;
+from H6696;
 
 ===== Meaning =====
 
-a  stone  (as if pressed hard or to a point); (by implication, of use) a  knife
+a **stone** (as if pressed hard or to a point); (by implication, of use) a **knife**
 
 ===== Definitions =====
 

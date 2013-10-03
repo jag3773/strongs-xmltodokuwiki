@@ -1,12 +1,16 @@
 ====== H7510: רִפְיוֹן (riphyôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7503 ;
+from H7503;
 
 ===== Meaning =====
 
-slackness
+**slackness**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3602: כָּכָה (kâkâh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H3541 ;
+from H3541;
 
 ===== Meaning =====
 
-just so , referring to the previous or following context
+**just so**, referring to the previous or following context
 
 ===== Definitions =====
 

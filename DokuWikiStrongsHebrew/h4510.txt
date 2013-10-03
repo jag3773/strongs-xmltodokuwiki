@@ -1,12 +1,16 @@
 ====== H4510: מִנְיָן (minyân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) from  H4483 ;
+(Aramaic) from H4483;
 
 ===== Meaning =====
 
-enumeration
+**enumeration**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6043: עֲנָיָה (ʻĂnâyâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6030 ;  ;
+from H6030; **Jah has answered**;
 
 ===== Meaning =====
 
-Jah has answered Anajah , the name of two Israelites
+**Anajah**, the name of two Israelites
 
 ===== Definitions =====
 

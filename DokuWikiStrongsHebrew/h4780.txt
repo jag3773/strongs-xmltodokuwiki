@@ -1,12 +1,16 @@
 ====== H4780: מַרְדּוּת (mardûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4775 ;
+from H4775;
 
 ===== Meaning =====
 
-rebelliousness
+**rebelliousness**
 
 ===== Definitions =====
 

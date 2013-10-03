@@ -1,12 +1,16 @@
 ====== H379: אִישְׁהוֹד (ʼÎyshᵉhôwd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H376  and  H1935 ; man of renown;
+from H376 and H1935; man of renown;
 
 ===== Meaning =====
 
-Ishod , an Israelite
+**Ishod**, an Israelite
 
 ===== Definitions =====
 

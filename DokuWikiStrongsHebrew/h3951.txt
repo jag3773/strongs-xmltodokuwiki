@@ -1,12 +1,16 @@
 ====== H3951: לֶקֶט (leqeṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3950 ;
+from H3950;
 
 ===== Meaning =====
 
-the  gleaning
+the **gleaning**
 
 ===== Definitions =====
 

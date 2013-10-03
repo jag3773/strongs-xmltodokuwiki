@@ -1,12 +1,16 @@
 ====== H763: אֲרַם נַהֲרַיִם (ʼĂram Nahărayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H758  and the dual of  H5104 ;
+from H758 and the dual of H5104;
 
 ===== Meaning =====
 
-Aram  of (the) two rivers (Euphrates and Tigris) or Mesopotamia
+**Aram** of (the) two rivers (Euphrates and Tigris) or Mesopotamia
 
 ===== Definitions =====
 

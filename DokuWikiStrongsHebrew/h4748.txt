@@ -1,12 +1,16 @@
 ====== H4748: מִקְשֶׁה (miqsheh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7185  in the sense of   up round and hard;
+from H7185 in the sense of **knotting** up round and hard;
 
 ===== Meaning =====
 
-knotting something  turned  (rounded), i.e. a  curl  (of tresses)
+something **turned** (rounded), i.e. a **curl** (of tresses)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H844: אַשְׂרִיאֵל (ʼAsrîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-an orthographical variation for  H840 ;
+an orthographical variation for H840;
 
 ===== Meaning =====
 
-Asriel , the name of two Israelites
+**Asriel**, the name of two Israelites
 
 ===== Definitions =====
 

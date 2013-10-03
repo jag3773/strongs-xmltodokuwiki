@@ -1,12 +1,16 @@
 ====== H1077: בַּל (bal) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H1086 ;
+from H1086;
 
 ===== Meaning =====
 
-properly, a  failure ; by implication  nothing ; usually (adverb)  not  at all; also  lest
+properly, a **failure**; by implication **nothing**; usually (adverb) **not** at all; also **lest**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6067: עֲנָת (ʻĂnâth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6030 ;  ;
+from H6030; **answer**;
 
 ===== Meaning =====
 
-answer Anath , an Israelite
+**Anath**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5540: סֶלֶד (Çeled) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5539 ;  ;
+from H5539; **exultation**;
 
 ===== Meaning =====
 
-exultation Seled , an Israelite
+**Seled**, an Israelite
 
 ===== Definitions =====
 

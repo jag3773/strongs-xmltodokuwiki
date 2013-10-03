@@ -1,12 +1,16 @@
 ====== H4758: מַרְאֶה (marʼeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7200 ;
+from H7200;
 
 ===== Meaning =====
 
-a  view  (the act of seeing); also an  appearance  (the thing seen), whether (real) a shape (especially if handsome, comeliness; often plural the looks), or (mental) a vision
+a **view** (the act of seeing); also an **appearance** (the thing seen), whether (real) a shape (especially if handsome, comeliness; often plural the looks), or (mental) a vision
 
 ===== Definitions =====
 

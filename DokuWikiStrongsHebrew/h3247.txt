@@ -1,12 +1,16 @@
 ====== H3247: יְסוֹד (yᵉçôwd) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3245 ;
+from H3245;
 
 ===== Meaning =====
 
-a  foundation  (literally or figuratively)
+a **foundation** (literally or figuratively)
 
 ===== Definitions =====
 

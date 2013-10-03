@@ -1,12 +1,16 @@
 ====== H6609: פְּתִחָה (pᵉthichâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6605 ;
+from H6605;
 
 ===== Meaning =====
 
-something  opened , i.e. a  drawn  sword
+something **opened**, i.e. a **drawn** sword
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H60: אֵבֶל (ʼêbel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H56 ;
+from H56;
 
 ===== Meaning =====
 
-lamentation
+**lamentation**
 
 ===== Definitions =====
 

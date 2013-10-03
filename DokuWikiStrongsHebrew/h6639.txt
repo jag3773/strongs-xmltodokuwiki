@@ -1,12 +1,16 @@
 ====== H6639: צָבֶה (tsâbeh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6638 ;
+from H6638;
 
 ===== Meaning =====
 
-turgid
+**turgid**
 
 ===== Definitions =====
 

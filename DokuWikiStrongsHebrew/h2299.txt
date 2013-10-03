@@ -1,12 +1,16 @@
 ====== H2299: חַד (chad) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2300 ;
+from H2300;
 
 ===== Meaning =====
 
-sharp
+**sharp**
 
 ===== Definitions =====
 

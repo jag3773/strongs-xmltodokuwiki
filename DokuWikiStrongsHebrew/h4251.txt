@@ -1,12 +1,16 @@
 ====== H4251: מַחְלֻי (machluy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2470 ;
+from H2470;
 
 ===== Meaning =====
 
-a  disease
+a **disease**
 
 ===== Definitions =====
 

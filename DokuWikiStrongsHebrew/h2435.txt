@@ -1,12 +1,16 @@
 ====== H2435: חִיצוֹן (chîytsôwn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2434 ;
+from H2434;
 
 ===== Meaning =====
 
-properly, the (outer)  wall side ; hence,  exterior ; figuratively,  secular  (as opposed to sacred)
+properly, the (outer) **wall side**; hence, **exterior**; figuratively, **secular** (as opposed to sacred)
 
 ===== Definitions =====
 

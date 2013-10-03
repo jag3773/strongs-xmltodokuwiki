@@ -1,12 +1,16 @@
 ====== H6155: עָרָב (ʻârâb) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6148 ;
+from H6148;
 
 ===== Meaning =====
 
-a  willow  (from the use of osiers as wattles)
+a **willow** (from the use of osiers as wattles)
 
 ===== Definitions =====
 

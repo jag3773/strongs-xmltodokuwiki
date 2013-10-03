@@ -1,12 +1,16 @@
 ====== H1049: בֵּית צוּר (Bêyth Tsûwr) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
-from  H1004  and  H6697 ; house of (the) rock;
+from H1004 and H6697; house of (the) rock;
 
 ===== Meaning =====
 
-Beth-Tsur , a place in Palestine
+**Beth-Tsur**, a place in Palestine
 
 ===== Definitions =====
 

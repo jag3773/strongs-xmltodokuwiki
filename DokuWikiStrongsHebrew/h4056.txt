@@ -1,12 +1,16 @@
 ====== H4056: מַדְבַּח (madbach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) from  H1684 ;
+(Aramaic) from H1684;
 
 ===== Meaning =====
 
-a  sacrificial altar
+a **sacrificial altar**
 
 ===== Definitions =====
 

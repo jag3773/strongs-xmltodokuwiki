@@ -1,12 +1,16 @@
 ====== H275: אֲחֻזָּם (ʼĂchuzzâm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H270 ; seizure;
+from H270; seizure;
 
 ===== Meaning =====
 
-Achuzzam , an Israelite
+**Achuzzam**, an Israelite
 
 ===== Definitions =====
 

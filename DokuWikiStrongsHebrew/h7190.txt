@@ -1,12 +1,16 @@
 ====== H7190: קְשִׁי (qᵉshîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7185 ;
+from H7185;
 
 ===== Meaning =====
 
-obstinacy
+**obstinacy**
 
 ===== Definitions =====
 

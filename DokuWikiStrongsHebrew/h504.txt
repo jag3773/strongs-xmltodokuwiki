@@ -1,12 +1,16 @@
 ====== H504: אֶלֶף (ʼeleph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H502 ;
+from H502;
 
 ===== Meaning =====
 
-a  family ; also (from the sense of yoking or taming) an  ox  or  cow
+a **family**; also (from the sense of yoking or taming) an **ox** or **cow**
 
 ===== Definitions =====
 

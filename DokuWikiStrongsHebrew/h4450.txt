@@ -1,12 +1,16 @@
 ====== H4450: מִלֲלַי (Milălay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4448 ;  ;
+from H4448; **talkative**;
 
 ===== Meaning =====
 
-talkative Milalai , an Israelite
+**Milalai**, an Israelite
 
 ===== Definitions =====
 

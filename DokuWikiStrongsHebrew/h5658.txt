@@ -1,12 +1,16 @@
 ====== H5658: עַבְדוֹן (ʻAbdôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H5647 ;  ;
+from H5647; **servitude**;
 
 ===== Meaning =====
 
-servitude Abdon , the name of a place in Palestine and of four Israelites
+**Abdon**, the name of a place in Palestine and of four Israelites
 
 ===== Definitions =====
 

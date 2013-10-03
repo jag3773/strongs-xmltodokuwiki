@@ -1,12 +1,16 @@
 ====== H7670: שִׁבְרוֹן (shibrôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7665 ;
+from H7665;
 
 ===== Meaning =====
 
-rupture , i.e. a  pang ; figuratively,  ruin
+**rupture**, i.e. a **pang**; figuratively, **ruin**
 
 ===== Definitions =====
 

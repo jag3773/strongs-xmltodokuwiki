@@ -1,12 +1,16 @@
 ====== H7457: רָעֵב (râʻêb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7456 ;
+from H7456;
 
 ===== Meaning =====
 
-hungry  (more or less intensely)
+**hungry** (more or less intensely)
 
 ===== Definitions =====
 

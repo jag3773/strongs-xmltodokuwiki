@@ -1,12 +1,16 @@
 ====== H6752: צֵלֶל (tsêlel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6751 ;
+from H6751;
 
 ===== Meaning =====
 
-shade
+**shade**
 
 ===== Definitions =====
 

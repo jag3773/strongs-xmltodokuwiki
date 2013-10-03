@@ -1,12 +1,16 @@
 ====== H6980: קוּר (qûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6979 ;
+from H6979;
 
 ===== Meaning =====
 
-(only plural)  trenches , i.e. a  web  (as if so formed)
+(only plural) **trenches**, i.e. a **web** (as if so formed)
 
 ===== Definitions =====
 

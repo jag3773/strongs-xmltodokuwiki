@@ -1,12 +1,16 @@
 ====== H7024: קִיר (Qîyr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H7023 ;  ;
+the same as H7023; **fortress**;
 
 ===== Meaning =====
 
-fortress Kir , a place in Assyrian; also one in Moab
+**Kir**, a place in Assyrian; also one in Moab
 
 ===== Definitions =====
 

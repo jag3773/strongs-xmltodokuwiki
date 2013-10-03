@@ -1,12 +1,16 @@
 ====== H625: אֹסֶף (ʼôçeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H622 ;
+from H622;
 
 ===== Meaning =====
 
-a  collection  (of fruits)
+a **collection** (of fruits)
 
 ===== Definitions =====
 

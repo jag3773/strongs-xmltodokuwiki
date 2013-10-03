@@ -1,12 +1,16 @@
 ====== H4948: מִשְׁקָל (mishqâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8254 ;
+from H8254;
 
 ===== Meaning =====
 
-weight  (numerically estimated); hence,  weighing  (the act)
+**weight** (numerically estimated); hence, **weighing** (the act)
 
 ===== Definitions =====
 

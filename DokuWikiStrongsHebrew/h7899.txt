@@ -1,12 +1,16 @@
 ====== H7899: שֵׂךְ (sêk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5526  in the sense of  H7753 ;
+from H5526 in the sense of H7753;
 
 ===== Meaning =====
 
-a  brier  (as of a hedge)
+a **brier** (as of a hedge)
 
 ===== Definitions =====
 

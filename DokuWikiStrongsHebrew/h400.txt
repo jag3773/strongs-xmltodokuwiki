@@ -1,12 +1,16 @@
 ====== H400: אֹכֶל (ʼôkel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H398 ;
+from H398;
 
 ===== Meaning =====
 
-food
+**food**
 
 ===== Definitions =====
 

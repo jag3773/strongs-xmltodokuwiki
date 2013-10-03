@@ -1,12 +1,16 @@
 ====== H4745: מִקְרֶה (miqreh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7136 ;
+from H7136;
 
 ===== Meaning =====
 
-something  met  with, i.e. an  accident  or  fortune
+something **met** with, i.e. an **accident** or **fortune**
 
 ===== Definitions =====
 

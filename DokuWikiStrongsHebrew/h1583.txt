@@ -1,12 +1,16 @@
 ====== H1583: גַּמְלִיאֵל (Gamlîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1580  and  H410 ;  ;
+from H1580 and H410; **reward of God**;
 
 ===== Meaning =====
 
-reward of God Gamliel , an Israelite
+**Gamliel**, an Israelite
 
 ===== Definitions =====
 

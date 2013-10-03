@@ -1,12 +1,16 @@
 ====== H3180: יַחְמוּר (yachmûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2560 ;
+from H2560;
 
 ===== Meaning =====
 
-a  kind of deer
+a **kind of deer**
 
 ===== Definitions =====
 

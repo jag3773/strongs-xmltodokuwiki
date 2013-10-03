@@ -1,12 +1,16 @@
 ====== H2321: חֹדֶשׁ (Chôdesh) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-the same as  H2320 ;
+the same as H2320;
 
 ===== Meaning =====
 
-Chodesh , an Israelitess
+**Chodesh**, an Israelitess
 
 ===== Definitions =====
 

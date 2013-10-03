@@ -1,12 +1,16 @@
 ====== H3513: כָּבַד (kâbad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-or   ; a primitive root;
+or ; a primitive root;
 
 ===== Meaning =====
 
-to  be heavy , i.e. in a bad sense ( burdensome ,  severe ,  dull ) or in a good sense ( numerous ,  rich ,  honorable ); causatively, to  make weighty  (in the same two senses)
+to **be heavy**, i.e. in a bad sense (**burdensome**, **severe**, **dull**) or in a good sense (**numerous**, **rich**, **honorable**); causatively, to **make weighty** (in the same two senses)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4123: מַהֲתַלָּה (mahăthallâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2048 ;
+from H2048;
 
 ===== Meaning =====
 
-a  delusion
+a **delusion**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2725: חֲרָבוֹן (chărâbôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2717 ;
+from H2717;
 
 ===== Meaning =====
 
-parching heat
+**parching heat**
 
 ===== Definitions =====
 

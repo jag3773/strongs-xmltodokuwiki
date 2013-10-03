@@ -1,12 +1,16 @@
 ====== H7302: רָוֶה (râveh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7301 ;
+from H7301;
 
 ===== Meaning =====
 
-sated  (with drink)
+**sated** (with drink)
 
 ===== Definitions =====
 

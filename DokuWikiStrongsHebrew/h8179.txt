@@ -1,12 +1,16 @@
 ====== H8179: שַׁעַר (shaʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8176  in its original sense;
+from H8176 in its original sense;
 
 ===== Meaning =====
 
-an  opening , i.e.  door  or  gate
+an **opening**, i.e. **door** or **gate**
 
 ===== Definitions =====
 

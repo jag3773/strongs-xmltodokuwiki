@@ -1,12 +1,16 @@
 ====== H5257: נְסִיךְ (nᵉçîyk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5258 ;
+from H5258;
 
 ===== Meaning =====
 
-properly, something  poured  out, i.e. a  libation ; also a molten  image ; by implication, a  prince  (as  anointed )
+properly, something **poured** out, i.e. a **libation**; also a molten **image**; by implication, a **prince** (as **anointed**)
 
 ===== Definitions =====
 

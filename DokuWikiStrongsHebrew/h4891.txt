@@ -1,12 +1,16 @@
 ====== H4891: מִשְׁחָר (mishchâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7836  in the sense of day  ;
+from H7836 in the sense of day **breaking**;
 
 ===== Meaning =====
 
-breaking dawn
+**dawn**
 
 ===== Definitions =====
 

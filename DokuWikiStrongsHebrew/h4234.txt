@@ -1,12 +1,16 @@
 ====== H4234: מָחוֹל (mâchôwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2342 ;
+from H2342;
 
 ===== Meaning =====
 
-a (round)  dance
+a (round) **dance**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2383: חֶזְיוֹן (Chezyôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2372 ; vision;
+from H2372; vision;
 
 ===== Meaning =====
 
-Chezjon , a Syrian
+**Chezjon**, a Syrian
 
 ===== Definitions =====
 

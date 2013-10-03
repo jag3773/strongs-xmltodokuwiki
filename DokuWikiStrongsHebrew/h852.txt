@@ -1,12 +1,16 @@
 ====== H852: אָת (ʼâth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) corresponding to  H226 ;
+(Aramaic) corresponding to H226;
 
 ===== Meaning =====
 
-a  portent
+a **portent**
 
 ===== Definitions =====
 

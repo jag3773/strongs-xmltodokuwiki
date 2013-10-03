@@ -1,12 +1,16 @@
 ====== H4722: מַקְהֵלֹת (Maqhêlôth) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-plural of  H4721  (feminine);  ;
+plural of H4721 (feminine); **assemblies**;
 
 ===== Meaning =====
 
-assemblies Makheloth , a place in the Desert
+**Makheloth**, a place in the Desert
 
 ===== Definitions =====
 

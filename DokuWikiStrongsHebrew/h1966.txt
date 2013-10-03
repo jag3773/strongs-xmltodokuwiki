@@ -1,12 +1,16 @@
 ====== H1966: הֵילֵל (hêylêl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1984  (in the sense of  );
+from H1984 (in the sense of **brightness**);
 
 ===== Meaning =====
 
-brightness the  morning-star
+the **morning-star**
 
 ===== Definitions =====
 

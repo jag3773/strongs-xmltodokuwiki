@@ -1,8 +1,12 @@
 ====== H3028: יַד (yad) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) corresponding to  H3027
+(Aramaic) corresponding to H3027
 
 ===== Meaning =====
 

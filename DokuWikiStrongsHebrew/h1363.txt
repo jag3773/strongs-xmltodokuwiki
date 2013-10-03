@@ -1,12 +1,16 @@
 ====== H1363: גֹּבַהּ (gôbahh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1361 ;
+from H1361;
 
 ===== Meaning =====
 
-elation ,  grandeur ,  arrogance
+**elation**, **grandeur**, **arrogance**
 
 ===== Definitions =====
 

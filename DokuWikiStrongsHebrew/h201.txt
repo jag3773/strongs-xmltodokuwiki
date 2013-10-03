@@ -1,12 +1,16 @@
 ====== H201: אוֹמָר (ʼÔwmâr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H559 ;  ;
+from H559; **talkative**;
 
 ===== Meaning =====
 
-talkative Omar , a grandson of Esau
+**Omar**, a grandson of Esau
 
 ===== Definitions =====
 

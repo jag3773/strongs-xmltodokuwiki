@@ -1,12 +1,16 @@
 ====== H8226: שָׂפַן (sâphan) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  conceal  (as a valuable)
+to **conceal** (as a valuable)
 
 ===== Definitions =====
 

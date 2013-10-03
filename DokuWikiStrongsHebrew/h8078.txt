@@ -1,12 +1,16 @@
 ====== H8078: שִׁמָּמוֹן (shimmâmôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8074 ;
+from H8074;
 
 ===== Meaning =====
 
-stupefaction
+**stupefaction**
 
 ===== Definitions =====
 

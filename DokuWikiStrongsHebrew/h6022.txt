@@ -1,12 +1,16 @@
 ====== H6022: עֲמָשַׂי (ʻĂmâsay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6006 ;  ;
+from H6006; **burdensome**;
 
 ===== Meaning =====
 
-burdensome Amasai , the name of three Israelites
+**Amasai**, the name of three Israelites
 
 ===== Definitions =====
 

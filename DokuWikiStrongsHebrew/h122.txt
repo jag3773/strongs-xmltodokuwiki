@@ -1,12 +1,16 @@
 ====== H122: אָדֹם (ʼâdôm) ======
 
+===== Part of Speech =====
+
+a n-m
+
 ===== Source =====
 
-from  H119 ;
+from H119;
 
 ===== Meaning =====
 
-rosy
+**rosy**
 
 ===== Definitions =====
 

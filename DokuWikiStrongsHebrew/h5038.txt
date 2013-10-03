@@ -1,12 +1,16 @@
 ====== H5038: נְבֵלָה (nᵉbêlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5034 ;
+from H5034;
 
 ===== Meaning =====
 
-a  flabby  thing, i.e. a  carcase  or  carrion  (human or bestial, often collectively); figuratively, an  idol
+a **flabby** thing, i.e. a **carcase** or **carrion** (human or bestial, often collectively); figuratively, an **idol**
 
 ===== Definitions =====
 

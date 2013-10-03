@@ -1,12 +1,16 @@
 ====== H7174: קַרְקֹר (Qarqôr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6979 ;  ;
+from H6979; **foundation**;
 
 ===== Meaning =====
 
-foundation Karkor , a place East of the Jordan
+**Karkor**, a place East of the Jordan
 
 ===== Definitions =====
 

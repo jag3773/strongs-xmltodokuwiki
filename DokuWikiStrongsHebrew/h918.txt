@@ -1,12 +1,16 @@
 ====== H918: בָּדַק (bâdaq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; to   open; used only as a denominative from  H919 ;
+a primitive root; to **gap** open; used only as a denominative from H919;
 
 ===== Meaning =====
 
-gap to  mend  a breach
+to **mend** a breach
 
 ===== Definitions =====
 

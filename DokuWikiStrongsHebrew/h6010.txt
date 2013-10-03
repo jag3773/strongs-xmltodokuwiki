@@ -1,12 +1,16 @@
 ====== H6010: עֵמֶק (ʻêmeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6009 ;
+from H6009;
 
 ===== Meaning =====
 
-a  vale  (i.e. broad depression)
+a **vale** (i.e. broad depression)
 
 ===== Definitions =====
 

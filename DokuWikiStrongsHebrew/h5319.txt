@@ -1,12 +1,16 @@
 ====== H5319: נַפְתּוּל (naphtûwl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6617 ;
+from H6617;
 
 ===== Meaning =====
 
-properly,  wrestled ; but used (in the plural) transitively, a  struggle
+properly, **wrestled**; but used (in the plural) transitively, a **struggle**
 
 ===== Definitions =====
 

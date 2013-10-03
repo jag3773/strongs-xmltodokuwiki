@@ -1,12 +1,16 @@
 ====== H7022: קִיקָלוֹן (qîyqâlôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7036 ;
+from H7036;
 
 ===== Meaning =====
 
-intense disgrace
+**intense disgrace**
 
 ===== Definitions =====
 

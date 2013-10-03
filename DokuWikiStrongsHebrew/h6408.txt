@@ -1,12 +1,16 @@
 ====== H6408: פִּלְטַי (Pilṭay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H6407 ;
+for H6407;
 
 ===== Meaning =====
 
-Piltai , an Israelite
+**Piltai**, an Israelite
 
 ===== Definitions =====
 

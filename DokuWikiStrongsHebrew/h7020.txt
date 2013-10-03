@@ -1,12 +1,16 @@
 ====== H7020: קִיצוֹן (qîytsôwn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6972 ;
+from H6972;
 
 ===== Meaning =====
 
-terminal
+**terminal**
 
 ===== Definitions =====
 

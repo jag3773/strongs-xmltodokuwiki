@@ -1,12 +1,16 @@
 ====== H3725: כִּפֻּר (kippur) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3722 ;
+from H3722;
 
 ===== Meaning =====
 
-expiation  (only in plural)
+**expiation** (only in plural)
 
 ===== Definitions =====
 

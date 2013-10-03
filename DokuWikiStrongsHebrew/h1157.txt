@@ -1,12 +1,16 @@
 ====== H1157: בְּעַד (bᵉʻad) ======
 
+===== Part of Speech =====
+
+prep
+
 ===== Source =====
 
-from  H5704  with prepositional prefix;
+from H5704 with prepositional prefix;
 
 ===== Meaning =====
 
-in up to  or  over against ; generally  at ,  beside ,  among ,  behind ,  for , etc.
+**in up to** or **over against**; generally **at**, **beside**, **among**, **behind**, **for**, etc.
 
 ===== Definitions =====
 

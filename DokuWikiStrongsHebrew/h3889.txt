@@ -1,12 +1,16 @@
 ====== H3889: לוּשׁ (Lûwsh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3888 ; kneading;
+from H3888; kneading;
 
 ===== Meaning =====
 
-Lush , a place in Palestine
+**Lush**, a place in Palestine
 
 ===== Definitions =====
 

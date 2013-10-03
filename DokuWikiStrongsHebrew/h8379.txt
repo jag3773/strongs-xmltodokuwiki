@@ -1,12 +1,16 @@
 ====== H8379: תַּאֲוָה (taʼăvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8376 ;
+from H8376;
 
 ===== Meaning =====
 
-a  limit , i.e.  full extent
+a **limit**, i.e. **full extent**
 
 ===== Definitions =====
 

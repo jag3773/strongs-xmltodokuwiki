@@ -1,12 +1,16 @@
 ====== H4137: מוֹלָדָה (Môwlâdâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3205 ;  ;
+from H3205; **birth**;
 
 ===== Meaning =====
 
-birth Moladah , a place in Palestine
+**Moladah**, a place in Palestine
 
 ===== Definitions =====
 

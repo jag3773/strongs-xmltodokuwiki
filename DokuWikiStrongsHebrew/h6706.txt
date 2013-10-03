@@ -1,12 +1,16 @@
 ====== H6706: צְחִיחַ (tsᵉchîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6705 ;
+from H6705;
 
 ===== Meaning =====
 
-glaring , i.e.  exposed  to the bright sun
+**glaring**, i.e. **exposed** to the bright sun
 
 ===== Definitions =====
 

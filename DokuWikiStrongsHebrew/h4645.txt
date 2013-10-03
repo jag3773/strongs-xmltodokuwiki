@@ -1,12 +1,16 @@
 ====== H4645: מִפְגָּע (miphgâʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6293 ;
+from H6293;
 
 ===== Meaning =====
 
-an  object of attack
+an **object of attack**
 
 ===== Definitions =====
 

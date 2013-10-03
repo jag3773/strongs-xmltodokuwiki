@@ -1,12 +1,16 @@
 ====== H6556: פֶּרֶץ (perets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6555 ;
+from H6555;
 
 ===== Meaning =====
 
-a  break  (literally or figuratively)
+a **break** (literally or figuratively)
 
 ===== Definitions =====
 

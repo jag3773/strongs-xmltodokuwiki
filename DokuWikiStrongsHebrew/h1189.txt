@@ -1,12 +1,16 @@
 ====== H1189: בַּעַל צְפוֹן (Baʻal Tsᵉphôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1168  and  H6828  (in the sense of  ) (according to others an Egyptian form of  , the destroyer);  ;
+from H1168 and H6828 (in the sense of **cold**) (according to others an Egyptian form of **Typhon**, the destroyer); **Baal of winter**;
 
 ===== Meaning =====
 
-cold Typhon Baal of winter Baal-Tsephon , a place in Eqypt
+**Baal-Tsephon**, a place in Eqypt
 
 ===== Definitions =====
 

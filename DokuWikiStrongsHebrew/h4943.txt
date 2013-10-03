@@ -1,12 +1,16 @@
 ====== H4943: מֶשֶׁק (mesheq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **hold**;
 
 ===== Meaning =====
 
-hold possession
+**possession**
 
 ===== Definitions =====
 

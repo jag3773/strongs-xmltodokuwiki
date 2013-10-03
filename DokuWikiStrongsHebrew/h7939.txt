@@ -1,12 +1,16 @@
 ====== H7939: שָׂכָר (sâkâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7936 ;
+from H7936;
 
 ===== Meaning =====
 
-payment of contract ; concretely,  salary ,  fare ,  maintenance ; by implication,  compensation ,  benefit
+**payment of contract**; concretely, **salary**, **fare**, **maintenance**; by implication, **compensation**, **benefit**
 
 ===== Definitions =====
 

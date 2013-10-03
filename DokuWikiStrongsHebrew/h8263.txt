@@ -1,12 +1,16 @@
 ====== H8263: שֶׁקֶץ (sheqets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8262 ;
+from H8262;
 
 ===== Meaning =====
 
-filth , i.e. (figuratively and specifically) an  idolatrous  object
+**filth**, i.e. (figuratively and specifically) an **idolatrous** object
 
 ===== Definitions =====
 

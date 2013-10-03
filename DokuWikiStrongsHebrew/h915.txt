@@ -1,12 +1,16 @@
 ====== H915: בָּדָל (bâdâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H914 ;
+from H914;
 
 ===== Meaning =====
 
-a  part
+a **part**
 
 ===== Definitions =====
 

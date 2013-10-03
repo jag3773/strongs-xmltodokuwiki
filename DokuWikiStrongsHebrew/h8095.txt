@@ -1,12 +1,16 @@
 ====== H8095: שִׁמְעוֹן (Shimʻôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8085 ;  ;
+from H8085; **hearing**;
 
 ===== Meaning =====
 
-hearing Shimon , one of Jacob's sons, also the tribe descended from him
+**Shimon**, one of Jacob's sons, also the tribe descended from him
 
 ===== Definitions =====
 

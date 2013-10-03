@@ -1,12 +1,16 @@
 ====== H640: אָפַד (ʼâphad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root [rather a denominative from  H646 ];
+a primitive root [rather a denominative from H646];
 
 ===== Meaning =====
 
-to  gird  on (the ephod)
+to **gird** on (the ephod)
 
 ===== Definitions =====
 

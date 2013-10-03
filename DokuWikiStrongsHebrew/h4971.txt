@@ -1,12 +1,16 @@
 ====== H4971: מַתְכֹנֶת (mathkôneth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-or   ; from  H8505  in the transferred sense of measuring;
+or ; from H8505 in the transferred sense of measuring;
 
 ===== Meaning =====
 
-proportion  (in size, number or ingredients)
+**proportion** (in size, number or ingredients)
 
 ===== Definitions =====
 

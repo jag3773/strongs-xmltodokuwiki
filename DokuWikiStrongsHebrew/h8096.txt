@@ -1,12 +1,16 @@
 ====== H8096: שִׁמְעִי (Shimʻîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8088 ;  ;
+from H8088; **famous**;
 
 ===== Meaning =====
 
-famous Shimi , the name of twenty Israelites
+**Shimi**, the name of twenty Israelites
 
 ===== Definitions =====
 

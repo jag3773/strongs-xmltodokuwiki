@@ -1,12 +1,16 @@
 ====== H461: אֱלִיעֶזֶר (ʼĔlîyʻezer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H5828 ;  ;
+from H410 and H5828; **God of help**;
 
 ===== Meaning =====
 
-God of help Eliezer , the name of a Damascene and of ten Israelites
+**Eliezer**, the name of a Damascene and of ten Israelites
 
 ===== Definitions =====
 

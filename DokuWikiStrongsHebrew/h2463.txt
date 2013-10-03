@@ -1,12 +1,16 @@
 ====== H2463: חֶלְבּוֹן (Chelbôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2459 ; fruitful;
+from H2459; fruitful;
 
 ===== Meaning =====
 
-Chelbon , a place in Syria
+**Chelbon**, a place in Syria
 
 ===== Definitions =====
 

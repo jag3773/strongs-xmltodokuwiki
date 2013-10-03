@@ -1,12 +1,16 @@
 ====== H1134: בֶּן־חַיִל (Ben-Chayil) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and  H2428 ; son of might;
+from H1121 and H2428; son of might;
 
 ===== Meaning =====
 
-Ben-Chail , an Israelite
+**Ben-Chail**, an Israelite
 
 ===== Definitions =====
 

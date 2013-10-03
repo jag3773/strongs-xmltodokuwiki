@@ -1,12 +1,16 @@
 ====== H2098: זוּ (zûw) ======
 
+===== Part of Speech =====
+
+d
+
 ===== Source =====
 
-for  H2088 ;
+for H2088;
 
 ===== Meaning =====
 
-this  or  that
+**this** or **that**
 
 ===== Definitions =====
 

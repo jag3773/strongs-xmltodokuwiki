@@ -1,12 +1,16 @@
 ====== H730: אֶרֶז (ʼerez) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H729 ;
+from H729;
 
 ===== Meaning =====
 
-a  cedar  tree (from the tenacity of its roots)
+a **cedar** tree (from the tenacity of its roots)
 
 ===== Definitions =====
 

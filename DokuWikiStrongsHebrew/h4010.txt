@@ -1,12 +1,16 @@
 ====== H4010: מַבְלִיגִית (mablîygîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1082 ;
+from H1082;
 
 ===== Meaning =====
 
-desistance  (or rather desolation)
+**desistance** (or rather desolation)
 
 ===== Definitions =====
 

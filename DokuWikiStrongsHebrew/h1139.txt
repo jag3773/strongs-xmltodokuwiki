@@ -1,12 +1,16 @@
 ====== H1139: בְּנֵי־בְּרַק (Bᵉnêy-Bᵉraq) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the plural construction of  H1121  and  H1300 ;
+from the plural construction of H1121 and H1300;
 
 ===== Meaning =====
 
-sons of lightning ,  Bene-berak , a place in Palestine
+**sons of lightning**, **Bene-berak**, a place in Palestine
 
 ===== Definitions =====
 

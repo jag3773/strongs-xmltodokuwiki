@@ -1,12 +1,16 @@
 ====== H3657: כַּנָּה (kannâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3661 ;
+from H3661;
 
 ===== Meaning =====
 
-a  plant  (as set)
+a **plant** (as set)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7307: רוּחַ (rûwach) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7306 ;
+from H7306;
 
 ===== Meaning =====
 
-wind ; by resemblance  breath , i.e. a sensible (or even violent)  exhalation ; figuratively,  life ,  anger ,  unsubstantiality ; by extension, a  region of the sky ; by resemblance  spirit , but only of a rational being (including its expression and functions)
+**wind**; by resemblance **breath**, i.e. a sensible (or even violent) **exhalation**; figuratively, **life**, **anger**, **unsubstantiality**; by extension, a **region of the sky**; by resemblance **spirit**, but only of a rational being (including its expression and functions)
 
 ===== Definitions =====
 

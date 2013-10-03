@@ -1,12 +1,16 @@
 ====== H7316: רוּמָה (Rûwmâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7311 ;  ;
+from H7311; **height**;
 
 ===== Meaning =====
 
-height Rumah , a place in Palestine
+**Rumah**, a place in Palestine
 
 ===== Definitions =====
 

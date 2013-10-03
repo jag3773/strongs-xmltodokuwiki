@@ -1,12 +1,16 @@
 ====== H8625: תְּקַל (tᵉqal) ======
 
+===== Part of Speech =====
+
+v n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H8254 ;
+(Aramaic) corresponding to H8254;
 
 ===== Meaning =====
 
-to  balance
+to **balance**
 
 ===== Definitions =====
 

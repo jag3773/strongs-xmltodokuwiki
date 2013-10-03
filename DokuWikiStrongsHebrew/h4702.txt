@@ -1,12 +1,16 @@
 ====== H4702: מַצָּע (matstsâʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3331 ;
+from H3331;
 
 ===== Meaning =====
 
-a  couch
+a **couch**
 
 ===== Definitions =====
 

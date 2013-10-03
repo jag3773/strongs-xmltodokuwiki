@@ -1,12 +1,16 @@
 ====== H6232: עֵשֶׁק (ʻÊsheq) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6231 ;  ;
+from H6231; **oppression**;
 
 ===== Meaning =====
 
-oppression Eshek , an Israelite
+**Eshek**, an Israelite
 
 ===== Definitions =====
 

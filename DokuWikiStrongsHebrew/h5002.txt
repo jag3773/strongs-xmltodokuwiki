@@ -1,12 +1,16 @@
 ====== H5002: נְאֻם (nᵉʼum) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5001 ;
+from H5001;
 
 ===== Meaning =====
 
-an  oracle
+an **oracle**
 
 ===== Definitions =====
 

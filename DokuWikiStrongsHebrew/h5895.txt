@@ -1,12 +1,16 @@
 ====== H5895: עַיִר (ʻayir) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5782  in the sense of raising (i.e. bearing a burden);
+from H5782 in the sense of raising (i.e. bearing a burden);
 
 ===== Meaning =====
 
-properly, a  young ass  (as just broken to a load); hence an  ass-colt
+properly, a **young ass** (as just broken to a load); hence an **ass-colt**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7164: קָרַס (qâraç) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; properly, to  ; used only as denominative from  H7165  (for alliteration with  H7167 ),
+a primitive root; properly, to **protrude**; used only as denominative from H7165 (for alliteration with H7167),
 
 ===== Meaning =====
 
-protrude to  hunch , i.e. be hump-backed
+to **hunch**, i.e. be hump-backed
 
 ===== Definitions =====
 

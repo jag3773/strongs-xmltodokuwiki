@@ -1,12 +1,16 @@
 ====== H5750: עוֹד (ʻôwd) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-or   ; from  H5749 ;
+or ; from H5749;
 
 ===== Meaning =====
 
-properly,  iteration  or  continuance ; used only adverbially (with or without preposition),  again ,  repeatedly ,  still ,  more
+properly, **iteration** or **continuance**; used only adverbially (with or without preposition), **again**, **repeatedly**, **still**, **more**
 
 ===== Definitions =====
 

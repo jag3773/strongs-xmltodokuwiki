@@ -1,12 +1,16 @@
 ====== H363: אִילָן (ʼîylân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H356 ;
+(Aramaic) corresponding to H356;
 
 ===== Meaning =====
 
-a  tree
+a **tree**
 
 ===== Definitions =====
 

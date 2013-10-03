@@ -1,12 +1,16 @@
 ====== H4239: מְחִי (mᵉchîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4229 ;
+from H4229;
 
 ===== Meaning =====
 
-a  stroke , i.e.  battering-ram
+a **stroke**, i.e. **battering-ram**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3804: כֶּתֶר (kether) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3803 ;
+from H3803;
 
 ===== Meaning =====
 
-properly, a  circlet , i.e. a  diadem
+properly, a **circlet**, i.e. a **diadem**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7210: רֳאִי (rŏʼîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7200 ;
+from H7200;
 
 ===== Meaning =====
 
-sight , whether abstractly ( vision ) or concretely (a  spectacle )
+**sight**, whether abstractly (**vision**) or concretely (a **spectacle**)
 
 ===== Definitions =====
 

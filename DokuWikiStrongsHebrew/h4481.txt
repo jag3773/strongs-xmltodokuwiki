@@ -1,8 +1,12 @@
 ====== H4481: מִן (min) ======
 
+===== Part of Speech =====
+
+prep
+
 ===== Source =====
 
-(Aramaic) corresponding to  H4480
+(Aramaic) corresponding to H4480
 
 ===== Meaning =====
 

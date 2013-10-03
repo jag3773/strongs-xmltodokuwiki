@@ -1,12 +1,16 @@
 ====== H7009: קִים (qîym) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6965 ;
+from H6965;
 
 ===== Meaning =====
 
-an  opponent  (as rising against one), i.e. (collectively)  enemies
+an **opponent** (as rising against one), i.e. (collectively) **enemies**
 
 ===== Definitions =====
 

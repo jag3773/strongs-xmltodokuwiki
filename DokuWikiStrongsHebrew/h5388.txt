@@ -1,12 +1,16 @@
 ====== H5388: נְשִׁיָּה (nᵉshîyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5382 ;
+from H5382;
 
 ===== Meaning =====
 
-oblivion
+**oblivion**
 
 ===== Definitions =====
 

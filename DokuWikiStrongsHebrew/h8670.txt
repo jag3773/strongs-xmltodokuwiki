@@ -1,12 +1,16 @@
 ====== H8670: תְּשׁוּרָה (tᵉshûwrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7788  in the sense of arrival;
+from H7788 in the sense of arrival;
 
 ===== Meaning =====
 
-a  gift
+a **gift**
 
 ===== Definitions =====
 

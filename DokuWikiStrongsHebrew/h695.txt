@@ -1,12 +1,16 @@
 ====== H695: אֶרֶב (ʼereb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H693 ;
+from H693;
 
 ===== Meaning =====
 
-ambuscade
+**ambuscade**
 
 ===== Definitions =====
 

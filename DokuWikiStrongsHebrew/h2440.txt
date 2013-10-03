@@ -1,12 +1,16 @@
 ====== H2440: חִישׁ (chîysh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H2439 ;
+from H2439;
 
 ===== Meaning =====
 
-properly, a  hurry ; hence (adverb)  quickly
+properly, a **hurry**; hence (adverb) **quickly**
 
 ===== Definitions =====
 

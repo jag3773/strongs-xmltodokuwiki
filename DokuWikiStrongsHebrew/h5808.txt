@@ -1,12 +1,16 @@
 ====== H5808: עִזּוּז (ʻizzûwz) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5810 ;
+from H5810;
 
 ===== Meaning =====
 
-forcible ; collectively and concretely, an  army
+**forcible**; collectively and concretely, an **army**
 
 ===== Definitions =====
 

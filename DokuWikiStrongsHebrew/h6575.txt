@@ -1,12 +1,16 @@
 ====== H6575: פָּרָשָׁה (pârâshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6567 ;
+from H6567;
 
 ===== Meaning =====
 
-exposition
+**exposition**
 
 ===== Definitions =====
 

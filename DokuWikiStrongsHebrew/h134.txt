@@ -1,12 +1,16 @@
 ====== H134: אֶדֶן (ʼeden) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from the same as  H113  (in the sense of  );
+from the same as H113 (in the sense of **strength**);
 
 ===== Meaning =====
 
-strength a  basis  (of a building, a column, etc.)
+a **basis** (of a building, a column, etc.)
 
 ===== Definitions =====
 

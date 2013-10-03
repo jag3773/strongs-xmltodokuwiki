@@ -1,12 +1,16 @@
 ====== H6098: עֵצָה (ʻêtsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3289 ;
+from H3289;
 
 ===== Meaning =====
 
-advice ; by implication,  plan ; also  prudence
+**advice**; by implication, **plan**; also **prudence**
 
 ===== Definitions =====
 

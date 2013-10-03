@@ -1,12 +1,16 @@
 ====== H4914: מְשֹׁל (mᵉshôl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4911 ;
+from H4911;
 
 ===== Meaning =====
 
-a  satire
+a **satire**
 
 ===== Definitions =====
 

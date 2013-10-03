@@ -1,12 +1,16 @@
 ====== H7603: שְׂאֹר (sᵉʼôr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7604 ;
+from H7604;
 
 ===== Meaning =====
 
-barm  or yeast-cake (as  swelling  by fermentation)
+**barm** or yeast-cake (as **swelling** by fermentation)
 
 ===== Definitions =====
 

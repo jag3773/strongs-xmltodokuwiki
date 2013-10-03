@@ -1,12 +1,16 @@
 ====== H5692: עֻגָּה (ʻuggâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5746 ;
+from H5746;
 
 ===== Meaning =====
 
-an  ashcake  (as  round )
+an **ashcake** (as **round**)
 
 ===== Definitions =====
 

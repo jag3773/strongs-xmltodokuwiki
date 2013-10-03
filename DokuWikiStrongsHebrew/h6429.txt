@@ -1,12 +1,16 @@
 ====== H6429: פְּלֶשֶׁת (Pᵉlesheth) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H6428 ;  , i.e.  ;
+from H6428; **rolling**, i.e. **migratory**;
 
 ===== Meaning =====
 
-rolling migratory Pelesheth , a region of Syria
+**Pelesheth**, a region of Syria
 
 ===== Definitions =====
 

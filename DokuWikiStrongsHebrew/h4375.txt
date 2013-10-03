@@ -1,12 +1,16 @@
 ====== H4375: מַכְפֵּלָה (Makpêlâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3717 ; a fold;
+from H3717; a fold;
 
 ===== Meaning =====
 
-Makpelah , a place in Palestine
+**Makpelah**, a place in Palestine
 
 ===== Definitions =====
 

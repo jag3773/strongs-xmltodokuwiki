@@ -1,12 +1,16 @@
 ====== H4658: מַפֶּלֶת (mappeleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5307 ;
+from H5307;
 
 ===== Meaning =====
 
-fall , i.e.  decadence ; concretely, a  ruin ; specifically a  carcase
+**fall**, i.e. **decadence**; concretely, a **ruin**; specifically a **carcase**
 
 ===== Definitions =====
 

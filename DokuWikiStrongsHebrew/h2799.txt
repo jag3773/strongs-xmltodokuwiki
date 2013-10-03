@@ -1,12 +1,16 @@
 ====== H2799: חֲרֹשֶׁת (chărôsheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2790 ;
+from H2790;
 
 ===== Meaning =====
 
-mechanical  work
+mechanical **work**
 
 ===== Definitions =====
 

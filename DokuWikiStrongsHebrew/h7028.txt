@@ -1,12 +1,16 @@
 ====== H7028: קִישׁוֹן (Qîyshôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6983 ;  ;
+from H6983; **winding**;
 
 ===== Meaning =====
 
-winding Kishon , a river of Palestine
+**Kishon**, a river of Palestine
 
 ===== Definitions =====
 

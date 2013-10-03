@@ -1,12 +1,16 @@
 ====== H499: אֶלְעָזָר (ʼElʻâzâr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H5826 ; God (is) helper;
+from H410 and H5826; God (is) helper;
 
 ===== Meaning =====
 
-Elazar , the name of seven Israelites
+**Elazar**, the name of seven Israelites
 
 ===== Definitions =====
 

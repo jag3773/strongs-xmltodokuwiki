@@ -1,12 +1,16 @@
 ====== H2785: חַרְצַן (chartsan) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2782 ;
+from H2782;
 
 ===== Meaning =====
 
-a  sour  grape (as  sharp  in taste)
+a **sour** grape (as **sharp** in taste)
 
 ===== Definitions =====
 

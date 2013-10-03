@@ -1,12 +1,16 @@
 ====== H1200: בְּעֵרָה (bᵉʻêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1197 ;
+from H1197;
 
 ===== Meaning =====
 
-a  burning
+a **burning**
 
 ===== Definitions =====
 

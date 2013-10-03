@@ -1,12 +1,16 @@
 ====== H5652: עֲבָד (ʻăbâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5647 ;
+from H5647;
 
 ===== Meaning =====
 
-a  deed
+a **deed**
 
 ===== Definitions =====
 

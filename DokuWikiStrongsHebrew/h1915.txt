@@ -1,12 +1,16 @@
 ====== H1915: הָדַךְ (hâdak) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H1854 );
+a primitive root (compare H1854);
 
 ===== Meaning =====
 
-to  crush with the foot
+to **crush with the foot**
 
 ===== Definitions =====
 

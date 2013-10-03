@@ -1,12 +1,16 @@
 ====== H7611: שְׁאֵרִית (shᵉʼêrîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7604 ;
+from H7604;
 
 ===== Meaning =====
 
-a  remainder  or residual (surviving, final) portion
+a **remainder** or residual (surviving, final) portion
 
 ===== Definitions =====
 

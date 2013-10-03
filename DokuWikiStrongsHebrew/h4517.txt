@@ -1,12 +1,16 @@
 ====== H4517: מְנַעְנַע (mᵉnaʻnaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5128 ;
+from H5128;
 
 ===== Meaning =====
 
-a  sistrum  (so called from its rattling sound)
+a **sistrum** (so called from its rattling sound)
 
 ===== Definitions =====
 

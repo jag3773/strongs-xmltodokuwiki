@@ -1,12 +1,16 @@
 ====== H7562: רֶשַׁע (reshaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7561 ;
+from H7561;
 
 ===== Meaning =====
 
-a  wrong  (especially moral)
+a **wrong** (especially moral)
 
 ===== Definitions =====
 

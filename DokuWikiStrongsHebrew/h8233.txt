@@ -1,12 +1,16 @@
 ====== H8233: שֶׁפֶר (shepher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8231 ;
+from H8231;
 
 ===== Meaning =====
 
-beauty
+**beauty**
 
 ===== Definitions =====
 

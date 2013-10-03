@@ -1,12 +1,16 @@
 ====== H4595: מַעֲטָפָה (maʻăṭâphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5848 ;
+from H5848;
 
 ===== Meaning =====
 
-a  cloak
+a **cloak**
 
 ===== Definitions =====
 

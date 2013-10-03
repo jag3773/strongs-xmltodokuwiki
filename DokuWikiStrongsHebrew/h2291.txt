@@ -1,12 +1,16 @@
 ====== H2291: חַגִּי (Chaggîy) ======
 
+===== Part of Speech =====
+
+n-pr-m a
+
 ===== Source =====
 
-from  H2287 ; 
+from H2287; **festive**
 
 ===== Meaning =====
 
-festive Chaggi , an Israelite; also (patronymically) a  Chaggite , or descendant of the same
+**Chaggi**, an Israelite; also (patronymically) a **Chaggite**, or descendant of the same
 
 ===== Definitions =====
 

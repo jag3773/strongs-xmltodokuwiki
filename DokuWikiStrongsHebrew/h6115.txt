@@ -1,12 +1,16 @@
 ====== H6115: עֹצֶר (ʻôtser) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6113 ;
+from H6113;
 
 ===== Meaning =====
 
-closure ; also  constraint
+**closure**; also **constraint**
 
 ===== Definitions =====
 

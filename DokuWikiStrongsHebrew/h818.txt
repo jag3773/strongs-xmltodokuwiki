@@ -1,12 +1,16 @@
 ====== H818: אָשֵׁם (ʼâshêm) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H816 ;
+from H816;
 
 ===== Meaning =====
 
-guilty ; hence,  presenting a sin-offering
+**guilty**; hence, **presenting a sin-offering**
 
 ===== Definitions =====
 

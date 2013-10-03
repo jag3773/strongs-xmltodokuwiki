@@ -1,12 +1,16 @@
 ====== H4405: מִלָּה (millâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4448  (plural masculine as if from   ;
+from H4448 (plural masculine as if from ;
 
 ===== Meaning =====
 
-a  word ; collectively, a  discourse ; figuratively, a  topic
+a **word**; collectively, a **discourse**; figuratively, a **topic**
 
 ===== Definitions =====
 

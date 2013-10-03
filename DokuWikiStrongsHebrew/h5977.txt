@@ -1,12 +1,16 @@
 ====== H5977: עֹמֶד (ʻômed) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5975 ;
+from H5975;
 
 ===== Meaning =====
 
-a  spot  (as being fixed)
+a **spot** (as being fixed)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5899: עִיר הַתְּמָרִים (ʻÎyr hat-Tᵉmârîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5892  and the plural of  H8558  with the article interpolated; city of the palmtrees;
+from H5892 and the plural of H8558 with the article interpolated; city of the palmtrees;
 
 ===== Meaning =====
 
-Ir-hat-Temarim , a place in Palestine
+**Ir-hat-Temarim**, a place in Palestine
 
 ===== Definitions =====
 

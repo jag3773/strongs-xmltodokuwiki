@@ -1,12 +1,16 @@
 ====== H4461: מֵמַד (mêmad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4058 ;
+from H4058;
 
 ===== Meaning =====
 
-a  measure
+a **measure**
 
 ===== Definitions =====
 

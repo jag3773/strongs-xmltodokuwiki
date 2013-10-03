@@ -1,12 +1,16 @@
 ====== H6076: עֹפֶל (ʻôphel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6075 ;
+from H6075;
 
 ===== Meaning =====
 
-a  tumor ; also a  mound , i.e.  fortress
+a **tumor**; also a **mound**, i.e. **fortress**
 
 ===== Definitions =====
 

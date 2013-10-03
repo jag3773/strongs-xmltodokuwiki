@@ -1,12 +1,16 @@
 ====== H5282: נַעֲמָן (naʻămân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5276 ;
+from H5276;
 
 ===== Meaning =====
 
-pleasantness  (plural as concrete)
+**pleasantness** (plural as concrete)
 
 ===== Definitions =====
 

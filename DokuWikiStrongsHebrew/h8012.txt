@@ -1,12 +1,16 @@
 ====== H8012: שַׂלְמוֹן (Salmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8008 ;  ;
+from H8008; **investiture**;
 
 ===== Meaning =====
 
-investiture Salmon , an Israelite
+**Salmon**, an Israelite
 
 ===== Definitions =====
 

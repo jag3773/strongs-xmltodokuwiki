@@ -1,12 +1,16 @@
 ====== H7338: רַחַב (rachab) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7337 ;
+from H7337;
 
 ===== Meaning =====
 
-a  width
+a **width**
 
 ===== Definitions =====
 

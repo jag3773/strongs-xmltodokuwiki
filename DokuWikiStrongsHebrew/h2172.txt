@@ -1,12 +1,16 @@
 ====== H2172: זִמְרָה (zimrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2167 ;
+from H2167;
 
 ===== Meaning =====
 
-a  musical  piece or  song  to be accompanied by an instrument
+a **musical** piece or **song** to be accompanied by an instrument
 
 ===== Definitions =====
 

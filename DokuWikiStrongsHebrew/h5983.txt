@@ -1,12 +1,16 @@
 ====== H5983: עַמּוֹן (ʻAmmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5971 ; tribal, i.e. inbred;
+from H5971; tribal, i.e. inbred;
 
 ===== Meaning =====
 
-Ammon , a son of Lot; also his posterity and their country
+**Ammon**, a son of Lot; also his posterity and their country
 
 ===== Definitions =====
 

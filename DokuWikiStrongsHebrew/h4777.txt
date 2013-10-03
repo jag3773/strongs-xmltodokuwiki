@@ -1,12 +1,16 @@
 ====== H4777: מֶרֶד (mered) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4775 ;
+from H4775;
 
 ===== Meaning =====
 
-rebellion
+**rebellion**
 
 ===== Definitions =====
 

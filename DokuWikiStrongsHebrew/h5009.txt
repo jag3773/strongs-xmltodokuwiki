@@ -1,12 +1,16 @@
 ====== H5009: נְאָקָה (nᵉʼâqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5008 ;
+from H5008;
 
 ===== Meaning =====
 
-a  groan
+a **groan**
 
 ===== Definitions =====
 

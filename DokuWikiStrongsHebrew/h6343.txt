@@ -1,12 +1,16 @@
 ====== H6343: פַּחַד (pachad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6342 ;
+from H6342;
 
 ===== Meaning =====
 
-a (sudden)  alarm  (properly, the object feared, by implication, the feeling)
+a (sudden) **alarm** (properly, the object feared, by implication, the feeling)
 
 ===== Definitions =====
 

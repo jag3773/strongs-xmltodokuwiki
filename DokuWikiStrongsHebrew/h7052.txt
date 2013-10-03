@@ -1,12 +1,16 @@
 ====== H7052: קְלֹקֵל (qᵉlôqêl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7043 ;
+from H7043;
 
 ===== Meaning =====
 
-insubstantial
+**insubstantial**
 
 ===== Definitions =====
 

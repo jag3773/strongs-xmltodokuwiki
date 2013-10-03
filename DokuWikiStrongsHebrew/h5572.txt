@@ -1,12 +1,16 @@
 ====== H5572: סְנֶה (çᵉneh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **prick**;
 
 ===== Meaning =====
 
-prick a  bramble
+a **bramble**
 
 ===== Definitions =====
 

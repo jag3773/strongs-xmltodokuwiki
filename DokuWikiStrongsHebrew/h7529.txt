@@ -1,12 +1,16 @@
 ====== H7529: רֶצֶף (retseph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H7565 ;
+for H7565;
 
 ===== Meaning =====
 
-a red-hot stone  (for baking)
+**a red-hot stone** (for baking)
 
 ===== Definitions =====
 

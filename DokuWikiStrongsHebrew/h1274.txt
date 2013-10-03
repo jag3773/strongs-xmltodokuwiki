@@ -1,12 +1,16 @@
 ====== H1274: בְּרִי (bᵉrîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1262 ;
+from H1262;
 
 ===== Meaning =====
 
-fat
+**fat**
 
 ===== Definitions =====
 

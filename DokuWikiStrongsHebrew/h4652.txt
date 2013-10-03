@@ -1,12 +1,16 @@
 ====== H4652: מִפְלָאָה (miphlâʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6381 ;
+from H6381;
 
 ===== Meaning =====
 
-a  miracle
+a **miracle**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1877: דֶּשֶׁא (desheʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1876 ;
+from H1876;
 
 ===== Meaning =====
 
-a  sprout ; by analogy,  grass
+a **sprout**; by analogy, **grass**
 
 ===== Definitions =====
 

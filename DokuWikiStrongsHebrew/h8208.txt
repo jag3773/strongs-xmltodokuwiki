@@ -1,12 +1,16 @@
 ====== H8208: שָׁפִיר (Shâphîyr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H8231 ;  ;
+from H8231; **beautiful**;
 
 ===== Meaning =====
 
-beautiful Shaphir , a place in Palestine
+**Shaphir**, a place in Palestine
 
 ===== Definitions =====
 

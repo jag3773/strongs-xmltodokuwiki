@@ -1,12 +1,16 @@
 ====== H1190: בַּעַל שָׁלִשָׁה (Baʻal Shâlishâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1168  and  H8031 ;
+from H1168 and H8031;
 
 ===== Meaning =====
 
-Baal of Shalishah , Baal-Shalishah, a place in Palestine
+**Baal of Shalishah**, Baal-Shalishah, a place in Palestine
 
 ===== Definitions =====
 

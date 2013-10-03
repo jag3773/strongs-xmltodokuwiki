@@ -1,12 +1,16 @@
 ====== H1825: דִּמְיוֹן (dimyôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1819 ;
+from H1819;
 
 ===== Meaning =====
 
-resemblance
+**resemblance**
 
 ===== Definitions =====
 

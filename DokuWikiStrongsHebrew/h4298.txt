@@ -1,12 +1,16 @@
 ====== H4298: מֻטָּה (muṭṭâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5186 ;
+from H5186;
 
 ===== Meaning =====
 
-expansion
+**expansion**
 
 ===== Definitions =====
 

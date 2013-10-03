@@ -1,12 +1,16 @@
 ====== H7943: שִׁכָּרוֹן (shikkârôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7937 ;
+from H7937;
 
 ===== Meaning =====
 
-intoxication
+**intoxication**
 
 ===== Definitions =====
 

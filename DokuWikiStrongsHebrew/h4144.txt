@@ -1,12 +1,16 @@
 ====== H4144: מוֹסָד (môwçâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3245 ;
+from H3245;
 
 ===== Meaning =====
 
-a  foundation
+a **foundation**
 
 ===== Definitions =====
 

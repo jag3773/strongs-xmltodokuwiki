@@ -1,12 +1,16 @@
 ====== H3343: יְקַבְצְאֵל (Yᵉqabtsᵉʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6908  and  H410 ;  ;
+from H6908 and H410; **God will gather**;
 
 ===== Meaning =====
 
-God will gather Jekabtseel , a place in Palestine
+**Jekabtseel**, a place in Palestine
 
 ===== Definitions =====
 

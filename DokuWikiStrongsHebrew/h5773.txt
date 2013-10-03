@@ -1,12 +1,16 @@
 ====== H5773: עַוְעֶה (ʻavʻeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5753 ;
+from H5753;
 
 ===== Meaning =====
 
-perversity
+**perversity**
 
 ===== Definitions =====
 

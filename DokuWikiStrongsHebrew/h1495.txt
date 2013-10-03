@@ -1,12 +1,16 @@
 ====== H1495: גָּזֵז (Gâzêz) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1494 ; shearer;
+from H1494; shearer;
 
 ===== Meaning =====
 
-Gazez , the name of two Israelites
+**Gazez**, the name of two Israelites
 
 ===== Definitions =====
 

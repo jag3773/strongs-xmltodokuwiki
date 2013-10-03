@@ -1,12 +1,16 @@
 ====== H8579: תִּנְיָנוּת (tinyânûwth) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-(Aramaic) from  H8578 ;
+(Aramaic) from H8578;
 
 ===== Meaning =====
 
-a  second time
+a **second time**
 
 ===== Definitions =====
 

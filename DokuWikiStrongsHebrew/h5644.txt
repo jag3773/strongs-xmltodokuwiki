@@ -1,12 +1,16 @@
 ====== H5644: סִתְרִי (Çithrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5643 ;  ;
+from H5643; **protective**;
 
 ===== Meaning =====
 
-protective Sithri , an Israelite,
+**Sithri**, an Israelite,
 
 ===== Definitions =====
 

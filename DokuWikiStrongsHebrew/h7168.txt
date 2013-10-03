@@ -1,12 +1,16 @@
 ====== H7168: קֶרַע (qeraʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7167 ;
+from H7167;
 
 ===== Meaning =====
 
-a  rag
+a **rag**
 
 ===== Definitions =====
 

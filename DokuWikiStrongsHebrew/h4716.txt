@@ -1,12 +1,16 @@
 ====== H4716: מַק (maq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4743 ;
+from H4743;
 
 ===== Meaning =====
 
-properly, a  melting , i.e.  putridity
+properly, a **melting**, i.e. **putridity**
 
 ===== Definitions =====
 

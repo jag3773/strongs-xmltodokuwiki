@@ -1,12 +1,16 @@
 ====== H5964: עָלֶמֶת (ʻÂlemeth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5956 ; a covering;
+from H5956; a covering;
 
 ===== Meaning =====
 
-Alemeth , the name of a place in Palestine and of two Israelites
+**Alemeth**, the name of a place in Palestine and of two Israelites
 
 ===== Definitions =====
 

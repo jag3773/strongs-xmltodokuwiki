@@ -1,12 +1,16 @@
 ====== H5862: עֵיטָם (ʻÊyṭâm) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5861 ;  ;
+from H5861; **hawk-ground**;
 
 ===== Meaning =====
 
-hawk-ground Etam , a place in Palestine
+**Etam**, a place in Palestine
 
 ===== Definitions =====
 

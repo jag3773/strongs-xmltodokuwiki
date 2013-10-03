@@ -1,12 +1,16 @@
 ====== H8555: תִּמְנָע (Timnâʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-f
+
 ===== Source =====
 
-from  H4513 ;  ;
+from H4513; **restraint**;
 
 ===== Meaning =====
 
-restraint Timna , the name of two Edomites
+**Timna**, the name of two Edomites
 
 ===== Definitions =====
 

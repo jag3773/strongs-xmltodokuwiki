@@ -1,12 +1,16 @@
 ====== H6376: פִּישׁוֹן (Pîyshôwn) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H6335 ;  ;
+from H6335; **dispersive**;
 
 ===== Meaning =====
 
-dispersive Pishon , a river of Eden
+**Pishon**, a river of Eden
 
 ===== Definitions =====
 

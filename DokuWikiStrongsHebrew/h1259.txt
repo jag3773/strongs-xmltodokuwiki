@@ -1,12 +1,16 @@
 ====== H1259: בָּרָד (bârâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1258 ;
+from H1258;
 
 ===== Meaning =====
 
-hail
+**hail**
 
 ===== Definitions =====
 

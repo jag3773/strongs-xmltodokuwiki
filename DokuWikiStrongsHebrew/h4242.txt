@@ -1,12 +1,16 @@
 ====== H4242: מְחִיר (mᵉchîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **buy**;
 
 ===== Meaning =====
 
-buy price ,  payment ,  wages
+**price**, **payment**, **wages**
 
 ===== Definitions =====
 

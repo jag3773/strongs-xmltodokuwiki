@@ -1,12 +1,16 @@
 ====== H6045: עִנְיָן (ʻinyân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6031 ;
+from H6031;
 
 ===== Meaning =====
 
-ado , i.e. (generally)  employment  or (specifically) an  affair
+**ado**, i.e. (generally) **employment** or (specifically) an **affair**
 
 ===== Definitions =====
 

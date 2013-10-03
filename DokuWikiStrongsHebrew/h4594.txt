@@ -1,12 +1,16 @@
 ====== H4594: מַעֲטֶה (maʻăṭeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5844 ;
+from H5844;
 
 ===== Meaning =====
 
-a  vestment
+a **vestment**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3430: יִשְׁבּוֹ בְּנֹב (Yishbôw bᵉ-Nôb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3427  and  H5011 , with a pronominal suffix and a preposition interposed; his dwelling (is) in Nob;
+from H3427 and H5011, with a pronominal suffix and a preposition interposed; his dwelling (is) in Nob;
 
 ===== Meaning =====
 
-Jishbo-be-Nob , a Philistine
+**Jishbo-be-Nob**, a Philistine
 
 ===== Definitions =====
 

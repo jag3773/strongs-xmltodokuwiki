@@ -1,12 +1,16 @@
 ====== H2389: חָזָק (châzâq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2388 ;
+from H2388;
 
 ===== Meaning =====
 
-strong  (usu. in a bad sense,  hard ,  bold ,  violent )
+**strong** (usu. in a bad sense, **hard**, **bold**, **violent**)
 
 ===== Definitions =====
 

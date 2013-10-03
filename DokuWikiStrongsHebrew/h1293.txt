@@ -1,12 +1,16 @@
 ====== H1293: בְּרָכָה (Bᵉrâkâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1288 ;
+from H1288;
 
 ===== Meaning =====
 
-benediction ; by implication  prosperity
+**benediction**; by implication **prosperity**
 
 ===== Definitions =====
 

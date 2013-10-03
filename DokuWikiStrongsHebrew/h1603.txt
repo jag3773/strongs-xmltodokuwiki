@@ -1,12 +1,16 @@
 ====== H1603: גַּעַל (Gaʻal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1602 ; loathing;
+from H1602; loathing;
 
 ===== Meaning =====
 
-Gaal , an Israelite
+**Gaal**, an Israelite
 
 ===== Definitions =====
 

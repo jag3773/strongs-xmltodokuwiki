@@ -1,12 +1,16 @@
 ====== H2364: חוּשָׁה (Chûwshâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2363 ;  ;
+from H2363; **haste**;
 
 ===== Meaning =====
 
-haste Chushah , an Israelite
+**Chushah**, an Israelite
 
 ===== Definitions =====
 

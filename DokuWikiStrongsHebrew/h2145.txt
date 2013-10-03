@@ -1,12 +1,16 @@
 ====== H2145: זָכָר (zâkâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2142 ;
+from H2142;
 
 ===== Meaning =====
 
-properly,  remembered , i.e. a  male  (of man or animals, as being the most noteworthy sex)
+properly, **remembered**, i.e. a **male** (of man or animals, as being the most noteworthy sex)
 
 ===== Definitions =====
 

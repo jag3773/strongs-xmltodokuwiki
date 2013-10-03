@@ -1,12 +1,16 @@
 ====== H2353: חוּר (chûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2357 ;
+from H2357;
 
 ===== Meaning =====
 
-white linen
+**white linen**
 
 ===== Definitions =====
 

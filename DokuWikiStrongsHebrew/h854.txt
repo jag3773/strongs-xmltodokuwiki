@@ -1,12 +1,16 @@
 ====== H854: אֵת (ʼêth) ======
 
+===== Part of Speech =====
+
+prep
+
 ===== Source =====
 
-probably from  H579 ;
+probably from H579;
 
 ===== Meaning =====
 
-properly,  nearness  (used only as a preposition or an adverb),  near ; hence, generally,  with ,  by ,  at ,  among , etc.
+properly, **nearness** (used only as a preposition or an adverb), **near**; hence, generally, **with**, **by**, **at**, **among**, etc.
 
 ===== Definitions =====
 

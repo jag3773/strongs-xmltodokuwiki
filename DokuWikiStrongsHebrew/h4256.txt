@@ -1,12 +1,16 @@
 ====== H4256: מַחֲלֹקֶת (machălôqeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2505 ;
+from H2505;
 
 ===== Meaning =====
 
-a  section  (of Levites, people or soldiers)
+a **section** (of Levites, people or soldiers)
 
 ===== Definitions =====
 

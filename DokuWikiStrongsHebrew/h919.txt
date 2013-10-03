@@ -1,12 +1,16 @@
 ====== H919: בֶּדֶק (bedeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H918 ;
+from H918;
 
 ===== Meaning =====
 
-a  gap  or  leak  (in a building or a ship)
+a **gap** or **leak** (in a building or a ship)
 
 ===== Definitions =====
 

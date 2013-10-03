@@ -1,12 +1,16 @@
 ====== H2525: חָם (châm) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2552 ;
+from H2552;
 
 ===== Meaning =====
 
-hot
+**hot**
 
 ===== Definitions =====
 

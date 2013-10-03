@@ -1,12 +1,16 @@
 ====== H8211: שֶׁפֶךְ (shephek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8210 ;
+from H8210;
 
 ===== Meaning =====
 
-an  emptying  place, e.g. an ash- heap
+an **emptying** place, e.g. an ash-**heap**
 
 ===== Definitions =====
 

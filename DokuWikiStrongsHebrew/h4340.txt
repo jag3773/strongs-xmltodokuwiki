@@ -1,12 +1,16 @@
 ====== H4340: מֵיתָר (mêythâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3498 ; (compare  H3499 )
+from H3498; (compare H3499)
 
 ===== Meaning =====
 
-a  cord  (of a tent); or the  string  (of a bow)
+a **cord** (of a tent); or the **string** (of a bow)
 
 ===== Definitions =====
 

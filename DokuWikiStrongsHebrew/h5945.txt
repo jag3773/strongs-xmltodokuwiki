@@ -1,12 +1,16 @@
 ====== H5945: עֶלְיוֹן (ʻelyôwn) ======
 
+===== Part of Speech =====
+
+n-m a
+
 ===== Source =====
 
-from  H5927 ;
+from H5927;
 
 ===== Meaning =====
 
-an  elevation , i.e. (adj.)  lofty  (compar.); as title, the  Supreme
+an **elevation**, i.e. (adj.) **lofty** (compar.); as title, the **Supreme**
 
 ===== Definitions =====
 

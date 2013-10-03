@@ -1,12 +1,16 @@
 ====== H2854: חֲתֻלָּה (chăthullâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2853 ;
+from H2853;
 
 ===== Meaning =====
 
-a  swathing cloth  (figuratively)
+a **swathing cloth** (figuratively)
 
 ===== Definitions =====
 

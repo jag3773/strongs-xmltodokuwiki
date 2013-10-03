@@ -1,12 +1,16 @@
 ====== H7332: רָזוֹן (râzôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7329 ;
+from H7329;
 
 ===== Meaning =====
 
-thinness
+**thinness**
 
 ===== Definitions =====
 

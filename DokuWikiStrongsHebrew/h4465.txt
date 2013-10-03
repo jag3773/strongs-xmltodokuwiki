@@ -1,12 +1,16 @@
 ====== H4465: מִמְכָּר (mimkâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4376 ;
+from H4376;
 
 ===== Meaning =====
 
-merchandise ; abstractly, a  selling
+**merchandise**; abstractly, a **selling**
 
 ===== Definitions =====
 

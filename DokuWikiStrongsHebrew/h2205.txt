@@ -1,12 +1,16 @@
 ====== H2205: זָקֵן (zâqên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2204 ;
+from H2204;
 
 ===== Meaning =====
 
-old
+**old**
 
 ===== Definitions =====
 

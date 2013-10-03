@@ -1,12 +1,16 @@
 ====== H7104: קְצִיץ (Qᵉtsîyts) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7112 ;  ;
+from H7112; **abrupt**;
 
 ===== Meaning =====
 
-abrupt Keziz , a valley in Palestine
+**Keziz**, a valley in Palestine
 
 ===== Definitions =====
 

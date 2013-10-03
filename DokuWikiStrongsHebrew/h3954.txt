@@ -1,12 +1,16 @@
 ====== H3954: לֶקֶשׁ (leqesh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3953 ;
+from H3953;
 
 ===== Meaning =====
 
-the  after crop
+the **after crop**
 
 ===== Definitions =====
 

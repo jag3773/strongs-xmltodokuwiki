@@ -1,12 +1,16 @@
 ====== H2491: חָלָל (châlâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2490 ;
+from H2490;
 
 ===== Meaning =====
 
-pierced  (especially to death); figuratively,  polluted
+**pierced** (especially to death); figuratively, **polluted**
 
 ===== Definitions =====
 

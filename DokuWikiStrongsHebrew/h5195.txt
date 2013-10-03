@@ -1,12 +1,16 @@
 ====== H5195: נָטִיעַ (nâṭîyaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5193 ;
+from H5193;
 
 ===== Meaning =====
 
-a  plant
+a **plant**
 
 ===== Definitions =====
 

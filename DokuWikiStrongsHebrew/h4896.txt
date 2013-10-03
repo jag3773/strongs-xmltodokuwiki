@@ -1,12 +1,16 @@
 ====== H4896: מִשְׁטָר (mishṭâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7860 ;
+from H7860;
 
 ===== Meaning =====
 
-jurisdiction
+**jurisdiction**
 
 ===== Definitions =====
 

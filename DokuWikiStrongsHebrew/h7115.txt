@@ -1,12 +1,16 @@
 ====== H7115: קֹצֶר (qôtser) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7114 ;
+from H7114;
 
 ===== Meaning =====
 
-shortness  (of spirit), i.e.  impatience
+**shortness** (of spirit), i.e. **impatience**
 
 ===== Definitions =====
 

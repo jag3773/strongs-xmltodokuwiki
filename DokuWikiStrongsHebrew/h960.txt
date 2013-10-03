@@ -1,12 +1,16 @@
 ====== H960: בָּזֹה (bâzôh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H959 ;
+from H959;
 
 ===== Meaning =====
 
-scorned
+**scorned**
 
 ===== Definitions =====
 

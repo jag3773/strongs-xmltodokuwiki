@@ -1,12 +1,16 @@
 ====== H1697: דָּבָר (dâbâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1696 ;
+from H1696;
 
 ===== Meaning =====
 
-a  word ; by implication, a  matter  (as  spoken  of) or  thing ; adverbially, a  cause
+a **word**; by implication, a **matter** (as **spoken** of) or **thing**; adverbially, a **cause**
 
 ===== Definitions =====
 

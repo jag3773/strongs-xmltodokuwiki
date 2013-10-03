@@ -1,12 +1,16 @@
 ====== H1680: דָּבַב (dâbab) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H1679 );
+a primitive root (compare H1679);
 
 ===== Meaning =====
 
-to  move slowly , i.e.  glide
+to **move slowly**, i.e. **glide**
 
 ===== Definitions =====
 

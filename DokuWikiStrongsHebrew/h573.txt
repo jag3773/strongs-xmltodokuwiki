@@ -1,12 +1,16 @@
 ====== H573: אֲמִתַּי (ʼĂmittay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H571 ; veracious;
+from H571; veracious;
 
 ===== Meaning =====
 
-Amittai , an Israelite
+**Amittai**, an Israelite
 
 ===== Definitions =====
 

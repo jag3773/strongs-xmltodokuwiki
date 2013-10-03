@@ -1,12 +1,16 @@
 ====== H7081: קֶסֶם (qeçem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7080 ;
+from H7080;
 
 ===== Meaning =====
 
-a  lot ; also  divination  (including its fee),  oracle
+a **lot**; also **divination** (including its fee), **oracle**
 
 ===== Definitions =====
 

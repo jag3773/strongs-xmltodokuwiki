@@ -1,12 +1,16 @@
 ====== H5794: עַז (ʻaz) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5810 ;
+from H5810;
 
 ===== Meaning =====
 
-strong ,  vehement ,  harsh
+**strong**, **vehement**, **harsh**
 
 ===== Definitions =====
 

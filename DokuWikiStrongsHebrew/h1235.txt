@@ -1,12 +1,16 @@
 ====== H1235: בֶּקַע (beqaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1234 ;
+from H1234;
 
 ===== Meaning =====
 
-a  section  (half) of a shekel, i.e. a  beka  (a weight and a coin)
+a **section** (half) of a shekel, i.e. a **beka** (a weight and a coin)
 
 ===== Definitions =====
 

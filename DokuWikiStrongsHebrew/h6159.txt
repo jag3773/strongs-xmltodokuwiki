@@ -1,12 +1,16 @@
 ====== H6159: עֹרֵב (ʻÔrêb) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-or   ; the same as  H6158 ;
+or ; the same as H6158;
 
 ===== Meaning =====
 
-Oreb , the name of a Midianite and of the cliff near the Jordan
+**Oreb**, the name of a Midianite and of the cliff near the Jordan
 
 ===== Definitions =====
 

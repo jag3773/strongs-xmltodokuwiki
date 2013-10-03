@@ -1,12 +1,16 @@
 ====== H6587: פֶּשַׂע (pesaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6585 ;
+from H6585;
 
 ===== Meaning =====
 
-a  stride
+a **stride**
 
 ===== Definitions =====
 

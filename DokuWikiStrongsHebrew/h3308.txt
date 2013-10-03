@@ -1,12 +1,16 @@
 ====== H3308: יֳפִי (yŏphîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3302 ;
+from H3302;
 
 ===== Meaning =====
 
-beauty
+**beauty**
 
 ===== Definitions =====
 

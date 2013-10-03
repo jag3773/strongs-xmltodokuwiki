@@ -1,12 +1,16 @@
 ====== H4044: מְגִנָּה (mᵉginnâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4042 ;
+from H4042;
 
 ===== Meaning =====
 
-a  covering  (in a bad sense), i.e.  blindness  or  obduracy
+a **covering** (in a bad sense), i.e. **blindness** or **obduracy**
 
 ===== Definitions =====
 

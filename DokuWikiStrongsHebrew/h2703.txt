@@ -1,12 +1,16 @@
 ====== H2703: חֲצַר עֵינוֹן (Chătsar ʻÊynôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2691  and a derivative of  H5869 ; village of springs;
+from H2691 and a derivative of H5869; village of springs;
 
 ===== Meaning =====
 
-Chatsar-Enon , a place in Palestine
+**Chatsar-Enon**, a place in Palestine
 
 ===== Definitions =====
 

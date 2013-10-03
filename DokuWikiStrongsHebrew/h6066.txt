@@ -1,12 +1,16 @@
 ====== H6066: עֹנֶשׁ (ʻônesh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6064 ;
+from H6064;
 
 ===== Meaning =====
 
-a  fine
+a **fine**
 
 ===== Definitions =====
 

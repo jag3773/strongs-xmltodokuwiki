@@ -1,12 +1,16 @@
 ====== H1029: בֵּית הַשִּׁטָּה (Bêyth hash-Shiṭṭâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H7848  with the article interposed; house of the acacia;
+from H1004 and H7848 with the article interposed; house of the acacia;
 
 ===== Meaning =====
 
-Beth-hash-Shittah , a place in Palestine
+**Beth-hash-Shittah**, a place in Palestine
 
 ===== Definitions =====
 

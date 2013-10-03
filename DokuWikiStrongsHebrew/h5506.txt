@@ -1,12 +1,16 @@
 ====== H5506: סְחֹרָה (çᵉchôrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5503 ;
+from H5503;
 
 ===== Meaning =====
 
-traffic
+**traffic**
 
 ===== Definitions =====
 

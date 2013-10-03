@@ -1,12 +1,16 @@
 ====== H615: אָסִיר (ʼâçîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H631 ;
+from H631;
 
 ===== Meaning =====
 
-bound , i.e. a  captive
+**bound**, i.e. a **captive**
 
 ===== Definitions =====
 

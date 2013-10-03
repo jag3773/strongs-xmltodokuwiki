@@ -1,12 +1,16 @@
 ====== H2424: חַיּוּת (chayûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2421 ;
+from H2421;
 
 ===== Meaning =====
 
-life
+**life**
 
 ===== Definitions =====
 

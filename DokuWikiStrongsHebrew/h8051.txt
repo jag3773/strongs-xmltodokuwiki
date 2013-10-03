@@ -1,12 +1,16 @@
 ====== H8051: שַׁמּוּעַ (Shammûwaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8074 ;  ;
+from H8074; **renowned**;
 
 ===== Meaning =====
 
-renowned Shammua , the name of four Israelites
+**Shammua**, the name of four Israelites
 
 ===== Definitions =====
 

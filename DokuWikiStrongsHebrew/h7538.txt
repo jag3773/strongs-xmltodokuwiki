@@ -1,12 +1,16 @@
 ====== H7538: רָקָב (râqâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7537 ;
+from H7537;
 
 ===== Meaning =====
 
-decay  (by caries)
+**decay** (by caries)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H445: אֶלְחָנָן (ʼElchânân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H2603 ; God (is) gracious;
+from H410 and H2603; God (is) gracious;
 
 ===== Meaning =====
 
-Elchanan , an Israelite
+**Elchanan**, an Israelite
 
 ===== Definitions =====
 

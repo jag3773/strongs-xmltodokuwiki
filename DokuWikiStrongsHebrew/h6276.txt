@@ -1,12 +1,16 @@
 ====== H6276: עָתֵק (ʻâthêq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6275 ;
+from H6275;
 
 ===== Meaning =====
 
-antique , i.e.  valued
+**antique**, i.e. **valued**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3908: לַחַשׁ (lachash) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3907 ;
+from H3907;
 
 ===== Meaning =====
 
-properly, a  whisper , i.e. by implication, (in a good sense) a private  prayer , (in a bad one) an  incantation ; concretely, an  amulet
+properly, a **whisper**, i.e. by implication, (in a good sense) a private **prayer**, (in a bad one) an **incantation**; concretely, an **amulet**
 
 ===== Definitions =====
 

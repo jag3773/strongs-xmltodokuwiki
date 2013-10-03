@@ -1,12 +1,16 @@
 ====== H8288: שְׂרוֹךְ (sᵉrôwk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8308 ;
+from H8308;
 
 ===== Meaning =====
 
-a  thong  (as laced or tied)
+a **thong** (as laced or tied)
 
 ===== Definitions =====
 

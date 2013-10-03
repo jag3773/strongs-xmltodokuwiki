@@ -1,12 +1,16 @@
 ====== H4710: מִצְפֻּן (mitspun) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6845 ;
+from H6845;
 
 ===== Meaning =====
 
-a  secret  (place or thing, perhaps, treasure)
+a **secret** (place or thing, perhaps, treasure)
 
 ===== Definitions =====
 

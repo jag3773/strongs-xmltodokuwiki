@@ -1,12 +1,16 @@
 ====== H1499: גֵּזֶל (gêzel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1497 ;
+from H1497;
 
 ===== Meaning =====
 
-plunder , i.e.  violence
+**plunder**, i.e. **violence**
 
 ===== Definitions =====
 

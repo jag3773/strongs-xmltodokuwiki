@@ -1,12 +1,16 @@
 ====== H458: אֱלִימֶלֶךְ (ʼĔlîymelek) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H4428 ;   (the)  ;
+from H410 and H4428; **God of** (the) **king**;
 
 ===== Meaning =====
 
-God of king Elimelek , an Israelite
+**Elimelek**, an Israelite
 
 ===== Definitions =====
 

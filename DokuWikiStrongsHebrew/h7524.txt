@@ -1,12 +1,16 @@
 ====== H7524: רֶצַח (retsach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7523 ;
+from H7523;
 
 ===== Meaning =====
 
-a  crushing ; specifically, a  murder-cry
+a **crushing**; specifically, a **murder-cry**
 
 ===== Definitions =====
 

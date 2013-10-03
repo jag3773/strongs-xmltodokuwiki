@@ -1,12 +1,16 @@
 ====== H3249: יָסוּר (yâçûwr) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5493 ;
+from H5493;
 
 ===== Meaning =====
 
-departing
+**departing**
 
 ===== Definitions =====
 

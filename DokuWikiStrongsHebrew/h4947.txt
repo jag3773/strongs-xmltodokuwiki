@@ -1,12 +1,16 @@
 ====== H4947: מַשְׁקוֹף (mashqôwph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8259  in its original sense of overhanging;
+from H8259 in its original sense of overhanging;
 
 ===== Meaning =====
 
-a  lintel
+a **lintel**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8515: תְּלַאשַּׂר (Tᵉlaʼssar) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-or   ; of foreign derivation;
+or ; of foreign derivation;
 
 ===== Meaning =====
 
-Telassar , a region of Assyria
+**Telassar**, a region of Assyria
 
 ===== Definitions =====
 

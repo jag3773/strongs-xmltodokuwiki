@@ -1,12 +1,16 @@
 ====== H8026: שֶׁלֶף (sheleph) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8025 ; extract;
+from H8025; extract;
 
 ===== Meaning =====
 
-Sheleph , a son of Jokthan
+**Sheleph**, a son of Jokthan
 
 ===== Definitions =====
 

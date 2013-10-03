@@ -1,12 +1,16 @@
 ====== H2752: חֹרִי (Chôrîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2356 ; cave-dweller or troglodyte;
+from H2356; cave-dweller or troglodyte;
 
 ===== Meaning =====
 
-a  Chorite  or aboriginal Idumaean
+a **Chorite** or aboriginal Idumaean
 
 ===== Definitions =====
 

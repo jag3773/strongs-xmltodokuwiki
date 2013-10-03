@@ -1,12 +1,16 @@
 ====== H6405: פַּלֵּט (pallêṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6403 ;
+from H6403;
 
 ===== Meaning =====
 
-escape
+**escape**
 
 ===== Definitions =====
 

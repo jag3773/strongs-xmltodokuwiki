@@ -1,12 +1,16 @@
 ====== H4325: מַיִם (mayim) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 dual of a primitive noun (but used in a singular sense);
 
 ===== Meaning =====
 
-water ; figuratively,  juice ; by euphemism,  urine ,  semen
+**water**; figuratively, **juice**; by euphemism, **urine**, **semen**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4863: מִשְׁאֶרֶת (mishʼereth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7604  in the original sense of  ;
+from H7604 in the original sense of **swelling**;
 
 ===== Meaning =====
 
-swelling a  kneading-trough  (in which the dough rises)
+a **kneading-trough** (in which the dough rises)
 
 ===== Definitions =====
 

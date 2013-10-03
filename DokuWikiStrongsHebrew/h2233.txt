@@ -1,12 +1,16 @@
 ====== H2233: זֶרַע (zeraʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2232 ;
+from H2232;
 
 ===== Meaning =====
 
-seed ; figuratively,  fruit ,  plant ,  sowing-time ,  posterity
+**seed**; figuratively, **fruit**, **plant**, **sowing-time**, **posterity**
 
 ===== Definitions =====
 

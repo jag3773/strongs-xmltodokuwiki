@@ -1,12 +1,16 @@
 ====== H7922: שֶׂכֶל (sekel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from  H7919 ;
+or ; from H7919;
 
 ===== Meaning =====
 
-intelligence ; by implication,  success
+**intelligence**; by implication, **success**
 
 ===== Definitions =====
 

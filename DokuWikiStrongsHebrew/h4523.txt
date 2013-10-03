@@ -1,12 +1,16 @@
 ====== H4523: מָס (mâç) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H4549 ;
+from H4549;
 
 ===== Meaning =====
 
-fainting , i.e. (figuratively)  disconsolate
+**fainting**, i.e. (figuratively) **disconsolate**
 
 ===== Definitions =====
 

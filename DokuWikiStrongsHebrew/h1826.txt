@@ -1,12 +1,16 @@
 ====== H1826: דָּמַם (dâmam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (compare  H1724 ,  H1820 );
+a primitive root (compare H1724, H1820);
 
 ===== Meaning =====
 
-to  be dumb ; by implication, to  be astonished , to  stop ; also to  perish
+to **be dumb**; by implication, to **be astonished**, to **stop**; also to **perish**
 
 ===== Definitions =====
 

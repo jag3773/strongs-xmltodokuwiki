@@ -1,12 +1,16 @@
 ====== H3603: כִּכָּר (kikkâr) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3769 ;
+from H3769;
 
 ===== Meaning =====
 
-a  circle , i.e. (by implication) a circumjacent tract or region, especially the  Ghor  or valley of the Jordan; also a (round)  loaf ; also a  talent  (or large [round]  coin )
+a **circle**, i.e. (by implication) a circumjacent tract or region, especially the **Ghor** or valley of the Jordan; also a (round) **loaf**; also a **talent** (or large [round] **coin**)
 
 ===== Definitions =====
 

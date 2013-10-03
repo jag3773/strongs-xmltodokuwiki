@@ -1,12 +1,16 @@
 ====== H9: אֲבֵדָה (ʼăbêdâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6 ; Compare  H10 .
+from H6; Compare H10.
 
 ===== Meaning =====
 
-concrete, something  lost ; abstract,  destruction , i.e. Hades
+concrete, something **lost**; abstract, **destruction**, i.e. Hades
 
 ===== Definitions =====
 

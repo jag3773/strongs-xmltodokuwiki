@@ -1,12 +1,16 @@
 ====== H1218: בׇּצְקַת (Botsqath) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1216 ; a swell of ground;
+from H1216; a swell of ground;
 
 ===== Meaning =====
 
-Botscath , a place in Palestine
+**Botscath**, a place in Palestine
 
 ===== Definitions =====
 

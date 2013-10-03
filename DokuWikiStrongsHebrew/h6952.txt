@@ -1,12 +1,16 @@
 ====== H6952: קְהִלָּה (qᵉhillâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6950 ;
+from H6950;
 
 ===== Meaning =====
 
-an  assemblage
+an **assemblage**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H791: אַשְׁבֵּעַ (ʼAshbêaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7650 ; adjurer;
+from H7650; adjurer;
 
 ===== Meaning =====
 
-Asbea , an Israelite
+**Asbea**, an Israelite
 
 ===== Definitions =====
 

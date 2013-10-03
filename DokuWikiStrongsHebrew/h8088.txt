@@ -1,12 +1,16 @@
 ====== H8088: שֵׁמַע (shêmaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8085 ;
+from H8085;
 
 ===== Meaning =====
 
-something  heard , i.e. a  sound ,  rumor ,  announcement ; abstractly,  audience
+something **heard**, i.e. a **sound**, **rumor**, **announcement**; abstractly, **audience**
 
 ===== Definitions =====
 

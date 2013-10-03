@@ -1,12 +1,16 @@
 ====== H4986: מֶתֶק (metheq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4985 ;
+from H4985;
 
 ===== Meaning =====
 
-figuratively,  pleasantness  (of discourse)
+figuratively, **pleasantness** (of discourse)
 
 ===== Definitions =====
 

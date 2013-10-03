@@ -1,12 +1,16 @@
 ====== H612: אֵסוּר (ʼêçûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H631 ;
+from H631;
 
 ===== Meaning =====
 
-a  bond  (especially manacles of a prisoner)
+a **bond** (especially manacles of a prisoner)
 
 ===== Definitions =====
 

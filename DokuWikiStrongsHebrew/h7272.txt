@@ -1,12 +1,16 @@
 ====== H7272: רֶגֶל (regel) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7270 ;
+from H7270;
 
 ===== Meaning =====
 
-a  foot  (as used in walking); by implication, a  step ; by euphemistically the  pudenda
+a **foot** (as used in walking); by implication, a **step**; by euphemistically the **pudenda**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3451: יְשִׁימַה (yᵉshîymah) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3456 ;
+from H3456;
 
 ===== Meaning =====
 
-desolation
+**desolation**
 
 ===== Definitions =====
 

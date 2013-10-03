@@ -1,12 +1,16 @@
 ====== H7769: שׁוּעַ (shûwaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7768 ;
+from H7768;
 
 ===== Meaning =====
 
-a  halloo
+a **halloo**
 
 ===== Definitions =====
 

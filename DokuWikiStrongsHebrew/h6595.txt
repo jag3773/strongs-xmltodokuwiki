@@ -1,12 +1,16 @@
 ====== H6595: פַּת (path) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6626 ;
+from H6626;
 
 ===== Meaning =====
 
-a  bit
+a **bit**
 
 ===== Definitions =====
 

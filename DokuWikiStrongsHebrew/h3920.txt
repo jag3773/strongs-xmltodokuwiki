@@ -1,12 +1,16 @@
 ====== H3920: לָכַד (lâkad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  catch  (in a net, trap or pit); generally, to  capture  or occupy; also to  choose  (by lot); figuratively, to  cohere
+to **catch** (in a net, trap or pit); generally, to **capture** or occupy; also to **choose** (by lot); figuratively, to **cohere**
 
 ===== Definitions =====
 

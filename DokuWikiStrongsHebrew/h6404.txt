@@ -1,12 +1,16 @@
 ====== H6404: פֶּלֶט (Peleṭ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6403 ;  ;
+from H6403; **escape**;
 
 ===== Meaning =====
 
-escape Pelet , the name of two Israelites
+**Pelet**, the name of two Israelites
 
 ===== Definitions =====
 

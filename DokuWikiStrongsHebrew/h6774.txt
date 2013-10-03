@@ -1,12 +1,16 @@
 ====== H6774: צִמָּאוֹן (tsimmâʼôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6771 ;
+from H6771;
 
 ===== Meaning =====
 
-a  thirsty place , i.e.  desert
+a **thirsty place**, i.e. **desert**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H295: אֲחִיעֶזֶר (ʼĂchîyʻezer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H5828 ; brother of help;
+from H251 and H5828; brother of help;
 
 ===== Meaning =====
 
-Achiezer , the name of two Israelites
+**Achiezer**, the name of two Israelites
 
 ===== Definitions =====
 

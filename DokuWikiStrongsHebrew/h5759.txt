@@ -1,12 +1,16 @@
 ====== H5759: עֲוִיל (ʻăvîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5764 ;
+from H5764;
 
 ===== Meaning =====
 
-a  babe
+a **babe**
 
 ===== Definitions =====
 

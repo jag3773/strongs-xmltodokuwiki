@@ -1,12 +1,16 @@
 ====== H8135: שִׂנְאָה (sinʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8130 ;
+from H8130;
 
 ===== Meaning =====
 
-hate
+**hate**
 
 ===== Definitions =====
 

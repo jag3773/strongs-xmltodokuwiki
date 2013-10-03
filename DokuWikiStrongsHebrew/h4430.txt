@@ -1,12 +1,16 @@
 ====== H4430: מֶלֶךְ (melek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H4428 ;
+(Aramaic) corresponding to H4428;
 
 ===== Meaning =====
 
-a  king
+a **king**
 
 ===== Definitions =====
 

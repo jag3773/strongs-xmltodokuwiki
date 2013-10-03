@@ -1,12 +1,16 @@
 ====== H3844: לְבָנוֹן (Lᵉbânôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3825 ; (the)   mountain (from its snow);
+from H3825; (the) **white** mountain (from its snow);
 
 ===== Meaning =====
 
-white Lebanon , a mountain range in Palestine
+**Lebanon**, a mountain range in Palestine
 
 ===== Definitions =====
 

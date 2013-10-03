@@ -1,12 +1,16 @@
 ====== H1592: גְּנֻבַת (Gᵉnubath) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1589 ; theft;
+from H1589; theft;
 
 ===== Meaning =====
 
-Genubath , an Edomitish prince
+**Genubath**, an Edomitish prince
 
 ===== Definitions =====
 

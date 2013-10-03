@@ -1,12 +1,16 @@
 ====== H6113: עָצָר (ʻâtsâr) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  inclose ; by analogy, to  hold back ; also to  maintain ,  rule ,  assemble
+to **inclose**; by analogy, to **hold back**; also to **maintain**, **rule**, **assemble**
 
 ===== Definitions =====
 

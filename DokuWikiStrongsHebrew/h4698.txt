@@ -1,12 +1,16 @@
 ====== H4698: מְצִלָּה (mᵉtsillâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6750 ;
+from H6750;
 
 ===== Meaning =====
 
-a  tinkler , i.e. a  bell
+a **tinkler**, i.e. a **bell**
 
 ===== Definitions =====
 

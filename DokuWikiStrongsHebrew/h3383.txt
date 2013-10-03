@@ -1,12 +1,16 @@
 ====== H3383: יַרְדֵּן (Yardên) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H3381 ; a descender;
+from H3381; a descender;
 
 ===== Meaning =====
 
-Jarden , the principal river of Palestine
+**Jarden**, the principal river of Palestine
 
 ===== Definitions =====
 

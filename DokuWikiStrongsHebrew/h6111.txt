@@ -1,12 +1,16 @@
 ====== H6111: עַצְמוֹן (ʻAtsmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-or   ; from  H6107 ;  ;
+or ; from H6107; **bone-like**;
 
 ===== Meaning =====
 
-bone-like Atsmon , a place near Palestine
+**Atsmon**, a place near Palestine
 
 ===== Definitions =====
 

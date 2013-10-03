@@ -1,12 +1,16 @@
 ====== H7045: קְלָלָה (qᵉlâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7043 ;
+from H7043;
 
 ===== Meaning =====
 
-vilification
+**vilification**
 
 ===== Definitions =====
 

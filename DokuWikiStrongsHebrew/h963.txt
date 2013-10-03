@@ -1,12 +1,16 @@
 ====== H963: בִּזָּיוֹן (bizzâyôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H959
+from H959
 
 ===== Meaning =====
 
-disesteem
+**disesteem**
 
 ===== Definitions =====
 

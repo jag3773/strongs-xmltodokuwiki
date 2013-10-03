@@ -1,12 +1,16 @@
 ====== H7934: שָׁכֵן (shâkên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7931 ;
+from H7931;
 
 ===== Meaning =====
 
-a  resident ; by extension, a  fellow-citizen
+a **resident**; by extension, a **fellow-citizen**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3858: לַהַט (lahaṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3857 ;
+from H3857;
 
 ===== Meaning =====
 
-a  blaze ; also (from the idea of enwrapping)  magic  (as covert)
+a **blaze**; also (from the idea of enwrapping) **magic** (as covert)
 
 ===== Definitions =====
 

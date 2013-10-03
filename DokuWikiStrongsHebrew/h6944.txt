@@ -1,12 +1,16 @@
 ====== H6944: קֹדֶשׁ (qôdesh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6942 ;
+from H6942;
 
 ===== Meaning =====
 
-a  sacred  place or thing; rarely abstract,  sanctity
+a **sacred** place or thing; rarely abstract, **sanctity**
 
 ===== Definitions =====
 

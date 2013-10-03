@@ -1,12 +1,16 @@
 ====== H6060: עָנָק (ʻânâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6059 ;
+from H6059;
 
 ===== Meaning =====
 
-a  necklace  (as if  strangling )
+a **necklace** (as if **strangling**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8610: תָּפַשׂ (tâphas) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  manipulate , i.e.  seize ; chiefly to  capture ,  wield , specifically, to  overlay ; figuratively, to  use unwarrantably
+to **manipulate**, i.e. **seize**; chiefly to **capture**, **wield**, specifically, to **overlay**; figuratively, to **use unwarrantably**
 
 ===== Definitions =====
 

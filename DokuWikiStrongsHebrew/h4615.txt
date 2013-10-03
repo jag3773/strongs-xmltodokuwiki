@@ -1,12 +1,16 @@
 ====== H4615: מַעֲמָק (maʻămâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6009 ;
+from H6009;
 
 ===== Meaning =====
 
-a  deep
+a **deep**
 
 ===== Definitions =====
 

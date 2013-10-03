@@ -1,8 +1,12 @@
 ====== H4081: מִדִּין (Middîyn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-a variation for  H4080
+a variation for H4080
 
 ===== Meaning =====
 

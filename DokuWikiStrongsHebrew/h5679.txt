@@ -1,12 +1,16 @@
 ====== H5679: עֲבָרָה (ʻăbârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5674 ;
+from H5674;
 
 ===== Meaning =====
 
-a  crossing-place
+a **crossing-place**
 
 ===== Definitions =====
 

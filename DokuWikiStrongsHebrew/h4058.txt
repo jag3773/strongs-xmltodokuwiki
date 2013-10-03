@@ -1,12 +1,16 @@
 ====== H4058: מָדַד (mâdad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  stretch ; by implication, to  measure  (as if by  stretching  a line); figuratively, to  be extended
+properly, to **stretch**; by implication, to **measure** (as if by **stretching** a line); figuratively, to **be extended**
 
 ===== Definitions =====
 

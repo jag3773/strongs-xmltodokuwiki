@@ -1,12 +1,16 @@
 ====== H8063: שְׂמִיכָה (sᵉmîykâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5564 ;
+from H5564;
 
 ===== Meaning =====
 
-a  run  (as sustaining the Oriental sitter)
+a **run** (as sustaining the Oriental sitter)
 
 ===== Definitions =====
 

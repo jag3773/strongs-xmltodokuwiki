@@ -1,12 +1,16 @@
 ====== H3922: לֵכָה (lêkâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3212 ; a journey;
+from H3212; a journey;
 
 ===== Meaning =====
 
-Lekah , a place in Palestine
+**Lekah**, a place in Palestine
 
 ===== Definitions =====
 

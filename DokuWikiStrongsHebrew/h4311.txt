@@ -1,12 +1,16 @@
 ====== H4311: מֵידְבָא (Mêydᵉbâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H4325  and  H1679 ;  ;
+from H4325 and H1679; **water of quiet**;
 
 ===== Meaning =====
 
-water of quiet Medeba , a place in Palestine
+**Medeba**, a place in Palestine
 
 ===== Definitions =====
 

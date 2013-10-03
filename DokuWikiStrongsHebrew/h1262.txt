@@ -1,12 +1,16 @@
 ====== H1262: בָּרָה (bârâh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; to select; also (as denominative from  H1250 ) to feed; also (as equivalent to  H1305 ) to render clear (Ecclesiastes 3:18)
+a primitive root; to select; also (as denominative from H1250) to feed; also (as equivalent to H1305) to render clear (Ecclesiastes 3:18)
 
 ===== Meaning =====
 
-to  select ; to  feed ; to  render clear
+to **select**; to **feed**; to **render clear**
 
 ===== Definitions =====
 

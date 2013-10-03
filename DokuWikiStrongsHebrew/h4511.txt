@@ -1,12 +1,16 @@
 ====== H4511: מִנִּית (Minnîyth) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H4482 ; enumeration;
+from the same as H4482; enumeration;
 
 ===== Meaning =====
 
-Minnith , a place East of the Jordan
+**Minnith**, a place East of the Jordan
 
 ===== Definitions =====
 

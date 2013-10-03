@@ -1,12 +1,16 @@
 ====== H3454: יְשִׁישָׁי (Yᵉshîyshây) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3453 ; aged;
+from H3453; aged;
 
 ===== Meaning =====
 
-Jeshishai , an Israelite
+**Jeshishai**, an Israelite
 
 ===== Definitions =====
 

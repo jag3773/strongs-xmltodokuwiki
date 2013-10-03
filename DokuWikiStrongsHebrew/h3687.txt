@@ -1,12 +1,16 @@
 ====== H3687: כְּסִילוּת (kᵉçîylûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3684 ;
+from H3684;
 
 ===== Meaning =====
 
-silliness
+**silliness**
 
 ===== Definitions =====
 

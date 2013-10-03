@@ -1,12 +1,16 @@
 ====== H6492: פֶּקַח (Peqach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6491 ;  ;
+from H6491; **watch**;
 
 ===== Meaning =====
 
-watch Pekach , an Israelite king
+**Pekach**, an Israelite king
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3263: יְעוּץ (Yᵉʻûwts) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5779 ;  ;
+from H5779; **counsellor**;
 
 ===== Meaning =====
 
-counsellor Jeuts , an Israelite
+**Jeuts**, an Israelite
 
 ===== Definitions =====
 

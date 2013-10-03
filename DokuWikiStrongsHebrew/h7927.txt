@@ -1,12 +1,16 @@
 ====== H7927: שְׁכֶם (Shᵉkem) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-the same as  H7926 ;  ;
+the same as H7926; **ridge**;
 
 ===== Meaning =====
 
-ridge Shekem , a place in Palestine
+**Shekem**, a place in Palestine
 
 ===== Definitions =====
 

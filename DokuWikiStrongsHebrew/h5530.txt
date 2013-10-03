@@ -1,12 +1,16 @@
 ====== H5530: סָכָל (çâkâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5528 ;
+from H5528;
 
 ===== Meaning =====
 
-silly
+**silly**
 
 ===== Definitions =====
 

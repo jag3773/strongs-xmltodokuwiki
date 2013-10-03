@@ -1,12 +1,16 @@
 ====== H3350: יְקוֹד (yᵉqôwd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3344 ;
+from H3344;
 
 ===== Meaning =====
 
-a  burning
+a **burning**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7000: קָטַר (qâṭar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  inclose
+to **inclose**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H774: אַרְפָּד (ʼArpâd) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7502 ;   out;
+from H7502; **spread** out;
 
 ===== Meaning =====
 
-spread Arpad , a place in Syria
+**Arpad**, a place in Syria
 
 ===== Definitions =====
 

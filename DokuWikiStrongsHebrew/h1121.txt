@@ -1,12 +1,16 @@
 ====== H1121: בֵּן (bên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1129 ;
+from H1129;
 
 ===== Meaning =====
 
-a  son  (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)
+a **son** (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6780: צֶמַח (tsemach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6779 ;
+from H6779;
 
 ===== Meaning =====
 
-a  sprout  (usually concrete), literal or figurative
+a **sprout** (usually concrete), literal or figurative
 
 ===== Definitions =====
 

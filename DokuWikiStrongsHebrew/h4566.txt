@@ -1,12 +1,16 @@
 ====== H4566: מַעְבָּד (maʻbâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5647 ;
+from H5647;
 
 ===== Meaning =====
 
-an  act
+an **act**
 
 ===== Definitions =====
 

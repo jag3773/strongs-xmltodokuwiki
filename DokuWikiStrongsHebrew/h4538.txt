@@ -1,12 +1,16 @@
 ====== H4538: מֶסֶךְ (meçek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4537 ;
+from H4537;
 
 ===== Meaning =====
 
-a  mixture , i.e. of wine with spices
+a **mixture**, i.e. of wine with spices
 
 ===== Definitions =====
 

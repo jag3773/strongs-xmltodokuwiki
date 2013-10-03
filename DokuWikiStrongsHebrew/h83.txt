@@ -1,12 +1,16 @@
 ====== H83: אֵבֶר (ʼêber) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H82 ;
+from H82;
 
 ===== Meaning =====
 
-a  pinion
+a **pinion**
 
 ===== Definitions =====
 

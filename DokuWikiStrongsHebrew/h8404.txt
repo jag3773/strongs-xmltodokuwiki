@@ -1,12 +1,16 @@
 ====== H8404: תַּבְעֵרָה (Tabʻêrâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1197 ;  ;
+from H1197; **burning**;
 
 ===== Meaning =====
 
-burning Taberah , a place in the Desert
+**Taberah**, a place in the Desert
 
 ===== Definitions =====
 

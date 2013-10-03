@@ -1,12 +1,16 @@
 ====== H3274: יְעִישׁ (Yᵉʻîysh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5789 ; hasty;
+from H5789; hasty;
 
 ===== Meaning =====
 
-Jeish , the name of an Edomite and of a an Israelite
+**Jeish**, the name of an Edomite and of a an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1698: דֶּבֶר (deber) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1696  (in the sense of destroying);
+from H1696 (in the sense of destroying);
 
 ===== Meaning =====
 
-a  pestilence
+a **pestilence**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2015: הָפַךְ (hâphak) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  turn  about or over; by implication, to  change ,  overturn ,  return ,  pervert
+to **turn** about or over; by implication, to **change**, **overturn**, **return**, **pervert**
 
 ===== Definitions =====
 

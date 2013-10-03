@@ -1,12 +1,16 @@
 ====== H3463: יָשֵׁן (yâshên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3462 ;
+from H3462;
 
 ===== Meaning =====
 
-sleepy
+**sleepy**
 
 ===== Definitions =====
 

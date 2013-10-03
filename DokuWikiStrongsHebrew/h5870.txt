@@ -1,12 +1,16 @@
 ====== H5870: עַיִן (ʻayin) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-(Aramaic) corresponding to  H5869 ;
+(Aramaic) corresponding to H5869;
 
 ===== Meaning =====
 
-an  eye
+an **eye**
 
 ===== Definitions =====
 

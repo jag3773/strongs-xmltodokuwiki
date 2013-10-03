@@ -1,12 +1,16 @@
 ====== H4073: מְדַחְפָה (mᵉdachphâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1765 ;
+from H1765;
 
 ===== Meaning =====
 
-a  push , i.e.  ruin
+a **push**, i.e. **ruin**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2320: חֹדֶשׁ (chôdesh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2318 ;
+from H2318;
 
 ===== Meaning =====
 
-the  new  moon; by implication, a  month
+the **new** moon; by implication, a **month**
 
 ===== Definitions =====
 

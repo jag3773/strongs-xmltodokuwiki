@@ -1,12 +1,16 @@
 ====== H1818: דָּם (dâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1826  (compare  H119 );
+from H1826 (compare H119);
 
 ===== Meaning =====
 
-blood  (as that which when shed causes death) of man or an animal; by analogy, the  juice  of the grape; figuratively (especially in the plural)  bloodshed  (i.e. drops of blood)
+**blood** (as that which when shed causes death) of man or an animal; by analogy, the **juice** of the grape; figuratively (especially in the plural) **bloodshed** (i.e. drops of blood)
 
 ===== Definitions =====
 

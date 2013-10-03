@@ -1,12 +1,16 @@
 ====== H6472: פַּעֲמֹן (paʻămôn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6471 ;
+from H6471;
 
 ===== Meaning =====
 
-a  bell  (as  struck )
+a **bell** (as **struck**)
 
 ===== Definitions =====
 

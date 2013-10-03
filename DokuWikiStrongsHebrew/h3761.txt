@@ -1,12 +1,16 @@
 ====== H3761: כַּרְמְלִי (Karmᵉlîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patron from  H3760 ;
+patron from H3760;
 
 ===== Meaning =====
 
-a  Karmelite  or inhabitant of Karmel (the town)
+a **Karmelite** or inhabitant of Karmel (the town)
 
 ===== Definitions =====
 

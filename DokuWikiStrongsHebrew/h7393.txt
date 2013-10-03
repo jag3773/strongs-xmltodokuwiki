@@ -1,12 +1,16 @@
 ====== H7393: רֶכֶב (rekeb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7392 ;
+from H7392;
 
 ===== Meaning =====
 
-a  vehicle ; by implication, a  team ; by extension,  cavalry ; by analogy a  rider , i.e.  the upper millstone
+a **vehicle**; by implication, a **team**; by extension, **cavalry**; by analogy a **rider**, i.e. **the upper millstone**
 
 ===== Definitions =====
 

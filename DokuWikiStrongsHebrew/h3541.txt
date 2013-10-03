@@ -1,12 +1,16 @@
 ====== H3541: כֹּה (kôh) ======
 
+===== Part of Speech =====
+
+prt
+
 ===== Source =====
 
-from the prefix k and  H1931 ;
+from the prefix k and H1931;
 
 ===== Meaning =====
 
-properly,  like this , i.e. by implication, (of manner)  thus  (or  so ); also (of place)  here  (or  hither ); or (of time)  now
+properly, **like this**, i.e. by implication, (of manner) **thus** (or **so**); also (of place) **here** (or **hither**); or (of time) **now**
 
 ===== Definitions =====
 

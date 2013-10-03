@@ -1,12 +1,16 @@
 ====== H1816: דַּלֶּקֶת (dalleqeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-; from  H1814 ;
+; from H1814;
 
 ===== Meaning =====
 
-a  burning fever
+a **burning fever**
 
 ===== Definitions =====
 

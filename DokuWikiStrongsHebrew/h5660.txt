@@ -1,12 +1,16 @@
 ====== H5660: עַבְדִּי (ʻAbdîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5647 ;  ;
+from H5647; **serviceable**;
 
 ===== Meaning =====
 
-serviceable Abdi , the name of two Israelites
+**Abdi**, the name of two Israelites
 
 ===== Definitions =====
 

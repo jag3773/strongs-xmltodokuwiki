@@ -1,12 +1,16 @@
 ====== H5474: סוּגַר (çûwgar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5462 ;
+from H5462;
 
 ===== Meaning =====
 
-an  inclosure , i.e.  cage  (for an animal)
+an **inclosure**, i.e. **cage** (for an animal)
 
 ===== Definitions =====
 

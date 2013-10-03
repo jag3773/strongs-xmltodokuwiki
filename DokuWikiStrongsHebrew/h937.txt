@@ -1,12 +1,16 @@
 ====== H937: בּוּז (bûwz) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H936 ;
+from H936;
 
 ===== Meaning =====
 
-disrespect
+**disrespect**
 
 ===== Definitions =====
 

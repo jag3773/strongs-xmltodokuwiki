@@ -1,12 +1,16 @@
 ====== H7419: רָמוּת (râmûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7311 ;
+from H7311;
 
 ===== Meaning =====
 
-a  heap  (of carcases)
+a **heap** (of carcases)
 
 ===== Definitions =====
 

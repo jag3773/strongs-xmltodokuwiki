@@ -1,12 +1,16 @@
 ====== H2984: יִבְחַר (Yibchar) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H977 ; choice;
+from H977; choice;
 
 ===== Meaning =====
 
-Jibchar , an Israelite
+**Jibchar**, an Israelite
 
 ===== Definitions =====
 

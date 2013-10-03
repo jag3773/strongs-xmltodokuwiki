@@ -1,12 +1,16 @@
 ====== H8643: תְּרוּעָה (tᵉrûwʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7321 ;
+from H7321;
 
 ===== Meaning =====
 
-clamor , i.e.  acclamation  of joy or a  battle-cry ; especially  clangor  of trumpets, as an  alarum
+**clamor**, i.e. **acclamation** of joy or a **battle-cry**; especially **clangor** of trumpets, as an **alarum**
 
 ===== Definitions =====
 

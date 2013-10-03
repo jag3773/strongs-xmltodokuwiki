@@ -1,12 +1,16 @@
 ====== H4492: מִנְהָרָה (minhârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5102 ;
+from H5102;
 
 ===== Meaning =====
 
-properly, a  channel  or  fissure , i.e. (by implication) a  cavern
+properly, a **channel** or **fissure**, i.e. (by implication) a **cavern**
 
 ===== Definitions =====
 

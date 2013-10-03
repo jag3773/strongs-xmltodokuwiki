@@ -1,12 +1,16 @@
 ====== H7176: קֶרֶת (qereth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7136  in the sense of building;
+from H7136 in the sense of building;
 
 ===== Meaning =====
 
-a  city
+a **city**
 
 ===== Definitions =====
 

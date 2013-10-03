@@ -1,12 +1,16 @@
 ====== H1146: בִּנְיָן (binyân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1129 ;
+from H1129;
 
 ===== Meaning =====
 
-an  edifice
+an **edifice**
 
 ===== Definitions =====
 

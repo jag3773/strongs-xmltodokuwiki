@@ -1,12 +1,16 @@
 ====== H5098: נָהַם (nâham) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  growl
+to **growl**
 
 ===== Definitions =====
 

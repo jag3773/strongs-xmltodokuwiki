@@ -1,12 +1,16 @@
 ====== H2264: חִבֻּק (chibbuq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2263 ;
+from H2263;
 
 ===== Meaning =====
 
-a  clasping of the hands  (in idleness)
+a **clasping of the hands** (in idleness)
 
 ===== Definitions =====
 

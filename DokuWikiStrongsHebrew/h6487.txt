@@ -1,12 +1,16 @@
 ====== H6487: פִּקָּדוֹן (piqqâdôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6485 ;
+from H6485;
 
 ===== Meaning =====
 
-a  deposit
+a **deposit**
 
 ===== Definitions =====
 

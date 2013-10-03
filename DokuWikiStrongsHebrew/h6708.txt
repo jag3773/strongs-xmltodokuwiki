@@ -1,12 +1,16 @@
 ====== H6708: צְחִיחִי (tsᵉchîychîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6706 ;
+from H6706;
 
 ===== Meaning =====
 
-bare spot , i.e. in the  glaring  sun
+**bare spot**, i.e. in the **glaring** sun
 
 ===== Definitions =====
 

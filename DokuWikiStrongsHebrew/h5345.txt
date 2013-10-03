@@ -1,12 +1,16 @@
 ====== H5345: נֶקֶב (neqeb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 
 
 ===== Meaning =====
 
-a  bezel  (for a gem)
+a **bezel** (for a gem)
 
 ===== Definitions =====
 

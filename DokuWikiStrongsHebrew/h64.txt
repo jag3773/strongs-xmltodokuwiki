@@ -1,12 +1,16 @@
 ====== H64: אָבֵל כְּרָמִים (ʼÂbêl Kᵉrâmîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H58  and the plural of  H3754 ; meadow of vineyards;
+from H58 and the plural of H3754; meadow of vineyards;
 
 ===== Meaning =====
 
-Abel-Keramim , a place in Palestine
+**Abel-Keramim**, a place in Palestine
 
 ===== Definitions =====
 

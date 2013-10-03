@@ -1,12 +1,16 @@
 ====== H7942: שִׁכְּרוֹן (Shikkᵉrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-for  H7943 ;
+for H7943;
 
 ===== Meaning =====
 
-drunkenness ,  Shikkeron , a place in Palestine
+**drunkenness**, **Shikkeron**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6772: צָמָא (tsâmâʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6770 ;
+from H6770;
 
 ===== Meaning =====
 
-thirst  (literally or figuratively)
+**thirst** (literally or figuratively)
 
 ===== Definitions =====
 

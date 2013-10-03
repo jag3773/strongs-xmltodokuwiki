@@ -1,12 +1,16 @@
 ====== H1010: בֵּית בַּעַל מְעוֹן (Bêyth Baʻal Mᵉʻôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H1168  and  H4583 ; house of Baal of (the) habitation of (apparently by transposition); or (shorter)   ; house of habitation of (Baal);
+from H1004 and H1168 and H4583; house of Baal of (the) habitation of (apparently by transposition); or (shorter) ; house of habitation of (Baal);
 
 ===== Meaning =====
 
-Beth-Baal-Meon , a place in Palestine
+**Beth-Baal-Meon**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5980: עֻמָּה (ʻummâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6004 ;
+from H6004;
 
 ===== Meaning =====
 
-conjunction , i.e.  society ; mostly adverb or preposition (with prepositional prefix),  near ,  beside ,  along with
+**conjunction**, i.e. **society**; mostly adverb or preposition (with prepositional prefix), **near**, **beside**, **along with**
 
 ===== Definitions =====
 

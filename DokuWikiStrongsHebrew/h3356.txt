@@ -1,12 +1,16 @@
 ====== H3356: יָקִים (Yâqîym) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6965 ;  ;
+from H6965; **he will raise**;
 
 ===== Meaning =====
 
-he will raise Jakim , the name of two Israelites
+**Jakim**, the name of two Israelites
 
 ===== Definitions =====
 

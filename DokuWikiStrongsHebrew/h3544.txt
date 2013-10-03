@@ -1,12 +1,16 @@
 ====== H3544: כֵּהֶה (kêheh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3543 ;
+from H3543;
 
 ===== Meaning =====
 
-feeble ,  obscure
+**feeble**, **obscure**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5318: נֶפְתּוֹחַ (Nephtôwach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6605 ; opened, i.e. a  ;
+from H6605; opened, i.e. a **spring**;
 
 ===== Meaning =====
 
-spring Nephtoach , a place in Palestine
+**Nephtoach**, a place in Palestine
 
 ===== Definitions =====
 

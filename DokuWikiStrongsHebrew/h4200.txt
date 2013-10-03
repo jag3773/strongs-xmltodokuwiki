@@ -1,12 +1,16 @@
 ====== H4200: מֶזֶו (mezev) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 probably from an unused root meaning to gather in;
 
 ===== Meaning =====
 
-a  granary
+a **granary**
 
 ===== Definitions =====
 

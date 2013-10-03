@@ -1,12 +1,16 @@
 ====== H8359: שְׁתִי (shᵉthîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7896 ;
+from H7896;
 
 ===== Meaning =====
 
-a  fixture , i.e. the  warp  in weaving
+a **fixture**, i.e. the **warp** in weaving
 
 ===== Definitions =====
 

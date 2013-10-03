@@ -1,12 +1,16 @@
 ====== H1019: בֵּית הַגִּלְגָּל (Bêyth hag-Gilgâl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H1537  with the article interposed; house of Gilgal (or rolling);
+from H1004 and H1537 with the article interposed; house of Gilgal (or rolling);
 
 ===== Meaning =====
 
-Beth-hag-Gilgal , a place in Palestine
+**Beth-hag-Gilgal**, a place in Palestine
 
 ===== Definitions =====
 

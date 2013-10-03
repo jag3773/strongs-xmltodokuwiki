@@ -1,12 +1,16 @@
 ====== H2206: זָקָן (zâqân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2204 ;
+from H2204;
 
 ===== Meaning =====
 
-the  beard  (as indicating  age )
+the **beard** (as indicating **age**)
 
 ===== Definitions =====
 

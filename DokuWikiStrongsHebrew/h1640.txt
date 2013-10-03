@@ -1,12 +1,16 @@
 ====== H1640: גָּרַף (gâraph) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  bear off violently
+to **bear off violently**
 
 ===== Definitions =====
 

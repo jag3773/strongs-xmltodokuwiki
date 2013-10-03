@@ -1,12 +1,16 @@
 ====== H2175: זִמְרָן (Zimrân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2167 ; musical;
+from H2167; musical;
 
 ===== Meaning =====
 
-Zimran , a son of Abraham by Keturah
+**Zimran**, a son of Abraham by Keturah
 
 ===== Definitions =====
 

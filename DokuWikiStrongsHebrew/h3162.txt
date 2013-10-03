@@ -1,12 +1,16 @@
 ====== H3162: יַחַד (yachad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3161 ;
+from H3161;
 
 ===== Meaning =====
 
-properly, a  unit , i.e. (adverb)  unitedly
+properly, a **unit**, i.e. (adverb) **unitedly**
 
 ===== Definitions =====
 

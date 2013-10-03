@@ -1,12 +1,16 @@
 ====== H6133: עֵקֶר (ʻêqer) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6131 ;
+from H6131;
 
 ===== Meaning =====
 
-figuratively, a  transplanted person , i.e.  naturalized citizen
+figuratively, a **transplanted person**, i.e. **naturalized citizen**
 
 ===== Definitions =====
 

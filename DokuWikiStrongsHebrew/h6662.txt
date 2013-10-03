@@ -1,12 +1,16 @@
 ====== H6662: צַדִּיק (tsaddîyq) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6663 ;
+from H6663;
 
 ===== Meaning =====
 
-just
+**just**
 
 ===== Definitions =====
 

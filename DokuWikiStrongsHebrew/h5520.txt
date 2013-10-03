@@ -1,12 +1,16 @@
 ====== H5520: סֹךְ (çôk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5526 ;
+from H5526;
 
 ===== Meaning =====
 
-a  hut  (as of  entwined  boughs); also a  lair
+a **hut** (as of **entwined** boughs); also a **lair**
 
 ===== Definitions =====
 

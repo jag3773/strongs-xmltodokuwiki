@@ -1,12 +1,16 @@
 ====== H6588: פֶּשַׁע (peshaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6586 ;
+from H6586;
 
 ===== Meaning =====
 
-a  revolt  (national, moral or religious)
+a **revolt** (national, moral or religious)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2127: זִיעַ (Zîyaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2111 ; agitation;
+from H2111; agitation;
 
 ===== Meaning =====
 
-Zia , an Israelite
+**Zia**, an Israelite
 
 ===== Definitions =====
 

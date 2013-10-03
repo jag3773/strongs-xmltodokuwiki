@@ -1,12 +1,16 @@
 ====== H3778: כַּשְׂדִּי (Kasdîy) ======
 
+===== Part of Speech =====
+
+n-pr-loc n-pr-m
+
 ===== Source =====
 
-(occasionally with enclitic)   ; towards the Kasdites into Chaldea), patronymically from  H3777  (only in the plural);
+(occasionally with enclitic) ; towards the Kasdites into Chaldea), patronymically from H3777 (only in the plural);
 
 ===== Meaning =====
 
-a  Kasdite , or descendant of Kesed; by implication, a Chaldaean (as if so descended); also an astrologer (as if proverbial of that people
+a **Kasdite**, or descendant of Kesed; by implication, a Chaldaean (as if so descended); also an astrologer (as if proverbial of that people
 
 ===== Definitions =====
 

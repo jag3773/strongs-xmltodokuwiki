@@ -1,12 +1,16 @@
 ====== H756: אַרְכְּוַי (ʼArkᵉvay) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-(Aramaic) patrial from  H751 ;
+(Aramaic) patrial from H751;
 
 ===== Meaning =====
 
-an  Arkevite  (collectively) or native of Erek
+an **Arkevite** (collectively) or native of Erek
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5881: עֵינָן (ʻÊynân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5869 ; having eyes;
+from H5869; having eyes;
 
 ===== Meaning =====
 
-Enan , an Israelite
+**Enan**, an Israelite
 
 ===== Definitions =====
 

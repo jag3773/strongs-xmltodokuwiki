@@ -1,12 +1,16 @@
 ====== H6114: עֶצֶר (ʻetser) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6113 ;
+from H6113;
 
 ===== Meaning =====
 
-restraint
+**restraint**
 
 ===== Definitions =====
 

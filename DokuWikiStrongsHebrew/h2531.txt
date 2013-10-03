@@ -1,12 +1,16 @@
 ====== H2531: חֶמֶד (chemed) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2530 ;
+from H2530;
 
 ===== Meaning =====
 
-delight
+**delight**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2143: זֵכֶר (zêker) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from  H2142 ;
+or ; from H2142;
 
 ===== Meaning =====
 
-a  memento , abstractly  recollection  (rarely if ever); by implication,  commemoration
+a **memento**, abstractly **recollection** (rarely if ever); by implication, **commemoration**
 
 ===== Definitions =====
 

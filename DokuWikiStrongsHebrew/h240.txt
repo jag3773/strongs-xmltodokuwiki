@@ -1,12 +1,16 @@
 ====== H240: אָזֵן (ʼâzên) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H238 ;
+from H238;
 
 ===== Meaning =====
 
-a  spade  or  paddle  (as having a broad end)
+a **spade** or **paddle** (as having a broad end)
 
 ===== Definitions =====
 

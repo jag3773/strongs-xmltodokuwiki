@@ -1,12 +1,16 @@
 ====== H8003: שָׁלֵם (shâlêm) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7999 ;
+from H7999;
 
 ===== Meaning =====
 
-complete  (literally or figuratively); especially  friendly
+**complete** (literally or figuratively); especially **friendly**
 
 ===== Definitions =====
 

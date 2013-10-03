@@ -1,12 +1,16 @@
 ====== H185: אַוָּה (ʼavvâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H183 ;
+from H183;
 
 ===== Meaning =====
 
-longing
+**longing**
 
 ===== Definitions =====
 

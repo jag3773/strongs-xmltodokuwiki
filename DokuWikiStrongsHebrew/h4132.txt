@@ -1,12 +1,16 @@
 ====== H4132: מוֹט (môwṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4131 ;
+from H4131;
 
 ===== Meaning =====
 
-a  wavering , i.e.  fall ; by implication, a  pole  (as shaking); hence, a  yoke  (as essentially a bent pole)
+a **wavering**, i.e. **fall**; by implication, a **pole** (as shaking); hence, a **yoke** (as essentially a bent pole)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6089: עֶצֶב (ʻetseb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6087 ;
+from H6087;
 
 ===== Meaning =====
 
-an  earthen vessel ; usually (painful)  toil ; also a  pang  (whether of body or mind)
+an **earthen vessel**; usually (painful) **toil**; also a **pang** (whether of body or mind)
 
 ===== Definitions =====
 

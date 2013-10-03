@@ -1,12 +1,16 @@
 ====== H3242: יְנִיקָה (yᵉnîyqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3243 ;
+from H3243;
 
 ===== Meaning =====
 
-a  sucker  or  sapling
+a **sucker** or **sapling**
 
 ===== Definitions =====
 

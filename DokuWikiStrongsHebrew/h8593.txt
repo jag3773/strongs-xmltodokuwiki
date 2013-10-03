@@ -1,12 +1,16 @@
 ====== H8593: תַּעַר (taʻar) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H6168 ;
+from H6168;
 
 ===== Meaning =====
 
-a  knife  or  razor  (as  making  bare); also a  scabbard  (as  being bare , i.e. empty)
+a **knife** or **razor** (as **making** bare); also a **scabbard** (as **being bare**, i.e. empty)
 
 ===== Definitions =====
 

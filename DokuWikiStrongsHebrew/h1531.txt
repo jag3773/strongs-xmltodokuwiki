@@ -1,12 +1,16 @@
 ====== H1531: גֹּל (gôl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1556 ;
+from H1556;
 
 ===== Meaning =====
 
-a cup for oil  (as round)
+**a cup for oil** (as round)
 
 ===== Definitions =====
 

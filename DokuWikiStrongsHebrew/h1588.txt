@@ -1,12 +1,16 @@
 ====== H1588: גַּן (gan) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H1598 ;
+from H1598;
 
 ===== Meaning =====
 
-a  garden  (as fenced)
+a **garden** (as fenced)
 
 ===== Definitions =====
 

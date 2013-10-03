@@ -1,12 +1,16 @@
 ====== H7451: רַע (raʻ) ======
 
+===== Part of Speech =====
+
+a n-m n-f
+
 ===== Source =====
 
-from  H7489 ;
+from H7489;
 
 ===== Meaning =====
 
-bad  or (as noun)  evil  (natural or moral)
+**bad** or (as noun) **evil** (natural or moral)
 
 ===== Definitions =====
 

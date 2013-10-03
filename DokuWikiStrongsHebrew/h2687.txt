@@ -1,12 +1,16 @@
 ====== H2687: חָצָץ (châtsâts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2687 ;	also like  H2671
+from H2687;	also like H2671
 
 ===== Meaning =====
 
-properly, something  cutting ; hence,  gravel  (as grit); an  arrow
+properly, something **cutting**; hence, **gravel** (as grit); an **arrow**
 
 ===== Definitions =====
 

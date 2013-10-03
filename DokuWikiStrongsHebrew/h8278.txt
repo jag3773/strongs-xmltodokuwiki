@@ -1,12 +1,16 @@
 ====== H8278: שְׂרָד (sᵉrâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8277 ;
+from H8277;
 
 ===== Meaning =====
 
-stitching  (as  pierced  with a needle)
+**stitching** (as **pierced** with a needle)
 
 ===== Definitions =====
 

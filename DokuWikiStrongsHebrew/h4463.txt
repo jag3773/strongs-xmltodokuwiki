@@ -1,12 +1,16 @@
 ====== H4463: מָמוֹת (mâmôwth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4191 ;
+from H4191;
 
 ===== Meaning =====
 
-a  mortal disease ; concretely, a  corpse
+a **mortal disease**; concretely, a **corpse**
 
 ===== Definitions =====
 

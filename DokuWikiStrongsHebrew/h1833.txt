@@ -1,12 +1,16 @@
 ====== H1833: דְּמֶשֶׁק (dᵉmesheq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-by orthographical variation from  H1834 ;
+by orthographical variation from H1834;
 
 ===== Meaning =====
 
-damask  (as a fabric of Damascus)
+**damask** (as a fabric of Damascus)
 
 ===== Definitions =====
 

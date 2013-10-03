@@ -1,12 +1,16 @@
 ====== H4194: מָוֶת (mâveth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4191 ;
+from H4191;
 
 ===== Meaning =====
 
-death  (natural or violent); concretely, the  dead , their place or state (hades); figuratively,  pestilence ,  ruin
+**death** (natural or violent); concretely, the **dead**, their place or state (hades); figuratively, **pestilence**, **ruin**
 
 ===== Definitions =====
 

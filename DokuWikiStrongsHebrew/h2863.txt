@@ -1,12 +1,16 @@
 ====== H2863: חֶתֶף (chetheph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2862 ;
+from H2862;
 
 ===== Meaning =====
 
-properly,  rapine ; figuratively,  robbery
+properly, **rapine**; figuratively, **robbery**
 
 ===== Definitions =====
 

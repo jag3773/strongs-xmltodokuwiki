@@ -1,12 +1,16 @@
 ====== H6957: קַו (qav) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from  H6960  (compare  H6961 );
+or ; from H6960 (compare H6961);
 
 ===== Meaning =====
 
-a  cord  (as connecting), especially for  measuring ; figuratively, a  rule ; also a  rim , a  musical string  or  accord
+a **cord** (as connecting), especially for **measuring**; figuratively, a **rule**; also a **rim**, a **musical string** or **accord**
 
 ===== Definitions =====
 

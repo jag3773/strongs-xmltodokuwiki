@@ -1,12 +1,16 @@
 ====== H4625: מַעֲקָשׁ (maʻăqâsh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6140 ;
+from H6140;
 
 ===== Meaning =====
 
-a  crook  (in a road)
+a **crook** (in a road)
 
 ===== Definitions =====
 

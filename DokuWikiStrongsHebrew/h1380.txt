@@ -1,12 +1,16 @@
 ====== H1380: גְּבַל (Gᵉbal) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1379  (in the sense of a chain of hills); a mountain;
+from H1379 (in the sense of a chain of hills); a mountain;
 
 ===== Meaning =====
 
-Gebal , a place in Phoenicia
+**Gebal**, a place in Phoenicia
 
 ===== Definitions =====
 

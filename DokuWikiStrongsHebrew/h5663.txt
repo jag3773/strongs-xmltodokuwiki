@@ -1,12 +1,16 @@
 ====== H5663: עֶבֶד מֶלֶךְ (ʻEbed Melek) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5650  and  H4428 ;  ;
+from H5650 and H4428; **servant of a king**;
 
 ===== Meaning =====
 
-servant of a king Ebed-Melek , a eunuch of Zedekeah
+**Ebed-Melek**, a eunuch of Zedekeah
 
 ===== Definitions =====
 

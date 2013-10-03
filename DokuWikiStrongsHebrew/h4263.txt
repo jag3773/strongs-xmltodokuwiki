@@ -1,12 +1,16 @@
 ====== H4263: מַחְמָל (machmâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2550 ; (by paronomasia with  H4261 ) delight
+from H2550; (by paronomasia with H4261) delight
 
 ===== Meaning =====
 
-properly,  sympathy ;
+properly, **sympathy**;
 
 ===== Definitions =====
 

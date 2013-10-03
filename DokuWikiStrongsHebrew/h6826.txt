@@ -1,12 +1,16 @@
 ====== H6826: צִפּוּי (tsippûwy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6823 ;
+from H6823;
 
 ===== Meaning =====
 
-encasement  (with metal)
+**encasement** (with metal)
 
 ===== Definitions =====
 

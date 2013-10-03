@@ -1,12 +1,16 @@
 ====== H1857: דֶּקֶר (Deqer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1856 ; a stab;
+from H1856; a stab;
 
 ===== Meaning =====
 
-Deker , an Israelite
+**Deker**, an Israelite
 
 ===== Definitions =====
 

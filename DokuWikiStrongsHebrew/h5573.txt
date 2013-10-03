@@ -1,12 +1,16 @@
 ====== H5573: סֶנֶה (Çeneh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H5572 ;  ;
+the same as H5572; **thorn**;
 
 ===== Meaning =====
 
-thorn Seneh , a crag in Palestine
+**Seneh**, a crag in Palestine
 
 ===== Definitions =====
 

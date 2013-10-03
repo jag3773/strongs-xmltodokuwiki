@@ -1,12 +1,16 @@
 ====== H3192: יׇטְבָה (Yoṭbâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3190 ;  ;
+from H3190; **pleasantness**;
 
 ===== Meaning =====
 
-pleasantness Jotbah , a place in Palestine
+**Jotbah**, a place in Palestine
 
 ===== Definitions =====
 

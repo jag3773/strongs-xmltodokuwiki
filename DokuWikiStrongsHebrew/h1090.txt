@@ -1,12 +1,16 @@
 ====== H1090: בִּלְהָה (Bilhâh) ======
 
+===== Part of Speech =====
+
+n-pr-f n-pr-loc
+
 ===== Source =====
 
-from  H1089 ; timid;
+from H1089; timid;
 
 ===== Meaning =====
 
-Bilhah , the name of one of Jacob's concubines; also of a place in Palestine
+**Bilhah**, the name of one of Jacob's concubines; also of a place in Palestine
 
 ===== Definitions =====
 

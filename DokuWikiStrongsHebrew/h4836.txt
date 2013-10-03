@@ -1,12 +1,16 @@
 ====== H4836: מַרְצֵעַ (martsêaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7527 ;
+from H7527;
 
 ===== Meaning =====
 
-an  awl
+an **awl**
 
 ===== Definitions =====
 

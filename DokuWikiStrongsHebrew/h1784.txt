@@ -1,12 +1,16 @@
 ====== H1784: דִּינַי (Dîynay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
 (Aramaic) partial from uncertain primitive;
 
 ===== Meaning =====
 
-a  Dinaite  or inhabitant of some unknown Assyria province
+a **Dinaite** or inhabitant of some unknown Assyria province
 
 ===== Definitions =====
 

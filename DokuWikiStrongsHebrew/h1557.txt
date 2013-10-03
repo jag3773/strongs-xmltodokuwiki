@@ -1,12 +1,16 @@
 ====== H1557: גָּלָל (gâlâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1556 ;
+from H1556;
 
 ===== Meaning =====
 
-dung  (as in balls)
+**dung** (as in balls)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1971: הַכָּרָה (hakkârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5234 ;
+from H5234;
 
 ===== Meaning =====
 
-respect , i.e. partiality
+**respect**, i.e. partiality
 
 ===== Definitions =====
 

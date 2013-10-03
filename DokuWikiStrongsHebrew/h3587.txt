@@ -1,12 +1,16 @@
 ====== H3587: כִּי (kîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3554 ;
+from H3554;
 
 ===== Meaning =====
 
-a  brand  or  scar
+a **brand** or **scar**
 
 ===== Definitions =====
 

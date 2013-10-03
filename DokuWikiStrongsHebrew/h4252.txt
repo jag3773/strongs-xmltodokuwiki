@@ -1,12 +1,16 @@
 ====== H4252: מַחֲלָף (machălâph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2498 ;
+from H2498;
 
 ===== Meaning =====
 
-a (sacrificial)  knife  (as gliding through the flesh)
+a (sacrificial) **knife** (as gliding through the flesh)
 
 ===== Definitions =====
 

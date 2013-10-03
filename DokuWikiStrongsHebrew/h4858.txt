@@ -1,12 +1,16 @@
 ====== H4858: מַשָּׂאָה (massâʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5375 ;
+from H5375;
 
 ===== Meaning =====
 
-a  conflagration  (from the  rising  of smoke)
+a **conflagration** (from the **rising** of smoke)
 
 ===== Definitions =====
 

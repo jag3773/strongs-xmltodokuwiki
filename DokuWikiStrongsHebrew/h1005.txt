@@ -1,8 +1,12 @@
 ====== H1005: בַּיִת (bayith) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H1004
+(Aramaic) corresponding to H1004
 
 ===== Meaning =====
 

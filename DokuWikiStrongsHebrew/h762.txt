@@ -1,12 +1,16 @@
 ====== H762: אֲרָמִית (ʼĂrâmîyth) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-feminine of  H761 ;
+feminine of H761;
 
 ===== Meaning =====
 
-(only adverbial)  in Aramæan
+(only adverbial) **in Aramæan**
 
 ===== Definitions =====
 

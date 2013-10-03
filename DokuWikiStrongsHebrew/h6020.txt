@@ -1,12 +1,16 @@
 ====== H6020: עַמְרָמִי (ʻAmrâmîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6019 ;
+from H6019;
 
 ===== Meaning =====
 
-an  Amramite  or descendant of Amram
+an **Amramite** or descendant of Amram
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3891: לְזוּת (lᵉzûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3868 ;
+from H3868;
 
 ===== Meaning =====
 
-perverseness
+**perverseness**
 
 ===== Definitions =====
 

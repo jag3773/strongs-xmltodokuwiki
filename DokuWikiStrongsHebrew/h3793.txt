@@ -1,12 +1,16 @@
 ====== H3793: כְּתֹבֶת (kᵉthôbeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3789 ;
+from H3789;
 
 ===== Meaning =====
 
-a  letter  or other  mark  branded on the skin
+a **letter** or other **mark** branded on the skin
 
 ===== Definitions =====
 

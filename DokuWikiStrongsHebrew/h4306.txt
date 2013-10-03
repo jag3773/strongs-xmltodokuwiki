@@ -1,12 +1,16 @@
 ====== H4306: מָטַר (mâṭar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4305 ;
+from H4305;
 
 ===== Meaning =====
 
-rain
+**rain**
 
 ===== Definitions =====
 

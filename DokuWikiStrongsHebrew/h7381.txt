@@ -1,12 +1,16 @@
 ====== H7381: רֵיחַ (rêyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7306 ;
+from H7306;
 
 ===== Meaning =====
 
-odor  (as if blown)
+**odor** (as if blown)
 
 ===== Definitions =====
 

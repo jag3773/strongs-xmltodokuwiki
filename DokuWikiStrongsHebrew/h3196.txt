@@ -1,12 +1,16 @@
 ====== H3196: יַיִן (yayin) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to effervesce;
 
 ===== Meaning =====
 
-wine  (as fermented); by implication,  intoxication
+**wine** (as fermented); by implication, **intoxication**
 
 ===== Definitions =====
 

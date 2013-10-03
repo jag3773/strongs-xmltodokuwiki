@@ -1,12 +1,16 @@
 ====== H1198: בַּעַר (baʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1197 ;
+from H1197;
 
 ===== Meaning =====
 
-properly,  foot  (as consumed); i.e. (by exten.) of cattle  brutishness ; (concretely)  stupid
+properly, **foot** (as consumed); i.e. (by exten.) of cattle **brutishness**; (concretely) **stupid**
 
 ===== Definitions =====
 

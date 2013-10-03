@@ -1,12 +1,16 @@
 ====== H2197: זַעַף (zaʻaph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2196 ;
+from H2196;
 
 ===== Meaning =====
 
-anger
+**anger**
 
 ===== Definitions =====
 

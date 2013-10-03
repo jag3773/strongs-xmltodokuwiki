@@ -1,12 +1,16 @@
 ====== H4281: מַחֲרֵשָׁה (machărêshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2790 ;
+from H2790;
 
 ===== Meaning =====
 
-probably  a pick-axe
+probably **a pick-axe**
 
 ===== Definitions =====
 

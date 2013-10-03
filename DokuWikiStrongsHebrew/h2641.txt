@@ -1,12 +1,16 @@
 ====== H2641: חַסְרָה (Chaçrâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2637 ; 
+from H2637; **want**
 
 ===== Meaning =====
 
-want Chasrah , an Israelite
+**Chasrah**, an Israelite
 
 ===== Definitions =====
 

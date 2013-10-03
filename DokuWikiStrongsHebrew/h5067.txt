@@ -1,12 +1,16 @@
 ====== H5067: נֵד (nêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5110  in the sense of   up;
+from H5110 in the sense of **piling** up;
 
 ===== Meaning =====
 
-piling a  mound , i.e.  wave
+a **mound**, i.e. **wave**
 
 ===== Definitions =====
 

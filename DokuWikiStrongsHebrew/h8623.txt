@@ -1,12 +1,16 @@
 ====== H8623: תַּקִּיף (taqqîyph) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8630 ;
+from H8630;
 
 ===== Meaning =====
 
-powerful
+**powerful**
 
 ===== Definitions =====
 

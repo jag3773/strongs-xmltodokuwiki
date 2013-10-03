@@ -1,12 +1,16 @@
 ====== H4999: נָאָה (nâʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4998 ;
+from H4998;
 
 ===== Meaning =====
 
-a  home ; figuratively, a  pasture
+a **home**; figuratively, a **pasture**
 
 ===== Definitions =====
 

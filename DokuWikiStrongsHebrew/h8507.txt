@@ -1,12 +1,16 @@
 ====== H8507: תֹּכֶן (Tôken) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H8506 ;
+the same as H8506;
 
 ===== Meaning =====
 
-Token , a place in Palestine
+**Token**, a place in Palestine
 
 ===== Definitions =====
 

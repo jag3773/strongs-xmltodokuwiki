@@ -1,12 +1,16 @@
 ====== H6988: קְטוֹרָה (qᵉṭôwrâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6999 ;
+from H6999;
 
 ===== Meaning =====
 
-perfume
+**perfume**
 
 ===== Definitions =====
 

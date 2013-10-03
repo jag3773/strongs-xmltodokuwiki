@@ -1,12 +1,16 @@
 ====== H4018: מְבַשְּׁלָה (mᵉbashshᵉlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1310 ;
+from H1310;
 
 ===== Meaning =====
 
-a  cooking hearth
+a **cooking hearth**
 
 ===== Definitions =====
 

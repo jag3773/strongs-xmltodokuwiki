@@ -1,12 +1,16 @@
 ====== H5070: נָדָב (Nâdâb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5068 ; liberal;
+from H5068; liberal;
 
 ===== Meaning =====
 
-Nadab , the name of four Israelites
+**Nadab**, the name of four Israelites
 
 ===== Definitions =====
 

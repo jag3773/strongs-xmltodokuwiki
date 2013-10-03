@@ -1,12 +1,16 @@
 ====== H106: אֶגְרֹף (ʼegrôph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1640  (in the sense of  );
+from H1640 (in the sense of **grasping**);
 
 ===== Meaning =====
 
-grasping the  clenched  hand
+the **clenched** hand
 
 ===== Definitions =====
 

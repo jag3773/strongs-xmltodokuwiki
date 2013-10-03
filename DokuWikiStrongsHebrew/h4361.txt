@@ -1,12 +1,16 @@
 ====== H4361: מַכֹּלֶת (makkôleth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H398 ;
+from H398;
 
 ===== Meaning =====
 
-nourishment
+**nourishment**
 
 ===== Definitions =====
 

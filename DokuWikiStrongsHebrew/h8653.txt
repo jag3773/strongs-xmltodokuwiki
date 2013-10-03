@@ -1,12 +1,16 @@
 ====== H8653: תַּרְעֵלָה (tarʻêlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7477 ;
+from H7477;
 
 ===== Meaning =====
 
-reeling
+**reeling**
 
 ===== Definitions =====
 

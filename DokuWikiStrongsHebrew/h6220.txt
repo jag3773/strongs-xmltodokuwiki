@@ -1,12 +1,16 @@
 ====== H6220: עַשְׁוָת (ʻAshvâth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H6219 ;  ;
+for H6219; **bright**;
 
 ===== Meaning =====
 
-bright Ashvath , an Israelite
+**Ashvath**, an Israelite
 
 ===== Definitions =====
 

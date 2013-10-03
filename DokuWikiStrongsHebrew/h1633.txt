@@ -1,12 +1,16 @@
 ====== H1633: גָּרַם (gâram) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; to be spare or skeleton-like; used only as a denominative from  H1634 ;
+a primitive root; to be spare or skeleton-like; used only as a denominative from H1634;
 
 ===== Meaning =====
 
-(causative) to  bone , i.e.  denude  (by extensive, craunch) the  bones
+(causative) to **bone**, i.e. **denude** (by extensive, craunch) the **bones**
 
 ===== Definitions =====
 

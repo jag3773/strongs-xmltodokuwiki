@@ -1,12 +1,16 @@
 ====== H2654: חָפֵץ (châphêts) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  incline  to; by implication (literally but rarely) to  bend ; figuratively, to  be pleased  with,  desire
+properly, to **incline** to; by implication (literally but rarely) to **bend**; figuratively, to **be pleased** with, **desire**
 
 ===== Definitions =====
 

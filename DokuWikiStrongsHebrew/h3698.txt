@@ -1,12 +1,16 @@
 ====== H3698: כֻּסֶּמֶת (kuççemeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3697 ;
+from H3697;
 
 ===== Meaning =====
 
-spelt  (from its bristliness as if just  shorn )
+**spelt** (from its bristliness as if just **shorn**)
 
 ===== Definitions =====
 

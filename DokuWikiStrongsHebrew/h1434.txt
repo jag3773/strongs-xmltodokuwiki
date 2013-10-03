@@ -1,12 +1,16 @@
 ====== H1434: גְּדִל (gᵉdil) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1431  (in the sense of twisting);
+from H1431 (in the sense of twisting);
 
 ===== Meaning =====
 
-thread , i.e. a  tassel  or  festoon
+**thread**, i.e. a **tassel** or **festoon**
 
 ===== Definitions =====
 

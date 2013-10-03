@@ -1,12 +1,16 @@
 ====== H5887: עֵין תַּפּוּחַ (ʻÊyn Tappûwach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and  H8598 ; fountain of an apple-tree;
+from H5869 and H8598; fountain of an apple-tree;
 
 ===== Meaning =====
 
-En-Tappuach , a place in Palestine
+**En-Tappuach**, a place in Palestine
 
 ===== Definitions =====
 

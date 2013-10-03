@@ -1,12 +1,16 @@
 ====== H6425: פֶּלֶס (peleç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6424 ;
+from H6424;
 
 ===== Meaning =====
 
-a  balance
+a **balance**
 
 ===== Definitions =====
 

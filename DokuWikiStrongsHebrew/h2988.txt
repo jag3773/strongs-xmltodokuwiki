@@ -1,12 +1,16 @@
 ====== H2988: יָבָל (yâbâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2986 ;
+from H2986;
 
 ===== Meaning =====
 
-a  stream
+a **stream**
 
 ===== Definitions =====
 

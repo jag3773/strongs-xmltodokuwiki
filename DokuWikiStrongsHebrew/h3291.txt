@@ -1,12 +1,16 @@
 ====== H3291: יַעֲקֹבָה (Yaʻăqôbâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3290 ;
+from H3290;
 
 ===== Meaning =====
 
-Jaakobah , an Israelite
+**Jaakobah**, an Israelite
 
 ===== Definitions =====
 

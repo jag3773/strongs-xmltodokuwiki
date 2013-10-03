@@ -1,12 +1,16 @@
 ====== H1643: גֶּרֶשׂ (geres) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
 from an unused root meaning to husk;
 
 ===== Meaning =====
 
-a  kernel  (collectively), i.e.  grain
+a **kernel** (collectively), i.e. **grain**
 
 ===== Definitions =====
 

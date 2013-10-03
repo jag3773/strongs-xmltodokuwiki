@@ -1,12 +1,16 @@
 ====== H6092: עָצֵב (ʻâtsêb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6087 ;
+from H6087;
 
 ===== Meaning =====
 
-a (hired)  workman
+a (hired) **workman**
 
 ===== Definitions =====
 

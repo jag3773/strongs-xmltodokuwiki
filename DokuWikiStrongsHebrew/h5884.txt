@@ -1,12 +1,16 @@
 ====== H5884: עֵין רִמּוֹן (ʻÊyn Rimmôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5869  and  H7416 ;  ;
+from H5869 and H7416; **fountain of a pomegranate**;
 
 ===== Meaning =====
 
-fountain of a pomegranate En-Rimmon , a place in Palestine
+**En-Rimmon**, a place in Palestine
 
 ===== Definitions =====
 

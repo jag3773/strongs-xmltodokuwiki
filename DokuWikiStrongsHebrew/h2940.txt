@@ -1,12 +1,16 @@
 ====== H2940: טַעַם (ṭaʻam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2938 ;
+from H2938;
 
 ===== Meaning =====
 
-properly, a  taste , i.e. (figuratively)  perception ; by implication,  intelligence ; transitively, a  mandate
+properly, a **taste**, i.e. (figuratively) **perception**; by implication, **intelligence**; transitively, a **mandate**
 
 ===== Definitions =====
 

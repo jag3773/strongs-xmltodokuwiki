@@ -1,12 +1,16 @@
 ====== H4426: מְלִיצָה (mᵉlîytsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3887 ;
+from H3887;
 
 ===== Meaning =====
 
-an  aphorism ; also a  satire
+an **aphorism**; also a **satire**
 
 ===== Definitions =====
 

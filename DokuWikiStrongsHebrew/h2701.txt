@@ -1,12 +1,16 @@
 ====== H2701: חֲצַר סוּסָה (Chătsar Çûwçâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2691  and  H5484 ; village of cavalry;
+from H2691 and H5484; village of cavalry;
 
 ===== Meaning =====
 
-Chatsar-Susah , a place in Palestine
+**Chatsar-Susah**, a place in Palestine
 
 ===== Definitions =====
 

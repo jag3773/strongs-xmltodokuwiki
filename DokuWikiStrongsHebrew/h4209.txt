@@ -1,12 +1,16 @@
 ====== H4209: מְזִמָּה (mᵉzimmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2161 ;
+from H2161;
 
 ===== Meaning =====
 
-a  plan , usually evil ( machination ), sometimes good ( sagacity )
+a **plan**, usually evil (**machination**), sometimes good (**sagacity**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5609: סְפַר (çᵉphar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) from a root corresponding to  H5608 ;
+(Aramaic) from a root corresponding to H5608;
 
 ===== Meaning =====
 
-a  book
+a **book**
 
 ===== Definitions =====
 

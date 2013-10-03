@@ -1,12 +1,16 @@
 ====== H1537: גִּלְגָּל (Gilgâl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H1536  (with the article as a properly, noun);
+the same as H1536 (with the article as a properly, noun);
 
 ===== Meaning =====
 
-Gilgal , the name of three places in Palestine
+**Gilgal**, the name of three places in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2962: טֶרֶם (ṭerem) ======
 
+===== Part of Speech =====
+
+prep
+
 ===== Source =====
 
 from an unused root apparently meaning to interrupt or suspend;
 
 ===== Meaning =====
 
-properly,  non-occurrence ; used adverbially,  not yet  or  before
+properly, **non-occurrence**; used adverbially, **not yet** or **before**
 
 ===== Definitions =====
 

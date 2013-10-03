@@ -1,12 +1,16 @@
 ====== H1983: הֲלָךְ (hălâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-(Aramaic) from  H1981 ;
+(Aramaic) from H1981;
 
 ===== Meaning =====
 
-properly, a  journey , i.e. (by implication)  toll on goods at a road
+properly, a **journey**, i.e. (by implication) **toll on goods at a road**
 
 ===== Definitions =====
 

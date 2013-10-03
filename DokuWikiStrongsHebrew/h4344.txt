@@ -1,12 +1,16 @@
 ====== H4344: מַכְבַּנַּי (Makbannay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-patrial from  H4343 ;
+patrial from H4343;
 
 ===== Meaning =====
 
-a  Macbannite  or native of Macbena
+a **Macbannite** or native of Macbena
 
 ===== Definitions =====
 

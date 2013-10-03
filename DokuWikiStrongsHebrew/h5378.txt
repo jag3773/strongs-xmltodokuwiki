@@ -1,12 +1,16 @@
 ====== H5378: נָשָׁא (nâshâʼ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (perhaps identical with  H5377 , through the idea of  );
+a primitive root (perhaps identical with H5377, through the idea of **imposition**);
 
 ===== Meaning =====
 
-imposition to  lend  on interest; by implication, to  dun  for debt
+to **lend** on interest; by implication, to **dun** for debt
 
 ===== Definitions =====
 

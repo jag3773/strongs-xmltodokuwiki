@@ -1,12 +1,16 @@
 ====== H5149: נְחוּם (Nᵉchûwm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5162 ;  ;
+from H5162; **comforted**;
 
 ===== Meaning =====
 
-comforted Nechum , an Israelite
+**Nechum**, an Israelite
 
 ===== Definitions =====
 

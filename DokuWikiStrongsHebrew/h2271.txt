@@ -1,12 +1,16 @@
 ====== H2271: חַבָּר (chabbâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2266 ;
+from H2266;
 
 ===== Meaning =====
 
-a  partner
+a **partner**
 
 ===== Definitions =====
 

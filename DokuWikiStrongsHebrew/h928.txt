@@ -1,12 +1,16 @@
 ====== H928: בֶּהָלָה (behâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H926 ;
+from H926;
 
 ===== Meaning =====
 
-panic ,  destruction
+**panic**, **destruction**
 
 ===== Definitions =====
 

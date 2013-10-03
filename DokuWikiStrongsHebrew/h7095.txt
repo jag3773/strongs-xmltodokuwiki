@@ -1,12 +1,16 @@
 ====== H7095: קֶצֶב (qetseb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7094 ;
+from H7094;
 
 ===== Meaning =====
 
-shape  (as if cut out);  base  (as if there cut off)
+**shape** (as if cut out); **base** (as if there cut off)
 
 ===== Definitions =====
 

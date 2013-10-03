@@ -1,12 +1,16 @@
 ====== H8363: שְׁתִל (shᵉthil) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8362 ;
+from H8362;
 
 ===== Meaning =====
 
-a  sprig  (as if transplanted), i.e.  sucker
+a **sprig** (as if transplanted), i.e. **sucker**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1800: דַּל (dal) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1809 ;
+from H1809;
 
 ===== Meaning =====
 
-properly,  dangling , i.e. (by implication)  weak  or  thin
+properly, **dangling**, i.e. (by implication) **weak** or **thin**
 
 ===== Definitions =====
 

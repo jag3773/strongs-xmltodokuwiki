@@ -1,12 +1,16 @@
 ====== H4103: מְהוּמָה (mᵉhûwmâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1949 ;
+from H1949;
 
 ===== Meaning =====
 
-confusion  or uproar
+**confusion** or uproar
 
 ===== Definitions =====
 

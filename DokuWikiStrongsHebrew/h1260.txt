@@ -1,12 +1,16 @@
 ====== H1260: בֶּרֶד (Bered) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-from  H1258 ; hail;
+from H1258; hail;
 
 ===== Meaning =====
 
-Bered , the name of a place south of Palestine, also of an Israelite
+**Bered**, the name of a place south of Palestine, also of an Israelite
 
 ===== Definitions =====
 

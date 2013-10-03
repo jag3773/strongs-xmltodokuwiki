@@ -1,12 +1,16 @@
 ====== H6688: צוּף (tsûwph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6687 ;
+from H6687;
 
 ===== Meaning =====
 
-comb of honey  (from dripping)
+**comb of honey** (from dripping)
 
 ===== Definitions =====
 

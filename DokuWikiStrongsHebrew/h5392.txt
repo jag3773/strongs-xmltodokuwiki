@@ -1,12 +1,16 @@
 ====== H5392: נֶשֶׁךְ (neshek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5391 ;
+from H5391;
 
 ===== Meaning =====
 
-interest  on a debt
+**interest** on a debt
 
 ===== Definitions =====
 

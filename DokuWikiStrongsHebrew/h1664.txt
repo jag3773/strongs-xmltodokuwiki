@@ -1,12 +1,16 @@
 ====== H1664: גִּתַּיִם (Gittayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual of  H1660 ; double winepress;
+dual of H1660; double winepress;
 
 ===== Meaning =====
 
-Gittajim , a place in Palestine
+**Gittajim**, a place in Palestine
 
 ===== Definitions =====
 

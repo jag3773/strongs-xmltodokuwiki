@@ -1,12 +1,16 @@
 ====== H2565: חֲמֹרָה (chămôrâh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2560  (compare  H2563 );
+from H2560 (compare H2563);
 
 ===== Meaning =====
 
-a  heap
+a **heap**
 
 ===== Definitions =====
 

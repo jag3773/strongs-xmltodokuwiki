@@ -1,12 +1,16 @@
 ====== H1379: גָּבַל (gâbal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; also as a denominative from  H1366
+a primitive root; also as a denominative from H1366
 
 ===== Meaning =====
 
-properly, to  twist  as a rope; to  bound  (as by a line)
+properly, to **twist** as a rope; to **bound** (as by a line)
 
 ===== Definitions =====
 

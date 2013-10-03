@@ -1,12 +1,16 @@
 ====== H3492: יַתִּיר (Yattîyr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3498 ; redundant;
+from H3498; redundant;
 
 ===== Meaning =====
 
-Jattir , a place in Palestine
+**Jattir**, a place in Palestine
 
 ===== Definitions =====
 

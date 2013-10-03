@@ -1,12 +1,16 @@
 ====== H2195: זַעַם (zaʻam) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2194 ;
+from H2194;
 
 ===== Meaning =====
 
-strictly  froth  at the mouth, i.e. (figuratively)  fury  (especially of God's displeasure with sin)
+strictly **froth** at the mouth, i.e. (figuratively) **fury** (especially of God's displeasure with sin)
 
 ===== Definitions =====
 

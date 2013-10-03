@@ -1,12 +1,16 @@
 ====== H2497: חֵלֹן (Chêlôn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2428 ;  ;
+from H2428; **strong**;
 
 ===== Meaning =====
 
-strong Chelon , an Israelite
+**Chelon**, an Israelite
 
 ===== Definitions =====
 

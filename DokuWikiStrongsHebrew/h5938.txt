@@ -1,12 +1,16 @@
 ====== H5938: עָלֵז (ʻâlêz) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5937 ;
+from H5937;
 
 ===== Meaning =====
 
-exultant
+**exultant**
 
 ===== Definitions =====
 

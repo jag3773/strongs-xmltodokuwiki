@@ -1,12 +1,16 @@
 ====== H3720: כָּפָן (kâphân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3719 ;
+from H3719;
 
 ===== Meaning =====
 
-hunger  (as making to stoop with emptiness and pain)
+**hunger** (as making to stoop with emptiness and pain)
 
 ===== Definitions =====
 

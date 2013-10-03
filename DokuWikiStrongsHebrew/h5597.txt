@@ -1,12 +1,16 @@
 ====== H5597: סַפַּחַת (çappachath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5596 ;
+from H5596;
 
 ===== Meaning =====
 
-the  mange  (as making the hair fall off)
+the **mange** (as making the hair fall off)
 
 ===== Definitions =====
 

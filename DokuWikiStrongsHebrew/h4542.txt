@@ -1,12 +1,16 @@
 ====== H4542: מִסְכֵּן (miçkên) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5531 ;
+from H5531;
 
 ===== Meaning =====
 
-indigent
+**indigent**
 
 ===== Definitions =====
 

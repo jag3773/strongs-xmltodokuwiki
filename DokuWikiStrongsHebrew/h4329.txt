@@ -1,12 +1,16 @@
 ====== H4329: מֵיסָךְ (mêyçâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5526 ;
+from H5526;
 
 ===== Meaning =====
 
-a  portico  (as covered)
+a **portico** (as covered)
 
 ===== Definitions =====
 

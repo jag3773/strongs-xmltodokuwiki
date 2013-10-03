@@ -1,12 +1,16 @@
 ====== H6086: עֵץ (ʻêts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6095 ;
+from H6095;
 
 ===== Meaning =====
 
-a  tree  (from its firmness); hence,  wood  (plural sticks)
+a **tree** (from its firmness); hence, **wood** (plural sticks)
 
 ===== Definitions =====
 

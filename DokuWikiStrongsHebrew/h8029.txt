@@ -1,12 +1,16 @@
 ====== H8029: שִׁלֵּשׁ (shillêsh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H8027 ;
+from H8027;
 
 ===== Meaning =====
 
-a descendant of the  third  degree, i.e.  great grandchild
+a descendant of the **third** degree, i.e. **great grandchild**
 
 ===== Definitions =====
 

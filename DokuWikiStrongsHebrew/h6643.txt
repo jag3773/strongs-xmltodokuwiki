@@ -1,12 +1,16 @@
 ====== H6643: צְבִי (tsᵉbîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6638  in the sense of  ;
+from H6638 in the sense of **prominence**;
 
 ===== Meaning =====
 
-prominence splendor  (as  conspicuous )
+**splendor** (as **conspicuous**)
 
 ===== Definitions =====
 

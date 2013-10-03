@@ -1,12 +1,16 @@
 ====== H5853: עַטְרוֹת אַדָּר (ʻAṭrôwth ʼAddâr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H5852  and  H146 ; crowns of Addar;
+from the same as H5852 and H146; crowns of Addar;
 
 ===== Meaning =====
 
-Atroth-Addar , a place in Palestine
+**Atroth-Addar**, a place in Palestine
 
 ===== Definitions =====
 

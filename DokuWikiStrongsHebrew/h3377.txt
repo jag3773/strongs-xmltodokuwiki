@@ -1,12 +1,16 @@
 ====== H3377: יָרֵב (Yârêb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7378 ;  ;
+from H7378; **he will contend**;
 
 ===== Meaning =====
 
-he will contend Jareb , a symbolical name for Assyria
+**Jareb**, a symbolical name for Assyria
 
 ===== Definitions =====
 

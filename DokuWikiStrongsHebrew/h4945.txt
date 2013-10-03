@@ -1,12 +1,16 @@
 ====== H4945: מַשְׁקֶה (mashqeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8248 ;
+from H8248;
 
 ===== Meaning =====
 
-properly,  causing to drink , i.e. a  butler ; by implication (intransitively),  drink  (itself); figuratively, a  well-watered  region
+properly, **causing to drink**, i.e. a **butler**; by implication (intransitively), **drink** (itself); figuratively, a **well-watered** region
 
 ===== Definitions =====
 

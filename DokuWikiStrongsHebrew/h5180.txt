@@ -1,12 +1,16 @@
 ====== H5180: נְחֻשְׁתָּן (Nᵉchushtân) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H5178 ;
+from H5178;
 
 ===== Meaning =====
 
-something  made of copper , i.e. the  copper serpent of the Desert
+something **made of copper**, i.e. the **copper serpent of the Desert**
 
 ===== Definitions =====
 

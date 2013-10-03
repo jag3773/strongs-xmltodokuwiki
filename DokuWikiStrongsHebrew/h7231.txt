@@ -1,12 +1,16 @@
 ====== H7231: רָבַב (râbab) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; (compare  H7241 ); also as denominative from  H7233 ;
+a primitive root; (compare H7241); also as denominative from H7233;
 
 ===== Meaning =====
 
-properly, to  cast together  , i.e.  increase , especially in number; to  multiply by the myriad
+properly, to **cast together** , i.e. **increase**, especially in number; to **multiply by the myriad**
 
 ===== Definitions =====
 

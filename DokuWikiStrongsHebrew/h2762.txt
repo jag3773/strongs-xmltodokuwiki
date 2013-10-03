@@ -1,12 +1,16 @@
 ====== H2762: חֶרֶךְ (cherek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2760 ;
+from H2760;
 
 ===== Meaning =====
 
-properly, a  net , i.e. (by analogy)  lattice
+properly, a **net**, i.e. (by analogy) **lattice**
 
 ===== Definitions =====
 

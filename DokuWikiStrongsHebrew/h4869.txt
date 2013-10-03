@@ -1,12 +1,16 @@
 ====== H4869: מִשְׂגָּב (misgâb) ======
 
+===== Part of Speech =====
+
+n-m n-pr-loc
+
 ===== Source =====
 
-from  H7682 ;
+from H7682;
 
 ===== Meaning =====
 
-properly, a  cliff  (or other  lofty  or  inaccessible  place); abstractly,  altitude ; figuratively, a  refuge ;  Misgab , a place in Moab
+properly, a **cliff** (or other **lofty** or **inaccessible** place); abstractly, **altitude**; figuratively, a **refuge**; **Misgab**, a place in Moab
 
 ===== Definitions =====
 

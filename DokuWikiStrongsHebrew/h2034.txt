@@ -1,12 +1,16 @@
 ====== H2034: הֲרִיסָה (hărîyçâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2040 ;
+from H2040;
 
 ===== Meaning =====
 
-something  demolished
+something **demolished**
 
 ===== Definitions =====
 

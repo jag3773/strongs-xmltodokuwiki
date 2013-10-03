@@ -1,12 +1,16 @@
 ====== H7791: שׁוּר (shûwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7788 ;
+from H7788;
 
 ===== Meaning =====
 
-a  wall  (as going about)
+a **wall** (as going about)
 
 ===== Definitions =====
 

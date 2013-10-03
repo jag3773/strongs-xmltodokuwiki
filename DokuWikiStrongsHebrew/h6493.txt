@@ -1,12 +1,16 @@
 ====== H6493: פִּקֵּחַ (piqqêach) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6491 ;
+from H6491;
 
 ===== Meaning =====
 
-clear-sighted ; figuratively,  intelligent
+**clear-sighted**; figuratively, **intelligent**
 
 ===== Definitions =====
 

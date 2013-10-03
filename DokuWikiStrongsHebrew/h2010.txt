@@ -1,12 +1,16 @@
 ====== H2010: הֲנָחָה (hănâchâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5117 ;
+from H5117;
 
 ===== Meaning =====
 
-permission of rest , i.e.  quiet
+**permission of rest**, i.e. **quiet**
 
 ===== Definitions =====
 

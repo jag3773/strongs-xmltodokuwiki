@@ -1,12 +1,16 @@
 ====== H2174: זִמְרִי (Zimrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2167 ; musical;
+from H2167; musical;
 
 ===== Meaning =====
 
-Zimri , the name of five Israelites, and of an Arabian tribe
+**Zimri**, the name of five Israelites, and of an Arabian tribe
 
 ===== Definitions =====
 

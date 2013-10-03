@@ -1,12 +1,16 @@
 ====== H3277: יָעֵל (yâʻêl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3276 ;
+from H3276;
 
 ===== Meaning =====
 
-an  ibex  (as climbing)
+an **ibex** (as climbing)
 
 ===== Definitions =====
 

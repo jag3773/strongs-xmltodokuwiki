@@ -1,12 +1,16 @@
 ====== H4650: מֵפִיץ (mêphîyts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6327 ;
+from H6327;
 
 ===== Meaning =====
 
-a breaker , i.e.  mallet
+**a breaker**, i.e. **mallet**
 
 ===== Definitions =====
 

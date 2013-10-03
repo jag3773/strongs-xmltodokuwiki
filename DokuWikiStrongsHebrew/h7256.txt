@@ -1,12 +1,16 @@
 ====== H7256: רִבֵּעַ (ribbêaʻ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7251 ;
+from H7251;
 
 ===== Meaning =====
 
-a descendant of the  fourth  generation, i.e.  great great grandchild
+a descendant of the **fourth** generation, i.e. **great great grandchild**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1256: בְּרָאיָה (Bᵉrâʼyâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1254  and  H8050 ; Jah has created;
+from H1254 and H8050; Jah has created;
 
 ===== Meaning =====
 
-Berajah , an Israelite
+**Berajah**, an Israelite
 
 ===== Definitions =====
 

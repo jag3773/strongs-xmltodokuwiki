@@ -1,12 +1,16 @@
 ====== H4960: מִשְׁתֶּה (mishteh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8354 ;
+from H8354;
 
 ===== Meaning =====
 
-drink , by implication,  drinking  (the act); also (by implication) a  banquet  or (generally)  feast
+**drink**, by implication, **drinking** (the act); also (by implication) a **banquet** or (generally) **feast**
 
 ===== Definitions =====
 

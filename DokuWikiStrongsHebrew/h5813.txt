@@ -1,12 +1,16 @@
 ====== H5813: עֻזִּי (ʻUzzîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5810 ;  ;
+from H5810; **forceful**;
 
 ===== Meaning =====
 
-forceful Uzzi , the name of six Israelites
+**Uzzi**, the name of six Israelites
 
 ===== Definitions =====
 

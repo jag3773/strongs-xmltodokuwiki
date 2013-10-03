@@ -1,12 +1,16 @@
 ====== H4226: מְחַבְּרָה (mᵉchabbᵉrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2266 ;
+from H2266;
 
 ===== Meaning =====
 
-a  joiner , i.e.  brace  or  cramp
+a **joiner**, i.e. **brace** or **cramp**
 
 ===== Definitions =====
 

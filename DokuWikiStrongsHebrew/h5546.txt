@@ -1,12 +1,16 @@
 ====== H5546: סַלָּח (çallâch) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5545 ;
+from H5545;
 
 ===== Meaning =====
 
-placable
+**placable**
 
 ===== Definitions =====
 

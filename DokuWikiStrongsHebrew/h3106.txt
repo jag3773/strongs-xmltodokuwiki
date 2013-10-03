@@ -1,12 +1,16 @@
 ====== H3106: יוּבַל (Yûwbal) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2986 ; stream;
+from H2986; stream;
 
 ===== Meaning =====
 
-Jubal , an antediluvian
+**Jubal**, an antediluvian
 
 ===== Definitions =====
 

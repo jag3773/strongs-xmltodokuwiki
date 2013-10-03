@@ -1,12 +1,16 @@
 ====== H8178: שַׂעַר (saʻar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8175 ;
+from H8175;
 
 ===== Meaning =====
 
-a  terror
+a **terror**
 
 ===== Definitions =====
 

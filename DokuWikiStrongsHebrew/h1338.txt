@@ -1,12 +1,16 @@
 ====== H1338: בִּתְרוֹן (Bithrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1334 ; (with the article) the craggy spot;
+from H1334; (with the article) the craggy spot;
 
 ===== Meaning =====
 
-Bithron , a place East of the Jordan
+**Bithron**, a place East of the Jordan
 
 ===== Definitions =====
 

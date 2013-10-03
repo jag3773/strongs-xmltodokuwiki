@@ -1,12 +1,16 @@
 ====== H364: אֵיל פָּארָן (ʼÊyl Pâʼrân) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H352  and  H6290 ;  ;
+from H352 and H6290; **oak of Paran**;
 
 ===== Meaning =====
 
-oak of Paran El-Paran , a portion of the district of Paran
+**El-Paran**, a portion of the district of Paran
 
 ===== Definitions =====
 

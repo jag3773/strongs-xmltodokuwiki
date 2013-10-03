@@ -1,12 +1,16 @@
 ====== H2971: יָאִיר (Yâʼîyr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H215 ;  ;
+from H215; **enlightener**;
 
 ===== Meaning =====
 
-enlightener Jair , the name of four Israelites
+**Jair**, the name of four Israelites
 
 ===== Definitions =====
 

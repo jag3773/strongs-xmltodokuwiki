@@ -1,12 +1,16 @@
 ====== H7545: רֹקַח (rôqach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7543 ;
+from H7543;
 
 ===== Meaning =====
 
-an  aromatic
+an **aromatic**
 
 ===== Definitions =====
 

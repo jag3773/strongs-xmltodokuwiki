@@ -1,12 +1,16 @@
 ====== H3877: לוֹטָן (Lôwṭân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3875 ;  ;
+from H3875; **covering**;
 
 ===== Meaning =====
 
-covering Lotan , an Idumaean
+**Lotan**, an Idumaean
 
 ===== Definitions =====
 

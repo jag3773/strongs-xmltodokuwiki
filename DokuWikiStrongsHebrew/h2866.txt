@@ -1,12 +1,16 @@
 ====== H2866: חֲתַת (chăthath) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2865 ;
+from H2865;
 
 ===== Meaning =====
 
-dismay
+**dismay**
 
 ===== Definitions =====
 

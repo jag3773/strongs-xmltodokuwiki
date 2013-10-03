@@ -1,12 +1,16 @@
 ====== H6221: עֲשִׂיאֵל (ʻĂsîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6213  and  H410 ;  ;
+from H6213 and H410; **made of God**;
 
 ===== Meaning =====
 
-made of God Asiel , an Israelite
+**Asiel**, an Israelite
 
 ===== Definitions =====
 

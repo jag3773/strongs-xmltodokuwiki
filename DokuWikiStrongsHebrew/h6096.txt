@@ -1,12 +1,16 @@
 ====== H6096: עָצֶה (ʻâtseh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6095 ;
+from H6095;
 
 ===== Meaning =====
 
-the  spine  (as giving  firmness  to the body)
+the **spine** (as giving **firmness** to the body)
 
 ===== Definitions =====
 

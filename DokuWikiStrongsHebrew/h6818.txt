@@ -1,12 +1,16 @@
 ====== H6818: צַעֲקָה (tsaʻăqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6817 ;
+from H6817;
 
 ===== Meaning =====
 
-a  shriek
+a **shriek**
 
 ===== Definitions =====
 

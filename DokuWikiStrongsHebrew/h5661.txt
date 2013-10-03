@@ -1,12 +1,16 @@
 ====== H5661: עַבְדִיאֵל (ʻAbdîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5650  and  H410 ;  ;
+from H5650 and H410; **servant of God**;
 
 ===== Meaning =====
 
-servant of God Abdiel , an Israelite
+**Abdiel**, an Israelite
 
 ===== Definitions =====
 

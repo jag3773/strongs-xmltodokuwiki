@@ -1,12 +1,16 @@
 ====== H3550: כְּהֻנָּה (kᵉhunnâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3547 ;
+from H3547;
 
 ===== Meaning =====
 
-priesthood
+**priesthood**
 
 ===== Definitions =====
 

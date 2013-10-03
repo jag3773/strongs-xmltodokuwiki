@@ -1,12 +1,16 @@
 ====== H752: אָרֹךְ (ʼârôk) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H748 ;
+from H748;
 
 ===== Meaning =====
 
-long
+**long**
 
 ===== Definitions =====
 

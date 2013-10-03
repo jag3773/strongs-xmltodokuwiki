@@ -1,12 +1,16 @@
 ====== H1427: גַּדִּיאֵל (Gaddîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1409  and  H410 ;  ;
+from H1409 and H410; **fortune of God**;
 
 ===== Meaning =====
 
-fortune of God Gaddiel , an Israelite
+**Gaddiel**, an Israelite
 
 ===== Definitions =====
 

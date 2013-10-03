@@ -1,12 +1,16 @@
 ====== H3689: כֶּסֶל (keçel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3688 ;
+from H3688;
 
 ===== Meaning =====
 
-properly,  fatness , i.e. by implication (literally) the  loin  (as the seat of the leaf fat) or (generally) the  viscera ; also (figuratively)  silliness  or (in a good sense)  trust
+properly, **fatness**, i.e. by implication (literally) the **loin** (as the seat of the leaf fat) or (generally) the **viscera**; also (figuratively) **silliness** or (in a good sense) **trust**
 
 ===== Definitions =====
 

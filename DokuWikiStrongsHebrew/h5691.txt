@@ -1,12 +1,16 @@
 ====== H5691: עֲגָבָה (ʻăgâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5689 ;
+from H5689;
 
 ===== Meaning =====
 
-love  (abstractly), i.e.  amorousness
+**love** (abstractly), i.e. **amorousness**
 
 ===== Definitions =====
 

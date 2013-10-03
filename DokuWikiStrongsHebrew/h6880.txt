@@ -1,12 +1,16 @@
 ====== H6880: צִרְעָה (tsirʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6879 ;
+from H6879;
 
 ===== Meaning =====
 
-a  wasp  (as stinging)
+a **wasp** (as stinging)
 
 ===== Definitions =====
 

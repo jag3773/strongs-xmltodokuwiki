@@ -1,12 +1,16 @@
 ====== H6211: עָשׁ (ʻâsh) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H6244 ;
+from H6244;
 
 ===== Meaning =====
 
-a  moth
+a **moth**
 
 ===== Definitions =====
 

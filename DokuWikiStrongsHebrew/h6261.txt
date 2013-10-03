@@ -1,12 +1,16 @@
 ====== H6261: עִתִּי (ʻittîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H6256 ;
+from H6256;
 
 ===== Meaning =====
 
-timely
+**timely**
 
 ===== Definitions =====
 

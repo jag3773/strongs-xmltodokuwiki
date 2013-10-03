@@ -1,12 +1,16 @@
 ====== H7600: שַׁאֲנָן (shaʼănân) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7599 ;
+from H7599;
 
 ===== Meaning =====
 
-secure ; in a bad sense,  haughty
+**secure**; in a bad sense, **haughty**
 
 ===== Definitions =====
 

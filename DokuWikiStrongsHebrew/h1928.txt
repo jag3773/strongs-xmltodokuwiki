@@ -1,12 +1,16 @@
 ====== H1928: הֲדַרְעֶזֶר (Hădarʻezer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1924  and  H5828 ; Hadar (i.e. Hadad,  H1908 ) is his help; (i.e. Hadadezer,  H1909 )
+from H1924 and H5828; Hadar (i.e. Hadad, H1908) is his help; (i.e. Hadadezer, H1909)
 
 ===== Meaning =====
 
-Hadarezer ,	a Syrian king
+**Hadarezer**,	a Syrian king
 
 ===== Definitions =====
 

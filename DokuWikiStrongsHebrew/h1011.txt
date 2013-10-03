@@ -1,12 +1,16 @@
 ====== H1011: בֵּית בִּרְאִי (Bêyth Birʼîy) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H1254 ; house of a creative one;
+from H1004 and H1254; house of a creative one;
 
 ===== Meaning =====
 
-Beth-Biri , a place in Palestine
+**Beth-Biri**, a place in Palestine
 
 ===== Definitions =====
 

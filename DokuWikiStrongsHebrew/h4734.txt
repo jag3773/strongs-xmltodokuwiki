@@ -1,12 +1,16 @@
 ====== H4734: מִקְלַעַת (miqlaʻath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7049 ;
+from H7049;
 
 ===== Meaning =====
 
-a  sculpture  (probably in bas-relief)
+a **sculpture** (probably in bas-relief)
 
 ===== Definitions =====
 

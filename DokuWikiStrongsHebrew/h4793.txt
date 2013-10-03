@@ -1,12 +1,16 @@
 ====== H4793: מֵרוֹץ (mêrôwts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7323 ;
+from H7323;
 
 ===== Meaning =====
 
-a  run  (the trial of speed)
+a **run** (the trial of speed)
 
 ===== Definitions =====
 

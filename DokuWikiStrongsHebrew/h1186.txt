@@ -1,12 +1,16 @@
 ====== H1186: בַּעַל מְעוֹן (Baʻal Mᵉʻôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1168  and  H4583 ;   (the)   (of) (compare  H1010 );
+from H1168 and H4583; **Baal of** (the) **habitation** (of) (compare H1010);
 
 ===== Meaning =====
 
-Baal of habitation Baal-Meon , a place East of the Jordan
+**Baal-Meon**, a place East of the Jordan
 
 ===== Definitions =====
 

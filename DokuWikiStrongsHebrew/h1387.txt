@@ -1,12 +1,16 @@
 ====== H1387: גֶּבַע (Gebaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from the same as  H1375 , a  ;
+from the same as H1375, a **hillock**;
 
 ===== Meaning =====
 
-hillock Geba , a place in Palestine
+**Geba**, a place in Palestine
 
 ===== Definitions =====
 

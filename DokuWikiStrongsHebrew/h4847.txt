@@ -1,12 +1,16 @@
 ====== H4847: מְרָרִי (Mᵉrârîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4843 ;  ;
+from H4843; **bitter**;
 
 ===== Meaning =====
 
-bitter Merari , an Israelite
+**Merari**, an Israelite
 
 ===== Definitions =====
 

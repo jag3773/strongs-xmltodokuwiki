@@ -1,12 +1,16 @@
 ====== H4130: מוֹדַעַת (môwdaʻath) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3045 ;
+from H3045;
 
 ===== Meaning =====
 
-acquaintance
+**acquaintance**
 
 ===== Definitions =====
 

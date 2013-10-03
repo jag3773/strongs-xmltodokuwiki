@@ -1,12 +1,16 @@
 ====== H2656: חֵפֶץ (chêphets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2654 ;
+from H2654;
 
 ===== Meaning =====
 
-pleasure ; hence (abstractly)  desire ; concretely, a  valuable  thing; hence (by extension) a  matter  (as something in mind)
+**pleasure**; hence (abstractly) **desire**; concretely, a **valuable** thing; hence (by extension) a **matter** (as something in mind)
 
 ===== Definitions =====
 

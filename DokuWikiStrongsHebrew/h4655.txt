@@ -1,12 +1,16 @@
 ====== H4655: מִפְלָט (miphlâṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6403 ;
+from H6403;
 
 ===== Meaning =====
 
-an  escape
+an **escape**
 
 ===== Definitions =====
 

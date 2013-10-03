@@ -1,12 +1,16 @@
 ====== H2225: זֶרַח (zerach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2224 ;
+from H2224;
 
 ===== Meaning =====
 
-a  rising  of light
+a **rising** of light
 
 ===== Definitions =====
 

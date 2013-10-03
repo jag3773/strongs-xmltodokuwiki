@@ -1,12 +1,16 @@
 ====== H8352: שֵׁת (Shêth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7896 ; put, i.e. substituted;
+from H7896; put, i.e. substituted;
 
 ===== Meaning =====
 
-Sheth , third son of Adam
+**Sheth**, third son of Adam
 
 ===== Definitions =====
 

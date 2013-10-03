@@ -1,12 +1,16 @@
 ====== H5461: סָגָן (çâgân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **superintend**;
 
 ===== Meaning =====
 
-superintend a  præfect  of a province
+a **præfect** of a province
 
 ===== Definitions =====
 

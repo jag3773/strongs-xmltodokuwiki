@@ -1,12 +1,16 @@
 ====== H1179: בַּעַל חֶרְמוֹן (Baʻal Chermôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1167  and  H2768 ; possessor of Hermon;
+from H1167 and H2768; possessor of Hermon;
 
 ===== Meaning =====
 
-Baal-Chermon , a place in Palestine
+**Baal-Chermon**, a place in Palestine
 
 ===== Definitions =====
 

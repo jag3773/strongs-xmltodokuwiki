@@ -1,12 +1,16 @@
 ====== H4265: מַחֲנֵה־דָן (Machănêh-Dân) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H4264  and  H1835 ;  ;
+from H4264 and H1835; **camp of Dan**;
 
 ===== Meaning =====
 
-camp of Dan Machaneh-Dan , a place in Palestine
+**Machaneh-Dan**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6858: צֶפֶת (tsepheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **encircle**;
 
 ===== Meaning =====
 
-encircle a  capital of a column
+a **capital of a column**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6401: פִּלְחָא (Pilchâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6400 ;  ;
+from H6400; **slicing**;
 
 ===== Meaning =====
 
-slicing Pilcha , an Israelite
+**Pilcha**, an Israelite
 
 ===== Definitions =====
 

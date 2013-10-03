@@ -1,12 +1,16 @@
 ====== H1132: בֶּן־זוֹחֵת (Ben-Zôwchêth) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and  H2105 ; son of Zocheth;
+from H1121 and H2105; son of Zocheth;
 
 ===== Meaning =====
 
-Ben-Zocheth , an Israelite
+**Ben-Zocheth**, an Israelite
 
 ===== Definitions =====
 

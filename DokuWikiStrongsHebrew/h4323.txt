@@ -1,12 +1,16 @@
 ====== H4323: מִיכָל (mîykâl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3201 ;
+from H3201;
 
 ===== Meaning =====
 
-properly, a  container , i.e. a  streamlet
+properly, a **container**, i.e. a **streamlet**
 
 ===== Definitions =====
 

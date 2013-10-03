@@ -1,12 +1,16 @@
 ====== H8174: שַׁעַף (Shaʻaph) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5586 ;  ;
+from H5586; **fluctuation**;
 
 ===== Meaning =====
 
-fluctuation Shaaph , the name of two Israelites
+**Shaaph**, the name of two Israelites
 
 ===== Definitions =====
 

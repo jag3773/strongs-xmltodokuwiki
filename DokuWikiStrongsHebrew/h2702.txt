@@ -1,12 +1,16 @@
 ====== H2702: חֲצַר סוּסִים (Chătsar Çûwçîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2691  and the plural of  H5483 ; village of horses;
+from H2691 and the plural of H5483; village of horses;
 
 ===== Meaning =====
 
-Chatsar-Susim , a place in Palestine
+**Chatsar-Susim**, a place in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7380: רִיבַי (Rîybay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7378 ;  ;
+from H7378; **contentious**;
 
 ===== Meaning =====
 
-contentious Ribai , an Israelite
+**Ribai**, an Israelite
 
 ===== Definitions =====
 

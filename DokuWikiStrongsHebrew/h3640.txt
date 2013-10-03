@@ -1,12 +1,16 @@
 ====== H3640: כְּלִמּוּת (kᵉlimmûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3639 ;
+from H3639;
 
 ===== Meaning =====
 
-disgrace
+**disgrace**
 
 ===== Definitions =====
 

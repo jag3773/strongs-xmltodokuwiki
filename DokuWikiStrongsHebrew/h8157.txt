@@ -1,12 +1,16 @@
 ====== H8157: שֶׁסַע (sheçaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8156 ;
+from H8156;
 
 ===== Meaning =====
 
-a  fissure
+a **fissure**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8128: שֵׁן (shên) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-(Aramaic) corresponding to  H8127 ;
+(Aramaic) corresponding to H8127;
 
 ===== Meaning =====
 
-a  tooth
+a **tooth**
 
 ===== Definitions =====
 

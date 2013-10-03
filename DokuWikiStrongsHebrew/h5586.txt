@@ -1,12 +1,16 @@
 ====== H5586: סָעַף (çâʻaph) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; properly, to divide up; but used only as denominative from  H5585 ,
+a primitive root; properly, to divide up; but used only as denominative from H5585,
 
 ===== Meaning =====
 
-to  disbranch  (a tree)
+to **disbranch** (a tree)
 
 ===== Definitions =====
 

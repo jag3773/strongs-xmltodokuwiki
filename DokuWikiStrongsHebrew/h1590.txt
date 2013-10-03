@@ -1,12 +1,16 @@
 ====== H1590: גַּנָּב (gannâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1589 ;
+from H1589;
 
 ===== Meaning =====
 
-a  stealer
+a **stealer**
 
 ===== Definitions =====
 

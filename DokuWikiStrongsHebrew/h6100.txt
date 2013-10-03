@@ -1,12 +1,16 @@
 ====== H6100: עֶצְיוֹן גֶּבֶר (ʻEtsyôwn Geber) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6096  and  H1397 ; backbone-like of a man;
+from H6096 and H1397; backbone-like of a man;
 
 ===== Meaning =====
 
-Etsjon-Geber , a place on the Red Sea
+**Etsjon-Geber**, a place on the Red Sea
 
 ===== Definitions =====
 

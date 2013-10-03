@@ -1,12 +1,16 @@
 ====== H7166: קַרְסֹל (qarçôl) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7164 ;
+from H7164;
 
 ===== Meaning =====
 
-an  ankle  (as a protuberance or joint)
+an **ankle** (as a protuberance or joint)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7423: רְמִיָּה (rᵉmîyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7411 ;
+from H7411;
 
 ===== Meaning =====
 
-remissness ,  treachery
+**remissness**, **treachery**
 
 ===== Definitions =====
 

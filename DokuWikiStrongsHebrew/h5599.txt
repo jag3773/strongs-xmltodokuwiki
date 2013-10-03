@@ -1,12 +1,16 @@
 ====== H5599: סָפִיחַ (çâphîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5596 ;
+from H5596;
 
 ===== Meaning =====
 
-something (spontaneously)  falling  off, i.e. a  self-sown  crop; figuratively, a  freshet
+something (spontaneously) **falling** off, i.e. a **self-sown** crop; figuratively, a **freshet**
 
 ===== Definitions =====
 

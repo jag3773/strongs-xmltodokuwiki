@@ -1,12 +1,16 @@
 ====== H3424: יְרֵשָׁה (yᵉrêshâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3423 ;
+from H3423;
 
 ===== Meaning =====
 
-occupancy
+**occupancy**
 
 ===== Definitions =====
 

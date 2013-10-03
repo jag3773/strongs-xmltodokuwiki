@@ -1,12 +1,16 @@
 ====== H3878: לֵוִי (Lêvîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3867 ; attached;
+from H3867; attached;
 
 ===== Meaning =====
 
-Levi , a son of Jacob
+**Levi**, a son of Jacob
 
 ===== Definitions =====
 

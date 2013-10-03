@@ -1,12 +1,16 @@
 ====== H1524: גִּיל (gîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1523 ;
+from H1523;
 
 ===== Meaning =====
 
-a  revolution  (of time, i.e. an age); also  joy
+a **revolution** (of time, i.e. an age); also **joy**
 
 ===== Definitions =====
 

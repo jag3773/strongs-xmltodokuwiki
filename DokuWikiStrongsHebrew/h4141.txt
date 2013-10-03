@@ -1,12 +1,16 @@
 ====== H4141: מוּסָב (mûwçâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5437 ;
+from H5437;
 
 ===== Meaning =====
 
-a  turn , i.e.  circuit  (of a building)
+a **turn**, i.e. **circuit** (of a building)
 
 ===== Definitions =====
 

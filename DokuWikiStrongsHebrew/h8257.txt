@@ -1,12 +1,16 @@
 ====== H8257: שָׁקַע (shâqaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 (abbreviated Amos 8:8); a primitive root;
 
 ===== Meaning =====
 
-to  subside ; by implication, to  be overflowed ,  cease ; causatively, to  abate ,  subdue
+to **subside**; by implication, to **be overflowed**, **cease**; causatively, to **abate**, **subdue**
 
 ===== Definitions =====
 

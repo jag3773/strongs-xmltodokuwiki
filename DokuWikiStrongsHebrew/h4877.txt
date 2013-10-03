@@ -1,12 +1,16 @@
 ====== H4877: מְשׁוֹבָב (Mᵉshôwbâb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H7725 ;  ;
+from H7725; **returned**;
 
 ===== Meaning =====
 
-returned Meshobab , an Israelite
+**Meshobab**, an Israelite
 
 ===== Definitions =====
 

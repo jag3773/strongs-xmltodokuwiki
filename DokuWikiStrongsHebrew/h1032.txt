@@ -1,12 +1,16 @@
 ====== H1032: בֵּית חוֹרוֹן (Bêyth Chôwrôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H2356 ; house of hollowness;
+from H1004 and H2356; house of hollowness;
 
 ===== Meaning =====
 
-Beth-Choron , the name of two adjoining places in Palestine
+**Beth-Choron**, the name of two adjoining places in Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5547: סְלִיחָה (çᵉlîychâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5545 ;
+from H5545;
 
 ===== Meaning =====
 
-pardon
+**pardon**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2392: חֹזֶק (chôzeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2388 ;
+from H2388;
 
 ===== Meaning =====
 
-power
+**power**
 
 ===== Definitions =====
 

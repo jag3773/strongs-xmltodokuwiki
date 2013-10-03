@@ -1,12 +1,16 @@
 ====== H6716: צִי (tsîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6680 ;
+from H6680;
 
 ===== Meaning =====
 
-a  ship  (as a  fixture )
+a **ship** (as a **fixture**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3010: יָגֵב (yâgêb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3009 ;
+from H3009;
 
 ===== Meaning =====
 
-a  plowed field
+a **plowed field**
 
 ===== Definitions =====
 

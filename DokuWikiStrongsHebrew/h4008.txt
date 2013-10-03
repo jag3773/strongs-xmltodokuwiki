@@ -1,12 +1,16 @@
 ====== H4008: מִבְטָא (mibṭâʼ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H981 ;
+from H981;
 
 ===== Meaning =====
 
-a  rash utterance  (hasty vow)
+a **rash utterance** (hasty vow)
 
 ===== Definitions =====
 

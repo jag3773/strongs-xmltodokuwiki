@@ -1,12 +1,16 @@
 ====== H3713: כְּפוֹר (kᵉphôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3722 ;
+from H3722;
 
 ===== Meaning =====
 
-properly, a  cover , i.e. (by implication) a  tankard  (or covered goblet); also  white frost  (as covering the ground)
+properly, a **cover**, i.e. (by implication) a **tankard** (or covered goblet); also **white frost** (as covering the ground)
 
 ===== Definitions =====
 

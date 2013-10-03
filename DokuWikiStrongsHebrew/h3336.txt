@@ -1,12 +1,16 @@
 ====== H3336: יֵצֶר (yêtser) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3335 ;
+from H3335;
 
 ===== Meaning =====
 
-a  form ; figuratively,  conception  (i.e. purpose)
+a **form**; figuratively, **conception** (i.e. purpose)
 
 ===== Definitions =====
 

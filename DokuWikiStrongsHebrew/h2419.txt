@@ -1,12 +1,16 @@
 ====== H2419: חִיאֵל (Chîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2416  and  H410 ; living of God;
+from H2416 and H410; living of God;
 
 ===== Meaning =====
 
-Chiel , an Israelite
+**Chiel**, an Israelite
 
 ===== Definitions =====
 

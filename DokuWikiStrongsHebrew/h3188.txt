@@ -1,12 +1,16 @@
 ====== H3188: יַחַשׂ (yachas) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3187 ;
+from H3187;
 
 ===== Meaning =====
 
-a  pedigree  or  family list  (as growing spontaneously)
+a **pedigree** or **family list** (as growing spontaneously)
 
 ===== Definitions =====
 

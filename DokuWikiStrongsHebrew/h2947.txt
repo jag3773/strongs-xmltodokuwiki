@@ -1,12 +1,16 @@
 ====== H2947: טֵפַח (ṭêphach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2946 ;
+from H2946;
 
 ===== Meaning =====
 
-a  spread of the hand , i.e. a  palm-breadth  (not 'span' of the fingers); architecturally, a  corbel  (as a supporting palm)
+a **spread of the hand**, i.e. a **palm-breadth** (not 'span' of the fingers); architecturally, a **corbel** (as a supporting palm)
 
 ===== Definitions =====
 

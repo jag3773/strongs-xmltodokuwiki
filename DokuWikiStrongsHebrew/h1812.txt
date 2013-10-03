@@ -1,12 +1,16 @@
 ====== H1812: דֶּלֶף (deleph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1811 ;
+from H1811;
 
 ===== Meaning =====
 
-a  dripping
+a **dripping**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5831: עֶזְרָא (ʻEzrâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-(Aramaic) corresponding to  H5830 ;
+(Aramaic) corresponding to H5830;
 
 ===== Meaning =====
 
-Ezra , an Israelite
+**Ezra**, an Israelite
 
 ===== Definitions =====
 

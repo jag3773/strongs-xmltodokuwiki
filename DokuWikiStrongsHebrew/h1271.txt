@@ -1,12 +1,16 @@
 ====== H1271: בַּרְזִלַּי (Barzillay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1270 ; iron-hearted;
+from H1270; iron-hearted;
 
 ===== Meaning =====
 
-Barzillai , the name of three Israelites
+**Barzillai**, the name of three Israelites
 
 ===== Definitions =====
 

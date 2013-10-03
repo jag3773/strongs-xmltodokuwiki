@@ -1,12 +1,16 @@
 ====== H5659: עַבְדוּת (ʻabdûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5647 ;
+from H5647;
 
 ===== Meaning =====
 
-servitude
+**servitude**
 
 ===== Definitions =====
 

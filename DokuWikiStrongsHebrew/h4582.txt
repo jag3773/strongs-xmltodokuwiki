@@ -1,12 +1,16 @@
 ====== H4582: מָעוֹךְ (Mâʻôwk) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4600 ;  ;
+from H4600; **oppressed**;
 
 ===== Meaning =====
 
-oppressed Maok , a Philistine
+**Maok**, a Philistine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6545: פֶּרַע (peraʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6544 ;
+from H6544;
 
 ===== Meaning =====
 
-the  hair  (as  dishevelled )
+the **hair** (as **dishevelled**)
 
 ===== Definitions =====
 

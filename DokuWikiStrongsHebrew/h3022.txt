@@ -1,12 +1,16 @@
 ====== H3022: יָגָע (yâgâʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3021 ;
+from H3021;
 
 ===== Meaning =====
 
-earnings  (as the product of toil)
+**earnings** (as the product of toil)
 
 ===== Definitions =====
 

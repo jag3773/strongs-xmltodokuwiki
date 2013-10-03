@@ -1,12 +1,16 @@
 ====== H8254: שָׁקַל (shâqal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  suspend  or  poise  (especially in trade)
+to **suspend** or **poise** (especially in trade)
 
 ===== Definitions =====
 

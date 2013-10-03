@@ -1,12 +1,16 @@
 ====== H1533: גִּלְבֹּעַ (Gilbôaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1530  and  H1158 ; fountain of ebullition;
+from H1530 and H1158; fountain of ebullition;
 
 ===== Meaning =====
 
-Gilboa , a mountain of Palestine
+**Gilboa**, a mountain of Palestine
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2184: זְנוּת (zᵉnûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2181 ;
+from H2181;
 
 ===== Meaning =====
 
-adultery , i.e. (figuratively)  infidelity ,  idolatry
+**adultery**, i.e. (figuratively) **infidelity**, **idolatry**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5775: עוֹף (ʻôwph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5774 ;
+from H5774;
 
 ===== Meaning =====
 
-a  bird  (as covered with feathers, or rather as covering with wings), often collectively
+a **bird** (as covered with feathers, or rather as covering with wings), often collectively
 
 ===== Definitions =====
 

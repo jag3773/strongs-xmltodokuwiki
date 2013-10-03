@@ -1,12 +1,16 @@
 ====== H5962: עַלְמִי (ʻAlmîy) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-(Aramaic) patrial from a name corresponding to  H5867  contracted;
+(Aramaic) patrial from a name corresponding to H5867 contracted;
 
 ===== Meaning =====
 
-an  Elamite  or inhabitant of Elam
+an **Elamite** or inhabitant of Elam
 
 ===== Definitions =====
 

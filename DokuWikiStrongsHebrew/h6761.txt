@@ -1,12 +1,16 @@
 ====== H6761: צֶלַע (tselaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6760 ;
+from H6760;
 
 ===== Meaning =====
 
-a  limping  or  full  (figuratively)
+a **limping** or **full** (figuratively)
 
 ===== Definitions =====
 

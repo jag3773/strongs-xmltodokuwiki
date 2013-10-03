@@ -1,12 +1,16 @@
 ====== H5390: נְשִׁיקָה (nᵉshîyqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5401 ;
+from H5401;
 
 ===== Meaning =====
 
-a  kiss
+a **kiss**
 
 ===== Definitions =====
 

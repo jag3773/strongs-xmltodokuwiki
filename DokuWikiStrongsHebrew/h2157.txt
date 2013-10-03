@@ -1,12 +1,16 @@
 ====== H2157: זַמְזֹם (Zamzôm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2161 ; intriguing;
+from H2161; intriguing;
 
 ===== Meaning =====
 
-a  Zamzumite , or native tribe of Palestine
+a **Zamzumite**, or native tribe of Palestine
 
 ===== Definitions =====
 

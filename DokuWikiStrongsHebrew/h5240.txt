@@ -1,12 +1,16 @@
 ====== H5240: נְמִבְזֶה (nᵉmibzeh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H959 ,
+from H959,
 
 ===== Meaning =====
 
-despised
+**despised**
 
 ===== Definitions =====
 

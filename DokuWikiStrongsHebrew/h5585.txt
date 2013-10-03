@@ -1,12 +1,16 @@
 ====== H5585: סָעִיף (çâʻîyph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5586 ;
+from H5586;
 
 ===== Meaning =====
 
-a  fissure  (of rocks); also a  bough  (as  subdivided )
+a **fissure** (of rocks); also a **bough** (as **subdivided**)
 
 ===== Definitions =====
 

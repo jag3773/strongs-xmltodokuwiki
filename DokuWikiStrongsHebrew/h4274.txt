@@ -1,12 +1,16 @@
 ====== H4274: מַחְצֵב (machtsêb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2672 ;
+from H2672;
 
 ===== Meaning =====
 
-properly, a  hewing ; concretely, a  quarry
+properly, a **hewing**; concretely, a **quarry**
 
 ===== Definitions =====
 

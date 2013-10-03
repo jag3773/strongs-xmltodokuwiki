@@ -1,12 +1,16 @@
 ====== H7449: רֶסֶן (Reçen) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H7448 ;
+the same as H7448;
 
 ===== Meaning =====
 
-Resen , a place in Assyrian
+**Resen**, a place in Assyrian
 
 ===== Definitions =====
 

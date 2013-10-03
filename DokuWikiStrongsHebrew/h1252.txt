@@ -1,12 +1,16 @@
 ====== H1252: בֹּר (bôr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1305 ;
+from H1305;
 
 ===== Meaning =====
 
-purity
+**purity**
 
 ===== Definitions =====
 

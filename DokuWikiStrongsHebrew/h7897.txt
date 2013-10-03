@@ -1,12 +1,16 @@
 ====== H7897: שִׁית (shîyth) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7896 ;
+from H7896;
 
 ===== Meaning =====
 
-a  dress  (as put on)
+a **dress** (as put on)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7821: שְׁחִיטָה (shᵉchîyṭâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7819 ;
+from H7819;
 
 ===== Meaning =====
 
-slaughter
+**slaughter**
 
 ===== Definitions =====
 

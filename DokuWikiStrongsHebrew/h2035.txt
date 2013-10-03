@@ -1,12 +1,16 @@
 ====== H2035: הֲרִיסוּת (hărîyçûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2040 ;
+from H2040;
 
 ===== Meaning =====
 
-demolition
+**demolition**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8527: תַּלְמִיד (talmîyd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3925 ;
+from H3925;
 
 ===== Meaning =====
 
-a  pupil
+a **pupil**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6237: עָשַׂר (ʻâsar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (identical with  H6238 ); to accumulate; but used only as denominative from  H6235 ;
+a primitive root (identical with H6238); to accumulate; but used only as denominative from H6235;
 
 ===== Meaning =====
 
-to  tithe , i.e. to  take  or  give a tenth
+to **tithe**, i.e. to **take** or **give a tenth**
 
 ===== Definitions =====
 

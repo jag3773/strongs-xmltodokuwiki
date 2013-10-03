@@ -1,12 +1,16 @@
 ====== H7315: רוֹם (rôwm) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H7311 ;
+from H7311;
 
 ===== Meaning =====
 
-elevation , i.e. (adverbially)  aloft
+**elevation**, i.e. (adverbially) **aloft**
 
 ===== Definitions =====
 

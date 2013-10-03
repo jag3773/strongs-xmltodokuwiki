@@ -1,12 +1,16 @@
 ====== H7880: שִׂיחַ (sîyach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7878 ;
+from H7878;
 
 ===== Meaning =====
 
-a  shoot  (as if uttered or put forth), i.e. (generally)  shrubbery
+a **shoot** (as if uttered or put forth), i.e. (generally) **shrubbery**
 
 ===== Definitions =====
 

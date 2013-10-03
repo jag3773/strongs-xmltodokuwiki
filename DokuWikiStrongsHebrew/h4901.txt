@@ -1,12 +1,16 @@
 ====== H4901: מֶשֶׁךְ (meshek) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4900 ;
+from H4900;
 
 ===== Meaning =====
 
-a  sowing ; also a  possession
+a **sowing**; also a **possession**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2319: חָדָשׁ (châdâsh) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2318 ;
+from H2318;
 
 ===== Meaning =====
 
-new
+**new**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6735: צִיר (tsîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6696 ;
+from H6696;
 
 ===== Meaning =====
 
-a  hinge  (as  pressed  in turning); also a  throe  (as a phys. or mental  pressure ); also a  herald  or errand-doer (as  constrained  by the principal)
+a **hinge** (as **pressed** in turning); also a **throe** (as a phys. or mental **pressure**); also a **herald** or errand-doer (as **constrained** by the principal)
 
 ===== Definitions =====
 

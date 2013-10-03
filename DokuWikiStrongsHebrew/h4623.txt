@@ -1,12 +1,16 @@
 ====== H4623: מַעְצָר (maʻtsâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6113 ;
+from H6113;
 
 ===== Meaning =====
 
-subjectively,  control
+subjectively, **control**
 
 ===== Definitions =====
 

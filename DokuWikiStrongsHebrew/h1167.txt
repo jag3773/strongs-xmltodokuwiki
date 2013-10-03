@@ -1,12 +1,16 @@
 ====== H1167: בַּעַל (baʻal) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1166 ;
+from H1166;
 
 ===== Meaning =====
 
-a  master ; hence, a  husband , or (figuratively)  owner  (often used with another noun in modifications of this latter sense)
+a **master**; hence, a **husband**, or (figuratively) **owner** (often used with another noun in modifications of this latter sense)
 
 ===== Definitions =====
 

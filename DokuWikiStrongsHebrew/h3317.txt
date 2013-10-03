@@ -1,12 +1,16 @@
 ====== H3317: יִפְתַּח־אֵל (Yiphtach-ʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6605  and  H410 ;  ;
+from H6605 and H410; **God will open**;
 
 ===== Meaning =====
 
-God will open Jiphtach-el , a place in Palestine
+**Jiphtach-el**, a place in Palestine
 
 ===== Definitions =====
 

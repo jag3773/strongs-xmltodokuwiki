@@ -1,12 +1,16 @@
 ====== H4703: מִצְעָד (mitsʻâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6805 ;
+from H6805;
 
 ===== Meaning =====
 
-a  step ; figuratively,  companionship
+a **step**; figuratively, **companionship**
 
 ===== Definitions =====
 

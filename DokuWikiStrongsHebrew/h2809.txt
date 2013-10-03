@@ -1,12 +1,16 @@
 ====== H2809: חֶשְׁבּוֹן (Cheshbôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H2808 ;
+the same as H2808;
 
 ===== Meaning =====
 
-Cheshbon , a place East of the Jordan
+**Cheshbon**, a place East of the Jordan
 
 ===== Definitions =====
 

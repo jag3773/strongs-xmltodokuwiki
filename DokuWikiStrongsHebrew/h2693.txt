@@ -1,12 +1,16 @@
 ====== H2693: חֲצַר גַּדָּה (Chătsar Gaddâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H2691  and a feminine of  H1408 ; (the) village of (female) Fortune;
+from H2691 and a feminine of H1408; (the) village of (female) Fortune;
 
 ===== Meaning =====
 
-Chatsar-Gaddah , a place in Palestine
+**Chatsar-Gaddah**, a place in Palestine
 
 ===== Definitions =====
 

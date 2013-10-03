@@ -1,12 +1,16 @@
 ====== H7994: שָׁלָךְ (shâlâk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7993 ;
+from H7993;
 
 ===== Meaning =====
 
-bird of prey , usually thought to be the  pelican  (from casting itself into the sea)
+**bird of prey**, usually thought to be the **pelican** (from casting itself into the sea)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4214: מִזְרֶה (mizreh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2219 ;
+from H2219;
 
 ===== Meaning =====
 
-a winnowing  shovel  (as scattering the chaff)
+a winnowing **shovel** (as scattering the chaff)
 
 ===== Definitions =====
 

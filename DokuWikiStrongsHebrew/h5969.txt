@@ -1,12 +1,16 @@
 ====== H5969: עֻלְפֶּה (ʻulpeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5968 ;
+from H5968;
 
 ===== Meaning =====
 
-an  envelope , i.e. (figuratively)  mourning
+an **envelope**, i.e. (figuratively) **mourning**
 
 ===== Definitions =====
 

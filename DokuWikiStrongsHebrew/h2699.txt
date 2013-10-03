@@ -1,12 +1,16 @@
 ====== H2699: חֲצֵרִים (Chătsêrîym) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-plural masculine of  H2691 ; yards;
+plural masculine of H2691; yards;
 
 ===== Meaning =====
 
-Chatserim , a place in Palestine
+**Chatserim**, a place in Palestine
 
 ===== Definitions =====
 

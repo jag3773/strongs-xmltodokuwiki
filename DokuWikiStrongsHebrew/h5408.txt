@@ -1,12 +1,16 @@
 ====== H5408: נָתַח (nâthach) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  dismember
+to **dismember**
 
 ===== Definitions =====
 

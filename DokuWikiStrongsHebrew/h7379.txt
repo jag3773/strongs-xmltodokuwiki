@@ -1,12 +1,16 @@
 ====== H7379: רִיב (rîyb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; from  H7378 ;
+or ; from H7378;
 
 ===== Meaning =====
 
-a  contest  (personal or legal)
+a **contest** (personal or legal)
 
 ===== Definitions =====
 

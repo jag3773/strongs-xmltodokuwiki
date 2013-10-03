@@ -1,12 +1,16 @@
 ====== H6993: קֶטֶל (qeṭel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6991 ;
+from H6991;
 
 ===== Meaning =====
 
-a  violent death
+a **violent death**
 
 ===== Definitions =====
 

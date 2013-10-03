@@ -1,12 +1,16 @@
 ====== H2270: חָבֵר (châbêr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2266 ;
+from H2266;
 
 ===== Meaning =====
 
-an  associate
+an **associate**
 
 ===== Definitions =====
 

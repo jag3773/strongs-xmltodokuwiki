@@ -1,12 +1,16 @@
 ====== H8635: תַּרְבּוּת (tarbûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7235 ;
+from H7235;
 
 ===== Meaning =====
 
-multiplication , i.e.  progeny
+**multiplication**, i.e. **progeny**
 
 ===== Definitions =====
 

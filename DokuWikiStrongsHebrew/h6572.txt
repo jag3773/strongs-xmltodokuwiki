@@ -1,12 +1,16 @@
 ====== H6572: פַּרְשֶׁגֶן (parshegen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-or   ; of foreign origin;
+or ; of foreign origin;
 
 ===== Meaning =====
 
-a  transcript
+a **transcript**
 
 ===== Definitions =====
 

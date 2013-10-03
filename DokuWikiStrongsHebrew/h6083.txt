@@ -1,12 +1,16 @@
 ====== H6083: עָפָר (ʻâphâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6080 ;
+from H6080;
 
 ===== Meaning =====
 
-dust  (as powdered or gray); hence,  clay ,  earth ,  mud
+**dust** (as powdered or gray); hence, **clay**, **earth**, **mud**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5993: עַמִּי נָדִיב (ʻAmmîy Nâdîyb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5971  and  H5081 ; my people (is) liberal;
+from H5971 and H5081; my people (is) liberal;
 
 ===== Meaning =====
 
-Ammi-Nadib , probably an Israelite
+**Ammi-Nadib**, probably an Israelite
 
 ===== Definitions =====
 

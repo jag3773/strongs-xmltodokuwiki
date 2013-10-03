@@ -1,12 +1,16 @@
 ====== H1233: בְּקִיעַ (bᵉqîyaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1234 ;
+from H1234;
 
 ===== Meaning =====
 
-a  fissure
+a **fissure**
 
 ===== Definitions =====
 

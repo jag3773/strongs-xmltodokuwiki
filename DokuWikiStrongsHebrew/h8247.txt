@@ -1,12 +1,16 @@
 ====== H8247: שָׁקֵד (shâqêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8245 ;
+from H8245;
 
 ===== Meaning =====
 
-the  almond  (tree or nut; as being the earliest in bloom)
+the **almond** (tree or nut; as being the earliest in bloom)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3115: יוֹכֶבֶד (Yôwkebed) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H3068  contracted and  H3513 ; Jehovah-gloried;
+from H3068 contracted and H3513; Jehovah-gloried;
 
 ===== Meaning =====
 
-Jokebed , the mother of Moses
+**Jokebed**, the mother of Moses
 
 ===== Definitions =====
 

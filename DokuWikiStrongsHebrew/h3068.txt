@@ -1,12 +1,16 @@
 ====== H3068: יְהֹוָה (Yᵉhôvâh) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H1961 ;
+from H1961;
 
 ===== Meaning =====
 
-(the) self- Existent  or Eternal;  Jeho-vah , Jewish national name of God
+(the) self-**Existent** or Eternal; **Jeho-vah**, Jewish national name of God
 
 ===== Definitions =====
 

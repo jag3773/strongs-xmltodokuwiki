@@ -1,12 +1,16 @@
 ====== H5588: סֵעֵף (çêʻêph) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H5586 ;
+from H5586;
 
 ===== Meaning =====
 
-divided  (in mind), i.e. (concretely) a  skeptic
+**divided** (in mind), i.e. (concretely) a **skeptic**
 
 ===== Definitions =====
 

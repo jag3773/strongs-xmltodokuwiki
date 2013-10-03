@@ -1,12 +1,16 @@
 ====== H80: אָבָק (ʼâbâq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from root of  H79 ;
+from root of H79;
 
 ===== Meaning =====
 
-light  particles  (as  volatile )
+light **particles** (as **volatile**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7403: רָכָל (Râkâl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H7402 ;  ;
+from H7402; **merchant**;
 
 ===== Meaning =====
 
-merchant Rakal , a place in Palestine
+**Rakal**, a place in Palestine
 
 ===== Definitions =====
 

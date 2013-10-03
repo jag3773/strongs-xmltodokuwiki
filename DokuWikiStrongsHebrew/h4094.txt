@@ -1,12 +1,16 @@
 ====== H4094: מַדְקָרָה (madqârâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1856 ;
+from H1856;
 
 ===== Meaning =====
 
-a  wound
+a **wound**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6040: עֳנִי (ʻŏnîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6031 ;
+from H6031;
 
 ===== Meaning =====
 
-depression , i.e.  misery
+**depression**, i.e. **misery**
 
 ===== Definitions =====
 

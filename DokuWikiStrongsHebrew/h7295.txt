@@ -1,12 +1,16 @@
 ====== H7295: רָהָב (râhâb) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7292 ;
+from H7292;
 
 ===== Meaning =====
 
-insolent
+**insolent**
 
 ===== Definitions =====
 

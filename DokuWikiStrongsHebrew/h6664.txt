@@ -1,12 +1,16 @@
 ====== H6664: צֶדֶק (tsedeq) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6663 ;
+from H6663;
 
 ===== Meaning =====
 
-the  right  (natural, moral or legal); also (abstractly)  equity  or (figuratively)  prosperity
+the **right** (natural, moral or legal); also (abstractly) **equity** or (figuratively) **prosperity**
 
 ===== Definitions =====
 

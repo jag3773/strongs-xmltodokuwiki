@@ -1,12 +1,16 @@
 ====== H6666: צְדָקָה (tsᵉdâqâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6663 ;
+from H6663;
 
 ===== Meaning =====
 
-rightness  (abstractly), subjectively ( rectitude ), objectively ( justice ), morally ( virtue ) or figuratively ( prosperity )
+**rightness** (abstractly), subjectively (**rectitude**), objectively (**justice**), morally (**virtue**) or figuratively (**prosperity**)
 
 ===== Definitions =====
 

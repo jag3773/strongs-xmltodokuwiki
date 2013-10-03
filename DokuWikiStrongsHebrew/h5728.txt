@@ -1,12 +1,16 @@
 ====== H5728: עֲדֶן (ʻăden) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-or   ; from  H5704  and  H2004 ;
+or ; from H5704 and H2004;
 
 ===== Meaning =====
 
-till now
+**till now**
 
 ===== Definitions =====
 

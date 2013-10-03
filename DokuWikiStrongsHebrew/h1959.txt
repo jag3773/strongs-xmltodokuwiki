@@ -1,12 +1,16 @@
 ====== H1959: הֵידָד (hêydâd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root (meaning to  );
+from an unused root (meaning to **shout**);
 
 ===== Meaning =====
 
-shout acclamation
+**acclamation**
 
 ===== Definitions =====
 

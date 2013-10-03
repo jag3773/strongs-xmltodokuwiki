@@ -1,12 +1,16 @@
 ====== H1127: בֶּן־גֶּבֶר (Ben-Geber) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1121  and  H1397 ; son of (the) hero;
+from H1121 and H1397; son of (the) hero;
 
 ===== Meaning =====
 
-Ben-Geber , an Israelite
+**Ben-Geber**, an Israelite
 
 ===== Definitions =====
 

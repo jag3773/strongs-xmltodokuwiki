@@ -1,12 +1,16 @@
 ====== H4929: מִשְׁמָר (mishmâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8104 ;
+from H8104;
 
 ===== Meaning =====
 
-a  guard  (the man, the post or the prison); a  deposit  (figuratively); also (as observed) a usage (abstractly), or an  example  (concretely)
+a **guard** (the man, the post or the prison); a **deposit** (figuratively); also (as observed) a usage (abstractly), or an **example** (concretely)
 
 ===== Definitions =====
 

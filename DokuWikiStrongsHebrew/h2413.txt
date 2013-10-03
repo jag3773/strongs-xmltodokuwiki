@@ -1,12 +1,16 @@
 ====== H2413: חָטַם (châṭam) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  stop
+to **stop**
 
 ===== Definitions =====
 

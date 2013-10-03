@@ -1,12 +1,16 @@
 ====== H2730: חָרֵד (chârêd) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2729 ;
+from H2729;
 
 ===== Meaning =====
 
-fearful ; also  reverential
+**fearful**; also **reverential**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H299: אֲחִירַע (ʼĂchîyraʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H7451 ; brother of wrong;
+from H251 and H7451; brother of wrong;
 
 ===== Meaning =====
 
-Achira , an Israelite
+**Achira**, an Israelite
 
 ===== Definitions =====
 

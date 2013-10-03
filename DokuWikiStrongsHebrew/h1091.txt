@@ -1,12 +1,16 @@
 ====== H1091: בַּלָּהָה (ballâhâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1089 ;
+from H1089;
 
 ===== Meaning =====
 
-alarm ; hence,  destruction
+**alarm**; hence, **destruction**
 
 ===== Definitions =====
 

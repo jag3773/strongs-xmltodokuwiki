@@ -1,12 +1,16 @@
 ====== H8467: תְּחִנָּה (tᵉchinnâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2603 ;
+from H2603;
 
 ===== Meaning =====
 
-graciousness ; causatively,  entreaty
+**graciousness**; causatively, **entreaty**
 
 ===== Definitions =====
 

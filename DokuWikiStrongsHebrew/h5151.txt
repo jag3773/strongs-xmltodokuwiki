@@ -1,12 +1,16 @@
 ====== H5151: נַחוּם (Nachûwm) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5162 ;  ;
+from H5162; **comfortable**;
 
 ===== Meaning =====
 
-comfortable Nachum , an Israelite prophet
+**Nachum**, an Israelite prophet
 
 ===== Definitions =====
 

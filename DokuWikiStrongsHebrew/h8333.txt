@@ -1,12 +1,16 @@
 ====== H8333: שַׁרְשְׁרָה (sharshᵉrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8327  (compare  H8331 );
+from H8327 (compare H8331);
 
 ===== Meaning =====
 
-a  chain ; (architectural) probably a  garland
+a **chain**; (architectural) probably a **garland**
 
 ===== Definitions =====
 

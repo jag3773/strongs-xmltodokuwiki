@@ -1,12 +1,16 @@
 ====== H8629: תֵּקַע (têqaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8628 ;
+from H8628;
 
 ===== Meaning =====
 
-a  blast of a trumpet
+a **blast of a trumpet**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2253: חֶבְיוֹן (chebyôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2247 ;
+from H2247;
 
 ===== Meaning =====
 
-a  concealment
+a **concealment**
 
 ===== Definitions =====
 

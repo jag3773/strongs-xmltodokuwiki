@@ -1,12 +1,16 @@
 ====== H5861: עַיִט (ʻayiṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5860 ;
+from H5860;
 
 ===== Meaning =====
 
-a  hawk  or other bird of prey
+a **hawk** or other bird of prey
 
 ===== Definitions =====
 

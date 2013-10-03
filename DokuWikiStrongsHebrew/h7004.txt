@@ -1,12 +1,16 @@
 ====== H7004: קְטֹרֶת (qᵉṭôreth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6999 ;
+from H6999;
 
 ===== Meaning =====
 
-a  fumigation
+a **fumigation**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4339: מֵישָׁר (mêyshâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3474 ;
+from H3474;
 
 ===== Meaning =====
 
-evenness , i.e. (figuratively)  prosperity  or  concord ; also  straightness , i.e. (figuratively)  rectitude  (only in plural with singular sense; often adverbially)
+**evenness**, i.e. (figuratively) **prosperity** or **concord**; also **straightness**, i.e. (figuratively) **rectitude** (only in plural with singular sense; often adverbially)
 
 ===== Definitions =====
 

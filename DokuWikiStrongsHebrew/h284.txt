@@ -1,12 +1,16 @@
 ====== H284: אֲחִיחֻד (ʼĂchîychud) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H2330 ; brother of a riddle (i.e. mysterious);
+from H251 and H2330; brother of a riddle (i.e. mysterious);
 
 ===== Meaning =====
 
-Achichud , an Israelite
+**Achichud**, an Israelite
 
 ===== Definitions =====
 

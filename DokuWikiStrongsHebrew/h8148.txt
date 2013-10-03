@@ -1,12 +1,16 @@
 ====== H8148: שְׁנִינָה (shᵉnîynâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8150 ;
+from H8150;
 
 ===== Meaning =====
 
-something  pointed , i.e. a  gibe
+something **pointed**, i.e. a **gibe**
 
 ===== Definitions =====
 

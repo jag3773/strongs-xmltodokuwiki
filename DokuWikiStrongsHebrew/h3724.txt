@@ -1,12 +1,16 @@
 ====== H3724: כֹּפֶר (kôpher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3722 ;
+from H3722;
 
 ===== Meaning =====
 
-properly, a  cover , i.e. (literally) a  village  (as covered in); (specifically)  bitumen  (as used for coating), and the  henna plant  (as used for dyeing); figuratively, a  redemption-price
+properly, a **cover**, i.e. (literally) a **village** (as covered in); (specifically) **bitumen** (as used for coating), and the **henna plant** (as used for dyeing); figuratively, a **redemption-price**
 
 ===== Definitions =====
 

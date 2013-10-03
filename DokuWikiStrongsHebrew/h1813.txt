@@ -1,12 +1,16 @@
 ====== H1813: דַּלְפוֹן (Dalphôwn) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1811 ; dripping;
+from H1811; dripping;
 
 ===== Meaning =====
 
-Dalphon , a son of Haman
+**Dalphon**, a son of Haman
 
 ===== Definitions =====
 

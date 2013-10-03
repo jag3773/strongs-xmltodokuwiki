@@ -1,12 +1,16 @@
 ====== H8202: שָׁפָט (Shâphâṭ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8199 ;  ;
+from H8199; **judge**;
 
 ===== Meaning =====
 
-judge Shaphat , the name of four Israelites
+**Shaphat**, the name of four Israelites
 
 ===== Definitions =====
 

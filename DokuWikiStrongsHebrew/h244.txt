@@ -1,12 +1,16 @@
 ====== H244: אׇזְנִי (ʼOznîy) ======
 
+===== Part of Speech =====
+
+n-pr-m a-gent
+
 ===== Source =====
 
-from  H241 ; having (quick) ears;
+from H241; having (quick) ears;
 
 ===== Meaning =====
 
-Ozni , an Israelite; also an Oznite (collectively), his descendant
+**Ozni**, an Israelite; also an Oznite (collectively), his descendant
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7500: רִפְאוּת (riphʼûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7495 ;
+from H7495;
 
 ===== Meaning =====
 
-a  cure
+a **cure**
 
 ===== Definitions =====
 

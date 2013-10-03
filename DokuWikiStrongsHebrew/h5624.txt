@@ -1,12 +1,16 @@
 ====== H5624: סֶרֶד (Çered) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from a primitive root meaning to  ;  ;
+from a primitive root meaning to **tremble**; **trembling**;
 
 ===== Meaning =====
 
-tremble trembling Sered , an Israelite
+**Sered**, an Israelite
 
 ===== Definitions =====
 

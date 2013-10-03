@@ -1,12 +1,16 @@
 ====== H8398: תֵּבֵל (têbêl) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2986 ;
+from H2986;
 
 ===== Meaning =====
 
-the  earth  (as  moist  and therefore inhabited); by extension, the  globe ; by implication, its  inhabitants ; specifically, a particular  land , as Babylonia, Palestine
+the **earth** (as **moist** and therefore inhabited); by extension, the **globe**; by implication, its **inhabitants**; specifically, a particular **land**, as Babylonia, Palestine
 
 ===== Definitions =====
 

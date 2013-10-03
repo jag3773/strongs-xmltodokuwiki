@@ -1,12 +1,16 @@
 ====== H6230: עֵשֶׂק (ʻêseq) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H6229 ;
+from H6229;
 
 ===== Meaning =====
 
-strife
+**strife**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H8584: תְּעוּדָה (tᵉʻûwdâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5749 ;
+from H5749;
 
 ===== Meaning =====
 
-attestation , i.e. a  precept ,  usage
+**attestation**, i.e. a **precept**, **usage**
 
 ===== Definitions =====
 

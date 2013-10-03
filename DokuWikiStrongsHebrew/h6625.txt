@@ -1,12 +1,16 @@
 ====== H6625: פַּתְרֻסִי (Pathruçîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H6624 ;
+patrial from H6624;
 
 ===== Meaning =====
 
-a  Pathrusite , or inhabitant of Pathros
+a **Pathrusite**, or inhabitant of Pathros
 
 ===== Definitions =====
 

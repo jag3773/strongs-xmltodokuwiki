@@ -1,12 +1,16 @@
 ====== H4108: מַהְלֵךְ (mahlêk) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1980 ;
+from H1980;
 
 ===== Meaning =====
 
-a  walking  (plural collectively), i.e.  access
+a **walking** (plural collectively), i.e. **access**
 
 ===== Definitions =====
 

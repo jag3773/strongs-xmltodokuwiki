@@ -1,12 +1,16 @@
 ====== H4015: מִבְרָח (mibrâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1272 ;
+from H1272;
 
 ===== Meaning =====
 
-a  refugee
+a **refugee**
 
 ===== Definitions =====
 

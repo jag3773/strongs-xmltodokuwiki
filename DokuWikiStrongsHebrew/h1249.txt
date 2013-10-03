@@ -1,12 +1,16 @@
 ====== H1249: בַּר (bar) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H1305  (in its various senses);
+from H1305 (in its various senses);
 
 ===== Meaning =====
 
-beloved ; also  pure ,  empty
+**beloved**; also **pure**, **empty**
 
 ===== Definitions =====
 

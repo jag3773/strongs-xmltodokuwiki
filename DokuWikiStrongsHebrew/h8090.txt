@@ -1,12 +1,16 @@
 ====== H8090: שְׁמָע (Shᵉmâʻ) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-for  H8087 ;
+for H8087;
 
 ===== Meaning =====
 
-Shema , a place in Palestine
+**Shema**, a place in Palestine
 
 ===== Definitions =====
 

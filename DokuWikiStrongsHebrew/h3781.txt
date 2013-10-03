@@ -1,12 +1,16 @@
 ====== H3781: כַּשִּׁיל (kashshîyl) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3782 ;
+from H3782;
 
 ===== Meaning =====
 
-properly, a  feller , i.e. an  axe
+properly, a **feller**, i.e. an **axe**
 
 ===== Definitions =====
 

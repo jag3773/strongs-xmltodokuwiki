@@ -1,12 +1,16 @@
 ====== H4220: מֵחַ (mêach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4229  in the sense of  ;
+from H4229 in the sense of **greasing**;
 
 ===== Meaning =====
 
-greasing fat ; figuratively,  rich
+**fat**; figuratively, **rich**
 
 ===== Definitions =====
 

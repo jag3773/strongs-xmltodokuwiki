@@ -1,12 +1,16 @@
 ====== H6001: עָמֵל (ʻâmêl) ======
 
+===== Part of Speech =====
+
+n-m a
+
 ===== Source =====
 
-from  H5998 ;
+from H5998;
 
 ===== Meaning =====
 
-toiling ; concretely, a  laborer ; figuratively,  sorrowful
+**toiling**; concretely, a **laborer**; figuratively, **sorrowful**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3715: כְּפִיר (kᵉphîyr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3722 ;
+from H3722;
 
 ===== Meaning =====
 
-a  village  (as covered in by walls); also a  young lion  (perhaps as covered with a mane)
+a **village** (as covered in by walls); also a **young lion** (perhaps as covered with a mane)
 
 ===== Definitions =====
 

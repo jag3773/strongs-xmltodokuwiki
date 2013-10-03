@@ -1,12 +1,16 @@
 ====== H905: בַּד (bad) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H909 ;
+from H909;
 
 ===== Meaning =====
 
-properly,  separation ; by implication, a  part  of the body,  branch  of a tree,  bar  for carrying; figuratively,  chief  of a city; especially (with prepositional prefix) as an adverb,  apart ,  only ,  besides
+properly, **separation**; by implication, a **part** of the body, **branch** of a tree, **bar** for carrying; figuratively, **chief** of a city; especially (with prepositional prefix) as an adverb, **apart**, **only**, **besides**
 
 ===== Definitions =====
 

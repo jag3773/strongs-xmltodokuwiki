@@ -1,12 +1,16 @@
 ====== H7463: רֵעֶה (rêʻeh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7462 ;
+from H7462;
 
 ===== Meaning =====
 
-a (male)  companion
+a (male) **companion**
 
 ===== Definitions =====
 

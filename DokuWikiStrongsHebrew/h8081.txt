@@ -1,12 +1,16 @@
 ====== H8081: שֶׁמֶן (shemen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8080 ;
+from H8080;
 
 ===== Meaning =====
 
-grease , especially liquid (as from the olive, often perfumed); figuratively,  richness
+**grease**, especially liquid (as from the olive, often perfumed); figuratively, **richness**
 
 ===== Definitions =====
 

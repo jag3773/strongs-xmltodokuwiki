@@ -1,12 +1,16 @@
 ====== H8005: שִׁלֵּם (shillêm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7999 ;
+from H7999;
 
 ===== Meaning =====
 
-requital
+**requital**
 
 ===== Definitions =====
 

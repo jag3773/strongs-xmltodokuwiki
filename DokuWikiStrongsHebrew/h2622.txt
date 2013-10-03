@@ -1,12 +1,16 @@
 ====== H2622: חָסוּת (châçûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2620 ;
+from H2620;
 
 ===== Meaning =====
 
-confidence
+**confidence**
 
 ===== Definitions =====
 

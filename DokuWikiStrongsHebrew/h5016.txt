@@ -1,12 +1,16 @@
 ====== H5016: נְבוּאָה (nᵉbûwʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5012 ;
+from H5012;
 
 ===== Meaning =====
 
-a  prediction  (spoken or written)
+a **prediction** (spoken or written)
 
 ===== Definitions =====
 

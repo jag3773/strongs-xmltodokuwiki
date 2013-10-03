@@ -1,12 +1,16 @@
 ====== H4988: מָתָק (mâthâq) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H4985 ;
+from H4985;
 
 ===== Meaning =====
 
-a  dainty , i.e. (generally)  food
+a **dainty**, i.e. (generally) **food**
 
 ===== Definitions =====
 

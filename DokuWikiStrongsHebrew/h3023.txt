@@ -1,12 +1,16 @@
 ====== H3023: יָגֵעַ (yâgêaʻ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3021 ;
+from H3021;
 
 ===== Meaning =====
 
-tired ; hence (transitive)  tiresome
+**tired**; hence (transitive) **tiresome**
 
 ===== Definitions =====
 

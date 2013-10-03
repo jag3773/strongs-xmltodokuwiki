@@ -1,12 +1,16 @@
 ====== H257: אַחְבָן (ʼAchbân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H995 ; brother (i.e. possessor) of understanding;
+from H251 and H995; brother (i.e. possessor) of understanding;
 
 ===== Meaning =====
 
-Achban , an Israelite
+**Achban**, an Israelite
 
 ===== Definitions =====
 

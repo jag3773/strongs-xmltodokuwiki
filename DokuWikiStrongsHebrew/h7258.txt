@@ -1,12 +1,16 @@
 ====== H7258: רֵבֶץ (rêbets) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7257 ;
+from H7257;
 
 ===== Meaning =====
 
-a  couch  or place of repose
+a **couch** or place of repose
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2600: חִנָּם (chinnâm) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H2580 ;
+from H2580;
 
 ===== Meaning =====
 
-gratis , i.e. devoid of cost, reason or advantage
+**gratis**, i.e. devoid of cost, reason or advantage
 
 ===== Definitions =====
 

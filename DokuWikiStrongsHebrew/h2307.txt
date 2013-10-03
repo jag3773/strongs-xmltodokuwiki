@@ -1,12 +1,16 @@
 ====== H2307: חָדִיד (Châdîyd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2300 ; a peak;
+from H2300; a peak;
 
 ===== Meaning =====
 
-Chadid , a place in Palestine
+**Chadid**, a place in Palestine
 
 ===== Definitions =====
 

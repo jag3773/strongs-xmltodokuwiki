@@ -1,12 +1,16 @@
 ====== H6349: פַּחַז (pachaz) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6348 ;
+from H6348;
 
 ===== Meaning =====
 
-ebullition , i.e.  froth  (figuratively, lust)
+**ebullition**, i.e. **froth** (figuratively, lust)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4830: מִרְעִית (mirʻîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7462  in the sense of  ;
+from H7462 in the sense of **feeding**;
 
 ===== Meaning =====
 
-feeding pasturage ; concretely, a  flock
+**pasturage**; concretely, a **flock**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H3288: יְעָף (yᵉʻâph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3286 ;
+from H3286;
 
 ===== Meaning =====
 
-fatigue  (adverb, utterly exhausted)
+**fatigue** (adverb, utterly exhausted)
 
 ===== Definitions =====
 

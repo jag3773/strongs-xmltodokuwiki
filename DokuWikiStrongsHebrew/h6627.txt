@@ -1,12 +1,16 @@
 ====== H6627: צָאָה (tsâʼâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3318 ;
+from H3318;
 
 ===== Meaning =====
 
-issue , i.e. (human)  excrement
+**issue**, i.e. (human) **excrement**
 
 ===== Definitions =====
 

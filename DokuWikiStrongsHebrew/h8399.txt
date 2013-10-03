@@ -1,12 +1,16 @@
 ====== H8399: תַּבְלִית (tablîyth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1086 ;
+from H1086;
 
 ===== Meaning =====
 
-consumption
+**consumption**
 
 ===== Definitions =====
 

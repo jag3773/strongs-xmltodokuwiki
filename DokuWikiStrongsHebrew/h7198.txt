@@ -1,12 +1,16 @@
 ====== H7198: קֶשֶׁת (qesheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7185  in the original sense (of  H6983 ) of bending;
+from H7185 in the original sense (of H6983) of bending;
 
 ===== Meaning =====
 
-a  bow , for shooting (hence, figuratively,  strength ) or the  iris
+a **bow**, for shooting (hence, figuratively, **strength**) or the **iris**
 
 ===== Definitions =====
 

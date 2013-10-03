@@ -1,12 +1,16 @@
 ====== H6396: פַּלּוּא (Pallûwʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6395 ;  ;
+from H6395; **distinguished**;
 
 ===== Meaning =====
 
-distinguished Pallu , an Israelite
+**Pallu**, an Israelite
 
 ===== Definitions =====
 

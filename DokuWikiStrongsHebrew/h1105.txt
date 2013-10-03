@@ -1,12 +1,16 @@
 ====== H1105: בֶּלַע (belaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1104 ;
+from H1104;
 
 ===== Meaning =====
 
-a  gulp ; figuratively,  destruction
+a **gulp**; figuratively, **destruction**
 
 ===== Definitions =====
 

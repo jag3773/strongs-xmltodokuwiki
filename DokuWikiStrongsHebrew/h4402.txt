@@ -1,12 +1,16 @@
 ====== H4402: מִלֵּאת (millêʼth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4390 ;
+from H4390;
 
 ===== Meaning =====
 
-fulness , i.e. (concretely) a  plump socket  (of the eye)
+**fulness**, i.e. (concretely) a **plump socket** (of the eye)
 
 ===== Definitions =====
 

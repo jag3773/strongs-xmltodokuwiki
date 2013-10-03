@@ -1,12 +1,16 @@
 ====== H1441: גִּדְעֹנִי (Gidʻônîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1438 ;   (compare  H1439 );
+from H1438; **warlike** (compare H1439);
 
 ===== Meaning =====
 
-warlike Gidoni , an Israelite
+**Gidoni**, an Israelite
 
 ===== Definitions =====
 

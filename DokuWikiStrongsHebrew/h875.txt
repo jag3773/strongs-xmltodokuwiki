@@ -1,12 +1,16 @@
 ====== H875: בְּאֵר (bᵉʼêr) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H874 ;
+from H874;
 
 ===== Meaning =====
 
-a  pit ; especially a  well
+a **pit**; especially a **well**
 
 ===== Definitions =====
 

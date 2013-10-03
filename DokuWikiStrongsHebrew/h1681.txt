@@ -1,12 +1,16 @@
 ====== H1681: דִּבָּה (dibbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1680  (in the sense of furtive motion);
+from H1680 (in the sense of furtive motion);
 
 ===== Meaning =====
 
-slander
+**slander**
 
 ===== Definitions =====
 

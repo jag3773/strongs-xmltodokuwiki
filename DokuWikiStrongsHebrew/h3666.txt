@@ -1,12 +1,16 @@
 ====== H3666: כִּנְעָה (kinʻâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H3665  in the sense of folding (compare  H3664 );
+from H3665 in the sense of folding (compare H3664);
 
 ===== Meaning =====
 
-a  package
+a **package**
 
 ===== Definitions =====
 

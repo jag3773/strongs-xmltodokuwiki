@@ -1,12 +1,16 @@
 ====== H4951: מִשְׂרָה (misrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H8280 ;
+from H8280;
 
 ===== Meaning =====
 
-empire
+**empire**
 
 ===== Definitions =====
 

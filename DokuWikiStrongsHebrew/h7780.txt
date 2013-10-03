@@ -1,12 +1,16 @@
 ====== H7780: שׁוֹפָךְ (Shôwphâk) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H8210 ; poured;
+from H8210; poured;
 
 ===== Meaning =====
 
-Shophak , a Syrian
+**Shophak**, a Syrian
 
 ===== Definitions =====
 

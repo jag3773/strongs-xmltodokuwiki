@@ -1,12 +1,16 @@
 ====== H6787: צְמָרַיִם (Tsᵉmârayim) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-dual of  H6785 ;  ;
+dual of H6785; **double fleece**;
 
 ===== Meaning =====
 
-double fleece Tsemarajim , a place in Palestine
+**Tsemarajim**, a place in Palestine
 
 ===== Definitions =====
 

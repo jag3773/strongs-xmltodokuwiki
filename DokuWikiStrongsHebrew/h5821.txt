@@ -1,12 +1,16 @@
 ====== H5821: עַזָּן (ʻAzzân) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5794 ;  ;
+from H5794; **strong one**;
 
 ===== Meaning =====
 
-strong one Azzan , an Israelite
+**Azzan**, an Israelite
 
 ===== Definitions =====
 

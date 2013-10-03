@@ -1,12 +1,16 @@
 ====== H4202: מָזוֹן (mâzôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2109 ;
+from H2109;
 
 ===== Meaning =====
 
-food
+**food**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5973: עִם (ʻim) ======
 
+===== Part of Speech =====
+
+prep
+
 ===== Source =====
 
-from  H6004 ;
+from H6004;
 
 ===== Meaning =====
 
-adverb or preposition,  with  (i.e. in conjunction with), in varied applications; specifically,  equally with ; often with prepositional prefix (and then usually unrepresented in English)
+adverb or preposition, **with** (i.e. in conjunction with), in varied applications; specifically, **equally with**; often with prepositional prefix (and then usually unrepresented in English)
 
 ===== Definitions =====
 

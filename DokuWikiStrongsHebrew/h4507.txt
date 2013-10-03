@@ -1,12 +1,16 @@
 ====== H4507: מְנִי (Mᵉnîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4487 ;
+from H4487;
 
 ===== Meaning =====
 
-the  Apportioner , i.e. Fate (as an idol)
+the **Apportioner**, i.e. Fate (as an idol)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7946: שַׁלְאֲנָן (shalʼănân) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-for  H7600 ;
+for H7600;
 
 ===== Meaning =====
 
-tranquil
+**tranquil**
 
 ===== Definitions =====
 

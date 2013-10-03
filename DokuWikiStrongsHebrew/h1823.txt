@@ -1,12 +1,16 @@
 ====== H1823: דְּמוּת (dᵉmûwth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1819 ;
+from H1819;
 
 ===== Meaning =====
 
-resemblance ; concretely,  model ,  shape ; adverbially,  like
+**resemblance**; concretely, **model**, **shape**; adverbially, **like**
 
 ===== Definitions =====
 

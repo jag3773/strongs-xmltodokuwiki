@@ -1,12 +1,16 @@
 ====== H8041: שָׂמַאל (sâmaʼl) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (denominative from  H8040 );
+a primitive root (denominative from H8040);
 
 ===== Meaning =====
 
-to  use the left hand  or  pass in that direction
+to **use the left hand** or **pass in that direction**
 
 ===== Definitions =====
 

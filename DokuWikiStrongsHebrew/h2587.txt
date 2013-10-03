@@ -1,12 +1,16 @@
 ====== H2587: חַנּוּן (channûwn) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2603 ;
+from H2603;
 
 ===== Meaning =====
 
-gracious
+**gracious**
 
 ===== Definitions =====
 

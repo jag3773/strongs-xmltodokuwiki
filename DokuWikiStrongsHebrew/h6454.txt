@@ -1,12 +1,16 @@
 ====== H6454: פָּסֵחַ (Pâçêach) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6452 ;  ;
+from H6452; **limping**;
 
 ===== Meaning =====
 
-limping Paseach , the name of two Israelites
+**Paseach**, the name of two Israelites
 
 ===== Definitions =====
 

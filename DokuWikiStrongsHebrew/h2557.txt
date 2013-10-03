@@ -1,12 +1,16 @@
 ====== H2557: חָמֵץ (châmêts) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2556 ;
+from H2556;
 
 ===== Meaning =====
 
-ferment , (figuratively)  extortion
+**ferment**, (figuratively) **extortion**
 
 ===== Definitions =====
 

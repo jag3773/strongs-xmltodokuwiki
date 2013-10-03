@@ -1,12 +1,16 @@
 ====== H1031: בֵּית חׇגְלָה (Bêyth Choglâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and the same as  H2295 ; house of a partridge;
+from H1004 and the same as H2295; house of a partridge;
 
 ===== Meaning =====
 
-Beth-Choglah , a place in Palestine
+**Beth-Choglah**, a place in Palestine
 
 ===== Definitions =====
 

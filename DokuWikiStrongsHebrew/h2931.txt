@@ -1,12 +1,16 @@
 ====== H2931: טָמֵא (ṭâmêʼ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2930 ;
+from H2930;
 
 ===== Meaning =====
 
-foul  in a religious sense
+**foul** in a religious sense
 
 ===== Definitions =====
 

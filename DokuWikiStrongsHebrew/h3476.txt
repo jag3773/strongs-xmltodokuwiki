@@ -1,12 +1,16 @@
 ====== H3476: יֹשֶׁר (yôsher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3474 ;
+from H3474;
 
 ===== Meaning =====
 
-the  right
+the **right**
 
 ===== Definitions =====
 

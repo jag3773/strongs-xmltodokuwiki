@@ -1,12 +1,16 @@
 ====== H5866: עִילַי (ʻÎylay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5927 ;  ;
+from H5927; **elevated**;
 
 ===== Meaning =====
 
-elevated Ilai , an Israelite
+**Ilai**, an Israelite
 
 ===== Definitions =====
 

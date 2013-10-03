@@ -1,12 +1,16 @@
 ====== H998: בִּינָה (bîynâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H995 ;
+from H995;
 
 ===== Meaning =====
 
-understanding
+**understanding**
 
 ===== Definitions =====
 

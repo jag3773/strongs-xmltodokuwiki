@@ -1,12 +1,16 @@
 ====== H7840: שְׁחַרְחֹרֶת (shᵉcharchôreth) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7835 ;
+from H7835;
 
 ===== Meaning =====
 
-swarthy
+**swarthy**
 
 ===== Definitions =====
 

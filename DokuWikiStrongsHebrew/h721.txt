@@ -1,12 +1,16 @@
 ====== H721: אַרְוָדִי (ʼArvâdîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H719 ;
+patrial from H719;
 
 ===== Meaning =====
 
-an  Arvadite  or  citizen of Arvad
+an **Arvadite** or **citizen of Arvad**
 
 ===== Definitions =====
 

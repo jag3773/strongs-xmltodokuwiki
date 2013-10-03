@@ -1,12 +1,16 @@
 ====== H1335: בֶּתֶר (bether) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1334 ;
+from H1334;
 
 ===== Meaning =====
 
-a  section
+a **section**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4244: מַחְלָה (Machlâh) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H2470 ;  ;
+from H2470; **sickness**;
 
 ===== Meaning =====
 
-sickness Machlah , the name apparently of two Israelitesses
+**Machlah**, the name apparently of two Israelitesses
 
 ===== Definitions =====
 

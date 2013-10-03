@@ -1,12 +1,16 @@
 ====== H1653: גֶּשֶׁם (geshem) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1652 ;
+from H1652;
 
 ===== Meaning =====
 
-a  shower
+a **shower**
 
 ===== Definitions =====
 

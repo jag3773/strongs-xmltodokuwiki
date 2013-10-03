@@ -1,12 +1,16 @@
 ====== H5941: עֵלִי (ʻÊlîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5927 ;  ;
+from H5927; **lofty**;
 
 ===== Meaning =====
 
-lofty Eli , an Israelite highpriest
+**Eli**, an Israelite highpriest
 
 ===== Definitions =====
 

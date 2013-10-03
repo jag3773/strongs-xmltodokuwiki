@@ -1,12 +1,16 @@
 ====== H6912: קָבַר (qâbar) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  inter
+to **inter**
 
 ===== Definitions =====
 

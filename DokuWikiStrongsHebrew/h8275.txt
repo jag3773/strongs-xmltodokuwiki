@@ -1,12 +1,16 @@
 ====== H8275: שַׁרְבִיט (sharbîyṭ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H7626 ;
+for H7626;
 
 ===== Meaning =====
 
-a  rod of empire
+a **rod of empire**
 
 ===== Definitions =====
 

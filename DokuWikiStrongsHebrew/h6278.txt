@@ -1,12 +1,16 @@
 ====== H6278: עֵת קָצִין (ʻÊth Qâtsîyn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6256  and  H7011 ;  ;
+from H6256 and H7011; **time of a judge**;
 
 ===== Meaning =====
 
-time of a judge Eth-Katsin , a place in Palestine
+**Eth-Katsin**, a place in Palestine
 
 ===== Definitions =====
 

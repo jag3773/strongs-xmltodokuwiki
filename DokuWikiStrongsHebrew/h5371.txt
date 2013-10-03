@@ -1,12 +1,16 @@
 ====== H5371: נֵרְגַּל שַׁרְאֶצֶר (Nêrᵉgal Sharʼetser) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5370  and  H8272 ;
+from H5370 and H8272;
 
 ===== Meaning =====
 
-Nergal-Sharetser , the name of two Babylonians
+**Nergal-Sharetser**, the name of two Babylonians
 
 ===== Definitions =====
 

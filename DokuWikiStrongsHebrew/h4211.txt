@@ -1,12 +1,16 @@
 ====== H4211: מַזְמֵרָה (mazmêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2168 ;
+from H2168;
 
 ===== Meaning =====
 
-a  pruning-knife
+a **pruning-knife**
 
 ===== Definitions =====
 

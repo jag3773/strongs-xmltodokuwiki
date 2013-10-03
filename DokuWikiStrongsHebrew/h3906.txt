@@ -1,12 +1,16 @@
 ====== H3906: לַחַץ (lachats) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3905 ;
+from H3905;
 
 ===== Meaning =====
 
-distress
+**distress**
 
 ===== Definitions =====
 

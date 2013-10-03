@@ -1,12 +1,16 @@
 ====== H4865: מִשְׁבְּצָה (mishbᵉtsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7660 ;
+from H7660;
 
 ===== Meaning =====
 
-a  brocade ; by analogy, a (reticulated)  setting  of a gem
+a **brocade**; by analogy, a (reticulated) **setting** of a gem
 
 ===== Definitions =====
 

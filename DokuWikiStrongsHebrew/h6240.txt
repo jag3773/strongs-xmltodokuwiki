@@ -1,12 +1,16 @@
 ====== H6240: עָשָׂר (ʻâsâr) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-for  H6235 ;
+for H6235;
 
 ===== Meaning =====
 
-ten  (only in combination), i.e.  -teen ; also (ordinal)  -teenth
+**ten** (only in combination), i.e. **-teen**; also (ordinal) **-teenth**
 
 ===== Definitions =====
 

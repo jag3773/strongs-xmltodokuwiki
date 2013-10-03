@@ -1,12 +1,16 @@
 ====== H6091: עָצָב (ʻâtsâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6087 ;
+from H6087;
 
 ===== Meaning =====
 
-an (idolatrous)  image
+an (idolatrous) **image**
 
 ===== Definitions =====
 

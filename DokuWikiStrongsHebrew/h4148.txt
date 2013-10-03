@@ -1,12 +1,16 @@
 ====== H4148: מוּסָר (mûwçâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3256 ;
+from H3256;
 
 ===== Meaning =====
 
-properly,  chastisement ; figuratively,  reproof ,  warning  or  instruction ; also  restraint
+properly, **chastisement**; figuratively, **reproof**, **warning** or **instruction**; also **restraint**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4275: מֶחֱצָה (mechĕtsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H2673 ;
+from H2673;
 
 ===== Meaning =====
 
-a  halving
+a **halving**
 
 ===== Definitions =====
 

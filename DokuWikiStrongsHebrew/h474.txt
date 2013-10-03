@@ -1,12 +1,16 @@
 ====== H474: אֱלִישׁוּעַ (ʼĔlîyshûwaʻ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H7769 ; God of supplication (or of riches);
+from H410 and H7769; God of supplication (or of riches);
 
 ===== Meaning =====
 
-Elishua , the son of King David
+**Elishua**, the son of King David
 
 ===== Definitions =====
 

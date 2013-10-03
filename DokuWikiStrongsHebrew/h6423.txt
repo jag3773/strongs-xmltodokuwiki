@@ -1,12 +1,16 @@
 ====== H6423: פְּלֹנִי (pᵉlônîy) ======
 
+===== Part of Speech =====
+
+pron
+
 ===== Source =====
 
-from  H6395 ;
+from H6395;
 
 ===== Meaning =====
 
-such  a one, i.e. a specified  person
+**such** a one, i.e. a specified **person**
 
 ===== Definitions =====
 

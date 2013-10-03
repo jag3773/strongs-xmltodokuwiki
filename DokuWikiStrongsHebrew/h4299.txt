@@ -1,12 +1,16 @@
 ====== H4299: מַטְוֶה (maṭveh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2901 ;
+from H2901;
 
 ===== Meaning =====
 
-something  spun
+something **spun**
 
 ===== Definitions =====
 

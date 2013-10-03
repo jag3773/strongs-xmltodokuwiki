@@ -1,12 +1,16 @@
 ====== H6342: פָּחַד (pâchad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be startled  (by a sudden alarm); hence, to  fear  in general
+to **be startled** (by a sudden alarm); hence, to **fear** in general
 
 ===== Definitions =====
 

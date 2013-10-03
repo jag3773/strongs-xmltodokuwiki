@@ -1,12 +1,16 @@
 ====== H7808: שֵׂחַ (sêach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-for  H7879 ;
+for H7879;
 
 ===== Meaning =====
 
-communion , i.e. (reflexively)  meditation
+**communion**, i.e. (reflexively) **meditation**
 
 ===== Definitions =====
 

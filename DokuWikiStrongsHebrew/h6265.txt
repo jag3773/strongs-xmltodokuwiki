@@ -1,12 +1,16 @@
 ====== H6265: עֲתָיָה (ʻĂthâyâh) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5790  and  H3050 ;  ;
+from H5790 and H3050; **Jah has helped**;
 
 ===== Meaning =====
 
-Jah has helped Athajah , an Israelite
+**Athajah**, an Israelite
 
 ===== Definitions =====
 

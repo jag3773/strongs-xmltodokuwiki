@@ -1,12 +1,16 @@
 ====== H419: אֶלְדָּד (ʼEldâd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H1730 ; God has loved;
+from H410 and H1730; God has loved;
 
 ===== Meaning =====
 
-Eldad , an Israelite
+**Eldad**, an Israelite
 
 ===== Definitions =====
 

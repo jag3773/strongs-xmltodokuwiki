@@ -1,12 +1,16 @@
 ====== H692: אַרְאֵלִי (ʼArʼêlîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H691 ;  ;
+from H691; **heroic**;
 
 ===== Meaning =====
 
-heroic Areli  (or an Arelite, collectively), an Israelite and his descendants
+**Areli** (or an Arelite, collectively), an Israelite and his descendants
 
 ===== Definitions =====
 

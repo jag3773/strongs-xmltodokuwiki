@@ -1,12 +1,16 @@
 ====== H3718: כֶּפֶל (kephel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3717 ;
+from H3717;
 
 ===== Meaning =====
 
-a  duplicate
+a **duplicate**
 
 ===== Definitions =====
 

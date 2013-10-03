@@ -1,12 +1,16 @@
 ====== H817: אָשָׁם (ʼâshâm) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H816 ;
+from H816;
 
 ===== Meaning =====
 
-guilt ; by implication, a  fault ; also a  sin-offering
+**guilt**; by implication, a **fault**; also a **sin-offering**
 
 ===== Definitions =====
 

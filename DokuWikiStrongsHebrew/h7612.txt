@@ -1,12 +1,16 @@
 ====== H7612: שֵׁאת (shêʼth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7582 ;
+from H7582;
 
 ===== Meaning =====
 
-devastation
+**devastation**
 
 ===== Definitions =====
 

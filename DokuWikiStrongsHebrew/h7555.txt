@@ -1,12 +1,16 @@
 ====== H7555: רִקֻּעַ (riqquaʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7554 ;
+from H7554;
 
 ===== Meaning =====
 
-beaten  out, i.e. a (metallic)  plate
+**beaten** out, i.e. a (metallic) **plate**
 
 ===== Definitions =====
 

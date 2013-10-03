@@ -1,12 +1,16 @@
 ====== H5792: עַוָּתָה (ʻavvâthâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5791 ;
+from H5791;
 
 ===== Meaning =====
 
-oppression
+**oppression**
 
 ===== Definitions =====
 

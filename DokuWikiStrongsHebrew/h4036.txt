@@ -1,12 +1,16 @@
 ====== H4036: מָגוֹר מִסָּבִיב (Mâgôwr miç-Çâbîyb) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H4032  and  H5439  with the preposition inserted; affright from around;
+from H4032 and H5439 with the preposition inserted; affright from around;
 
 ===== Meaning =====
 
-Magor-mis-Sabib , a symbolic name of Pashur
+**Magor-mis-Sabib**, a symbolic name of Pashur
 
 ===== Definitions =====
 

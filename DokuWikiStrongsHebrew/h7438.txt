@@ -1,12 +1,16 @@
 ====== H7438: רֹן (rôn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7442 ;
+from H7442;
 
 ===== Meaning =====
 
-a  shout  (of deliverance)
+a **shout** (of deliverance)
 
 ===== Definitions =====
 

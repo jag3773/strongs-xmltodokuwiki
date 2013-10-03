@@ -1,12 +1,16 @@
 ====== H4039: מְגִלָּה (mᵉgillâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1556 ;
+from H1556;
 
 ===== Meaning =====
 
-a  roll
+a **roll**
 
 ===== Definitions =====
 

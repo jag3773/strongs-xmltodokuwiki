@@ -1,12 +1,16 @@
 ====== H4065: מַדּוּחַ (maddûwach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5080 ;
+from H5080;
 
 ===== Meaning =====
 
-seduction
+**seduction**
 
 ===== Definitions =====
 

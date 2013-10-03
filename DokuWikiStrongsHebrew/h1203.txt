@@ -1,12 +1,16 @@
 ====== H1203: בְּעֶשְׁתְּרָה (Bᵉʻeshtᵉrâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6251  (as singular of  H6252 ) with a prepositional prefix; with Ashtoreth;
+from H6251 (as singular of H6252) with a prepositional prefix; with Ashtoreth;
 
 ===== Meaning =====
 
-Beeshterah , a place East of the Jordan
+**Beeshterah**, a place East of the Jordan
 
 ===== Definitions =====
 

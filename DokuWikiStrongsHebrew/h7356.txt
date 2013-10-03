@@ -1,12 +1,16 @@
 ====== H7356: רַחַם (racham) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7355 ;
+from H7355;
 
 ===== Meaning =====
 
-compassion  (in the plural); by extension, the  womb  (as  cherishing  the fetus); by implication, a  maiden
+**compassion** (in the plural); by extension, the **womb** (as **cherishing** the fetus); by implication, a **maiden**
 
 ===== Definitions =====
 

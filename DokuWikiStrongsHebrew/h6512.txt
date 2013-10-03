@@ -1,12 +1,16 @@
 ====== H6512: פֵּרָה (pêrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6331 ;
+from H6331;
 
 ===== Meaning =====
 
-a  hole  (as  broken , i.e. dug)
+a **hole** (as **broken**, i.e. dug)
 
 ===== Definitions =====
 

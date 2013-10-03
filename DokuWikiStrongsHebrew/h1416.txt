@@ -1,12 +1,16 @@
 ====== H1416: גְּדוּד (gᵉdûwd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H1413 ;
+from H1413;
 
 ===== Meaning =====
 
-a  crowd  (especially of soldiers)
+a **crowd** (especially of soldiers)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1007: בֵּית אָוֶן (Bêyth ʼÂven) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1004  and  H205 ; house of vanity;
+from H1004 and H205; house of vanity;
 
 ===== Meaning =====
 
-Beth-Aven , a place in Palestine
+**Beth-Aven**, a place in Palestine
 
 ===== Definitions =====
 

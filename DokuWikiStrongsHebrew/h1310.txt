@@ -1,12 +1,16 @@
 ====== H1310: בָּשַׁל (bâshal) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-properly, to  boil  up; hence, to  be done  in cooking; figuratively to  ripen
+properly, to **boil** up; hence, to **be done** in cooking; figuratively to **ripen**
 
 ===== Definitions =====
 

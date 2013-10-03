@@ -1,12 +1,16 @@
 ====== H3798: כִּתְלִישׁ (Kithlîysh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3796  and  H376 ;  ;
+from H3796 and H376; **wall of a man**;
 
 ===== Meaning =====
 
-wall of a man Kithlish , a place in Palestine
+**Kithlish**, a place in Palestine
 
 ===== Definitions =====
 

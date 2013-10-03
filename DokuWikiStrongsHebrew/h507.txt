@@ -1,12 +1,16 @@
 ====== H507: אֶלֶף (ʼEleph) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H505 ;
+the same as H505;
 
 ===== Meaning =====
 
-Eleph , a place in Palestine
+**Eleph**, a place in Palestine
 
 ===== Definitions =====
 

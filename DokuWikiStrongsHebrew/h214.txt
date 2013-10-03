@@ -1,12 +1,16 @@
 ====== H214: אוֹצָר (ʼôwtsâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H686 ;
+from H686;
 
 ===== Meaning =====
 
-a  depository
+a **depository**
 
 ===== Definitions =====
 

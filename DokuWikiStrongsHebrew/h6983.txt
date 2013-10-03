@@ -1,12 +1,16 @@
 ====== H6983: קוֹשׁ (qôwsh) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root; to bend; used only as denominative for  H3369 ,
+a primitive root; to bend; used only as denominative for H3369,
 
 ===== Meaning =====
 
-to  set a trap
+to **set a trap**
 
 ===== Definitions =====
 

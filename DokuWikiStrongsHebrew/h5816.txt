@@ -1,12 +1,16 @@
 ====== H5816: עֻזִּיאֵל (ʻUzzîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5797  and  H410 ;  ;
+from H5797 and H410; **strength of God**;
 
 ===== Meaning =====
 
-strength of God Uzziel , the name of six Israelites
+**Uzziel**, the name of six Israelites
 
 ===== Definitions =====
 

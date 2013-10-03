@@ -1,12 +1,16 @@
 ====== H7182: קֶשֶׁב (qesheb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7181 ;
+from H7181;
 
 ===== Meaning =====
 
-a  hearkening
+a **hearkening**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7873: שִׂיג (sîyg) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7734 ;
+from H7734;
 
 ===== Meaning =====
 
-a withdrawal  (into a private place)
+**a withdrawal** (into a private place)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6290: פָּארָן (Pâʼrân) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6286 ;  ;
+from H6286; **ornamental**;
 
 ===== Meaning =====
 
-ornamental Paran , a desert of Arabia
+**Paran**, a desert of Arabia
 
 ===== Definitions =====
 

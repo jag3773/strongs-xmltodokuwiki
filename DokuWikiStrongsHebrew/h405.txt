@@ -1,12 +1,16 @@
 ====== H405: אֶכֶף (ʼekeph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H404 ;
+from H404;
 
 ===== Meaning =====
 
-a  load ; by implication, a  stroke  (others dignity)
+a **load**; by implication, a **stroke** (others dignity)
 
 ===== Definitions =====
 

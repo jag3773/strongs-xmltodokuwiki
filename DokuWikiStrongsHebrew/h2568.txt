@@ -1,12 +1,16 @@
 ====== H2568: חָמֵשׁ (châmêsh) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-masculine   ; a primitive numeral;
+masculine ; a primitive numeral;
 
 ===== Meaning =====
 
-five
+**five**
 
 ===== Definitions =====
 

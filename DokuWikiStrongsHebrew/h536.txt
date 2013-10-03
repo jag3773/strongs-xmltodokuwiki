@@ -1,12 +1,16 @@
 ====== H536: אֻמְלַל (ʼumlal) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H535 ;
+from H535;
 
 ===== Meaning =====
 
-sick
+**sick**
 
 ===== Definitions =====
 

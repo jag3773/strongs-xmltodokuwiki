@@ -1,12 +1,16 @@
 ====== H6961: קָוֶה (qâveh) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6960 ;
+from H6960;
 
 ===== Meaning =====
 
-a (measuring)  cord  (as if for binding)
+a (measuring) **cord** (as if for binding)
 
 ===== Definitions =====
 

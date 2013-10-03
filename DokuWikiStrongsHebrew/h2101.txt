@@ -1,12 +1,16 @@
 ====== H2101: זוֹב (zôwb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2100 ;
+from H2100;
 
 ===== Meaning =====
 
-a  seminal  or  menstrual flux
+a **seminal** or **menstrual flux**
 
 ===== Definitions =====
 

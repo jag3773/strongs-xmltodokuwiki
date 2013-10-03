@@ -1,12 +1,16 @@
 ====== H4848: מְרָרִי (Mᵉrârîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H4847 ;
+from H4847;
 
 ===== Meaning =====
 
-a  Merarite  (collectively), or descendants of Merari
+a **Merarite** (collectively), or descendants of Merari
 
 ===== Definitions =====
 

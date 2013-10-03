@@ -1,12 +1,16 @@
 ====== H556: אַמְצָה (ʼamtsâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H553 ;
+from H553;
 
 ===== Meaning =====
 
-force
+**force**
 
 ===== Definitions =====
 

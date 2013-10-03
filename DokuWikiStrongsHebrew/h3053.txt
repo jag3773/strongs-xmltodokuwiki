@@ -1,12 +1,16 @@
 ====== H3053: יְהָב (yᵉhâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3051 ;
+from H3051;
 
 ===== Meaning =====
 
-properly,  what is given  (by Providence), i.e. a  lot
+properly, **what is given** (by Providence), i.e. a **lot**
 
 ===== Definitions =====
 

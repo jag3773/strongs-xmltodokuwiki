@@ -1,12 +1,16 @@
 ====== H4313: מֵי הַיַּרְקוֹן (Mêy hay-Yarqôwn) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H4325  and  H3420  with the art. interposed; water of the yellowness;
+from H4325 and H3420 with the art. interposed; water of the yellowness;
 
 ===== Meaning =====
 
-Me-haj-Jarkon , a place in Palestine
+**Me-haj-Jarkon**, a place in Palestine
 
 ===== Definitions =====
 

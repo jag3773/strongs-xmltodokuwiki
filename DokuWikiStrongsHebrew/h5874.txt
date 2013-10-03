@@ -1,12 +1,16 @@
 ====== H5874: עֵין־דֹּאר (ʻÊyn-Dôʼr) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-or   ; or   ; from  H5869  and  H1755 ;  ;
+or ; or ; from H5869 and H1755; **fountain of dwelling**;
 
 ===== Meaning =====
 
-fountain of dwelling En-Dor , a place in Palestine
+**En-Dor**, a place in Palestine
 
 ===== Definitions =====
 

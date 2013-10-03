@@ -1,12 +1,16 @@
 ====== H12: אַבְדָן (ʼabdân) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6 ;
+from H6;
 
 ===== Meaning =====
 
-a  perishing
+a **perishing**
 
 ===== Definitions =====
 

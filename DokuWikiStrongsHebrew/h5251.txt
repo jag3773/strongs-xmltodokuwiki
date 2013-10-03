@@ -1,12 +1,16 @@
 ====== H5251: נֵס (nêç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H5264 ;
+from H5264;
 
 ===== Meaning =====
 
-a  flag ; also a  sail ; by implication, a  flagstaff ; generally a  signal ; figuratively, a  token
+a **flag**; also a **sail**; by implication, a **flagstaff**; generally a **signal**; figuratively, a **token**
 
 ===== Definitions =====
 

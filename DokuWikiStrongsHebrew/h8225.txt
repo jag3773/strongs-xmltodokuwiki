@@ -1,12 +1,16 @@
 ====== H8225: שִׁפְמִי (Shiphmîy) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-patrial from  H8221 ;
+patrial from H8221;
 
 ===== Meaning =====
 
-a  Shiphmite  or inhabitant of Shepham
+a **Shiphmite** or inhabitant of Shepham
 
 ===== Definitions =====
 

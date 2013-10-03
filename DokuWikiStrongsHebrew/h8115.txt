@@ -1,12 +1,16 @@
 ====== H8115: שׇׁמְרַיִן (Shomrayin) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-(Aramaic) corresponding to  H8111 ;
+(Aramaic) corresponding to H8111;
 
 ===== Meaning =====
 
-Shomrain , a place in Palestine
+**Shomrain**, a place in Palestine
 
 ===== Definitions =====
 

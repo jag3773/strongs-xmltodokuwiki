@@ -1,12 +1,16 @@
 ====== H6183: עָרִיף (ʻârîyph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6201 ;
+from H6201;
 
 ===== Meaning =====
 
-the  sky  (as  drooping  at the horizon)
+the **sky** (as **drooping** at the horizon)
 
 ===== Definitions =====
 

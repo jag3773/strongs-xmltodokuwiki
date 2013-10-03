@@ -1,12 +1,16 @@
 ====== H3452: יְשִׁימוֹן (yᵉshîymôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3456 ;
+from H3456;
 
 ===== Meaning =====
 
-a  desolation
+a **desolation**
 
 ===== Definitions =====
 

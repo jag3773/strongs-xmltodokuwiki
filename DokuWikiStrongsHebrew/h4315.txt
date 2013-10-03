@@ -1,12 +1,16 @@
 ====== H4315: מֵיטָב (mêyṭâb) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3190 ;
+from H3190;
 
 ===== Meaning =====
 
-the  best  part
+the **best** part
 
 ===== Definitions =====
 

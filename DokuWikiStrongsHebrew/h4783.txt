@@ -1,12 +1,16 @@
 ====== H4783: מֻרְדָּף (murdâph) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7291 ;
+from H7291;
 
 ===== Meaning =====
 
-persecuted
+**persecuted**
 
 ===== Definitions =====
 

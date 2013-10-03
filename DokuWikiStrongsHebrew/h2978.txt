@@ -1,12 +1,16 @@
 ====== H2978: יְאִתוֹן (yᵉʼithôwn) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H857 ;
+from H857;
 
 ===== Meaning =====
 
-an  entry
+an **entry**
 
 ===== Definitions =====
 

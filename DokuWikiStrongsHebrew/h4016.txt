@@ -1,12 +1,16 @@
 ====== H4016: מָבֻשׁ (mâbush) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H954 ;
+from H954;
 
 ===== Meaning =====
 
-(plural) the (male)  pudenda
+(plural) the (male) **pudenda**
 
 ===== Definitions =====
 

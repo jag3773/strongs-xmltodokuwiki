@@ -1,12 +1,16 @@
 ====== H8391: תְּאַשּׁוּר (tᵉʼashshûwr) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H833 ;
+from H833;
 
 ===== Meaning =====
 
-a species of  cedar  (from its  erectness )
+a species of **cedar** (from its **erectness**)
 
 ===== Definitions =====
 

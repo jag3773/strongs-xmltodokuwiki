@@ -1,12 +1,16 @@
 ====== H2074: זְבוּלוּן (Zᵉbûwlûwn) ======
 
+===== Part of Speech =====
+
+n-pr-m n-pr-loc
+
 ===== Source =====
 
-or   ; or   ; from  H2082 ; habitation;
+or ; or ; from H2082; habitation;
 
 ===== Meaning =====
 
-Zebulon , a son of Jacob; also his territory and tribe
+**Zebulon**, a son of Jacob; also his territory and tribe
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1006: בַּיִת (Bayith) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H1004 ;
+the same as H1004;
 
 ===== Meaning =====
 
-Bajith , a place in Palestine
+**Bajith**, a place in Palestine
 
 ===== Definitions =====
 

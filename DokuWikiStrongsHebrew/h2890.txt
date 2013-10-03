@@ -1,12 +1,16 @@
 ====== H2890: טְהוֹר (ṭᵉhôwr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2891 ;
+from H2891;
 
 ===== Meaning =====
 
-purity
+**purity**
 
 ===== Definitions =====
 

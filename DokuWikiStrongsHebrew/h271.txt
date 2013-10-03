@@ -1,12 +1,16 @@
 ====== H271: אָחָז (ʼÂchâz) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H270 ;  ;
+from H270; **possessor**;
 
 ===== Meaning =====
 
-possessor Achaz , the name of a Jewish king and of an Israelite
+**Achaz**, the name of a Jewish king and of an Israelite
 
 ===== Definitions =====
 

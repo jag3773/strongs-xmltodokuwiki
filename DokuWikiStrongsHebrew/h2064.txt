@@ -1,12 +1,16 @@
 ====== H2064: זָבַד (zâbad) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  confer
+to **confer**
 
 ===== Definitions =====
 

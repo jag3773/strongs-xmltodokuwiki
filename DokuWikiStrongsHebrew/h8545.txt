@@ -1,12 +1,16 @@
 ====== H8545: תְּמוּרָה (tᵉmûwrâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H4171 ;
+from H4171;
 
 ===== Meaning =====
 
-barter ,  compensation
+**barter**, **compensation**
 
 ===== Definitions =====
 

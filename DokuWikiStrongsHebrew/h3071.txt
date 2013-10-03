@@ -1,12 +1,16 @@
 ====== H3071: יְהֹוָה נִסִּי (Yᵉhôvâh niççîy) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H3068  and  H5251  with the prononimal suffix; Jehovah (is) my banner;
+from H3068 and H5251 with the prononimal suffix; Jehovah (is) my banner;
 
 ===== Meaning =====
 
-Jehovah-Nissi , a symbolical name of an altar in the Desert
+**Jehovah-Nissi**, a symbolical name of an altar in the Desert
 
 ===== Definitions =====
 

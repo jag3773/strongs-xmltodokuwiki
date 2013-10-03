@@ -1,12 +1,16 @@
 ====== H7787: שׂוּר (sûwr) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-a primitive root (identical with  H7786  through the idea of reducing to pieces; compare  H4883 );
+a primitive root (identical with H7786 through the idea of reducing to pieces; compare H4883);
 
 ===== Meaning =====
 
-to  saw
+to **saw**
 
 ===== Definitions =====
 

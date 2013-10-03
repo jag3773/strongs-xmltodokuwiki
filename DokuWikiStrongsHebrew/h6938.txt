@@ -1,12 +1,16 @@
 ====== H6938: קֵדָר (Qêdâr) ======
 
+===== Part of Speech =====
+
+n-pr
+
 ===== Source =====
 
-from  H6937 ;   (of the skin or the tent);
+from H6937; **dusky** (of the skin or the tent);
 
 ===== Meaning =====
 
-dusky Kedar , a son of Ishmael; also (collectively) Bedouin (as his descendants or representatives)
+**Kedar**, a son of Ishmael; also (collectively) Bedouin (as his descendants or representatives)
 
 ===== Definitions =====
 

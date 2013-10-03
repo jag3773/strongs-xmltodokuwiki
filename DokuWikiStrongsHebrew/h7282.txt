@@ -1,12 +1,16 @@
 ====== H7282: רָגֵעַ (râgêaʻ) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H7280 ;
+from H7280;
 
 ===== Meaning =====
 
-restful , i.e.  peaceable
+**restful**, i.e. **peaceable**
 
 ===== Definitions =====
 

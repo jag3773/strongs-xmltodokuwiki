@@ -1,12 +1,16 @@
 ====== H8150: שָׁנַן (shânan) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  point  (transitive or intransitive); intensively, to  pierce ; figuratively, to  inculcate
+to **point** (transitive or intransitive); intensively, to **pierce**; figuratively, to **inculcate**
 
 ===== Definitions =====
 

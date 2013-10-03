@@ -1,12 +1,16 @@
 ====== H5159: נַחֲלָה (nachălâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5157  (in its usual sense);
+from H5157 (in its usual sense);
 
 ===== Meaning =====
 
-properly, something  inherited , i.e. (abstractly)  occupancy , or (concretely) an  heirloom ; generally an  estate ,  patrimony  or  portion
+properly, something **inherited**, i.e. (abstractly) **occupancy**, or (concretely) an **heirloom**; generally an **estate**, **patrimony** or **portion**
 
 ===== Definitions =====
 

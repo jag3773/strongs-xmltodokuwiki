@@ -1,12 +1,16 @@
 ====== H4752: מַר (mar) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H4843  in its original sense of  ;
+from H4843 in its original sense of **distillation**;
 
 ===== Meaning =====
 
-distillation a  drop
+a **drop**
 
 ===== Definitions =====
 

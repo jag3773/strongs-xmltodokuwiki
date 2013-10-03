@@ -1,12 +1,16 @@
 ====== H2041: הֶרֶס (hereç) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2040 ;
+from H2040;
 
 ===== Meaning =====
 
-demolition
+**demolition**
 
 ===== Definitions =====
 

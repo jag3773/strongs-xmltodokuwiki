@@ -1,12 +1,16 @@
 ====== H7630: שֹׁבַי (Shôbay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-for  H7629 ;
+for H7629;
 
 ===== Meaning =====
 
-Shobai , an Israelite
+**Shobai**, an Israelite
 
 ===== Definitions =====
 

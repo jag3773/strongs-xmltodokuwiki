@@ -1,12 +1,16 @@
 ====== H3632: כָּלִיל (kâlîyl) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H3634 ;
+from H3634;
 
 ===== Meaning =====
 
-complete ; as noun, the  whole  (specifically, a sacrifice  entirely consumed ); as adverb,  fully
+**complete**; as noun, the **whole** (specifically, a sacrifice **entirely consumed**); as adverb, **fully**
 
 ===== Definitions =====
 

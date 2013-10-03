@@ -1,12 +1,16 @@
 ====== H5819: עֲזִיזָא (ʻĂzîyzâʼ) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5756 ;  ;
+from H5756; **strengthfulness**;
 
 ===== Meaning =====
 
-strengthfulness Aziza , an Israelite
+**Aziza**, an Israelite
 
 ===== Definitions =====
 

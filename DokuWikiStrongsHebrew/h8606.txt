@@ -1,12 +1,16 @@
 ====== H8606: תִּפְלֶצֶת (tiphletseth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H6426 ;
+from H6426;
 
 ===== Meaning =====
 
-fearfulness
+**fearfulness**
 
 ===== Definitions =====
 

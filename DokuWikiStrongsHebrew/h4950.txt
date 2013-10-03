@@ -1,12 +1,16 @@
 ====== H4950: מִשְׁקָע (mishqâʻ) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H8257 ;
+from H8257;
 
 ===== Meaning =====
 
-a  settling place  (of water), i.e. a  pond
+a **settling place** (of water), i.e. a **pond**
 
 ===== Definitions =====
 

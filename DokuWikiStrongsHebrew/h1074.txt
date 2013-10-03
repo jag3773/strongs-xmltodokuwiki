@@ -1,12 +1,16 @@
 ====== H1074: בֹּכְרוּ (Bôkᵉrûw) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1069 ; first-born;
+from H1069; first-born;
 
 ===== Meaning =====
 
-Bokeru , an Israelite
+**Bokeru**, an Israelite
 
 ===== Definitions =====
 

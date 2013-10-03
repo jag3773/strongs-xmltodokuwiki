@@ -1,12 +1,16 @@
 ====== H3339: יִצְרִי (Yitsrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H3335 ;  ;
+from H3335; **formative**;
 
 ===== Meaning =====
 
-formative Jitsri , an Israelite
+**Jitsri**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H4295: מַטָּה (maṭṭâh) ======
 
+===== Part of Speech =====
+
+adv
+
 ===== Source =====
 
-from  H5786  with directive enclitic appended;
+from H5786 with directive enclitic appended;
 
 ===== Meaning =====
 
-downward ,  below  or  beneath ; often adverbially with or without prefixes
+**downward**, **below** or **beneath**; often adverbially with or without prefixes
 
 ===== Definitions =====
 

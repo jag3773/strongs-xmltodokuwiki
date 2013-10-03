@@ -1,12 +1,16 @@
 ====== H5499: סְחָבָה (çᵉchâbâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H5498 ;
+from H5498;
 
 ===== Meaning =====
 
-a  rag
+a **rag**
 
 ===== Definitions =====
 

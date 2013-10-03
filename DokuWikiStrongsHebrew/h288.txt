@@ -1,12 +1,16 @@
 ====== H288: אֲחִימֶלֶךְ (ʼĂchîymelek) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H251  and  H4428 ; brother of (the) king;
+from H251 and H4428; brother of (the) king;
 
 ===== Meaning =====
 
-Achimelek , the name of an Israelite and of a Hittite
+**Achimelek**, the name of an Israelite and of a Hittite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7195: קֶשֶׁר (qesher) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7194 ;
+from H7194;
 
 ===== Meaning =====
 
-an (unlawful)  alliance
+an (unlawful) **alliance**
 
 ===== Definitions =====
 

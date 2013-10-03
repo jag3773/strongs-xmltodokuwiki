@@ -1,12 +1,16 @@
 ====== H483: אִלֵּם (ʼillêm) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H481 ;
+from H481;
 
 ===== Meaning =====
 
-speechless
+**speechless**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H1998: הֶמְיָה (hemyâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H1993 ;
+from H1993;
 
 ===== Meaning =====
 
-sound
+**sound**
 
 ===== Definitions =====
 

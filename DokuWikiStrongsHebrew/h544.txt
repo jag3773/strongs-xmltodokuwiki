@@ -1,12 +1,16 @@
 ====== H544: אֹמֶן (ʼômen) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H539 ;
+from H539;
 
 ===== Meaning =====
 
-verity
+**verity**
 
 ===== Definitions =====
 

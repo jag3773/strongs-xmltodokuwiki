@@ -1,12 +1,16 @@
 ====== H8345: שִׁשִּׁי (shishshîy) ======
 
+===== Part of Speech =====
+
+n
+
 ===== Source =====
 
-from  H8337 ;
+from H8337;
 
 ===== Meaning =====
 
-sixth , ordinal or (feminine) fractional
+**sixth**, ordinal or (feminine) fractional
 
 ===== Definitions =====
 

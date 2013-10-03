@@ -1,12 +1,16 @@
 ====== H62: אָבֵל בֵּית־מֲעַכָה (ʼÂbêl Bêyth-Măʻakâh) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H58  and  H1004  and  H4601 ; meadow of Beth-Maakah;
+from H58 and H1004 and H4601; meadow of Beth-Maakah;
 
 ===== Meaning =====
 
-Abel of Beth-maakah , a place in Palestine
+**Abel of Beth-maakah**, a place in Palestine
 
 ===== Definitions =====
 

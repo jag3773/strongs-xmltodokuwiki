@@ -1,12 +1,16 @@
 ====== H4862: מִשְׁאָלָה (mishʼâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7592 ;
+from H7592;
 
 ===== Meaning =====
 
-a  request
+a **request**
 
 ===== Definitions =====
 

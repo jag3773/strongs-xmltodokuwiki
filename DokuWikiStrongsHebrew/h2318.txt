@@ -1,12 +1,16 @@
 ====== H2318: חָדַשׁ (châdash) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
 a primitive root;
 
 ===== Meaning =====
 
-to  be new ; causatively, to  rebuild
+to **be new**; causatively, to **rebuild**
 
 ===== Definitions =====
 

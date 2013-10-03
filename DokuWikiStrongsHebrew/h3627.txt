@@ -1,12 +1,16 @@
 ====== H3627: כְּלִי (kᵉlîy) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3615 ;
+from H3615;
 
 ===== Meaning =====
 
-something  prepared , i.e. any  apparatus  (as an implement, utensil, dress, vessel or weapon)
+something **prepared**, i.e. any **apparatus** (as an implement, utensil, dress, vessel or weapon)
 
 ===== Definitions =====
 

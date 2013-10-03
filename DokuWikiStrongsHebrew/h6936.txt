@@ -1,12 +1,16 @@
 ====== H6936: קׇדְקֹד (qodqôd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6915 ;
+from H6915;
 
 ===== Meaning =====
 
-the  crown  of the head (as the part most  bowed )
+the **crown** of the head (as the part most **bowed**)
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H2611: חָנֵף (chânêph) ======
 
+===== Part of Speech =====
+
+a
+
 ===== Source =====
 
-from  H2610 ;
+from H2610;
 
 ===== Meaning =====
 
-soiled  (i.e. with sin),  impious
+**soiled** (i.e. with sin), **impious**
 
 ===== Definitions =====
 

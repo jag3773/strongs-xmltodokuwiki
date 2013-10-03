@@ -1,12 +1,16 @@
 ====== H1562: גִּלֲלַי (Gilălay) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H1561 ; dungy;
+from H1561; dungy;
 
 ===== Meaning =====
 
-Gilalai , an Israelite
+**Gilalai**, an Israelite
 
 ===== Definitions =====
 

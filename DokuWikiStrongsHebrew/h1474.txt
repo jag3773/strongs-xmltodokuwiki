@@ -1,12 +1,16 @@
 ====== H1474: גּוֹלָן (Gôwlân) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H1473 ;  ;
+from H1473; **captive**;
 
 ===== Meaning =====
 
-captive Golan , a place east of the Jordan
+**Golan**, a place east of the Jordan
 
 ===== Definitions =====
 

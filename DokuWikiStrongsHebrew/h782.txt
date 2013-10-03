@@ -1,12 +1,16 @@
 ====== H782: אֲרֶשֶׁת (ʼăresheth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H781  (in the sense of desiring to possess);
+from H781 (in the sense of desiring to possess);
 
 ===== Meaning =====
 
-a  longing for
+a **longing for**
 
 ===== Definitions =====
 

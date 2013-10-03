@@ -1,12 +1,16 @@
 ====== H1887: הֵא (hêʼ) ======
 
+===== Part of Speech =====
+
+inj
+
 ===== Source =====
 
 a primitive particle;
 
 ===== Meaning =====
 
-lo!
+**lo!**
 
 ===== Definitions =====
 

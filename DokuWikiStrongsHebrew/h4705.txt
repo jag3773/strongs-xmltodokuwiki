@@ -1,12 +1,16 @@
 ====== H4705: מִצְעָר (mitsʻâr) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H6819 ;
+from H6819;
 
 ===== Meaning =====
 
-petty  (in size or number); adverbially, a  short  (time)
+**petty** (in size or number); adverbially, a **short** (time)
 
 ===== Definitions =====
 

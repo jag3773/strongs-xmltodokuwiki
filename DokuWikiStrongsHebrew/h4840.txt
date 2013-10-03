@@ -1,12 +1,16 @@
 ====== H4840: מֶרְקָח (merqâch) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H7543 ;
+from H7543;
 
 ===== Meaning =====
 
-a  spicy herb
+a **spicy herb**
 
 ===== Definitions =====
 

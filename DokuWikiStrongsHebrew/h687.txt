@@ -1,12 +1,16 @@
 ====== H687: אֶצֶר (ʼEtser) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H686 ;  ;
+from H686; **treasure**;
 
 ===== Meaning =====
 
-treasure Etser , an Idumaean
+**Etser**, an Idumaean
 
 ===== Definitions =====
 

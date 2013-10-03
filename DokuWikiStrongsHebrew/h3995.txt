@@ -1,12 +1,16 @@
 ====== H3995: מִבְדָּלָה (mibdâlâh) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H914 ;
+from H914;
 
 ===== Meaning =====
 
-a  separation , i.e. (concretely) a  separate place
+a **separation**, i.e. (concretely) a **separate place**
 
 ===== Definitions =====
 

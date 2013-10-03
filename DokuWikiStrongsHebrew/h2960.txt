@@ -1,12 +1,16 @@
 ====== H2960: טֹרַח (ṭôrach) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H2959 ;
+from H2959;
 
 ===== Meaning =====
 
-a  burden
+a **burden**
 
 ===== Definitions =====
 

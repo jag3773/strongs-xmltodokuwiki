@@ -1,12 +1,16 @@
 ====== H2139: זַכּוּר (Zakkûwr) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H2142 ;  ;
+from H2142; **mindful**;
 
 ===== Meaning =====
 
-mindful Zakkur , the name of seven Israelites
+**Zakkur**, the name of seven Israelites
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H6018: עׇמְרִי (ʻOmrîy) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H6014 ;  ;
+from H6014; **heaping**;
 
 ===== Meaning =====
 
-heaping Omri , an Israelite
+**Omri**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H5827: עֶזֶר (ʻEzer) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H5826 ;  ;
+from H5826; **help**;
 
 ===== Meaning =====
 
-help Ezer , the name of two Israelites
+**Ezer**, the name of two Israelites
 
 ===== Definitions =====
 

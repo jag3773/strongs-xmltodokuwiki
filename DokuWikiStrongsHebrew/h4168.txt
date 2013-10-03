@@ -1,12 +1,16 @@
 ====== H4168: מוֹקֵד (môwqêd) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3344 ;
+from H3344;
 
 ===== Meaning =====
 
-a  fire  or  fuel ; abstractly, a  conflagration
+a **fire** or **fuel**; abstractly, a **conflagration**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7674: שֶׁבֶת (shebeth) ======
 
+===== Part of Speech =====
+
+n-f
+
 ===== Source =====
 
-from  H7673 ;
+from H7673;
 
 ===== Meaning =====
 
-rest ,  interruption ,  cessation
+**rest**, **interruption**, **cessation**
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7890: שַׁיִן (shayin) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from an unused root meaning to  ;
+from an unused root meaning to **urinate**;
 
 ===== Meaning =====
 
-urinate urine
+**urine**
 
 ===== Definitions =====
 

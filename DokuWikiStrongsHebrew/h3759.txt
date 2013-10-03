@@ -1,12 +1,16 @@
 ====== H3759: כַּרְמֶל (karmel) ======
 
+===== Part of Speech =====
+
+n-m
+
 ===== Source =====
 
-from  H3754 ;
+from H3754;
 
 ===== Meaning =====
 
-a planted  field  (garden, orchard, vineyard or park); by implication, garden  produce
+a planted **field** (garden, orchard, vineyard or park); by implication, garden **produce**
 
 ===== Definitions =====
 

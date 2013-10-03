@@ -1,12 +1,16 @@
 ====== H5281: נׇעֳמִי (Noʻŏmîy) ======
 
+===== Part of Speech =====
+
+n-pr-f
+
 ===== Source =====
 
-from  H5278 ;  ;
+from H5278; **pleasant**;
 
 ===== Meaning =====
 
-pleasant Noömi , an Israelitess
+**Noömi**, an Israelitess
 
 ===== Definitions =====
 

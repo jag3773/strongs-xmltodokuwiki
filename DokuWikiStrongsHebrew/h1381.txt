@@ -1,12 +1,16 @@
 ====== H1381: גְּבָל (Gᵉbâl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-the same as  H1380 ;
+the same as H1380;
 
 ===== Meaning =====
 
-Gebal , a region in Idumaea
+**Gebal**, a region in Idumaea
 
 ===== Definitions =====
 

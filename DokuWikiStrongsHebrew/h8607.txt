@@ -1,12 +1,16 @@
 ====== H8607: תִּפְסַח (Tiphçach) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H6452 ;  ;
+from H6452; **ford**;
 
 ===== Meaning =====
 
-ford Tiphsach , a place in Mesopotamia
+**Tiphsach**, a place in Mesopotamia
 
 ===== Definitions =====
 

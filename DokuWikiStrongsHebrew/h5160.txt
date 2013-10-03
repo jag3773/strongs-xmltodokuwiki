@@ -1,12 +1,16 @@
 ====== H5160: נַחֲלִיאֵל (Nachălîyʼêl) ======
 
+===== Part of Speech =====
+
+n-pr-loc
+
 ===== Source =====
 
-from  H5158  and  H410 ;  ;
+from H5158 and H410; **valley of God**;
 
 ===== Meaning =====
 
-valley of God Nachaliël , a place in the Desert
+**Nachaliël**, a place in the Desert
 
 ===== Definitions =====
 

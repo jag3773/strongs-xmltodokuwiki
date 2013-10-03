@@ -1,12 +1,16 @@
 ====== H496: אֶלְעָד (ʼElʻâd) ======
 
+===== Part of Speech =====
+
+n-pr-m
+
 ===== Source =====
 
-from  H410  and  H5749 ; God has testified;
+from H410 and H5749; God has testified;
 
 ===== Meaning =====
 
-Elad , an Israelite
+**Elad**, an Israelite
 
 ===== Definitions =====
 

@@ -1,12 +1,16 @@
 ====== H7252: רֶבַע (rebaʻ) ======
 
+===== Part of Speech =====
+
+v
+
 ===== Source =====
 
-from  H7250 ;
+from H7250;
 
 ===== Meaning =====
 
-prostration  (for sleep)
+**prostration** (for sleep)
 
 ===== Definitions =====
 
