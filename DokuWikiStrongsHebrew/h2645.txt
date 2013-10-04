@@ -6,7 +6,7 @@ verb
 
 ===== Source =====
 
-a primitive root (compare [[en:strongs:h2644|H2644]], [[en:strongs:h2653|H2653]]);
+a primitive root (compare [[en:lexicon:h2644|H2644]], [[en:lexicon:h2653|H2653]]);
 
 ===== Meaning =====
 

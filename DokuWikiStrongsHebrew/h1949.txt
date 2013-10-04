@@ -6,7 +6,7 @@ verb
 
 ===== Source =====
 
-a primitive root (compare [[en:strongs:h2000|H2000]]);
+a primitive root (compare [[en:lexicon:h2000|H2000]]);
 
 ===== Meaning =====
 

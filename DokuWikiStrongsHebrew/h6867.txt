@@ -6,7 +6,7 @@ adjectivenoun - feminine
 
 ===== Source =====
 
-from [[en:strongs:h6866|H6866]];
+from [[en:lexicon:h6866|H6866]];
 
 ===== Meaning =====
 

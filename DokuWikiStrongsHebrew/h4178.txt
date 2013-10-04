@@ -6,7 +6,7 @@ verb
 
 ===== Source =====
 
-from [[en:strongs:h3399|H3399]];
+from [[en:lexicon:h3399|H3399]];
 
 ===== Meaning =====
 

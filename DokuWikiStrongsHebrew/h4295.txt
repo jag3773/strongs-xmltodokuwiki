@@ -6,7 +6,7 @@ adverb
 
 ===== Source =====
 
-from [[en:strongs:h5786|H5786]] with directive enclitic appended;
+from [[en:lexicon:h5786|H5786]] with directive enclitic appended;
 
 ===== Meaning =====
 

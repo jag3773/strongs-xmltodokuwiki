@@ -6,7 +6,7 @@ adverb
 
 ===== Source =====
 
-from [[en:strongs:h2580|H2580]];
+from [[en:lexicon:h2580|H2580]];
 
 ===== Meaning =====
 

@@ -6,7 +6,7 @@ preposition
 
 ===== Source =====
 
-from [[en:strongs:h5046|H5046]];
+from [[en:lexicon:h5046|H5046]];
 
 ===== Meaning =====
 

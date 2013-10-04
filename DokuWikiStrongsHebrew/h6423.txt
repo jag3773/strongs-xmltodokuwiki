@@ -6,7 +6,7 @@ pronoun
 
 ===== Source =====
 
-from [[en:strongs:h6395|H6395]];
+from [[en:lexicon:h6395|H6395]];
 
 ===== Meaning =====
 

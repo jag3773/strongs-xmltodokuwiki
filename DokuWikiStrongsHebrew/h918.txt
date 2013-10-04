@@ -6,7 +6,7 @@ verb
 
 ===== Source =====
 
-a primitive root; to **gap** open; used only as a denominative from [[en:strongs:h919|H919]];
+a primitive root; to **gap** open; used only as a denominative from [[en:lexicon:h919|H919]];
 
 ===== Meaning =====
 
