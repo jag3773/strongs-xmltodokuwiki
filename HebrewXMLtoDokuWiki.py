@@ -52,6 +52,76 @@ entryFooter = u'''
 
 {0}
 '''
+# Part of speech translation table
+postrans = { u'a': { u'name': u'adjective',
+                    u'm': { u'name': u'masculine', },
+                    u'f': { u'name': u'feminine', },
+                    u'a': { u'name': u'adjective', },
+                    u'c': { u'name': u'cardinal number', },
+                    u'g': { u'name': u'gentilic', },
+                    u'gent': { u'name': u'gentilic', },
+                    u'o': { u'name': u'ordinal number', },
+                   },
+             u'adj': { u'name': u'adjective',
+                     },
+             u'conj': { u'name': u'conjunction',
+                      },
+             u'inj': { u'name': u'injunction',
+                     },
+             u'dp': { u'name': u'demonstrative particle',
+                     },
+             u'd': { u'name': u'demonstrative particle',
+                     },
+             u'np': { u'name': u'negative particle',
+                     },
+             u'adv': { u'name': u'adverb',
+                     },
+             u'i': { u'name': u'interrogative particle',
+                     },
+             u'x': { u'name': u'x',
+                     },
+             u'n': { u'name': u'noun',
+                     u'c': { u'name': u'common', },
+                     u'm': { u'name': u'masculine',
+                             u'loc':  { u'name': u'locative', },
+                          },
+                     u'f': { u'name': u'feminine', },
+                     u'g': { u'name': u'gentilic', },
+                     u'pr': { u'name': u'proper noun',
+                            u'm': { u'name': u'masculine', },
+                            u'f': { u'name': u'feminine', },
+                            u'loc': { u'name': u'locative', },
+                           }
+                   },
+             u'p': { u'name': u'pronoun',
+                   },
+             u'pron': { u'name': u'pronoun',
+                   },
+             u'prep': { u'name': u'preposition',
+                      },
+             u'prt': { u'name': u'particle',
+                      },
+             u'r': { u'name': u'relative pronoun',
+                   },
+             u'v': { u'name': u'verb',
+                   },
+}
+
+
+def getParsing(pos):
+  parsing = []
+  parts = pos.split('-')
+  for i in parts:
+    if len(parsing) == 0:
+      parsing.append(postrans[parts[0]]['name'])
+    elif len(parsing) == 1:
+      if len(parts) == 2:
+        parsing.append(postrans[parts[0]][i]['name'])
+      elif len(parts) == 3:
+        parsing.append(postrans[parts[0]][i]['name'])
+    elif len(parsing) == 2:
+      parsing.append(postrans[parts[0]][parts[1]][i]['name'])
+  return u' - '.join(parsing)
 
 
 if __name__ == '__main__':
@@ -59,6 +129,7 @@ if __name__ == '__main__':
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
+    parsing = u''
     source = []
     meaning = []
     entryid = entryxml.getAttribute('id')
@@ -71,6 +142,8 @@ if __name__ == '__main__':
         token = x.firstChild.data
         xlit = x.getAttribute('xlit')
         pos = x.getAttribute('pos')
+        for item in pos.split(' '):
+          parsing += getParsing(item)
     # Get source
     for x in entryxml.getElementsByTagName('source'):
       for i in x.childNodes:
@@ -95,7 +168,7 @@ if __name__ == '__main__':
           meaning.append(u'**{0}**'.format(i.firstChild.data))
         else:
           meaning.append(i.data)
-    f.write(entryHead.format(entryid, token, xlit, pos, u''.join(source),
+    f.write(entryHead.format(entryid, token, xlit, parsing, u''.join(source),
                                                           u''.join(meaning)))
 
     # Get definitions
