@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-pr-f
+noun - proper noun - feminine
 
 ===== Source =====
 

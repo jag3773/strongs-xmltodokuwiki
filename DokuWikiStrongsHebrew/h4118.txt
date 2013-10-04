@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-a adv
+adjectiveadverb
 
 ===== Source =====
 

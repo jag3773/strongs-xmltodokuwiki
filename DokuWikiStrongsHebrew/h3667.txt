@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-pr-m n-pr-loc n-m
+noun - proper noun - masculinenoun - proper noun - locativenoun - masculine
 
 ===== Source =====
 

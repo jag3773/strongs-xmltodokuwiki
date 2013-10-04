@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-pr-m
+noun - proper noun - masculine
 
 ===== Source =====
 

@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n a
+nounadjective
 
 ===== Source =====
 

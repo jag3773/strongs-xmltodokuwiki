@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-m-loc
+noun - masculine - locative
 
 ===== Source =====
 

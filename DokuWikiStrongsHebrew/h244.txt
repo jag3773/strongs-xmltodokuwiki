@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-pr-m a-gent
+noun - proper noun - masculineadjective - gentilic
 
 ===== Source =====
 

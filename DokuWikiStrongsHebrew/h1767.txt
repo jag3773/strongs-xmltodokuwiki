@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-prep
+preposition
 
 ===== Source =====
 

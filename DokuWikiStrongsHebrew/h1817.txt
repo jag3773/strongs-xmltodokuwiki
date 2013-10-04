@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-m n-f
+noun - masculinenoun - feminine
 
 ===== Source =====
 

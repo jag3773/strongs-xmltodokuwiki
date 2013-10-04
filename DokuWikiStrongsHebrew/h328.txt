@@ -2,7 +2,7 @@
 
 ===== Part of Speech =====
 
-n-m adv
+noun - masculineadverb
 
 ===== Source =====
 
