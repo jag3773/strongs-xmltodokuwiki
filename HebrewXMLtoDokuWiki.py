@@ -125,6 +125,8 @@ def getParsing(pos):
 
 
 if __name__ == '__main__':
+  if not os.path.exists(DokuWikiDir):
+    os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
