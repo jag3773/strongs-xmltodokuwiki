@@ -27,7 +27,7 @@ import codecs
 from xml.dom import minidom
 
 
-HebrewStrongFile = '../HebrewLexicon/HebrewStrong.xml'
+StrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
 entryHead = u'''====== {0}: {1} ({2}) ======
 
@@ -125,7 +125,7 @@ def getParsing(pos):
 
 
 if __name__ == '__main__':
-  dictxml = minidom.parse(HebrewStrongFile)
+  dictxml = minidom.parse(StrongFile)
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
