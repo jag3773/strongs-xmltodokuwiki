@@ -21,4 +21,3 @@ Strongs Hebrew
 Strongs Greek
 ----------
 
-* Write conversion script
