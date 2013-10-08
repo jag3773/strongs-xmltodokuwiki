@@ -110,7 +110,7 @@ if __name__ == '__main__':
 
     # Get strongs references
     for x in entryxml.getElementsByTagName(u'see'):
-      strongsrefs.append(getStrongsref(x))
+      strongsrefs.append(u'  - {0}'.format(getStrongsref(x)))
     # Write file
     f = codecs.open('{0}/{1}'.format(DokuWikiDir, filename), 'w',
                                                              encoding='utf-8')
