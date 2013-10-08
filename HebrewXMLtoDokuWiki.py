@@ -29,7 +29,7 @@ from xml.dom import minidom
 
 StrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
-IndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
+IndexFile = '{0}/hebrew-numbers.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
 entryHead = u'''====== {0}: {1} ({2}) ======
 

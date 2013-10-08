@@ -29,7 +29,7 @@ from xml.dom import minidom
 
 StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
-IndexFile = '{0}/greek.txt'.format(DokuWikiDir)
+IndexFile = '{0}/greek-numbers.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
 entryHead = u'''====== {0}: {1} ({2}) ======
 
