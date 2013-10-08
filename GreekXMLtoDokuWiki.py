@@ -29,6 +29,8 @@ from xml.dom import minidom
 
 StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
+IndexFile = '{0}/greek.txt'.format(DokuWikiDir)
+reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
 entryHead = u'''====== {0}: {1} ({2}) ======
 
 ===== Source =====
@@ -69,6 +71,7 @@ if __name__ == '__main__':
   if not os.path.exists(DokuWikiDir):
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
+  index = codecs.open(IndexFile, 'w', encoding='utf-8')
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -117,3 +120,5 @@ if __name__ == '__main__':
     f.write(entryHead.format(entryid, token, xlit, u''.join(source),
                            u''.join(meaning), usage, u'\n'.join(strongsrefs)))
     f.close()
+    index.write(reflink.format(entryid.lower(), entryid))
+  index.close()

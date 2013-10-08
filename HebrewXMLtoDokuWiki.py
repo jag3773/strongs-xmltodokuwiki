@@ -29,6 +29,8 @@ from xml.dom import minidom
 
 StrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
+IndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
+reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
 entryHead = u'''====== {0}: {1} ({2}) ======
 
 ===== Part of Speech =====
@@ -130,6 +132,7 @@ if __name__ == '__main__':
   if not os.path.exists(DokuWikiDir):
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
+  index = codecs.open(IndexFile, 'w', encoding='utf-8')
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -184,3 +187,5 @@ if __name__ == '__main__':
       f.write(entryFooter.format(x.firstChild.data))
 
     f.close()
+    index.write(reflink.format(entryid.lower(), entryid))
+  index.close()
