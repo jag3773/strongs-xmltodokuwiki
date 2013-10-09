@@ -30,7 +30,13 @@ from xml.dom import minidom
 StrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
 IndexFile = '{0}/hebrew-numbers.txt'.format(DokuWikiDir)
+xlitIndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
+xlitHeader = u'''
+
+===== {0} =====
+
+'''
 entryHead = u'''====== {0}: {1} ({2}) ======
 
 ===== Part of Speech =====
@@ -133,6 +139,8 @@ if __name__ == '__main__':
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
   index = codecs.open(IndexFile, 'w', encoding='utf-8')
+  xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
+  xlitheaders = []
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -187,5 +195,10 @@ if __name__ == '__main__':
       f.write(entryFooter.format(x.firstChild.data))
 
     f.close()
+    # Write indexes
+    if xlit[0] not in xlitheaders:
+      xlitheaders.append(xlit[0])
+      xlitindex.write(xlitHeader.format(xlit[0]))
+    xlitindex.write(reflink.format(entryid.lower(), xlit))
     index.write(reflink.format(entryid.lower(), entryid))
   index.close()
