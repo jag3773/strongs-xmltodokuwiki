@@ -30,7 +30,13 @@ from xml.dom import minidom
 StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
 IndexFile = '{0}/greek-numbers.txt'.format(DokuWikiDir)
+xlitIndexFile = '{0}/greek.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
+xlitHeader = u'''
+
+===== {0} =====
+
+'''
 entryHead = u'''====== {0}: {1} ({2}) ======
 
 ===== Source =====
@@ -72,6 +78,8 @@ if __name__ == '__main__':
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
   index = codecs.open(IndexFile, 'w', encoding='utf-8')
+  xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
+  xlitheaders = []
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -120,5 +128,12 @@ if __name__ == '__main__':
     f.write(entryHead.format(entryid, token, xlit, u''.join(source),
                            u''.join(meaning), usage, u'\n'.join(strongsrefs)))
     f.close()
+    # Write indexes
     index.write(reflink.format(entryid.lower(), entryid))
+    if xlit == u'':
+      continue
+    if xlit[0] not in xlitheaders:
+      xlitheaders.append(xlit[0])
+      xlitindex.write(xlitHeader.format(xlit[0]))
+    xlitindex.write(reflink.format(entryid.lower(), xlit))
   index.close()
