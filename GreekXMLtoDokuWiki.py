@@ -29,9 +29,18 @@ from xml.dom import minidom
 
 StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
-IndexFile = '{0}/greek-numbers.txt'.format(DokuWikiDir)
 xlitIndexFile = '{0}/greek.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
+IndexHeader = u'''[[en:lexicon:greek-numbers-1.txt|1-1000]] - 
+[[en:lexicon:greek-numbers-1001.txt|1001-2000]] - 
+[[en:lexicon:greek-numbers-2001.txt|2001-3000]] - 
+[[en:lexicon:greek-numbers-3001.txt|3001-4000]] - 
+[[en:lexicon:greek-numbers-4001.txt|4001-5000]] - 
+[[en:lexicon:greek-numbers-5001.txt|5001-5624]]
+
+===== Strongs Greek Index: {0} - {1} =====
+
+'''
 xlitHeader = u'''
 
 ===== {0} =====
@@ -72,14 +81,21 @@ def getGreek(i):
   '''
   return (i.getAttribute(u'unicode'), i.getAttribute(u'translit'))
 
+def splitlist(l, n):
+  '''
+  A generator that returns items in a list chunked by n.
+  '''
+  for i in xrange(0, len(l), n):
+    yield (i+1, n, l[i:i+n])
+
 
 if __name__ == '__main__':
   if not os.path.exists(DokuWikiDir):
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
-  index = codecs.open(IndexFile, 'w', encoding='utf-8')
   xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
   xlitheaders = []
+  indexlist = []
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -129,11 +145,19 @@ if __name__ == '__main__':
                            u''.join(meaning), usage, u'\n'.join(strongsrefs)))
     f.close()
     # Write indexes
-    index.write(reflink.format(entryid.lower(), entryid))
+    indexlist.append(reflink.format(entryid.lower(), entryid))
     if xlit == u'':
       continue
-    if xlit[0] not in xlitheaders:
-      xlitheaders.append(xlit[0])
-      xlitindex.write(xlitHeader.format(xlit[0]))
+    if xlit[0].lower() not in xlitheaders:
+      xlitheaders.append(xlit[0].lower())
+      xlitindex.write(xlitHeader.format(xlit[0].lower()))
     xlitindex.write(reflink.format(entryid.lower(), xlit))
-  index.close()
+
+  # Write numerical index files
+  for x in splitlist(indexlist, 1000):
+    IndexFile = '{0}/greek-numbers-{1}.txt'.format(DokuWikiDir, x[0])
+    index = codecs.open(IndexFile, 'w', encoding='utf-8')
+    index.write(IndexHeader.format(x[0], x[1]))
+    for i in x[2]:
+      index.write(i)
+    index.close()
