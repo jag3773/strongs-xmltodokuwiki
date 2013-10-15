@@ -32,6 +32,19 @@ DokuWikiDir = 'DokuWikiStrongsHebrew'
 IndexFile = '{0}/hebrew-numbers.txt'.format(DokuWikiDir)
 xlitIndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
+IndexHeader = u'''[[en:lexicon:hebrew-numbers-1.txt|1-1000]] - 
+[[en:lexicon:hebrew-numbers-1001.txt|1001-2000]] - 
+[[en:lexicon:hebrew-numbers-2001.txt|2001-3000]] - 
+[[en:lexicon:hebrew-numbers-3001.txt|3001-4000]] - 
+[[en:lexicon:hebrew-numbers-4001.txt|4001-5000]] - 
+[[en:lexicon:hebrew-numbers-5001.txt|5001-6000]] -
+[[en:lexicon:hebrew-numbers-6001.txt|6001-7000]] -
+[[en:lexicon:hebrew-numbers-7001.txt|7001-8000]] -
+[[en:lexicon:hebrew-numbers-8001.txt|8001-8674]]
+
+===== Strongs Greek Index: {0} - {1} =====
+
+'''
 xlitHeader = u'''
 
 ===== {0} =====
@@ -133,14 +146,21 @@ def getParsing(pos):
       parsing.append(postrans[parts[0]][parts[1]][i]['name'])
   return u' - '.join(parsing)
 
+def splitlist(l, n):
+  '''
+  A generator that returns items in a list chunked by n.
+  '''
+  for i in xrange(0, len(l), n):
+    yield (i+1, n, l[i:i+n])
+
 
 if __name__ == '__main__':
   if not os.path.exists(DokuWikiDir):
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
-  index = codecs.open(IndexFile, 'w', encoding='utf-8')
   xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
   xlitheaders = []
+  indexlist = []
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -196,9 +216,17 @@ if __name__ == '__main__':
 
     f.close()
     # Write indexes
+    indexlist.append(reflink.format(entryid.lower(), entryid))
     if xlit[0] not in xlitheaders:
       xlitheaders.append(xlit[0])
       xlitindex.write(xlitHeader.format(xlit[0]))
     xlitindex.write(reflink.format(entryid.lower(), xlit))
-    index.write(reflink.format(entryid.lower(), entryid))
-  index.close()
+
+  # Write numerical index files
+  for x in splitlist(indexlist, 1000):
+    IndexFile = '{0}/hebrew-numbers-{1}.txt'.format(DokuWikiDir, x[0])
+    index = codecs.open(IndexFile, 'w', encoding='utf-8')
+    index.write(IndexHeader.format(x[0], (x[0] + len(x[2]) - 1)))
+    for i in x[2]:
+      index.write(i)
+    index.close()
