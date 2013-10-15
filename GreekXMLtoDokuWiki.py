@@ -157,7 +157,7 @@ if __name__ == '__main__':
   for x in splitlist(indexlist, 1000):
     IndexFile = '{0}/greek-numbers-{1}.txt'.format(DokuWikiDir, x[0])
     index = codecs.open(IndexFile, 'w', encoding='utf-8')
-    index.write(IndexHeader.format(x[0], x[1]))
+    index.write(IndexHeader.format(x[0], (x[0] + len(x[2]) - 1)))
     for i in x[2]:
       index.write(i)
     index.close()
