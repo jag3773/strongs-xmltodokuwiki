@@ -31,12 +31,14 @@ StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
 xlitIndexFile = '{0}/greek.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
-IndexHeader = u'''[[en:lexicon:greek-numbers-1.txt|1-1000]] - 
-[[en:lexicon:greek-numbers-1001.txt|1001-2000]] - 
-[[en:lexicon:greek-numbers-2001.txt|2001-3000]] - 
-[[en:lexicon:greek-numbers-3001.txt|3001-4000]] - 
-[[en:lexicon:greek-numbers-4001.txt|4001-5000]] - 
-[[en:lexicon:greek-numbers-5001.txt|5001-5624]]
+IndexHeader = u'''== Navigation ==
+[[en:lexicon:greek-numbers-1|1-1000]] - 
+[[en:lexicon:greek-numbers-1001|1001-2000]] - 
+[[en:lexicon:greek-numbers-2001|2001-3000]] - 
+[[en:lexicon:greek-numbers-3001|3001-4000]] - 
+[[en:lexicon:greek-numbers-4001|4001-5000]] - 
+[[en:lexicon:greek-numbers-5001|5001-5624]]
+----
 
 ===== Strongs Greek Index: {0} - {1} =====
 

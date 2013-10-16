@@ -1,14 +1,16 @@
-[[en:lexicon:hebrew-numbers-1.txt|1-1000]] - 
-[[en:lexicon:hebrew-numbers-1001.txt|1001-2000]] - 
-[[en:lexicon:hebrew-numbers-2001.txt|2001-3000]] - 
-[[en:lexicon:hebrew-numbers-3001.txt|3001-4000]] - 
-[[en:lexicon:hebrew-numbers-4001.txt|4001-5000]] - 
-[[en:lexicon:hebrew-numbers-5001.txt|5001-6000]] -
-[[en:lexicon:hebrew-numbers-6001.txt|6001-7000]] -
-[[en:lexicon:hebrew-numbers-7001.txt|7001-8000]] -
-[[en:lexicon:hebrew-numbers-8001.txt|8001-8674]]
+== Navigation ==
+[[en:lexicon:hebrew-numbers-1|1-1000]] - 
+[[en:lexicon:hebrew-numbers-1001|1001-2000]] - 
+[[en:lexicon:hebrew-numbers-2001|2001-3000]] - 
+[[en:lexicon:hebrew-numbers-3001|3001-4000]] - 
+[[en:lexicon:hebrew-numbers-4001|4001-5000]] - 
+[[en:lexicon:hebrew-numbers-5001|5001-6000]] -
+[[en:lexicon:hebrew-numbers-6001|6001-7000]] -
+[[en:lexicon:hebrew-numbers-7001|7001-8000]] -
+[[en:lexicon:hebrew-numbers-8001|8001-8674]]
+----
 
-===== Strongs Greek Index: 7001 - 8000 =====
+===== Strongs Hebrew Index: 7001 - 8000 =====
 
   - [[en:lexicon:h7001|H7001]]
   - [[en:lexicon:h7002|H7002]]
