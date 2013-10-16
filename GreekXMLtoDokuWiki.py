@@ -29,7 +29,6 @@ from xml.dom import minidom
 
 StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
-xlitIndexFile = '{0}/greek.txt'.format(DokuWikiDir)
 reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
 IndexHeader = u'''== Navigation ==
 [[en:lexicon:greek-numbers-1|1-1000]] - 
@@ -43,9 +42,12 @@ IndexHeader = u'''== Navigation ==
 ===== Strongs Greek Index: {0} - {1} =====
 
 '''
-xlitHeader = u'''
+navlink = u'[[en:lexicon:greek-{0}|{1}]]'
+xlitHeader = u'''== Navigation ==
+{0}
+----
 
-===== {0} =====
+===== {1} =====
 
 '''
 entryHead = u'''====== {0}: {1} ({2}) ======
@@ -95,9 +97,8 @@ if __name__ == '__main__':
   if not os.path.exists(DokuWikiDir):
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
-  xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
-  xlitheaders = []
   indexlist = []
+  xlitindexlist = []
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -146,18 +147,27 @@ if __name__ == '__main__':
     f.write(entryHead.format(entryid, token, xlit, u''.join(source),
                            u''.join(meaning), usage, u'\n'.join(strongsrefs)))
     f.close()
-    # Write indexes
     indexlist.append(reflink.format(entryid.lower(), entryid))
-    if xlit == u'':
-      continue
-    if xlit[0].lower() not in xlitheaders:
-      xlitheaders.append(xlit[0].lower())
-      xlitindex.write(xlitHeader.format(xlit[0].lower()))
-    xlitindex.write(reflink.format(entryid.lower(), xlit))
+    xlitindexlist.append((xlit, reflink.format(entryid.lower(), xlit)))
+
+  # Write xlit index files
+  xlitheaders = set(sorted([x[0][0] for x in xlitindexlist if x[0] != u'']))
+  xlitnavigation = u' - '.join([navlink.format(x, x) for x in xlitheaders])
+  for x in xlitheaders:
+    xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir, x)
+    xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
+    xlitindex.write(xlitHeader.format(xlitnavigation, x))
+    xlitindex.close()
+  for x in xlitindexlist:
+    if x[0] == u'': continue
+    xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir, x[0][0])
+    xlitindex = codecs.open(xlitIndexFile, 'a', encoding='utf-8')
+    xlitindex.write(x[1])
+    xlitindex.close()
 
   # Write numerical index files
   for x in splitlist(indexlist, 1000):
-    IndexFile = '{0}/greek-numbers-{1}.txt'.format(DokuWikiDir, x[0])
+    IndexFile = u'{0}/greek-numbers-{1}.txt'.format(DokuWikiDir, x[0])
     index = codecs.open(IndexFile, 'w', encoding='utf-8')
     index.write(IndexHeader.format(x[0], (x[0] + len(x[2]) - 1)))
     for i in x[2]:
