@@ -68,7 +68,60 @@ entryHead = u'''====== {0}: {1} ({2}) ======
 
 {6}
 '''
-
+xlittable = { u'Á': 'A',
+              u'ō': 'O',
+              u'í': 'I',
+              u'ē': 'E',
+              u'Ē': 'E',
+              u'ḗ': 'E',
+              u'Ḗ': 'E',
+              u'î': 'I',
+              u'é': 'E',
+              u'Ō': 'O',
+              u'ó': 'O',
+              u'É': 'E',
+              u'ṓ': 'O',
+              u'â': 'A',
+              u'A': 'A',
+              u'á': 'A',
+              u'C': 'C',
+              u'B': 'B',
+              u'E': 'E',
+              u'D': 'D',
+              u'G': 'G',
+              u'I': 'I',
+              u'H': 'H',
+              u'K': 'K',
+              u'M': 'M',
+              u'L': 'L',
+              u'O': 'O',
+              u'N': 'N',
+              u'P': 'P',
+              u'S': 'S',
+              u'R': 'R',
+              u'T': 'T',
+              u'Z': 'Z',
+              u'a': 'A',
+              u'c': 'C',
+              u'b': 'B',
+              u'e': 'E',
+              u'd': 'D',
+              u'g': 'G',
+              u'i': 'I',
+              u'h': 'H',
+              u'k': 'K',
+              u'm': 'M',
+              u'l': 'L',
+              u'o': 'O',
+              u'n': 'N',
+              u'p': 'P',
+              u's': 'S',
+              u'r': 'R',
+              u't': 'T',
+              u'x': 'X',
+              u'z': 'Z',
+              u'-': 'P'
+              }
 
 def getStrongsref(i):
   '''
@@ -151,7 +204,8 @@ if __name__ == '__main__':
     xlitindexlist.append((xlit, reflink.format(entryid.lower(), xlit)))
 
   # Write xlit index files
-  xlitheaders = set(sorted([x[0][0] for x in xlitindexlist if x[0] != u'']))
+  xlitheaders = set(sorted([xlittable[x[0][0]] for x in xlitindexlist
+                                                             if x[0] != u'']))
   xlitnavigation = u' - '.join([navlink.format(x, x) for x in xlitheaders])
   for x in xlitheaders:
     xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir, x)
@@ -160,7 +214,8 @@ if __name__ == '__main__':
     xlitindex.close()
   for x in xlitindexlist:
     if x[0] == u'': continue
-    xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir, x[0][0])
+    xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir,
+                                                           xlittable[x[0][0]])
     xlitindex = codecs.open(xlitIndexFile, 'a', encoding='utf-8')
     xlitindex.write(x[1])
     xlitindex.close()
