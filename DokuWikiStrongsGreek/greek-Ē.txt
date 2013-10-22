@@ -4,4 +4,4 @@
 
 ===== Ē =====
 
-  - [[en:lexicon:g2269|Ēsaû]]
+  * [[en:lexicon:g2269|Ēsaû]]

@@ -4,11 +4,11 @@
 
 ===== ḗ =====
 
-  - [[en:lexicon:g2228|ḗ]]
-  - [[en:lexicon:g2235|ḗdē]]
-  - [[en:lexicon:g2252|ḗmēn]]
-  - [[en:lexicon:g2260|ḗper]]
-  - [[en:lexicon:g2261|ḗpios]]
-  - [[en:lexicon:g2263|ḗremos]]
-  - [[en:lexicon:g2273|ḗtoi]]
-  - [[en:lexicon:g2277|ḗtō]]
+  * [[en:lexicon:g2228|ḗ]]
+  * [[en:lexicon:g2235|ḗdē]]
+  * [[en:lexicon:g2252|ḗmēn]]
+  * [[en:lexicon:g2260|ḗper]]
+  * [[en:lexicon:g2261|ḗpios]]
+  * [[en:lexicon:g2263|ḗremos]]
+  * [[en:lexicon:g2273|ḗtoi]]
+  * [[en:lexicon:g2277|ḗtō]]

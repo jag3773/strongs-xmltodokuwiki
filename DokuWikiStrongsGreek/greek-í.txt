@@ -4,13 +4,13 @@
 
 ===== í =====
 
-  - [[en:lexicon:g2386|íama]]
-  - [[en:lexicon:g2392|íasis]]
-  - [[en:lexicon:g2393|íaspis]]
-  - [[en:lexicon:g2396|íde]]
-  - [[en:lexicon:g2398|ídios]]
-  - [[en:lexicon:g2467|ísēmi]]
-  - [[en:lexicon:g2468|ísthi]]
-  - [[en:lexicon:g2470|ísos]]
-  - [[en:lexicon:g2481|ísōs]]
-  - [[en:lexicon:g2487|íchnos]]
+  * [[en:lexicon:g2386|íama]]
+  * [[en:lexicon:g2392|íasis]]
+  * [[en:lexicon:g2393|íaspis]]
+  * [[en:lexicon:g2396|íde]]
+  * [[en:lexicon:g2398|ídios]]
+  * [[en:lexicon:g2467|ísēmi]]
+  * [[en:lexicon:g2468|ísthi]]
+  * [[en:lexicon:g2470|ísos]]
+  * [[en:lexicon:g2481|ísōs]]
+  * [[en:lexicon:g2487|íchnos]]

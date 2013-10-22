@@ -4,13 +4,13 @@
 
 ===== x =====
 
-  - [[en:lexicon:g3578|xenía]]
-  - [[en:lexicon:g3579|xenízō]]
-  - [[en:lexicon:g3580|xenodochéō]]
-  - [[en:lexicon:g3581|xénos]]
-  - [[en:lexicon:g3582|xéstēs]]
-  - [[en:lexicon:g3583|xēraínō]]
-  - [[en:lexicon:g3584|xērós]]
-  - [[en:lexicon:g3585|xýlinos]]
-  - [[en:lexicon:g3586|xýlon]]
-  - [[en:lexicon:g3587|xyráō]]
+  * [[en:lexicon:g3578|xenía]]
+  * [[en:lexicon:g3579|xenízō]]
+  * [[en:lexicon:g3580|xenodochéō]]
+  * [[en:lexicon:g3581|xénos]]
+  * [[en:lexicon:g3582|xéstēs]]
+  * [[en:lexicon:g3583|xēraínō]]
+  * [[en:lexicon:g3584|xērós]]
+  * [[en:lexicon:g3585|xýlinos]]
+  * [[en:lexicon:g3586|xýlon]]
+  * [[en:lexicon:g3587|xyráō]]

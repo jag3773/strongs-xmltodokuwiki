@@ -4,5 +4,5 @@
 
 ===== Ō =====
 
-  - [[en:lexicon:g5598|Ō]]
-  - [[en:lexicon:g5601|Ōbḗd]]
+  * [[en:lexicon:g5598|Ō]]
+  * [[en:lexicon:g5601|Ōbḗd]]

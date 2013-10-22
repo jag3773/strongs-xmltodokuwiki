@@ -31,7 +31,7 @@ StrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
 IndexFile = '{0}/hebrew-numbers.txt'.format(DokuWikiDir)
 xlitIndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
-reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
+reflink = u'  * [[en:lexicon:{0}|{1}]]\n'
 IndexHeader = u'''== Navigation ==
 [[en:lexicon:hebrew-numbers-1|1-1000]] - 
 [[en:lexicon:hebrew-numbers-1001|1001-2000]] - 

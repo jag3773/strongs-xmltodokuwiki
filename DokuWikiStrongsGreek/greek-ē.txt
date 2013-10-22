@@ -4,9 +4,9 @@
 
 ===== ē =====
 
-  - [[en:lexicon:g2229|ē]]
-  - [[en:lexicon:g2239|ēthos]]
-  - [[en:lexicon:g2241|ēlí]]
-  - [[en:lexicon:g2258|ēn]]
-  - [[en:lexicon:g2278|ēchéō]]
-  - [[en:lexicon:g2279|ēchos]]
+  * [[en:lexicon:g2229|ē]]
+  * [[en:lexicon:g2239|ēthos]]
+  * [[en:lexicon:g2241|ēlí]]
+  * [[en:lexicon:g2258|ēn]]
+  * [[en:lexicon:g2278|ēchéō]]
+  * [[en:lexicon:g2279|ēchos]]

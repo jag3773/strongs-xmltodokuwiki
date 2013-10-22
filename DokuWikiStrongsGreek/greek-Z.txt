@@ -4,12 +4,12 @@
 
 ===== Z =====
 
-  - [[en:lexicon:g2194|Zaboulṓn]]
-  - [[en:lexicon:g2195|Zakchaîos]]
-  - [[en:lexicon:g2196|Zará]]
-  - [[en:lexicon:g2197|Zacharías]]
-  - [[en:lexicon:g2199|Zebedaîos]]
-  - [[en:lexicon:g2203|Zeús]]
-  - [[en:lexicon:g2208|Zēlōtḗs]]
-  - [[en:lexicon:g2211|Zēnâs]]
-  - [[en:lexicon:g2216|Zorobábel]]
+  * [[en:lexicon:g2194|Zaboulṓn]]
+  * [[en:lexicon:g2195|Zakchaîos]]
+  * [[en:lexicon:g2196|Zará]]
+  * [[en:lexicon:g2197|Zacharías]]
+  * [[en:lexicon:g2199|Zebedaîos]]
+  * [[en:lexicon:g2203|Zeús]]
+  * [[en:lexicon:g2208|Zēlōtḗs]]
+  * [[en:lexicon:g2211|Zēnâs]]
+  * [[en:lexicon:g2216|Zorobábel]]

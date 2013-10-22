@@ -4,5 +4,5 @@
 
 ===== É =====
 
-  - [[en:lexicon:g2037|Érastos]]
-  - [[en:lexicon:g2181|Éphesos]]
+  * [[en:lexicon:g2037|Érastos]]
+  * [[en:lexicon:g2181|Éphesos]]

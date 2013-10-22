@@ -4,5 +4,5 @@
 
 ===== - =====
 
-  - [[en:lexicon:g4452|-pō]]
-  - [[en:lexicon:g4458|-pṓs]]
+  * [[en:lexicon:g4452|-pō]]
+  * [[en:lexicon:g4458|-pṓs]]

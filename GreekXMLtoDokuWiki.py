@@ -29,7 +29,7 @@ from xml.dom import minidom
 
 StrongFile = '../strongs-dictionary-xml/strongsgreek.xml'
 DokuWikiDir = 'DokuWikiStrongsGreek'
-reflink = u'  - [[en:lexicon:{0}|{1}]]\n'
+reflink = u'  * [[en:lexicon:{0}|{1}]]\n'
 IndexHeader = u'''== Navigation ==
 [[en:lexicon:greek-numbers-1|1-1000]] - 
 [[en:lexicon:greek-numbers-1001|1001-2000]] - 

@@ -4,9 +4,9 @@
 
 ===== O =====
 
-  - [[en:lexicon:g3604|Ozías]]
-  - [[en:lexicon:g3652|Olympâs]]
-  - [[en:lexicon:g3682|Onḗsimos]]
-  - [[en:lexicon:g3683|Onēsíphoros]]
-  - [[en:lexicon:g3773|Ourbanós]]
-  - [[en:lexicon:g3774|Ourías]]
+  * [[en:lexicon:g3604|Ozías]]
+  * [[en:lexicon:g3652|Olympâs]]
+  * [[en:lexicon:g3682|Onḗsimos]]
+  * [[en:lexicon:g3683|Onēsíphoros]]
+  * [[en:lexicon:g3773|Ourbanós]]
+  * [[en:lexicon:g3774|Ourías]]

@@ -4,4 +4,4 @@
 
 ===== î =====
 
-  - [[en:lexicon:g2463|îris]]
+  * [[en:lexicon:g2463|îris]]

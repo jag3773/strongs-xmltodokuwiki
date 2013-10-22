@@ -4,5 +4,5 @@
 
 ===== â =====
 
-  - [[en:lexicon:g687|âra]]
-  - [[en:lexicon:g788|âsson]]
+  * [[en:lexicon:g687|âra]]
+  * [[en:lexicon:g788|âsson]]

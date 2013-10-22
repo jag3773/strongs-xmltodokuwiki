@@ -4,13 +4,13 @@
 
 ===== C =====
 
-  - [[en:lexicon:g5466|Chaldaîos]]
-  - [[en:lexicon:g5477|Chanaán]]
-  - [[en:lexicon:g5478|Chanaanaîos]]
-  - [[en:lexicon:g5488|Charrhán]]
-  - [[en:lexicon:g5508|Chíos]]
-  - [[en:lexicon:g5514|Chlóē]]
-  - [[en:lexicon:g5523|Chorazín]]
-  - [[en:lexicon:g5529|Chouzâs]]
-  - [[en:lexicon:g5546|Christianós]]
-  - [[en:lexicon:g5547|Christós]]
+  * [[en:lexicon:g5466|Chaldaîos]]
+  * [[en:lexicon:g5477|Chanaán]]
+  * [[en:lexicon:g5478|Chanaanaîos]]
+  * [[en:lexicon:g5488|Charrhán]]
+  * [[en:lexicon:g5508|Chíos]]
+  * [[en:lexicon:g5514|Chlóē]]
+  * [[en:lexicon:g5523|Chorazín]]
+  * [[en:lexicon:g5529|Chouzâs]]
+  * [[en:lexicon:g5546|Christianós]]
+  * [[en:lexicon:g5547|Christós]]
