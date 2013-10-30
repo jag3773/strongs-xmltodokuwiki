@@ -29,8 +29,6 @@ from xml.dom import minidom
 
 StrongFile = '../HebrewLexicon/HebrewStrong.xml'
 DokuWikiDir = 'DokuWikiStrongsHebrew'
-IndexFile = '{0}/hebrew-numbers.txt'.format(DokuWikiDir)
-xlitIndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
 reflink = u'  * [[en:lexicon:{0}|{1}]]\n'
 navlink = u'[[en:lexicon:hebrew-{0}|{1}]]'
 xlitHeader = u'''**Navigation**
@@ -209,7 +207,6 @@ if __name__ == '__main__':
   if not os.path.exists(DokuWikiDir):
     os.mkdir(DokuWikiDir)
   dictxml = minidom.parse(StrongFile)
-  xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
   xlitheaders = []
   indexlist = []
   xlitindexlist = []
