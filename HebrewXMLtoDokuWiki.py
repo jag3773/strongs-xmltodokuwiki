@@ -32,7 +32,15 @@ DokuWikiDir = 'DokuWikiStrongsHebrew'
 IndexFile = '{0}/hebrew-numbers.txt'.format(DokuWikiDir)
 xlitIndexFile = '{0}/hebrew.txt'.format(DokuWikiDir)
 reflink = u'  * [[en:lexicon:{0}|{1}]]\n'
-IndexHeader = u'''== Navigation ==
+navlink = u'[[en:lexicon:hebrew-{0}|{1}]]'
+xlitHeader = u'''**Navigation**
+{0}
+----
+
+===== {1} =====
+
+'''
+IndexHeader = u'''**Navigation**
 [[en:lexicon:hebrew-numbers-1|1-1000]] - 
 [[en:lexicon:hebrew-numbers-1001|1001-2000]] - 
 [[en:lexicon:hebrew-numbers-2001|2001-3000]] - 
@@ -45,11 +53,6 @@ IndexHeader = u'''== Navigation ==
 ----
 
 ===== Strongs Hebrew Index: {0} - {1} =====
-
-'''
-xlitHeader = u'''
-
-===== {0} =====
 
 '''
 entryHead = u'''====== {0}: {1} ({2}) ======
@@ -131,6 +134,52 @@ postrans = { u'a': { u'name': u'adjective',
              u'v': { u'name': u'verb',
                    },
 }
+xlittable = { u'\u02bb': u'A',
+              u'B': u'B',
+              u'D': u'D',
+              u'\xc7': u'C',
+              u'H': u'H',
+              u'L': u'L',
+              u'N': u'N',
+              u'P': u'P',
+              u'R': u'R',
+              u'T': u'T',
+              u'V': u'V',
+              u'Z': u'Z',
+              u'\u05e1': u'S',
+              u'b': u'B',
+              u'd': u'D',
+              u'\xe7': u'C',
+              u'\u05e9': u'S',
+              u'h': u'H',
+              u'\u1e6c': u'T',
+              u'n': u'N',
+              u'p': u'P',
+              u'r': u'R',
+              u't': u'T',
+              u'v': u'V',
+              u'z': u'Z',
+              u'\u1e6d': u'T',
+              u'l': u'L',
+              u'\u02bc': u'A',
+              u'C': u'C',
+              u'G': u'G',
+              u'K': u'K',
+              u'M': u'M',
+              u'Q': u'Q',
+              u'S': u'S',
+              u'Y': u'Y',
+              u'\u05d8': u'T',
+              u'\u05dc': u'L',
+              u'c': u'C',
+              u'g': u'G',
+              u'\u05e6': u'T',
+              u'k': u'K',
+              u'm': u'M',
+              u'q': u'Q',
+              u's': u'S',
+              u'y': u'Y'
+}
 
 
 def getParsing(pos):
@@ -163,6 +212,7 @@ if __name__ == '__main__':
   xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
   xlitheaders = []
   indexlist = []
+  xlitindexlist = []
   for entryxml in dictxml.getElementsByTagName('entry'):
     token = u''
     xlit = u''
@@ -217,12 +267,25 @@ if __name__ == '__main__':
       f.write(entryFooter.format(x.firstChild.data))
 
     f.close()
-    # Write indexes
     indexlist.append(reflink.format(entryid.lower(), entryid))
-    if xlit[0] not in xlitheaders:
-      xlitheaders.append(xlit[0])
-      xlitindex.write(xlitHeader.format(xlit[0]))
-    xlitindex.write(reflink.format(entryid.lower(), xlit))
+    xlitindexlist.append((xlit, reflink.format(entryid.lower(), xlit)))
+
+  # Write xlit index files
+  xlitheaders = set(sorted([xlittable[x[0][0]] for x in xlitindexlist
+                                                             if x[0] != u'']))
+  xlitnavigation = u' - '.join([navlink.format(x, x) for x in xlitheaders])
+  for x in xlitheaders:
+    xlitIndexFile = u'{0}/hebrew-{1}.txt'.format(DokuWikiDir, x)
+    xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
+    xlitindex.write(xlitHeader.format(xlitnavigation, x))
+    xlitindex.close()
+  for x in xlitindexlist:
+    if x[0] == u'': continue
+    xlitIndexFile = u'{0}/hebrew-{1}.txt'.format(DokuWikiDir,
+                                                           xlittable[x[0][0]])
+    xlitindex = codecs.open(xlitIndexFile, 'a', encoding='utf-8')
+    xlitindex.write(x[1])
+    xlitindex.close()
 
   # Write numerical index files
   for x in splitlist(indexlist, 1000):
