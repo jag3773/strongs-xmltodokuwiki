@@ -206,16 +206,17 @@ if __name__ == '__main__':
   # Write xlit index files
   xlitheaders = set(sorted([xlittable[x[0][0]] for x in xlitindexlist
                                                              if x[0] != u'']))
-  xlitnavigation = u' - '.join([navlink.format(x, x) for x in xlitheaders])
+  xlitnavigation = u' - '.join([navlink.format(x.lower(), x) for x in
+                                                                 xlitheaders])
   for x in xlitheaders:
-    xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir, x)
+    xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir, x.lower())
     xlitindex = codecs.open(xlitIndexFile, 'w', encoding='utf-8')
     xlitindex.write(xlitHeader.format(xlitnavigation, x))
     xlitindex.close()
   for x in xlitindexlist:
     if x[0] == u'': continue
     xlitIndexFile = u'{0}/greek-{1}.txt'.format(DokuWikiDir,
-                                                           xlittable[x[0][0]])
+                                                   xlittable[x[0][0]].lower())
     xlitindex = codecs.open(xlitIndexFile, 'a', encoding='utf-8')
     xlitindex.write(x[1])
     xlitindex.close()
