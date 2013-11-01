@@ -22,10 +22,18 @@ TODO
 Strongs Hebrew
 ----------
 
+* Fix navigation to be sorted alphabetically
+
 * Inline BDB
 
 * Add TWOT references
 
 Strongs Greek
 ----------
+
+* Fix navigation to be sorted alphabetically
+
+* Fix strongs links with leading zeros, cf g10 which links to H031, should
+be H31.
+
 
